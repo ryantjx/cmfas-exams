@@ -102,6 +102,16 @@ export default function PracticePicker({ base, examId: deepLinkExamId }: Practic
     setChapterId(null);
   };
 
+  // Keep ?chapter= in the URL so a chapter set is shareable and survives a reload.
+  // The chapter list (no selection) clears it again.
+  useEffect(() => {
+    if (!examId || mode !== 'chapter') return;
+    const url = new URL(window.location.href);
+    if (chapterId) url.searchParams.set('chapter', chapterId);
+    else url.searchParams.delete('chapter');
+    window.history.replaceState(window.history.state, '', url);
+  }, [examId, mode, chapterId]);
+
   /* ---- error / loading ---- */
   if (error) {
     return (

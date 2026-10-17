@@ -11,7 +11,7 @@ A static study site for the Singapore capital markets exams — **RES 12B**,
 | | |
 | --- | --- |
 | **Study guides** | One page per chapter, split automatically from the repo's `*_AI.md` teaching guides. |
-| **Chapter quiz** | Every question in a chosen chapter, untimed, answers revealed on submit. |
+| **Chapter quiz** | Every question in a chosen chapter, untimed, with the answer and explanation revealed as you answer. |
 | **Daily quiz** | 30 questions drawn at random from the whole bank, re-rolled on every load. |
 | **Mock exam** | The real paper's length, timing and pass mark: strict timer, auto-submit, no feedback until the end, question navigator, flag-for-review, shuffled questions and options, and a score report with a per-chapter breakdown. |
 
@@ -45,6 +45,7 @@ npm install
 npm run dev        # generate + dev server (regenerates content first)
 npm run gen        # parse banks and regenerate the content tree
 npm run test:parser  # assert bank invariants (counts, answer keys, chapters)
+npm run lint:notes   # audit the three teaching guides (advisory; --strict to fail)
 npm run check      # Astro/TypeScript diagnostics
 npm run build      # generate + static build into dist/
 npm run verify     # test:parser + check + build

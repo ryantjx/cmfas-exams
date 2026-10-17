@@ -110,7 +110,10 @@ export default function QuizRunner({
   useEffect(() => {
     if (!bank) return;
 
-    const shuffleAnswers = mode === 'mock';
+    // Shuffle the option order in every mode. Presenting answers at their source
+    // position lets repeat practice train position memory ("it's always B")
+    // instead of the material, so chapter and daily sets shuffle too.
+    const shuffleAnswers = true;
     let chosen: QuizQuestion[];
 
     if (mode === 'chapter') {
@@ -200,10 +203,30 @@ export default function QuizRunner({
       </div>
     );
   }
-  if (!bank || questions.length === 0) {
+  if (!bank) {
     return (
       <div className="quiz-shell" aria-busy="true">
         <p>Loading questions…</p>
+      </div>
+    );
+  }
+
+  // A set can legitimately come back empty — most often a guide chapter with no
+  // questions mapped to its id. Show a clear message instead of a spinner that
+  // would never resolve.
+  if (questions.length === 0) {
+    return (
+      <div className="quiz-shell" ref={topRef}>
+        <div role="alert">
+          <p>
+            <strong>No questions for this set.</strong>
+          </p>
+          <p>
+            {mode === 'chapter'
+              ? 'This chapter has no questions mapped to it. Pick another chapter, or try the daily quiz.'
+              : 'The bank returned no questions. Try the daily quiz or the mock exam.'}
+          </p>
+        </div>
       </div>
     );
   }
@@ -526,32 +549,36 @@ function ReviewScreen({
         </p>
       </section>
 
-      <section className="quiz-breakdown">
-        <h3>By chapter</h3>
-        <table>
-          <thead>
-            <tr>
-              <th scope="col">Chapter</th>
-              <th scope="col">Correct</th>
-              <th scope="col">Of</th>
-              <th scope="col">Score</th>
-            </tr>
-          </thead>
-          <tbody>
-            {breakdown.map((row) => {
-              const rowPercent = row.total ? Math.round((row.correct / row.total) * 100) : 0;
-              return (
-                <tr key={row.chapterId}>
-                  <td>{row.chapterTitle}</td>
-                  <td>{row.correct}</td>
-                  <td>{row.total}</td>
-                  <td className={rowPercent >= 70 ? 'is-good' : 'is-weak'}>{rowPercent}%</td>
-                </tr>
-              );
-            })}
-          </tbody>
-        </table>
-      </section>
+      {/* A one-chapter set has a single breakdown row, which adds nothing — the
+          score above already reports it. Show the table for multi-chapter sets. */}
+      {breakdown.length > 1 && (
+        <section className="quiz-breakdown">
+          <h3>By chapter</h3>
+          <table>
+            <thead>
+              <tr>
+                <th scope="col">Chapter</th>
+                <th scope="col">Correct</th>
+                <th scope="col">Of</th>
+                <th scope="col">Score</th>
+              </tr>
+            </thead>
+            <tbody>
+              {breakdown.map((row) => {
+                const rowPercent = row.total ? Math.round((row.correct / row.total) * 100) : 0;
+                return (
+                  <tr key={row.chapterId}>
+                    <td>{row.chapterTitle}</td>
+                    <td>{row.correct}</td>
+                    <td>{row.total}</td>
+                    <td className={rowPercent >= 70 ? 'is-good' : 'is-weak'}>{rowPercent}%</td>
+                  </tr>
+                );
+              })}
+            </tbody>
+          </table>
+        </section>
+      )}
 
       <section className="quiz-review">
         <h3>Answer review</h3>

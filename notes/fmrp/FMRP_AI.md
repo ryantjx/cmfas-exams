@@ -1,21 +1,15 @@
-# Financial Markets Regulatory Practices (FMRP) - Teaching Guide
+# FMRP — Study Guide
+
+A concise guide to the Financial Markets Regulatory Practices examination: the conduct, control and market-practice expectations for wholesale financial-market activity in Singapore. It condenses the official study guide into what the examination tests, section by section.
+
+- **Exam:** 100 multiple-choice questions, 2 hours, **75% to pass**. (The syllabus stub in this repo prints 70%; the current IBF pass mark is 75%, and the mock grades against it.)
+- **Currency of the rules:** the official guide states its rules as updated at 8 May 2018. Confirm the current MAS, IBF, statutory and market-practice requirements before relying on a point operationally.
 
 ## How to use this guide
 
-This teaching guide is a section-by-section synthesis of the supplied `FMRP Study Guide v3.2` PDF. It is designed to explain the ideas behind the rules, show how the ideas connect across the trade lifecycle, and identify the controls that exam questions commonly test. The source PDF states that its rules and regulations were updated as of 8 May 2018; readers must verify current MAS, IBF, statutory and market-practice requirements before relying on any point operationally.
-
-### Examination-data discrepancy
-
-Two examination descriptions must be kept distinct:
-
-- `FMRP.md` in this workspace states: 100 MCQs, 2 hours and a 70% passing mark.
-- The supplied `FMRP Study Guide v3.2.pdf` states: 100 MCQs, 2 hours and a 75% passing mark.
-
-This package does not silently resolve the discrepancy. Confirm the current IBF requirement and the examination notice before sitting the examination. The source PDF also says that Appendix A review questions are intended to familiarise candidates with scope and format and do not cover all examinable material.
-
-## Core learning sequence
-
-The subject can be understood as a control chain: know the market and authority; act ethically; protect information; govern and measure risk; execute fairly; confirm and settle accurately; manage disruption; and preserve the integrity of benchmarks. A strong answer usually identifies the relevant role, authority, information boundary, control, escalation path and record.
+- Every chapter ends with **Exam cues** — what is tested, the deciding distinction and the common trap.
+- The subject is a control chain: know the market and authority → act ethically → protect information → govern and measure risk → execute fairly → confirm and settle → manage disruption → preserve benchmark integrity. A strong answer names the **role, authority, information boundary, control, escalation path and record**.
+- The guide's Appendix A questions are for familiarisation with scope and format; they do not cover all examinable material.
 
 ## Chapter 1 - Introduction
 
@@ -23,7 +17,7 @@ This chapter establishes the market map: what the markets do, who participates, 
 
 ### 1.1 Introduction to this Guide
 
-The guide explains the conduct, control and market-practice expectations for wholesale financial-market activities in Singapore. It is a study aid, not a substitute for the current legislation, MAS notices, contractual documents or the employer's procedures.
+The FMRP syllabus sets the conduct, control and market-practice expectations for wholesale financial-market activities in Singapore. It is a study aid, not a substitute for the legislation, MAS notices, contractual documents or the employer’s procedures.
 
 ### 1.2 Financial Markets Structure
 
@@ -35,91 +29,21 @@ Financial markets are organised or over-the-counter venues in which participants
 
 ### 1.2.2 Types of Financial Markets
 
-The guide distinguishes equity, debt, foreign-exchange, money-market, derivatives and government-securities activity. The Blue Book focus includes wholesale FX, NDFs, money-market instruments, debt securities, SGS and OTC derivatives, rather than equity-market conduct generally.
+The covered markets are equity, debt, foreign-exchange, money-market, derivatives and government securities. The **Blue Book** focus — the syllabus scope — is wholesale FX, NDFs, money-market instruments, debt securities, SGS and OTC derivatives, rather than equity-market conduct generally.
 
 ### 1.3 Functions of Key Players and Institutions
 
-Different institutions perform different intermediation, risk-pooling, advisory, custody, trust and payment functions. Correctly identifying the role of a counterparty helps a representative apply the right licensing, conduct and settlement controls.
+Each institution performs a different intermediation, risk-pooling, advisory, custody, trust or payment function. Correctly identifying a counterparty’s role determines the licensing, conduct and settlement controls that apply.
 
-### 1.3.1 Banks
+| Institution | Function | Key limit |\n|---|---|---|\n| **Banks** | deposits, payments, credit, market-making, liquidity | subject to banking supervision and any capital-markets licence or exemption |\n| **Inter-Dealer Brokers (IDBs)** | intermediate between participants, relay bids/offers, preserve anonymity, aid price discovery | must not take proprietary positions, misrepresent a quote, disclose a name early or impose their own dealing terms |\n| **Finance companies** | financing without being banks | permissions differ from a bank’s |\n| **Insurance companies** | pool policyholder risk, invest premiums | primary obligations arise from insurance, not banking |\n| **Capital-markets intermediaries** | execute, arrange or advise on securities/derivatives | must operate within the activities for which they are licensed or exempt |\n| **Financial advisers** | advise or arrange advice on investment products | advice must be suitable and free of misleading promotion or undisclosed conflicts |\n| **Insurance brokers** | intermediate between policyholders and insurers | distinct from an insurer and a securities dealer |\n| **Trust companies** | hold or administer property for beneficiaries | require segregation, documentation and attention to authority |\n| **Money-changing and remittance** | currency conversion and cross-border transfer | permissions and AML duties differ from a bank’s or CMS holder’s |\n\n### 1.4 Regulatory Bodies and Regulatory Framework in Singapore\n\nThe framework combines legislation, MAS rules and notices, professional codes, market conventions and internal controls. The applicable obligation depends on the activity, institution, product, customer and location of the conduct.\n\n#### 1.4.1 Central Banks and MAS\n\nMAS is Singapore’s central bank and financial regulator. It supervises monetary and financial stability, regulates relevant institutions and publishes notices, guidelines and directions supplementing primary legislation.\n\n#### 1.4.2 Types of Banking Licences issued by MAS\n\nSingapore banking licences include full-bank and other categories with different permissions and restrictions. Verify the institution’s actual status rather than assume that a bank, merchant bank or foreign bank can undertake every activity.\n\n#### 1.4.3 Registration and Licences for Regulated Activities\n\nA regulated activity may require a licence, registration, exemption or an activity-specific approval. The correct question is whether the **person and institution** are authorised for the particular service and product — not simply whether they are a financial institution.\n\n#### 1.4.4 CMS Licences\n\nA CMS licence authorises specified capital-markets services under the SFA, subject to conditions and conduct requirements. Merchant banks and other institutions should be assessed against the relevant licensing or exemption position for each activity.\n\n### 1.5 Professional Bodies\n\nProfessional bodies supplement formal regulation with shared standards, training and market conventions. Their materials do not displace legislation but help apply consistent wholesale-market practices.\n\n| Body | Role |\n|---|---|\n| **SFEMC** | develops and maintains the Singapore wholesale-market guide, addresses market-practice issues, can coordinate the market during disruption |\n| **Codes of conduct** | integrity, professionalism, fair dealing, confidentiality, execution, settlement and benchmark conduct |\n| **ACI** | professional standards and education for treasury and financial-market professionals |\n| **ABS** | represents banks, publishes industry guidance including rate-setting benchmark materials |\n| **IBF** | competency standards, accreditation and continuing professional development |
 
-Banks take deposits, provide payment and credit services, make markets, trade for customers or their own books, and manage liquidity. Their activities remain subject to banking supervision, market-conduct obligations and any applicable capital-markets licensing or exemption.
+### Exam cues
 
-### 1.3.2 Inter-Dealer Brokers (IDBs)
-
-An IDB intermediates between market participants, relays bids and offers, preserves anonymity where appropriate and assists price discovery. It should not take proprietary positions, misrepresent a quote, disclose a name prematurely or impose its own dealing terms.
-
-### 1.3.3 Finance Companies
-
-Finance companies provide forms of financing without being banks. Their business model and permissions differ from those of banks, so a dealer must not assume that a finance company has the same balance-sheet, deposit-taking or licensing powers.
-
-### 1.3.4 Insurance Companies
-
-Insurers pool policyholder risks and invest premiums. Their investment activity can make them important market participants, but their primary regulatory and prudential obligations arise from insurance business rather than from assuming every banking function.
-
-### 1.3.5 Capital Markets Intermediaries
-
-Capital-markets intermediaries execute, arrange or advise on securities and derivatives activity. They must operate within the regulated activities and conditions for which they are licensed or exempt, with appropriate client, risk and record controls.
-
-### 1.3.6 Financial Advisers
-
-Financial advisers provide advice or arrange advice on investment products within the relevant regulatory perimeter. Advice should be suitable to the permitted activity and must be separated from misleading promotion or undisclosed conflicts.
-
-### 1.3.7 Insurance Brokers
-
-Insurance brokers act as intermediaries between policyholders and insurers. Their role is distinct from that of an insurer and from a securities dealer, even though they may participate in financial-market risk transfer.
-
-### 1.3.8 Trust Companies
-
-Trust companies hold or administer property for beneficiaries under trust arrangements. Their fiduciary and custody responsibilities require careful segregation, documentation and attention to the authority under which assets are handled.
-
-### 1.3.9 Money-Changing and Remittance Businesses
-
-Money changers and remittance businesses handle currency conversion and cross-border transfer services. Their permissions, AML duties and operational controls should not be confused with the broader activities of a bank or CMS licence holder.
-
-### 1.4 Regulatory Bodies and Regulatory Framework in Singapore
-
-The framework combines legislation, MAS rules and notices, professional codes, market conventions and internal controls. The applicable obligation depends on the activity, the institution, the product, the customer and the location of the conduct.
-
-### 1.4.1 Central Banks and MAS
-
-MAS is Singapore's central bank and financial regulator. It supervises monetary and financial stability, regulates relevant institutions and publishes notices, guidelines and directions that supplement primary legislation.
-
-### 1.4.2 Types of Banking Licenses issued by MAS
-
-Singapore banking licences include full-bank and other categories with different permissions and restrictions. A representative must verify the institution's actual status instead of assuming that a bank, merchant bank or foreign bank can undertake every activity.
-
-### 1.4.3 Registration and Licenses for Regulated Activities
-
-A regulated activity may require a licence, registration, exemption or an activity-specific approval. The correct question is whether the person and institution are authorised for the particular service and product, not simply whether they are a financial institution.
-
-### 1.4.4 CMS Licences
-
-A CMS licence authorises specified capital-markets services under the Securities and Futures Act, subject to conditions and conduct requirements. Merchant banks and other institutions should be assessed against the relevant licensing or exemption position for each activity.
-
-### 1.5 Professional Bodies
-
-Professional bodies supplement formal regulation by developing shared standards, training and market conventions. Their materials do not displace legislation, but they help participants apply consistent wholesale-market practices.
-
-### 1.5.1 SFEMC
-
-The Singapore Foreign Exchange Market Committee develops and maintains the Singapore wholesale-market guide, responds to market-practice issues and can help coordinate the market during disruption. Its recommendations do not authorise unlawful conduct.
-
-### 1.5.2 Codes of Conduct and Guidance on Best Market Practices
-
-Codes set expectations for integrity, professionalism, fair dealing, confidentiality, execution, settlement and benchmark conduct. They are read with applicable law and internal procedures, and are especially useful where a transaction is not fully prescribed by a statute.
-
-### 1.5.3 ACI
-
-ACI supports professional standards and education for treasury and financial-market professionals. ACI materials reinforce competence and ethical behaviour in dealing activities.
-
-### 1.5.4 ABS
-
-The Association of Banks in Singapore represents banks and publishes industry guidance, including materials related to rate-setting benchmarks. It is not a substitute for MAS or statutory authority.
-
-### 1.5.5 IBF
-
-The Institute of Banking and Finance supports competency standards, accreditation and continuing professional development. Examination and representative requirements should be checked against the current IBF and MAS position.
+- **Check authority activity by activity:** the correct question is whether the *person and institution* may do *this* service for *this* product.
+- **IDBs** must not take proprietary positions, misrepresent quotes, disclose names early or impose their own terms.
+- **Blue Book scope:** wholesale FX, NDFs, money-market instruments, debt securities, SGS and OTC derivatives — not equity-market conduct.
+- **Professional bodies** (SFEMC, ACI, ABS, IBF) supplement but never displace legislation or MAS rules.
+- **Trap:** holding a banking licence does not authorise every capital-markets activity.
 
 ## Chapter 2 - Ethics, Behavioural Standards and Professional Conduct
 
@@ -209,9 +133,18 @@ Customer money and assets must be held, recorded and used only as permitted. The
 
 Suspected misconduct should be recorded, escalated through approved channels and reported to MAS where the applicable notice requires a report. Staff should not investigate in a way that compromises evidence or alert a subject improperly.
 
+### Exam cues
+
+- **Fit-and-proper test:** honesty, integrity and reputation; competence and capability; financial soundness. Consider seriousness, relevance, recency, repetition and candour.
+- **Conflicts:** identify → avoid → control → disclose; never serve competing principals, use one principal’s information for another, or act on undisclosed personal interests.
+- **Customer dealings:** explain material risks **before** the activity, in a form the customer understands; disclose when dealing as **principal** (the customer’s counterparty) versus agent.
+- **Customer money and assets:** hold, record and use only as permitted; segregation and reconciliation are essential.
+- **Reporting misconduct:** escalate through approved channels and report to MAS where a notice requires it.
+- **Trap:** a risk disclosure hidden, inaccurate or contradicted by the representative’s explanation is not effective.
+
 ## Chapter 3 - Confidentiality and Information Sharing
 
-This chapter distinguishes useful market colour from protected information. The answer is rarely 'say nothing' or 'tell everyone'; it is usually a precise, minimum-necessary and authorised communication.
+Distinguishing useful market colour from protected information. The examination tests what is confidential, when disclosure is allowed and what must never be used as colour.
 
 ### 3.1 Introduction
 
@@ -251,9 +184,9 @@ A representative must not make false statements, create a misleading impression,
 
 ### 3.4.2 Market Colour Appropriately
 
-Market colour can describe general liquidity, flow, direction, volatility or execution conditions without identifying a customer or a specific order. Customer names, exact amounts and traceable order details should not be used as colour.
+Market colour can describe general liquidity, flow, direction, volatility or execution conditions **without** identifying a customer or a specific order. Customer names, exact amounts and traceable order details must not be used as colour.
 
-### 3.4.3 Approved Communication Modes/Channels
+#### 3.4.3 Approved Communication Modes/Channels
 
 Use approved recorded channels and systems for dealing and material instructions. Personal messaging, unapproved devices and informal channels create evidential, surveillance and confidentiality risk.
 
@@ -261,9 +194,17 @@ Use approved recorded channels and systems for dealing and material instructions
 
 Training should cover confidentiality, anonymity, communication, escalation and practical scenarios. It should be refreshed and evidenced, with heightened training for staff who access sensitive information.
 
+### Exam cues
+
+- **The answer is rarely “say nothing” or “tell everyone”:** it is a precise, **minimum-necessary and authorised** communication.
+- **Allowable disclosures:** law, regulators, courts, law enforcement or a permitted business purpose. A peer’s request is not authority.
+- **Market colour** describes general conditions without identifying a customer or order — no names, exact amounts or traceable details.
+- **Channels:** use approved, recorded platforms; personal messaging creates evidential and surveillance risk.
+- **Trap:** a misleading answer invented to avoid disclosing information is itself a breach — pause and consult compliance instead.
+
 ## Chapter 4 - Governance, Risk Management and Compliance
 
-This chapter moves from individual conduct to institutional controls. Governance, independent challenge, risk measurement, AML/KYC and continuity must operate together.
+Institutional controls: governance and accountability, risk frameworks, key risk types and AML/KYC. The examination tests who is accountable, how limits and models are controlled, and the AML obligations.
 
 ### 4.1 Governance Structure
 
@@ -343,11 +284,20 @@ The framework includes Singapore statutes and MAS notices addressing laundering,
 
 ### 4.10.3 Customer Onboarding
 
-Onboarding verifies identity, authority, beneficial ownership, risk rating, purpose and expected activity before access is granted. Missing or inconsistent information should be resolved or escalated, not ignored to meet a sales target.
+Onboarding verifies identity, authority, beneficial ownership, risk rating, purpose and expected activity **before** access is granted. Missing or inconsistent information should be resolved or escalated — never ignored to meet a sales target.
+
+### Exam cues
+
+- **Three lines:** front office (1st), risk/compliance (2nd), independent audit (3rd); the board and senior management retain accountability.
+- **Risk framework:** approved limits → implemented measures → monitoring → independent model validation → remediation.
+- **Three key risks:** market (adverse moves), credit/counterparty (failure to perform), operational (people, processes, systems, events).
+- **Remuneration:** deferrals, malus and clawback counter misconduct incentives.
+- **AML/KYC is ongoing**, not a one-time formality; tipping off is itself prohibited.
+- **Trap:** a breach normalised through repeated overrides is still a breach.
 
 ## Chapter 5 - Execution and Handling of Orders
 
-This is the largest market-practice chapter. Learn the general dealing principles first, then apply them to misconduct, FX, NDF, money-market, debt-security and SGS conventions.
+The largest market-practice chapter. Learn the general dealing principles first, then apply them to misconduct, FX, NDF, money-market, debt-security and SGS conventions. The examination tests the conventions and the misconduct prohibitions.
 
 ### 5.1 General Dealing Principles and Market Conduct
 
@@ -593,9 +543,20 @@ Prime-broker arrangements centralise execution, clearing or settlement while all
 
 Platform providers need controls for access, capacity, cyber risk, timestamp integrity, order handling, outages, error trades and audit trails. Users must understand the platform rules before relying on automated execution.
 
+### Exam cues
+
+- **Misconduct list:** insider trading, front running, withholding orders, disclosing customer orders, bucketing, price manipulation/cornering, false trading, fraudulent inducement, deceptive devices, illegal-transaction information and points/positions parking.
+- **FX week:** opens **0500 Sydney** Monday, closes **1700 New York** Friday. Value dates depend on **both** currencies’ calendars.
+- **FX swaps:** near leg plus far leg; the far-leg rate follows the agreed spot and market swap points. **Off-market rollovers** must have a legitimate reason, transparency and approval.
+- **NDF:** cash-settled on the difference between contracted rate and fixing rate; state currency pair, direction, units, notional currency, tenor and firm/indicative status. Fixing date ≠ maturity date.
+- **Debt securities:** a price is meaningless without its basis — clean or dirty, accrued interest, day-count and settlement date.
+- **SGS:** its own MAS rules, market-practice guide, trading hours and lot conventions — do not assume FX or money-market hours apply.
+- **SGD lending restriction:** identify the borrower, structure and exemptions before arranging an SGD loan or an economically equivalent FX swap.
+- **Trap:** a genuine error is corrected through the approved process and both parties’ agreement — cancellation is not automatic because a price moved.
+
 ## Chapter 6 - Confirmation and Settlement
 
-This chapter follows the trade after execution. Good confirmation and settlement controls reduce ambiguity, operational error, liquidity pressure, fraud and counterparty exposure.
+Controls over the trade after execution. Good confirmation and settlement reduce ambiguity, operational error, liquidity pressure, fraud and counterparty exposure. The examination tests the controls and the key data.
 
 ### 6.1 Confirmation and Settlement Systems/Frameworks
 
@@ -685,6 +646,15 @@ Reconcile nostro, custody, trading and accounting records promptly. Breaks shoul
 
 Late-payment terms and penalties should be clear in the trade or governing agreement. The firm should calculate, communicate and settle them accurately, while escalating repeated failures.
 
+### Exam cues
+
+- **Control objectives:** timely, accurate confirmation and settlement — capacity, straight-through processing and data integrity.
+- **Segregation:** the person who executes must **not** control confirmation, settlement and reconciliation.
+- **Key confirmation data:** parties, capacity, product, amount, price/rate, trade and value dates, settlement currency, payment instructions, fees, netting and special terms.
+- **Standing Settlement Instructions:** verify, authorise and independently check; a **last-minute instruction change is a common fraud risk**.
+- **Settlement controls:** delivery-versus-payment, netting (only where legally enforceable), payments to the counterparty’s approved account, nostro-balance monitoring, prompt reconciliation and aged-break escalation.
+- **Trap:** an unresolved discrepancy must never pass silently through settlement.
+
 ## Chapter 7 - Handling Market Disruptions
 
 A disruption changes the available infrastructure, not the standard of conduct. The response is coordinated communication, documented alternatives and adherence to contract, regulator and market guidance.
@@ -728,6 +698,15 @@ For SGD disruption, follow relevant MAS and SFEMC instructions or recommendation
 ### 7.7 CCP Rules
 
 Where a central counterparty is involved, its rulebook governs margin, default management, settlement and emergency powers. Participants must understand and follow those rules during a disruption.
+
+### Exam cues
+
+- **SFEMC** can convene members, make recommendations and coordinate the market — it does not replace a participant’s legal or contractual duties.
+- **Conduct does not lapse in a disruption:** do not exploit scarce liquidity, mislead counterparties, fabricate prices or hide a breach.
+- **No unilateral suspensions:** stop payments/settlement only where the agreement, law or a competent authority authorises it.
+- **SGD disruption:** follow MAS and SFEMC instructions and the agreed settlement terms.
+- **CCP:** its rulebook governs margin, default management, settlement and emergency powers.
+- **Trap:** a disruption does not automatically entitle a party to suspend payment unilaterally.
 
 ## Chapter 8 - Benchmark Rate Setting
 
@@ -841,6 +820,16 @@ Electronic communications involving submission parties should be monitored under
 
 The benchmark process should be covered annually by independent audit or assurance, with results available to MAS on request. Product control or valuation functions may perform more frequent checks for surveyed benchmarks.
 
+### Exam cues
+
+- **Surveyed vs traded:** surveyed uses contributor judgement/quotations; traded uses eligible transaction data. Both need integrity and a reasonable basis.
+- **Parties:** oversight committee (governance challenge), administrator (owns methodology), calculation agent (applies it), submitter (contributes evidence). Clear role separation reduces conflicts.
+- **Evidence hierarchy:** actual transactions → related/proxy transactions → indicative prices → documented expert judgement; only the next permitted level where liquidity is limited.
+- **Prohibited:** collusion, wash trading, deliberately inappropriate prices, cancelling trades after the calculation window, withholding bona fide trades. A trade executed to move and later cancel the benchmark is manipulation.
+- **Commentary:** avoid public comment before publication; if permitted, disclose actual, potential or perceived conflicts prominently in writing.
+- **Records:** retain for at least **five years** or longer if required by law.
+- **Trap:** genuine competitive trades remain legitimate — the prohibition targets intent to affect the benchmark, not trading itself.
+
 ## Appendix A - Review Questions
 
 The source Appendix A contains 48 review questions: 2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3, 10 on Chapter 4, 14 on Chapter 5, 4 on Chapter 6, 3 on Chapter 7 and 4 on Chapter 8. They are reference-format questions, not a complete syllabus. Combination questions present four statements and then four answer combinations; the correct combination is still one best answer.
@@ -849,7 +838,7 @@ When studying a review question, explain why each distractor fails. For example,
 
 ## Appendix B - Essential Readings
 
-The source lists the following materials. Use the current version of each item, and check whether the title, notice number or web location has changed:
+Use the current version of each item, and check whether the title, notice number or web location has changed:
 
 ### Attorney-General's Chambers in Singapore
 

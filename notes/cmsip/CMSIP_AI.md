@@ -1,10 +1,12 @@
-# CM-SIP Teacher’s Study Guide
+# CM-SIP — Study Guide
 
 ## Capital Markets – Specified Investment Products (SIP): Derivatives and Collective Investment Schemes
 
-**Source reviewed:** *CM-SIP Study Guide v1.1 – January 2026 (FINAL)*, IBF. The source states that its regulatory information is correct/current/applicable as at 30 September 2023; always check the latest MAS, SFA, SGX and product terms before relying on a rule or specification.
+A concise guide to the CM-SIP examination: derivatives, structured products and collective investment schemes. It condenses the official study guide into what the examination tests, section by section.
 
-This is a teaching companion, not a replacement for the source guide, prospectus, Product Highlights Sheet (PHS), term sheet, risk disclosure statement or current law. It reorganises the entire source into learning objectives, mechanisms, calculations, risks, applications and exam cues.
+- **Exam:** 80 multiple-choice/multiple-response questions in 2 hours 30 minutes, plus 6 case studies containing 18 questions (3 per case study); **70% to pass**.
+- **Currency of the material:** the official guide states its regulatory information as current at 30 September 2023. Check the latest MAS, SFA, SGX and product terms before relying on a rule or specification.
+- This is a study aid, not a replacement for the prospectus, Product Highlights Sheet (PHS), term sheet, risk disclosure statement or current law. If you will conduct regulated activity, you must also meet the relevant MAS representative-notification and competency requirements.
 
 ## How to use this guide
 
@@ -15,11 +17,11 @@ This is a teaching companion, not a replacement for the source guide, prospectus
 
 ## Examination orientation
 
-- The CM-SIP examination tests knowledge, understanding and application of SIPs.
-- The source describes 80 multiple-choice/multiple-response questions in 2 hours 30 minutes, plus 6 case studies containing 18 questions (3 per case study); the passing mark is 70%.
-- Unless a question says otherwise, use a 365-day convention for Singapore Government Securities and a 360-day convention for other products.
+- The examination tests knowledge, understanding and application of SIPs.
+- Format: 80 multiple-choice/multiple-response questions in 2 hours 30 minutes, plus 6 case studies containing 18 questions (3 per case study); the passing mark is 70%.
+- Unless a question says otherwise, use a **365-day** convention for Singapore Government Securities and a **360-day** convention for other products.
 - A non-programmable financial calculator may be used and a formula sheet is provided.
-- The guide covers exchange-traded and OTC derivatives, structured products and collective investment schemes. Candidates who will conduct regulated activity must also satisfy the relevant MAS representative-notification and competency requirements.
+- Scope: exchange-traded and OTC derivatives, structured products and collective investment schemes. Candidates who will conduct regulated activity must also satisfy the relevant MAS representative-notification and competency requirements.
 
 ## Master mental model
 
@@ -61,7 +63,7 @@ FX derivatives include spot/forward contracts, currency futures, FX swaps, curre
 
 ### Money-market and short-term interest rates
 
-Underlying instruments include Treasury bills, interbank deposits, commercial paper, negotiable certificates of deposit and repos. Derivatives reference benchmark rates such as SIBOR and (historically) LIBOR; the source notes LIBOR’s phase-out and the use of replacement benchmarks such as SOFR for USD. Short-rate futures, FRAs, caps, floors, collars and swaps manage or speculate on short-term rates.
+Underlying instruments include Treasury bills, interbank deposits, commercial paper, negotiable certificates of deposit and repos. Derivatives reference benchmark rates such as **SIBOR** (SGD) and, historically, **LIBOR** (other currencies); LIBOR has been phased out and replaced for USD by benchmarks such as **SOFR**. Short-rate futures, FRAs, caps, floors, collars and swaps manage or speculate on short-term rates.
 
 ### Fixed income and credit
 
@@ -85,7 +87,7 @@ Typical characteristics are fixed contract size, multiplier, tick size, contract
 
 OTC products are negotiated bilaterally or through dealers. They can be tailored by notional, maturity, strike, barrier, observation dates, settlement currency, underlying, collateral and exercise terms. Customisation is valuable when an exchange contract does not match the exposure, but it creates counterparty, liquidity, valuation/model, documentation, legal, operational and close-out risks.
 
-Post-global-financial-crisis reforms described in the guide include moving standardised OTC derivatives to exchanges or electronic platforms where appropriate, central clearing, trade reporting to repositories and higher capital requirements for uncleared trades. A CCP reduces bilateral counterparty exposure but introduces clearing-member, collateral and default-management considerations.
+Post-global-financial-crisis reforms include moving standardised OTC derivatives to exchanges or electronic platforms where appropriate, central clearing, trade reporting to repositories and higher capital requirements for uncleared trades. A CCP reduces bilateral counterparty exposure but introduces clearing-member, collateral and default-management considerations.
 
 ## 1.5 Structured products
 
@@ -95,11 +97,11 @@ Do not infer that “structured” means “safe”. Read the payoff formula, tr
 
 ## 1.6 Singapore derivatives market
 
-The source discusses SGX-DT, ICE Futures Singapore and APEX as Singapore venues/marketplaces, and highlights Singapore’s role as an Asian hub for equity indices, commodities, interest rates and FX. SGX products include Asian index futures, commodity contracts, FX and rates products; exchange and clearing specifications determine the multiplier, trading hours, tick, margin, settlement and final price.
+Singapore venues and marketplaces include **SGX-DT**, **ICE Futures Singapore** and **APEX**, and Singapore is an Asian hub for equity indices, commodities, interest rates and FX. SGX products include Asian index futures, commodity contracts, FX and rates products; exchange and clearing specifications determine the multiplier, trading hours, tick, margin, settlement and final price.
 
-Singapore’s OTC FX market is material. The source cites SFEMC October 2020 average daily OTC FX swaps/options of approximately US$91 billion and notes the impact of COVID-era market conditions. Use current market statistics for present-day decisions.
+Singapore’s OTC FX market is material — SFEMC reported October 2020 average daily OTC FX swaps/options of approximately **US$91 billion**, affected by COVID-era market conditions. Use current market statistics for present-day decisions.
 
-The source also uses a MiFID II/regulatory scenario as a non-core application discussion: product governance requires a defined target market, product approval and review; KIDs/PHSs and risk disclosures must be available; transaction reporting and trading-venue obligations may apply; market makers may have obligations; distributors must understand the product, perform KYC/knowledge/suitability work, manage inducements and conflicts, and coordinate branch/head-office responsibilities. A Singapore/APAC distributor should not assume that a foreign regime replaces Singapore obligations.
+A MiFID II/regulatory scenario appears as a non-core application discussion: product governance requires a defined target market, product approval and review; KIDs/PHSs and risk disclosures must be available; transaction reporting and trading-venue obligations may apply; market makers may have obligations; distributors must understand the product, perform KYC/knowledge/suitability work, manage inducements and conflicts, and coordinate branch/head-office responsibilities. A Singapore/APAC distributor must not assume a foreign regime replaces Singapore obligations.
 
 ## 1.7 Summary and exam cues
 
@@ -125,7 +127,7 @@ Economic functions are price discovery, hedging and leverage. A futures quote ca
 
 ### Notional and margin examples
 
-Notional value = futures price × contract multiplier. Examples in the source include E-mini S&P 500 (multiplier 50), Nasdaq futures (20), EUR/USD futures (125,000) and SGX A50 (multiplier 1).
+Notional value = futures price × contract multiplier. Examples include E-mini S&P 500 (multiplier 50), Nasdaq futures (20), EUR/USD futures (125,000) and SGX A50 (multiplier 1).
 
 For a Nikkei 225 contract at 22,500 with a JPY500 multiplier, notional = JPY11,250,000. At 6.5% initial margin, margin = JPY731,250. A 7% rise to 24,075 creates a 1,575-point gain × JPY500 = JPY787,500 per contract; a fall creates an equally sized loss. Maintenance margin is a lower threshold; a margin call can arise even if the investor expects the position to recover.
 
@@ -149,7 +151,7 @@ Short-term futures are often quoted as `P = 100 × (1 − R)`, so a higher impli
 
 `(1 + d1 r1/360)(1 + d2 r2/360) = (1 + D R/360)`.
 
-The source’s 45-day 1.25% and 135-day 1.75% example implies a 90-day forward rate of approximately 2% (using the stated day-count convention). A Mini-JGB example demonstrates the price/tick and contract-size calculation; US Treasury-note examples show how a tick change translates into P&L.
+**Worked example.** Given a 45-day rate of 1.25% and a 135-day rate of 1.75%, the implied 90-day forward rate is approximately **2%** using the stated day-count convention. A Mini-JGB example demonstrates the price/tick and contract-size calculation; US Treasury-note examples show how a tick change translates into P&L.
 
 ### Currency futures
 
@@ -171,9 +173,9 @@ where `D` is dividends before expiry. The difference between futures and spot is
 
 A futures position can be (1) held to physical delivery, (2) held to cash settlement, (3) closed with an offsetting position, or (4) rolled to a later contract. Know tick value, daily settlement, margin cycles, fees, delivery notices and final settlement.
 
-SGX-DC clears and marks positions; intraday margin cycles may require funds before the end of day. The guide mentions CME mutual-offset arrangements for certain SGX products (including NK, NU, FEM and FCH), which can facilitate global clearing but are product-specific.
+SGX-DC clears and marks positions; intraday margin cycles may require funds before the end of day. **CME mutual-offset** arrangements apply to certain SGX products (including NK, NU, FEM and FCH), which can facilitate global clearing but are product-specific.
 
-Order types in the guide include limit, market-to-limit (MTL), market, stop (stop-limit/MTL/market), market-if-touched and session-state orders. Packs and bundles are strategies for consecutive short-rate futures: a pack contains four consecutive contracts; a bundle groups quarterly contracts across a 2–5 year horizon; quotes may show the average net change.
+Order types include limit, market-to-limit (MTL), market, stop (stop-limit/MTL/market), market-if-touched and session-state orders. **Packs and bundles** are strategies for consecutive short-rate futures: a pack contains four consecutive contracts; a bundle groups quarterly contracts across a 2–5 year horizon; quotes may show the average net change.
 
 ## 2.5 Futures pricing model
 
@@ -186,7 +188,7 @@ Carry may include financing, storage, insurance and transport, less income or co
 - If futures is too high, buy/finance the spot asset and sell futures (cash-and-carry).
 - If futures is too low, short/borrow the spot asset and buy futures (reverse cash-and-carry), subject to borrowing, storage and shorting constraints.
 
-The source’s gold fair-value example computes fair value around 1,303.69 against a market price of 1,305; the arbitrage profit must be adjusted for financing/borrowing and other costs. Reverse arbitrage may fail where gold borrowing is costly or unavailable. Real markets also contain risk premia and expectations, so an apparent difference is not automatically risk-free.
+**Worked example.** For gold, fair value computes to about **1,303.69** against a market price of 1,305; the arbitrage profit must be adjusted for financing/borrowing and other costs. Reverse arbitrage may fail where gold borrowing is costly or unavailable. Real markets also contain risk premia and expectations, so an apparent difference is not automatically risk-free.
 
 ## 2.6 Basis
 
@@ -205,7 +207,7 @@ Swaps are customised OTC agreements to exchange cash flows over several periods 
 - **Currency swap:** exchanges principal and interest in two currencies, often to transform borrowing currency and interest exposure.
 - **Commodity swap:** fixed price is exchanged for a floating commodity price, allowing a producer/user to lock or transform price exposure without repeated futures rolls.
 - **Equity swap:** one party receives total return on an equity/index and pays a fixed or floating rate; it creates synthetic equity exposure without ownership.
-- **Credit default swap:** a protection buyer pays a spread (often in basis points quarterly) to a protection seller. On a defined credit event (bankruptcy, failure to pay, restructuring etc.), the seller pays under cash or physical settlement. Naked CDS can create large synthetic credit exposure; the source discusses AIG/GFC lessons.
+- **Credit default swap:** a protection buyer pays a spread (often in basis points quarterly) to a protection seller. On a defined credit event (bankruptcy, failure to pay, restructuring etc.), the seller pays under cash or physical settlement. Naked CDS can create large synthetic credit exposure — the AIG/GFC episode showed how leverage, opacity and counterparty concentration amplify it.
 
 ## 2.8 Summary
 
@@ -223,7 +225,7 @@ Futures are standardised, margined, daily-settled and cleared; forwards and swap
 - **Portfolio managers:** allocate, rebalance, overlay and protect portfolios.
 - **Central banks, sovereign funds and regulators:** use or influence markets for reserves, policy, funding and supervision.
 
-The source uses Barings as a control failure example and discusses Delta One activities, where futures, swaps, ETFs and related instruments deliver linear exposure.
+Barings is the classic control-failure example. **Delta One** activities use futures, swaps, ETFs and related instruments to deliver linear exposure.
 
 ## 3.2 SGX orders and strategy trades
 
@@ -248,7 +250,7 @@ A spread normally requires less margin than two unrelated outright positions but
 
 For a calendar spread, long the near month/short the deferred month is generally a bullish view on the near-versus-deferred relationship; short near/long deferred is generally bearish. Profit depends on the change in the spread, not simply whether the underlying rises.
 
-The source’s S&P example demonstrates a net spread gain of about USD11,500 in one scenario and losses when the spread moves the other way. An EUR/USD bearish-calendar example produces about USD2,750 under its stated contract sizes.
+A worked S&P spread example shows a net gain of about **USD11,500** in one scenario and losses when the spread moves the other way. An EUR/USD bearish-calendar example produces about **USD2,750** under its stated contract sizes.
 
 ### Butterflies, condors and credit spreads
 
@@ -292,19 +294,19 @@ General hedge ratio:
 
 `h = ΔS/ΔF`; number of contracts = `−h × exposure value / contract size`.
 
-For a USD100 million 90-day exposure against USD1 million Eurodollar futures, a stack hedge uses 100 contracts per 90-day period (and a 6-month exposure may require two stacks, subject to the question’s exact convention). The source’s USD50m/6-month example gives 100 contracts under its stated assumptions.
+A **USD100 million 90-day exposure** against USD1 million Eurodollar futures needs **100 contracts** per 90-day period in a stack hedge (a 6-month exposure may require two stacks, subject to the question’s exact convention). A USD50m/6-month example gives 100 contracts under its stated assumptions.
 
 For long-term bonds:
 
 `hedge ratio = PVBP of hedged security / PVBP of CTD bond × conversion factor`.
 
-The source’s example produces approximately 157 Treasury-futures contracts. Use DV01/PVBP, not face value alone.
+A worked example produces approximately **157 Treasury-futures contracts**. Use DV01/PVBP, not face value alone.
 
 For an equity portfolio:
 
 `N = VP/(F × T) × beta`,
 
-where `T` is the contract value per index point. The guide’s portfolio example results in about 30 S&P contracts and demonstrates that a hedge reduces systematic risk while leaving stock-specific and basis risk.
+where `T` is the contract value per index point. A portfolio example results in about 30 S&P contracts and shows that a hedge reduces systematic risk while leaving stock-specific and basis risk.
 
 Other applications include currency receivables, floating-rate deposits/debt, Nikkei exposure and 130/30 portfolios (long 130% and short 30% with net 100% equity exposure).
 
@@ -314,7 +316,7 @@ Futures can implement asset allocation, tactical rebalancing, cash equitisation,
 
 ## 3.7 Arbitrage
 
-Arbitrage strategies include cash-and-carry, reverse cash-and-carry, bond-stripping/reconstitution, futures-versus-IRS, FRA-versus-futures and option parity. The source’s Eurodollar example compares a theoretical price of 98.65 with market 98.72 and constructs borrow/lend/sell-buy legs for a stated profit of about USD175.
+Arbitrage strategies include cash-and-carry, reverse cash-and-carry, bond-stripping/reconstitution, futures-versus-IRS, FRA-versus-futures and option parity. A Eurodollar example compares a theoretical price of **98.65** with a market **98.72** and constructs borrow/lend/sell-buy legs for a profit of about **USD175**.
 
 Arbitrage is only risk-free in the idealised model. Value dates, fixing dates, margin, liquidity, bid–ask spread, funding, delivery options, basis and counterparty constraints can turn it into relative-value trading.
 
@@ -343,7 +345,7 @@ For a call, `IV = max(0, S − X)`; for a put, `IV = max(0, X − S)`. Time valu
 - **Expiry:** last exercise/trading date; time value decays toward zero.
 - **Class/series:** all options on the same underlying, with a particular strike and expiry, form a series.
 
-Exchange option cycles in the source use month codes such as JAJO, FMAN and MJSD; contract specifications determine the actual listed series.
+Exchange option cycles use month codes such as JAJO, FMAN and MJSD; contract specifications determine the actual listed series.
 
 ## 4.3 Option price/payoff
 
@@ -391,7 +393,7 @@ Parity supports arbitrage, conversion/reversal and pricing checks, but funding, 
 
 ## 4.7 Valuation and Greeks
 
-Black–Scholes-type models use spot, strike, time, interest rate, dividends and volatility. Binomial trees handle early exercise and American features. The source does not require model calculations but expects conceptual understanding.
+Black–Scholes-type models use spot, strike, time, interest rate, dividends and volatility. Binomial trees handle early exercise and American features. The examination does not require model calculations but expects conceptual understanding.
 
 - **Delta:** change in option value per unit change in underlying; used for directional exposure and dynamic hedging.
 - **Gamma:** change in delta per unit change in underlying; largest around ATM and close to expiry; makes delta change rapidly.
@@ -454,17 +456,17 @@ Options separate rights from obligations. Price is intrinsic plus time value, an
 
 ## Chapter 4 non-exam appendix: additional spreads
 
-The source also covers long call/put butterflies, vertical spreads (same expiry/different strikes), horizontal/calendar spreads (same strike/different expiries), diagonal spreads (different strikes and expiries), condors, ratio hedges, seagulls, and protecting/re-centering a short strangle. These are extensions of the same principles: identify the market view, volatility view, time exposure, maximum loss, margin and adjustment/roll rules.
+Additional spreads include long call/put butterflies, vertical spreads (same expiry, different strikes), horizontal/calendar spreads (same strike, different expiries), diagonal spreads (different strikes and expiries), condors, ratio hedges, seagulls, and protecting/re-centering a short strangle. These extend the same principles: identify the market view, volatility view, time exposure, maximum loss, margin, and adjustment/roll rules.
 
 # Chapter 5 — Structured Warrants and Daily Leveraged Certificates
 
 ## 5.1 Introduction
 
-Structured warrants and daily leveraged certificates (DLCs) are exchange-traded SIPs. They can give leveraged exposure with a smaller cash outlay, but leverage magnifies losses. Under Singapore’s SIP/CAR framework, the representative must consider the client’s knowledge, experience, financial situation, risk tolerance, objectives, horizon, liquidity and ability to understand the product. The source highlights customer-account review, education/work/investment experience and investment experience documentation.
+Structured warrants and daily leveraged certificates (DLCs) are exchange-traded SIPs. They give leveraged exposure with a smaller cash outlay, but leverage magnifies losses. Under Singapore’s SIP/CAR framework, the representative must consider the client’s knowledge, experience, financial situation, risk tolerance, objectives, horizon, liquidity and ability to understand the product, and document the customer-account review, education/work/investment experience.
 
 ## 5.2 Structured warrants
 
-A structured warrant is issued by a third-party financial institution and references a stock, index, fund, commodity, currency or basket. It is normally shorter-dated than a company warrant; SGX warrants in the guide are generally European style unless the product terms say otherwise. A call warrant gives leveraged upside exposure; a put warrant gives leveraged downside exposure. A zero-strike warrant is economically close to a synthetic share exposure because its strike is zero.
+A structured warrant is issued by a third-party financial institution and references a stock, index, fund, commodity, currency or basket. It is normally shorter-dated than a company warrant; SGX warrants are generally European style unless the product terms say otherwise. A call warrant gives leveraged upside exposure; a put warrant gives leveraged downside exposure. A zero-strike warrant is economically close to a synthetic share exposure because its strike is zero.
 
 Cash settlement per warrant is:
 
@@ -493,7 +495,7 @@ The SGX code normally identifies underlying, issuer, call/put or style and matur
 
 Life to expiry, underlying price, strike, implied volatility, dividends, interest rates, conversion ratio, liquidity, issuer credit and gearing affect price. A call rises with underlying and volatility and generally falls with dividends; a put behaves in the opposite direction for spot/dividends. Time value normally decays faster close to expiry and is not linear.
 
-Warrant delta is `n × (change in warrant price / change in underlying)` under the source’s convention. Implied volatility is backed out from the observed price; it is not a guaranteed prediction.
+Warrant delta is `n × (change in warrant price / change in underlying)`. Implied volatility is backed out from the observed price; it is not a guaranteed prediction.
 
 ## 5.5 Trading structured warrants
 
@@ -511,7 +513,7 @@ Conversion price:
 - call: `X + n × WP`;
 - put: `X − n × WP`.
 
-The warrant premium is its price above intrinsic value. The source’s formula sheet also expresses dollar premium as:
+The warrant premium is its price above intrinsic value. The formula sheet also expresses dollar premium as:
 
 - call: `nWP + X − S`;
 - put: `nWP − X + S`.
@@ -542,15 +544,15 @@ with the new strike = old strike × factors and new conversion ratio = old conve
 
 ## 5.11 Exotic warrants
 
-The source discusses index warrants, currency-translated warrants, yield-enhanced/discount/capped warrants, basket warrants, commodity warrants and FX warrants. A discount/capped certificate lets the investor buy exposure at a discount but caps upside; basket/index products add correlation, composition and rebalancing risk; translated warrants add FX exposure between settlement and underlying currencies.
+Exotic warrants include index warrants, currency-translated warrants, yield-enhanced/discount/capped warrants, basket warrants, commodity warrants and FX warrants. A discount/capped certificate lets the investor buy exposure at a discount but caps upside; basket/index products add correlation, composition and rebalancing risk; translated warrants add FX exposure between settlement and underlying currencies.
 
 ## 5.12 Daily leveraged certificates (DLCs)
 
-DLCs are exchange-traded, short-term, high-risk products designed to deliver a daily multiple of an underlying index or asset’s movement. The source describes long and short certificates, commonly 3× or 5× examples and a product table allowing leverage up to 7×; the current product terms control the exact multiple. They are SGD-denominated, commonly T+2, with a maximum tenor up to three years, and fees may include brokerage, clearing and management fees.
+DLCs are exchange-traded, short-term, high-risk products designed to deliver a daily multiple of an underlying index or asset’s movement. Products include long and short certificates, commonly **3× or 5×**, with product terms allowing leverage up to **7×**; the current term sheet controls the exact multiple. They are SGD-denominated, commonly T+2, with a maximum tenor up to **three years**, and fees may include brokerage, clearing and management fees.
 
 Daily reset/compounding means a DLC is not a simple multiple of the total return over a long period. In a volatile or mean-reverting market, repeated daily losses can erode capital even if the index ends near its starting level. It is generally unsuitable as a buy-and-hold investment.
 
-The airbag feature may trigger when the underlying moves adversely by a stated threshold; the source gives 20% for a 3× example and 10% for a 5× example, followed by a 30-minute suspension and an observed reset level. The exact term sheet controls. Expiry or a zero value can terminate the investment. A DMM may quote subject to conditions.
+The airbag feature may trigger when the underlying moves adversely by a stated threshold — **20% for a 3× example and 10% for a 5× example** — followed by a **30-minute suspension** and an observed reset level. The exact term sheet controls. Expiry or a zero value can terminate the investment. A DMM may quote subject to conditions.
 
 Compared with CFDs, DLCs are exchange traded and have no OTC financing/margin account in the same form, but reset/airbag/issuer and liquidity features matter. Compared with warrants, DLCs have daily leverage targeting and usually closer-to-one directional exposure before the reset; compared with leveraged ETFs, their structure, issuer and daily reset terms differ.
 
@@ -632,7 +634,7 @@ Residual value for R-CBBCs:
 - bull = `(settlement price − strike)/conversion ratio`;
 - bear = `(strike − settlement price)/conversion ratio`.
 
-The settlement price is subject to the MCE observation rules; the source describes a bull using the minimum and a bear the maximum observed price between MCE and the next session, subject to the product terms. At maturity, the same direction-specific formula uses the closing settlement price.
+The settlement price is subject to the MCE observation rules: a **bull** uses the **minimum** and a **bear** the **maximum** observed price between MCE and the next session, subject to the product terms. At maturity, the same direction-specific formula uses the closing settlement price.
 
 CBBC risks include MCE/early termination, issuer credit, liquidity/DMM spread, gap risk, leverage, financing cost, underlying suspension, currency, market volatility, residual-value uncertainty and no-margin misconception. Common features with warrants include exchange trading, fixed maturity and no initial margin account; the call price/MCE is the important CBBC-specific feature.
 
@@ -655,7 +657,7 @@ Exotics exchange a lower premium or higher coupon for conditionality. Barrier le
 
 ## Chapter 6 appendix
 
-The source’s appendix provides further barrier/CBBC applications and reinforces that a product’s marketing label is not a risk description. Recalculate the payoff under spot up, spot down, barrier touched, barrier not touched, early termination, maturity and issuer-default scenarios.
+The Chapter 6 appendix provides further barrier/CBBC applications and reinforces that a product’s marketing label is not a risk description. Recalculate the payoff under spot up, spot down, barrier touched, barrier not touched, early termination, maturity and issuer-default scenarios.
 
 # Chapter 7 — Structured Deposits and Other Structured Products
 
@@ -667,7 +669,7 @@ Suitability requires understanding risk appetite, knowledge/experience, liquidit
 
 ## 7.2 Capital-preservation deposits
 
-In Singapore, the source describes structured deposits as bank deposit obligations with principal paid in full at maturity, with or without interest, but they are not necessarily covered by deposit insurance and early withdrawal may incur loss of principal/return. The bank’s credit standing still matters. “Capital preservation” normally means at maturity and subject to the stated currency and issuer, not a guarantee of mark-to-market value.
+In Singapore, structured deposits are bank deposit obligations with principal paid in full at maturity, with or without interest, but they are **not necessarily covered by deposit insurance** and early withdrawal may incur loss of principal/return. The bank’s credit standing still matters. “Capital preservation” normally means at maturity and subject to the stated currency and issuer — not a guarantee of mark-to-market value.
 
 Principal component plus derivative strategies include:
 
@@ -706,7 +708,7 @@ The non-exam appendix expands deposit strategies and demonstrates that yield enh
 
 A structured note is a debt/debenture obligation whose return is linked to an underlying equity, index, currency, commodity, rate, credit reference or basket. The investor owns a claim on the issuer (or an SPV), not the underlying asset. The note can be distributed directly by a bank or issued through an SPV; an SPV may be off-balance-sheet and may give only the legal/asset claim described in its documents.
 
-Under Singapore offering rules described in the source, a prospectus may be required unless an exemption applies (for example accredited/institutional investors or a stated minimum investment such as S$200,000). Read the prospectus, PHS and term sheet.
+Under Singapore offering rules, a prospectus may be required unless an exemption applies (for example accredited/institutional investors or a stated minimum investment such as **S$200,000**). Read the prospectus, PHS and term sheet.
 
 ## 8.2 Issuing structured notes
 
@@ -773,7 +775,7 @@ Structured notes are debt plus derivatives. Ask whether principal is actually pr
 
 ## Chapter 8 appendix
 
-The source’s appendix covers spread CDRANs, RAN variations, documentation and PHS content. A PHS should make the product understandable through a product summary, suitability, key features, key risks, prominent/clear disclosure of possible loss of all principal, definitions, contact information, readable layout and simple language. Appendix B reproduces a MAS practice-note excerpt: the PHS is prepared under the SFA framework, submitted with the prospectus at lodgement, made available with/alongside the prospectus (including online), and follows the prescribed format/headings as a minimum while adding material information needed for investor understanding.
+Further coverage includes spread CDRANs, RAN variations, documentation and PHS content. A PHS should make the product understandable through a product summary, suitability, key features, key risks, prominent/clear disclosure of possible loss of all principal, definitions, contact information, readable layout and simple language. Appendix B reproduces a MAS practice-note excerpt: the PHS is prepared under the SFA framework, submitted with the prospectus at lodgement, made available with/alongside the prospectus (including online), and follows the prescribed format/headings as a minimum while adding material information needed for investor understanding.
 
 # Chapter 9 — Structured Funds
 
@@ -785,7 +787,7 @@ Key fund governance points are a licensed manager, fiduciary trustee/custodian, 
 
 ### Core fund vocabulary
 
-Know the source glossary terms: asset allocation, AUM, closed/open-ended fund, CIS, CPPI, cushion, custodian, drawdown, excess return, index fund, ISIN, management fee, minimum subscription, multiplier, NAV, option, share class, Sharpe ratio, SICAV, TER, total return, total return swap (TRS), tracker, trailer/upfront sales charge, UCITS, umbrella fund, underlying, VaR, volatility and zero-coupon bond.
+Know the glossary terms: asset allocation, AUM, closed/open-ended fund, CIS, CPPI, cushion, custodian, drawdown, excess return, index fund, ISIN, management fee, minimum subscription, multiplier, NAV, option, share class, Sharpe ratio, SICAV, TER, total return, total return swap (TRS), tracker, trailer/upfront sales charge, UCITS, umbrella fund, underlying, VaR, volatility and zero-coupon bond.
 
 ### Traditional, tracker and structured funds
 
@@ -824,7 +826,7 @@ Investors may be retail, accredited or institutional. Core-satellite allocation,
 An ETF is typically an open-ended listed fund that trades intraday and uses authorised participants to create/redeem units. Types include equity, fixed-income, cash, currency, commodity, index, alternative, leveraged, inverse and protective ETFs.
 
 - **Physical/direct replication:** holds all or a representative sample of securities.
-- **Synthetic replication:** uses swaps/derivatives; the source discusses collateral and a 10% net counterparty-exposure concept subject to applicable rules and documentation.
+- **Synthetic replication:** uses swaps/derivatives; a **10% net counterparty-exposure** concept applies subject to the rules and documentation — collateral is the key control.
 
 Pricing risks include bid–ask spread, NAV discount/premium, tracking error, TER, roll yield, cash drag, FX, market liquidity and counterparty collateral. Creation/redemption arbitrage helps keep price near NAV but can fail in stressed markets. ETFs provide intraday liquidity, diversification, transparency, short/leveraged/inverse exposure and core-satellite tools, but are not risk-free. Compare ETFs with ETNs (unsecured debt), mutual funds (usually NAV dealing) and listed derivatives.
 
@@ -838,7 +840,7 @@ Structured funds are CIS vehicles whose payoff depends on assets, formulae and s
 
 ## 10.1 History
 
-CFDs emerged in the UK in the 1990s from equity-swap style products and reached retail markets in the late 1990s. The source notes that CFDs were not available in the US retail market in the same way. The historical development explains their OTC, leveraged and cash-settled character.
+CFDs emerged in the UK in the 1990s from equity-swap-style products and reached retail markets in the late 1990s; they were **not** available in the US retail market in the same way. That history explains their OTC, leveraged and cash-settled character.
 
 ## 10.2 Definition
 
@@ -853,7 +855,7 @@ CFD terms include underlying, opening/closing price, number of units, direction,
 ## 10.4 Business models
 
 - **Market maker:** provider quotes the CFD and may internalise/hedge flow; price and spread depend on its ability and discretion.
-- **Direct market access (DMA):** orders route through the provider to the underlying market; the source identifies DMA as predominant in Singapore.
+- **Direct market access (DMA):** orders route through the provider to the underlying market; DMA is **predominant in Singapore**.
 - **Exchange-traded CFD:** exchange/clearing structure can reduce bilateral counterparty risk but remains product-specific.
 
 ## 10.5 Advantages
@@ -880,7 +882,7 @@ All orders are day orders unless otherwise stated and use the underlying bid/ask
 
 ### 10.6.5 Cost examples
 
-The source’s long example: buy 10,000 shares at $2, sell after 10 days at $2.20, 0.4% commission, 8% GST on commission and 5% annual financing. Buy commission/GST = $86.40; sell = $95.04; ten-day financing = $27.78; total expense = $209.22; net profit = $1,790.78.
+**Worked example.** Buy 10,000 shares at $2, sell after 10 days at $2.20, with 0.4% commission, 8% GST on commission and 5% annual financing. Buy commission/GST = $86.40; sell = $95.04; ten-day financing = $27.78; total expense = $209.22; net profit = **$1,790.78**.
 
 Short example: sell 10,000 at $3.30, cover at $3.10, 0.4% commission, 8% GST, 20% margin and 6% financing for five days. Total expense = $303.98; net profit = $1,696.02; capital posted = $6,600; ROI ≈25.70%. If the price rises to $3.45, expense = $319.10; net loss = $1,819.10; ROI ≈−27.56%.
 
@@ -890,7 +892,7 @@ CFDs are mostly OTC, can be extended/rolled subject to provider policy, explicit
 
 ## 10.7 Global trading opportunities
 
-The source lists Singapore STI/SiMSCI and global equity/sector indices (S&P 500, DJIA, FTSE100, CAC40, DAX, Nikkei225, ASX200, Hang Seng, China A50), currencies (AUD, CAD, EUR, CNH, JPY, CHF, GBP, USD), energy/industrial/precious metals/agricultural commodities, US/UK/Japan/Euro government bonds, ETFs such as SPDR Gold and volatility/real-estate references. Availability is provider-specific.
+Underlyings include Singapore **STI/SiMSCI** and global equity/sector indices (S&P 500, DJIA, FTSE100, CAC40, DAX, Nikkei225, ASX200, Hang Seng, China A50), currencies (AUD, CAD, EUR, CNH, JPY, CHF, GBP, USD), energy/industrial/precious metals/agricultural commodities, US/UK/Japan/Euro government bonds, ETFs such as SPDR Gold and volatility/real-estate references. Availability is provider-specific.
 
 ## 10.8 CFD trading strategies
 
@@ -984,10 +986,10 @@ These cases are decision exercises, not product endorsements. A representative s
 Mrs Goh holds USD, GBP and SGD. She expects a short-term USD rebound but longer-term USD weakness and accepts conversion into SGD/GBP. A USD/SGD DCI invests USD1m for three months at 11% p.a., strike 1.3800, spot 1.3569.
 
 - If expiry spot is 1.3300, no conversion at strike; USD proceeds = 1,000,000 + 1,000,000 × 11% × 3/12 = USD1,027,500. Converted at 1.33 = SGD1,366,575.
-- If spot is 1.3800 under the source’s scenario, proceeds remain USD1,027,500.
-- If spot is 1.4100 and conversion applies, USD1,027,500 is converted at 1.3800 = SGD1,417,950.
+- If spot is **1.3800**, proceeds remain USD1,027,500.
+- If spot is **1.4100** and conversion applies, USD1,027,500 is converted at 1.3800 = SGD1,417,950.
 
-From the bank’s perspective, fund the deposit at USD 1.3919% and sell the option at 0.0250; the source computes about USD1,028,566.74 after three months, annualised around 11.43–11.44%, above the 11% client return. The lesson is that DCI yield is option premium plus deposit interest and conversion risk.
+From the bank’s perspective, fund the deposit at 1.3919% and sell the option at 0.0250, giving about **USD1,028,566.74** after three months — annualised around **11.43–11.44%**, above the 11% client return. DCI yield is option premium plus deposit interest and conversion risk.
 
 The GBP/USD DCI example at 10% p.a., strike 1.3000 shows that if spot is 1.2800, the conversion calculation yields about USD1,009,230.76; if spot is 1.2600, proceeds about USD993,461.54 imply annualised return around −2.62%. A high headline yield does not prevent capital loss in the base currency.
 
@@ -1008,7 +1010,7 @@ Timing is difficult; short products are costly to maintain and should be closed/
 
 ## 12.3 Portfolio protection — William
 
-William holds OCBC, DBS and CapitaLand worth SGD92.72m and wants protection beyond a 7% fall. Compare put-warrant strikes, breakeven, expiry and stock coverage. Under the source’s 7% scenario, DBS/OCBC put warrants B and D are in-the-money; CapitaLand E is selected because it is the only available CapitaLand protection and is less OTM than alternatives. A and D offer more time protection; E covers CapitaLand.
+William holds OCBC, DBS and CapitaLand worth SGD92.72m and wants protection beyond a 7% fall. Compare put-warrant strikes, breakeven, expiry and stock coverage. In the 7% scenario, DBS/OCBC put warrants B and D are in-the-money; CapitaLand E is selected because it is the only available CapitaLand protection and is less OTM than alternatives. A and D offer more time protection; E covers CapitaLand.
 
 Higher volatility raises warrant prices because the strike is more likely to be reached. OTC alternatives are lending the shares for a 4–5% fee, buying tailored protective puts 3–4% below spot, or shorting MSCI Singapore futures. The futures hedge is imperfect because the three stocks represent only about 31% of the index. Futures have immediate daily MTM obligations; a long put has a right, not an obligation; a share loan earns a fee.
 
@@ -1024,7 +1026,7 @@ The client is effectively short a put: below the strike, he owns the falling sto
 
 ## 12.5 Range accrual note — Robert
 
-AUD/USD range = 0.7600–0.8200, maturity three months, maximum yield 6%, minimum 1%, MMR 2.75%. If inside for two months and outside for one, annualised payout under the source’s convention is `6%×2/3 + 1%×1/3 = 4.33%` (the source’s answer text displays approximately 4.32% due rounding).
+AUD/USD range = 0.7600–0.8200, maturity three months, maximum yield 6%, minimum 1%, MMR 2.75%. If inside for two months and outside for one, annualised payout is `6%×2/3 + 1%×1/3 = 4.33%` (the answer text displays approximately 4.32% due to rounding).
 
 To make the digital spread cheaper or raise maximum yield: narrow the range, skew it so spot is nearer a barrier, extend maturity, or lower the minimum yield. Widening the range makes inside outcomes more likely and the option more expensive; shortening maturity can increase cost. A double-no-touch version observes the path: touching either barrier terminates the enhanced payout and leaves only the minimum return.
 
@@ -1036,7 +1038,7 @@ ABC spot SGD1.10; strike SGD1.00; knock-out SGD1.30; one year/250 business days;
 - Twenty days in month 1 plus 12 days in month 2 before day-13 knock-out = 320,000 shares; cost = SGD320,000.
 - If marked at SGD1.30, value = SGD416,000 and gain = SGD96,000.
 
-Worst case in the source: price zero for 250 days, 2.5m shares purchased at SGD1 = SGD2.5m loss. There is no capital preservation; the bank may margin-call/liquidate; gains are capped by knock-out while losses continue below strike; early break costs can be large.
+**Worst case:** price zero for 250 days, 2.5m shares purchased at SGD1 = **SGD2.5m loss**. There is no capital preservation; the bank may margin-call/liquidate; gains are capped by the knock-out while losses continue below strike; early-break costs can be large.
 
 ## 12.7 Gold, silver and USD volatility — Brandon
 
@@ -1044,7 +1046,20 @@ Rising US rates may strengthen USD and weaken gold/silver, while political/equit
 
 ## 12.8 Yield-curve movement — Tracy
 
-Tracy expects the US yield curve to flatten/invert: short rates rise faster than long rates. A constant maturity swap (CMS) resets a floating leg against a long-term constant-maturity rate; unlike a vanilla IRS, the reference maturity/duration remains constant. It can express steepening/flattening views. To benefit from short rates rising faster, the source’s answer is to swap the long end for the short end—pay the long-end rate and receive the short-end rate—subject to the exact swap convention and market quotation.
+Tracy expects the US yield curve to flatten/invert: short rates rise faster than long rates. A constant maturity swap (CMS) resets a floating leg against a long-term constant-maturity rate; unlike a vanilla IRS, the reference maturity/duration remains constant. It can express steepening/flattening views. To benefit from short rates rising faster, swap the long end for the short end — pay the long-end rate and receive the short-end rate — subject to the exact swap convention and market quotation.
+
+### Exam cues
+
+The case studies test the same method, not the products. For each, work the numbers and identify the embedded option and the investor’s obligation.
+
+- **DCI (Goh):** yield = option premium + deposit interest; conversion risk is the real exposure. A high headline yield does not prevent a base-currency loss.
+- **Downside volatility (Brian):** puts / put warrants cap loss at premium but decay; short futures and inverse/leveraged products add margin, daily reset and compounding risk.
+- **Portfolio protection (William):** compare put-warrant strikes, breakeven and coverage; a futures hedge is imperfect when the basket is only part of the index; a long put is a right, a futures position is an obligation.
+- **ELN (Sunjoyo):** effectively short a put — breakeven = purchase / shares; below strike the investor owns the falling stock and can lose almost everything.
+- **Range accrual (Robert):** payout = max × (days inside / total) + min × (days outside / total); a double-no-touch observes the path and a barrier touch leaves only the minimum.
+- **Accumulator (Harry):** 1× above strike to the knock-out, 2× below strike; gains capped by the knock-out while losses continue — worst case is multiples of the notional.
+- **Two-sided volatility (Brandon):** a straddle/strangle for a large move; combine a bull call spread with a bear put spread — never two structures on the same side.
+- **CMS (Tracy):** pay the long end and receive the short end to profit from short rates rising faster than long rates.
 
 # Appendix A — CPPI strategy worked examples
 
@@ -1061,7 +1076,7 @@ The reallocation repeats periodically. CPPI assumes an appreciating, relatively 
 
 # Appendix B — MAS Product Highlights Sheet practice note
 
-The source reproduces an excerpt of MAS Practice Note SFA PN-02 (issue date 8 June 2018) and references SFA 13-G13. Key teaching points:
+An excerpt of **MAS Practice Note SFA PN-02** (issued 8 June 2018), referencing SFA 13-G13. Key points:
 
 - the note guides issuers and professional advisers in preparing a PHS under the SFA framework and is read with the relevant offers regulations;
 - the PHS is submitted to MAS at prospectus lodgement;
@@ -1072,7 +1087,7 @@ The source reproduces an excerpt of MAS Practice Note SFA PN-02 (issue date 8 Ju
 
 # Appendix C — Futures contract specifications
 
-The source states that these specifications were updated as at April 2022 and directs candidates to current SGX specifications.
+These specifications were updated as at **April 2022**; always use current SGX specifications.
 
 | Contract | Main terms to remember |
 |---|---|
@@ -1143,19 +1158,19 @@ R-CBBC residual: bull `(settlement−strike)/n`; bear `(strike−settlement)/n`;
 
 `inverse floater coupon=max[X%−leverage×floating index, minimum coupon]`.
 
-`participation rate = discount sum/call premium` under the source’s structured-product convention.
+`participation rate = discount sum / call premium` under the structured-product convention.
 
 # Appendix E — Review Questions: what they test
 
-The source warns that Appendix E is for familiarisation with exam scope and format, not a complete study resource. Its 50 questions cover futures (1–5), futures strategies (6–10), options (11–15), structured warrants/DLCs (16–21), barriers/binaries/CBBCs (22–26), structured deposits/products (27–31), structured notes (32–36), structured funds (37–40), CFDs (41–45) and risks (46–50). The expanded bank in `CMSIP_QUESTIONS.md` follows this order, adds Chapters 1 and 12, and covers every subsection in this guide.
+Appendix E is for familiarisation with exam scope and format, not a complete study resource. Its 50 questions cover futures (1–5), futures strategies (6–10), options (11–15), structured warrants/DLCs (16–21), barriers/binaries/CBBCs (22–26), structured deposits/products (27–31), structured notes (32–36), structured funds (37–40), CFDs (41–45) and risks (46–50). The expanded bank in `CMSIP_QUESTIONS.md` follows this order, adds Chapters 1 and 12, and covers every subsection in this guide.
 
 # Appendix F — Essential readings
 
-The source recommends: Bodie, Kane & Marcus, *Investments*; Hicks, *Managing Currency Risk Using Foreign Exchange Options*; Walmsley, *Foreign Exchange and Money Markets Guide*; Fabozzi & Leibowitz, *Fixed Income Analysis*; the CME Group *Risk Management Handbook*; Chance, *Analysis of Derivatives*; Hull, *Options, Futures & Other Derivatives*; Kolb & Overdahl, *Financial Derivatives: Pricing and Risk Management* and *Futures, Options, and Swaps*; Wilmott, *Derivatives*; Blumke, *How To Invest in Structured Products*; Lancaster, Schultz & Fabozzi, *Structured Products and Related Credit Derivatives*; Swiss Structured Products Association; Fabozzi, Davis & Choudhry, *Introduction to Structured Finance*; and current MAS, MoneySense and SGX materials.
+Recommended: Bodie, Kane & Marcus, *Investments*; Hicks, *Managing Currency Risk Using Foreign Exchange Options*; Walmsley, *Foreign Exchange and Money Markets Guide*; Fabozzi & Leibowitz, *Fixed Income Analysis*; the CME Group *Risk Management Handbook*; Chance, *Analysis of Derivatives*; Hull, *Options, Futures & Other Derivatives*; Kolb & Overdahl, *Financial Derivatives: Pricing and Risk Management* and *Futures, Options, and Swaps*; Wilmott, *Derivatives*; Blumke, *How To Invest in Structured Products*; Lancaster, Schultz & Fabozzi, *Structured Products and Related Credit Derivatives*; Swiss Structured Products Association; Fabozzi, Davis & Choudhry, *Introduction to Structured Finance*; and current MAS, MoneySense and SGX materials.
 
 # Appendix G — Glossary and cross-reference
 
-The source glossary supplies general finance language used throughout the chapters. The most important terms are defined in context above. Use this compact cross-reference when revising:
+General finance language used throughout the chapters. The most important terms are defined in context above; use this compact cross-reference when revising:
 
 - **Market basics:** absolute/relative return, alpha, benchmark, beta, bid/ask, blue chip, asset class, asset allocation, diversification, position, portfolio, risk appetite, risk tolerance, systematic/specific risk, spot market/rate, primary/secondary market, supply/demand and price discovery.
 - **Accounting/economics:** accounts payable/receivable, balance sheet, cash-flow statement, current assets/liabilities, equity, book value, net income/profit margin, ROA/ROE, EBITDA, GDP, inflation/deflation, recession, fiscal/monetary policy, business cycle, balance of payments, current/capital account, exports/imports, trade balance, goodwill, amortisation, depreciation, fixed/variable costs, WACC, DCF/NPV, EPS, P/E/P/B/P/S/P/CF, enterprise value and EV/S.
@@ -1164,4 +1179,4 @@ The source glossary supplies general finance language used throughout the chapte
 - **Risk/control:** market, basis, leverage, liquidity, credit/counterparty, settlement, operational, legal, transaction, structure, correlation, volatility, currency, financing, reinvestment, early termination, mis-selling, sovereign, political, model, gap and roll risk; VaR, stress test, open-contract/maturity/maximum-loss/Greek/book/intraday limits, CSA, front/middle/back office, DMM and authorised participant.
 - **Corporate/market terms:** dividend/stock dividend, bonus/rights issue, share split/reverse split/buyback, conversion value, straight value, convertible bond, current yield/YTM, credit spread/rating, default/credit event, repo, T-bill/T-bond, MBS/ABS/CDO, dark pool, ECN, dealer/market maker, brokerage, proprietary trading, hedge fund, private equity, venture/growth/buyout/distressed funds, REIT, real estate, alternative investment, index/price-weighted/capitalisation-weighted, index fund, passive manager, technical analysis, EMH, APT, CAPM, efficient frontier, GIPS and information ratio.
 
-The less product-specific entries in the source glossary—annuity, appraisal, appreciation/depreciation, assets, banks, board, foundations, fraud, insurance, legal/regulatory terms, policies/procedures/processes, reserve currency/requirement, retained earnings, shareholders/voting rights, tariffs, underwriters, trade bills, trust deed and similar general terms—should be treated as ordinary definitions supporting the product chapters. When an exam question uses one, translate it back to the underlying cash flow, risk or legal relationship.
+The less product-specific entries — annuity, appraisal, appreciation/depreciation, assets, banks, board, foundations, fraud, insurance, legal/regulatory terms, policies/procedures/processes, reserve currency/requirement, retained earnings, shareholders/voting rights, tariffs, underwriters, trade bills, trust deed and similar general terms — are ordinary definitions supporting the product chapters. When a question uses one, translate it back to the underlying cash flow, risk or legal relationship.

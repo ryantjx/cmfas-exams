@@ -13,6 +13,7 @@
     "preview": "astro preview",
     "check": "astro check",
     "test:parser": "node scripts/test-parser.mjs",
+    "lint:notes": "node scripts/lint-notes.mjs",
     "verify": "npm run test:parser && npm run check && npm run build"
   },
   "dependencies": {

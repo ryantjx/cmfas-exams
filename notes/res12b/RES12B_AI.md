@@ -1,41 +1,40 @@
-# RES 12B — Teacher’s Comprehensive Study Guide
+# RES 12B — Study Guide
+
+A concise guide to the combined RES 12B paper — **RES 1B** (Rules, Ethics and Skills for Securities Dealers of Non-Exchange Members) and **RES 2B** (the derivatives equivalent). It condenses the official study guide into what the examination tests, section by section.
+
+- **Exam:** 60 multiple-choice questions, 1 hour 30 minutes, **75% to pass**.
+- **Penalties:** know which conduct is prohibited and the control that prevents it; the amount of any penalty is not tested.
+- **Currency of the law:** the official guide states its material as current at 30 September 2023. Confirm the legislation, MAS notices, exchange rules and firm procedures before relying on a point operationally.
 
 ## How to use this guide
 
-This guide is a teaching-oriented synthesis of **RES 1B — Rules, Ethics and Skills for Securities Dealers of Non-Exchange Members** and **RES 2B — Rules, Ethics and Skills for Derivatives Dealers for Non-Exchange Members**, as reproduced in `RES 12B Combined.pdf`.
-
-The source identifies the material as current and applicable as at **30 September 2023**. The examination format stated in the source for each module is **60 multiple-choice questions, 1 hour 30 minutes, 75% pass mark**. The source also states that the amount of penalties is not tested. The legal and regulatory material is presented for examination study; operational decisions must always be checked against the current legislation, notices, rules and firm procedures.
-
-The combined PDF contains two related but distinct syllabuses:
-
-- **RES 1B:** securities dealing, CPFIS, market conduct, ethics and AML/CFT.
-- **RES 2B:** derivatives dealing, OTC derivatives, derivatives ethics and skills, market conduct and AML/CFT.
-
-The two modules share many principles. They are kept separate below so that a learner can study the applicable module without confusing securities-specific rules with derivatives-specific rules.
+- Every chapter ends with **Exam cues** — what is tested, the deciding distinction and the common trap.
+- RES 1B and RES 2B share the market-participants, licensing, market-conduct and AML/CFT material. Study it once; the genuine differences are securities-specific (CPFIS, securities dealing skills) versus derivatives-specific (OTC derivatives, derivatives dealing).
+- Learn the distinctions the paper tests — exchange vs OTC, agent vs principal, AI/II/EI vs retail, CAR vs CKA, EIP vs SIP — not the wording of the rules.
 
 ## Coverage map
 
 ### RES 1B
 
-1. Capital markets industry and participants: 1.1–1.4.
-2. Licensing and business operations: 2.1–2.9.
-3. Market conduct: 3.1–3.12.
-4. Ethics and standards for securities dealing: 4.1–4.5.
-5. Securities dealing practices and skills: 5.1–5.8.
-6. CPFIS: 6.1–6.14.
-7. Prevention of financial crimes: 7.1–7.16.
-8. Appendices A–H.
+1. Capital markets industry and participants
+2. Licensing and business operations
+3. Market conduct
+4. Ethics and standards for securities dealing
+5. Securities dealing practices and skills
+6. CPFIS
+7. Prevention of financial crimes
+8. Appendices A–H
 
 ### RES 2B
 
-1. Capital markets industry and participants: 1.1–1.3.
-2. Licensing and business operations: 2.1–2.9.
-3. Market conduct: 3.1–3.20.
-4. OTC derivatives: 4.1–4.5.
-5. Ethics and standards for derivatives dealing: 5.1–5.6.
-6. Derivatives dealing practices and skills: 6.1–6.7.
-7. Prevention of financial crimes: 7.1–7.16.
-8. Appendices A–G.
+1. Capital markets industry and participants
+2. Licensing and business operations
+3. Market conduct
+4. OTC derivatives
+5. Ethics and standards for derivatives dealing
+6. Derivatives dealing practices and skills
+7. Prevention of financial crimes
+8. Appendices A–G
 
 ---
 
@@ -43,35 +42,37 @@ The two modules share many principles. They are kept separate below so that a le
 
 ## Chapter 1 — The capital markets industry in Singapore and participants
 
+Who and what makes up the Singapore market: the primary and secondary markets, the institutions that intermediate and regulate them, and the listing framework. The examination tests roles, powers and thresholds — which body may do what, and which applicant fits which listing route.
+
 ### 1.1 Introduction
 
 #### 1.1.1 The primary market
 
-The primary market is where issuers raise new capital. A business may issue equity shares, bonds or other fixed-income securities, and company warrants. Investors provide capital by buying the newly issued instruments and accept the possibility that the instrument’s value will rise or fall as the issuer’s performance, market conditions and risk perception change.
+The primary market is where issuers raise new capital — equity shares, bonds and other fixed-income securities, and company warrants. Investors supply capital and accept that the instrument’s value will move with the issuer’s performance, market conditions and risk perception.
 
 #### 1.1.2 The secondary market
 
-The secondary market is where investors trade instruments after the initial capital-raising transaction. It allows investors to realise profits, exit poor investments, transfer risk and rebalance portfolios. Derivatives—such as futures, options, warrants and leverage certificates—can also be used to transfer or manage risk without simply selling the underlying shares or bonds.
+The secondary market is where those instruments change hands after issue. It lets investors realise profits, exit poor investments, transfer risk and rebalance. Derivatives — futures, options, warrants, leverage certificates — transfer or manage risk without buying or selling the underlying.
 
 #### 1.1.3 Exchanges and OTC markets
 
-An OTC market is a decentralised “call-around” market in which participants contact one another to discover interest and negotiate trades. An exchange provides a centralised marketplace where buy and sell interests meet, improving price and quantity discovery. A person generally trades on an exchange either as a Trading Member or as a customer of a Trading Member.
+An OTC market is decentralised: participants contact one another to discover interest and negotiate. An exchange centralises buy and sell interest, improving price and quantity discovery. A person trades on an exchange either as a Trading Member or as a customer of one.
 
 #### 1.1.4 Financial intermediaries
 
-Primary-market issues are complex and normally involve an issue manager or corporate-finance adviser, often a bank or CMS licence holder. The intermediary helps with due diligence, structuring, documentation, regulatory submissions and investor communication. In the secondary market, brokers match buy and sell interests or route orders to an exchange. Custodians safeguard client assets and support settlement.
+Primary-market issues are complex and normally involve an issue manager or corporate-finance adviser, often a bank or CMS licence holder, who runs due diligence, structuring, documentation, regulatory submissions and investor communication. In the secondary market, brokers match or route orders; custodians safeguard client assets and support settlement.
 
 ### 1.2 Institutional participants in capital markets
 
 #### 1.2.1 Banks
 
-- **Qualifying Full Banks and Full Banks:** may undertake the full range of approved banking business, accept deposits in any amount and currency, and provide capital-market, custody, underwriting and corporate-finance services.
-- **Wholesale Banks:** may accept foreign-currency deposits in any amount, but Singapore-dollar deposit-taking is restricted. They may accept Singapore-dollar fixed deposits of at least S$250,000. Singapore-dollar savings/current accounts for Singapore-resident natural persons are generally non-interest-bearing unless MAS approves otherwise.
-- **Merchant Banks:** are licensed under section 55S of the Banking Act. They cannot accept Singapore-dollar deposits from, or borrow Singapore dollars from, the public except within the permitted categories such as banks, finance companies, shareholders and shareholder-controlled companies.
+- **Qualifying Full Banks and Full Banks:** full range of approved banking business; accept deposits in any amount and currency; provide capital-market, custody, underwriting and corporate-finance services.
+- **Wholesale Banks:** accept foreign-currency deposits in any amount, but Singapore-dollar deposit-taking is restricted. They may take SGD fixed deposits of at least S$250,000. SGD savings/current accounts for Singapore-resident natural persons are generally non-interest-bearing unless MAS approves otherwise.
+- **Merchant Banks:** licensed under section 55S of the Banking Act; cannot accept SGD deposits from, or borrow SGD from, the public except within permitted categories (banks, finance companies, shareholders and shareholder-controlled companies).
 
 #### 1.2.2 CMS licence holders
 
-CMS licence holders may conduct regulated activities such as dealing in capital markets products, advising on corporate finance and providing custodial services. Dealing can be as principal or agent. Product financing and specified-product lending are different activities and must not be confused: product financing extends credit for purchases, while specified-product lending involves lending securities or other specified products under the applicable rules.
+CMS licence holders conduct regulated activities such as dealing in capital markets products, advising on corporate finance and providing custodial services, as principal or agent. **Product financing** (credit for purchases) and **specified-product lending** (lending securities/products under the rules) are different activities and must not be confused.
 
 #### 1.2.3 Finance companies
 
@@ -79,96 +80,107 @@ Finance companies operate under the Finance Companies Act and may be exempt inst
 
 #### 1.2.4 Remote overseas trading and clearing members
 
-An overseas-based remote member may be exempt from holding a Singapore CMS licence if it is incorporated outside Singapore, is a member of the relevant approved exchange/clearing house or recognised market operator/clearing house, does not serve Singapore residents, is not a Singapore-regulated financial institution, is regulated in its home jurisdiction, and its home regulator has a suitable MAS information-sharing arrangement. A remote SGX clearing member cannot have an MAS-regulated financial-institution affiliate; this additional criterion does not apply to a remote trading member.
+An overseas-based remote member is exempt from a Singapore CMS licence if it: is incorporated outside Singapore; is a member of the relevant approved exchange/clearing house or recognised market operator/clearing house; does not serve Singapore residents; is not a Singapore-regulated financial institution; is regulated at home; and its home regulator has a suitable MAS information-sharing arrangement. A remote **clearing** member additionally cannot have a MAS-regulated financial-institution affiliate; a remote **trading** member has no such restriction.
 
 ### 1.3 Regulatory framework and regulatory bodies
 
-Singapore’s framework aims to maintain acceptable risk and financial-system stability, safe and efficient infrastructure, fair/orderly/transparent markets, and informed and empowered customers.
+Singapore’s framework aims at acceptable risk and financial-system stability, safe and efficient infrastructure, fair/orderly/transparent markets, and informed customers.
 
 #### 1.3.1 Monetary Authority of Singapore (MAS)
 
-MAS is Singapore’s central bank and integrated financial supervisor. Its functions include monetary policy, currency issuance, payment-system oversight, acting as banker and financial agent to the Government, integrated supervision, financial-stability surveillance, managing official reserves and developing Singapore as an international financial centre.
+MAS is Singapore’s central bank and integrated financial supervisor. Its functions include monetary policy, currency issuance, payment-system oversight, acting as banker and financial agent to the Government, supervision and financial-stability surveillance, managing official reserves and developing Singapore as an international financial centre.
 
-MAS administers, among other laws and regulations, the SFA, SFR(LCB), Organised Markets Regulations, Clearing Facilities Regulations, Financial and Margin Requirements Regulations, Corporate Governance Regulations and the Financial Services and Markets Act 2022. MAS may approve exchanges and clearing houses, review rule amendments, inspect books, investigate suspected breaches and take action such as warnings, fines, reprimands, suspensions, licence revocations and prohibition orders.
+MAS administers the SFA, SFR(LCB), Organised Markets Regulations, Clearing Facilities Regulations, Financial and Margin Requirements Regulations, Corporate Governance Regulations and the Financial Services and Markets Act 2022. Its powers include approving exchanges and clearing houses, reviewing rule amendments, inspecting books, investigating breaches and imposing warnings, fines, reprimands, suspensions, licence revocations and prohibition orders.
 
 #### 1.3.2 Singapore Exchange Limited (SGX)
 
-SGX is an integrated multi-asset market infrastructure providing listing, trading, clearing, settlement, depository and market-data services. Its regulatory approach is guided by:
-
-1. disclosure-based regulation;
-2. comprehensive risk management;
-3. risk-based targeting of regulatory activity;
-4. balanced international best practice;
-5. transparency; and
-6. SGX as frontline regulator while managing regulatory conflict under MAS oversight.
+SGX is an integrated multi-asset market infrastructure providing listing, trading, clearing, settlement, depository and market-data services. Its regulatory approach is guided by: (1) disclosure-based regulation; (2) comprehensive risk management; (3) risk-based targeting; (4) balanced international best practice; (5) transparency; and (6) SGX as frontline regulator while managing regulatory conflict under MAS oversight.
 
 #### 1.3.3 SGX-ST
 
-SGX Securities Trading Limited is the approved securities exchange and manages day-to-day securities-market regulation, membership, trading requirements and disciplinary action. Its Mainboard is designed for more established issuers and has quantitative entry requirements. Catalist is designed for smaller or fast-growing issuers and uses a sponsor-supervised model without minimum quantitative entry criteria. The SGX-ST Listing Manual governs listing, acquisitions, realisations, takeovers and timely disclosure.
+SGX Securities Trading is the approved securities exchange; it manages day-to-day securities-market regulation, membership, trading requirements and discipline. **Mainboard** is for established issuers and has quantitative entry requirements. **Catalist** is for smaller or fast-growing issuers, uses a sponsor-supervised model and has no minimum quantitative entry test. The SGX-ST Listing Manual governs listing, acquisitions, realisations, takeovers and timely disclosure.
 
 #### 1.3.4 CDP
 
-The Central Depository provides integrated clearing, settlement and depository facilities for equities, fixed income and funds. It holds book-entry securities as bare trustee for depositors, immobilises securities and uses a nominated custodian for physical certificates. SGX trades settle on **T+2**. The 2021 intraday settlement run facilitates earlier settlement and reduces counterparty risk. Investors with direct CDP accounts should link their trading accounts to those accounts.
+The Central Depository provides integrated clearing, settlement and depository facilities for equities, fixed income and funds. It holds book-entry securities as bare trustee, immobilises securities and uses a nominated custodian for physical certificates. SGX trades settle on **T+2**; a 2021 intraday settlement run allows earlier settlement and reduces counterparty risk. Direct CDP account holders should link their trading accounts.
 
-CDP’s Pre-Settlement Matching Service automates the matching of settlement instructions, reduces manual errors and mitigates settlement failures. Settlement may be **delivery versus payment (DVP)**, where payment is made against delivery through CDP, or **free of payment (FOP)**, where cash settlement occurs outside CDP. CDP Clearing, Depository and Settlement Rules apply.
+- **Pre-Settlement Matching Service:** automates the matching of settlement instructions, reducing manual error and settlement failure.
+- **Settlement:** **delivery versus payment (DVP)** settles payment against delivery through CDP; **free of payment (FOP)** settles cash outside CDP. The CDP Clearing, Depository and Settlement Rules apply.
 
 #### 1.3.5 SGX-DT
 
-SGX Derivatives Trading, established in 1978, operates a futures market for commodities and financial underlyings, including interest rates, equity and equity indices and energy. Its Futures Trading Rules govern members and trading/settlement conduct.
+SGX Derivatives Trading (est. 1978) operates a futures market for commodity and financial underlyings — interest rates, equity and equity indices, and energy. Its Futures Trading Rules govern members and trading/settlement conduct.
 
 #### 1.3.6 SGX-DC
 
-SGX Derivatives Clearing clears products traded on SGX-DT and OTC commodity and financial derivatives registered through the SGX Titan OTC platform. It is a Qualifying Central Counterparty, which may reduce Basel III capital costs for members and banking-group participants. SGX-DC Clearing Rules govern clearing members.
+SGX Derivatives Clearing clears products traded on SGX-DT and OTC commodity and financial derivatives registered through the SGX Titan OTC platform. It is a Qualifying Central Counterparty, which can reduce Basel III capital costs for members and banking-group participants. The SGX-DC Clearing Rules govern clearing members.
 
 #### 1.3.7 SGX RegCo
 
-SGX RegCo was created as an independent regulatory subsidiary in 2017. It has its own board and separates frontline regulatory functions from SGX’s commercial and operating activities.
+SGX RegCo, an independent regulatory subsidiary created in 2017, has its own board and separates frontline regulatory functions from SGX’s commercial and operating activities.
 
 ### 1.4 SGX listing framework
 
 #### 1.4.1 Listing process
 
-An issuer normally appoints a CMS corporate-finance issue manager or adviser and professional advisers such as lawyers and accountants. The process includes preparation and due diligence, submission of listing documents, review by SGX-ST and—where a prospectus is involved—MAS/SGX review, public exposure, registration, launch, allocation and commencement of trading.
+An issuer appoints a CMS corporate-finance issue manager or adviser plus professional advisers (lawyers, accountants). The process: preparation and due diligence; submission of listing documents; SGX-ST review, with MAS/SGX prospectus review where a prospectus is involved; public exposure; registration; launch; allocation; and commencement of trading.
 
 #### 1.4.2 IPO timeline
 
-For a Mainboard IPO, the source describes Section A review as commonly taking about four to six weeks, followed by Section B/prospectus review, any research blackout, public exposure on MAS OPERA for at least seven calendar days, registration/launch and listing. For Catalist, the sponsor submits a pre-admission notification, SGX-ST reviews it, the listing application and offer document are lodged, the offer document is exposed for public comment, and registration/launch follows. The indicative Catalist stages are SGX-ST review of two to four weeks, public exposure of two weeks, registration/launch of one to two weeks, and commencement of trading.
+- **Mainboard:** Section A review commonly about four to six weeks; then Section B/prospectus review, any research blackout, public exposure on MAS OPERA for at least seven calendar days, registration/launch and listing.
+- **Catalist:** the sponsor submits a pre-admission notification; SGX-ST reviews it (indicative two to four weeks); the listing application and offer document are lodged; the offer document is exposed for public comment (indicative two weeks); registration/launch (indicative one to two weeks); trading commences.
 
 #### 1.4.3 Listing methods and GDRs
 
-- **Primary listing:** the issuer satisfies the initial listing requirements and, after listing, continuing obligations.
+- **Primary listing:** the issuer meets the initial listing requirements and, after listing, the continuing obligations.
 - **Secondary listing:** an issuer already listed on an acceptable home exchange may list on SGX-ST Mainboard, generally continuing to comply with its home exchange and home-jurisdiction law while making simultaneous disclosures to SGX-ST.
-- **Global Depositary Receipts (GDRs):** may be listed on Mainboard by an overseas-listed company and are specialist products for institutional and accredited investors. Information released to the home exchange must also be provided to SGX-ST in English.
+- **Global Depositary Receipts (GDRs):** may be listed on Mainboard by an overseas-listed company; specialist products for institutional and accredited investors. Information released to the home exchange must also be provided to SGX-ST in English.
 
 #### 1.4.4 IPO or introduction
 
-An IPO involves an offer of new shares and/or existing shares to the public and a prospectus lodged with MAS. An introduction involves no public share offer and is suitable where the issuer does not need capital at listing; an introductory document is submitted to SGX-ST and is not subject to public comments in the same way as a prospectus.
+An **IPO** offers new and/or existing shares to the public under a prospectus lodged with MAS. An **introduction** involves no public share offer and suits an issuer that needs no capital at listing; an introductory document is submitted to SGX-ST and is not exposed for public comment like a prospectus.
 
 #### 1.4.5 Mainboard admission requirements
 
 An IPO applicant generally satisfies one of three quantitative tests:
 
-1. at least S$30 million consolidated pre-tax profit for the latest financial year and at least three years’ operating track record;
-2. profit in the latest financial year, market capitalisation of at least S$150 million and at least three years’ operating track record; or
-3. operating revenue in the latest completed financial year and market capitalisation of at least S$300 million. REITs and business trusts without historical financial information may use this route if they can demonstrate immediate operating revenue.
+1. at least **S$30 million** consolidated pre-tax profit for the latest financial year and at least three years’ operating track record;
+2. profit in the latest financial year, market capitalisation of at least **S$150 million** and at least three years’ operating track record; or
+3. operating revenue in the latest completed financial year and market capitalisation of at least **S$300 million** (REITs and business trusts without historical financials may use this route if they can demonstrate immediate operating revenue).
 
-The applicant should be financially healthy, with positive operating cash flow considered, and debts owed to the group by directors, substantial shareholders and controlled companies should be settled before listing. Mining, oil and gas issuers have special market-capitalisation, reserves, working-capital, independent-qualified-person and independent-director requirements. Shareholder-spread, independent-director, promoter moratorium, prospectus, accounting-standard, domicile, currency and continuing-obligation requirements also apply. The source highlights, among other matters, 25% public shareholding and at least 500 shareholders for issuers below S$300 million market capitalisation, at least two independent directors, Singapore-resident independent directors for foreign issuers, and promoter moratoria tied to the profitability or market-capitalisation test.
+The applicant should be financially healthy, with positive operating cash flow considered; debts owed to the group by directors, substantial shareholders and controlled companies should be settled before listing. Mining, oil and gas issuers have special market-capitalisation, reserves, working-capital, independent-qualified-person and independent-director requirements. Shareholder-spread, independent-director, promoter-moratorium, prospectus, accounting-standard, domicile, currency and continuing-obligation requirements also apply — including **25% public shareholding** and at least **500 shareholders** for issuers below S$300 million market capitalisation, at least two independent directors, Singapore-resident independent directors for foreign issuers, and promoter moratoria tied to the profit or market-capitalisation test.
 
 #### 1.4.6 Catalist listing
 
-Catalist permits only a primary listing and requires an SGX-authorised full sponsor. There is no minimum quantitative entry test, but the sponsor decides whether the applicant is suitable and SGX-ST may impose conditions, delay or refuse admission. A continuing sponsor must be retained throughout the Catalist listing.
+Catalist permits only a primary listing and requires an SGX-authorised **full sponsor**. There is no minimum quantitative entry test; the sponsor decides suitability, and SGX-ST may impose conditions, delay or refuse admission. A continuing sponsor must be retained throughout the listing.
 
-Key criteria include 15% of post-invitation share capital in public hands, at least 200 shareholders, at least two independent directors, and at least one Singapore-resident independent director for a foreign issuer. Mining, oil and gas applicants must substantiate resources and maintain sufficient working capital. Offer documents are lodged on Catalodge, follow prospectus-style disclosure requirements including SFA liability provisions, and are exposed for at least 14 days.
+Key criteria: **15%** of post-invitation share capital in public hands, at least **200 shareholders**, at least two independent directors, and at least one Singapore-resident independent director for a foreign issuer. Mining, oil and gas applicants must substantiate resources and maintain sufficient working capital. Offer documents are lodged on **Catalodge**, follow prospectus-style disclosure including SFA liability provisions, and are exposed for at least **14 days**.
 
-Mainboard is for established companies, is exchange-regulated and has quantitative admission tests; Catalist is for fast-growing companies, is sponsor-supervised and has no quantitative admission test. The source also compares public-offer thresholds, shareholder-approval benchmarks and sponsor responsibilities.
+**Mainboard vs Catalist:** Mainboard is for established companies, is exchange-regulated and has quantitative admission tests; Catalist is for fast-growing companies, is sponsor-supervised and has no quantitative admission test.
 
-#### 1.4.7–1.4.8 Continuing obligations and sponsors
+#### 1.4.7 Continuing obligations
 
-Mainboard and Catalist issuers have broadly similar continuing obligations: material disclosure, periodic reporting, additional share issues, corporate transactions, corporate governance, interested-person transactions and free-float requirements. Sponsors must remain eligible, seek SGX advice on issues affecting market integrity, maintain adequate systems and registered professionals, act independently and professionally, maintain regular contact, use qualified specialists where necessary and avoid conflicts. SGX reviews sponsor due diligence, continuing activities and breaches. It may reprimand, require education or rectification, impose conditions, or suspend sponsors and registered professionals.
+Mainboard and Catalist issuers have broadly similar continuing obligations: material disclosure, periodic reporting, additional share issues, corporate transactions, corporate governance, interested-person transactions and free-float requirements.
 
-#### 1.4.9–1.4.12 Terms, information, voting and enforcement
+#### 1.4.8 Sponsors
 
-“Listed” means appearing on SGX-ST’s official list. “Quoted” may mean trading on an OTC quotation platform without being listed and without the full listing/continuing-obligation framework. Listed issuers must disclose material information via SGXNet, including information about subsidiaries and associated companies when needed to avoid a false market or inform investment decisions. Shareholders receive meeting notices—normally 14 days for ordinary resolutions and 21 days for special resolutions—and may attend or appoint proxies; resolutions are voted by poll. SGX may warn, fine through composition, require education or independent reviews, require remediation, suspend an issue manager or trading, or remove an issuer from the official list.
+Sponsors must remain eligible, seek SGX advice on issues affecting market integrity, maintain adequate systems and registered professionals, act independently and professionally, maintain regular contact, use qualified specialists where necessary and avoid conflicts. SGX reviews sponsor due diligence, continuing activities and breaches, and may reprimand, require education or rectification, impose conditions, or suspend sponsors and registered professionals.
+
+#### 1.4.9 Listed and quoted
+
+“Listed” means appearing on SGX-ST’s official list. “Quoted” may mean trading on an OTC quotation platform without being listed and without the full listing/continuing-obligation framework.
+
+#### 1.4.10 Disclosure and SGXNet
+
+Listed issuers must disclose material information via SGXNet, including information about subsidiaries and associated companies where needed to avoid a false market or inform investment decisions.
+
+#### 1.4.11 Meetings and voting
+
+Shareholders receive meeting notices — normally **14 days** for ordinary resolutions and **21 days** for special resolutions — and may attend or appoint proxies; resolutions are voted by **poll**.
+
+#### 1.4.12 Enforcement
+
+SGX may warn, fine by composition, require education or independent reviews, require remediation, suspend an issue manager or trading, or remove an issuer from the official list.
 
 #### 1.4.13 Debt securities
 
@@ -176,70 +188,121 @@ SGX-ST may list fixed- and floating-rate bonds, convertible/exchangeable and cov
 
 #### 1.4.14 SPACs
 
-The SPAC framework introduced a listing vehicle that raises IPO capital to acquire an operating business or assets through a merger, share exchange or similar combination. At IPO a SPAC has no operating history or revenue-generating business, so information about the target is developed when a proposed business combination is announced.
+The SPAC framework introduced a listing vehicle that raises IPO capital to acquire an operating business or assets through a merger, share exchange or similar combination. At IPO a SPAC has no operating history or revenue-generating business, so information about the target develops when a proposed business combination is announced.
+
+### Exam cues
+
+- **Mainboard vs Catalist:** S$30m profit / S$150m or S$300m market cap with 500 shareholders vs no quantitative test, 200 shareholders and sponsor supervision. Catalist is **primary listing only**.
+- **Numbers that decide questions:** T+2 settlement; 25% public float (Mainboard below S$300m) and 15% (Catalist); 14 days ordinary and 21 days special meeting notice; OPERA exposure of at least 7 days (Mainboard) and 14 days (Catalist).
+- **Primary vs secondary listing:** a secondary listing continues to comply with its home exchange.
+- **GDRs:** Mainboard only; institutional and accredited investors; English disclosure to SGX-ST.
+- **IPO vs introduction:** an introduction raises no public capital and has no prospectus exposure.
 
 ## Chapter 2 — Licensing and business operations
 
+How a firm becomes and stays licensed, how representatives are registered, and the controls around advertising, customer accounts, privacy, records and customer money. The examination tests who needs what licence, which assessment applies to which account, and the notification clocks.
+
 ### 2.1 Introduction
 
-CMS licence holders are licensed under the SFA. Corporations need a licence for regulated activities unless exempt. Individuals acting for a CMS licence holder must be appointed, provisional or temporary representatives unless exempt. The purpose of licensing is confidence, stability, professional conduct, adequate resources, competent representatives and controls proportionate to the business.
+CMS licence holders are licensed under the SFA. Corporations need a licence for regulated activities unless exempt; individuals acting for a holder must be appointed, provisional or temporary representatives unless exempt. Licensing exists to secure confidence, stability, professional conduct, adequate resources, competent representatives and controls proportionate to the business.
 
 ### 2.2 Grant of a CMS licence
 
 #### 2.2.1 Base capital requirements
 
-For securities, CIS units and exchange-traded derivatives, the source gives these common BCR categories: clearing member S$5 million; trading member S$1 million; non-member S$1 million; introducing broker S$500,000; and other eligible firms S$50,000. If more than one BCR applies, the highest applicable amount is required. Exchange rules may impose a higher amount.
+For securities, CIS units and exchange-traded derivatives the common BCR categories are:
 
-#### 2.2.2–2.2.3 Applicant and management criteria
+| Entity | BCR |
+|---|---:|
+| Clearing member | S$5 million |
+| Trading member | S$1 million |
+| Non-member | S$1 million |
+| Introducing broker | S$500,000 |
+| Other eligible firms | S$50,000 |
 
-The applicant should be primarily engaged in one or more regulated activities, operate from a physical Singapore office, and be able to discharge duties efficiently, honestly and fairly. MAS considers reputation, at least five years’ relevant track record, home supervision and the fit-and-proper status of the applicant, holding/related companies, officers, employees, representatives and substantial shareholders. The board needs at least two members, at least one resident in Singapore, and the CEO should be Singapore-resident. MAS approval is needed for relevant CEO/director appointments and the firm should employ at least two full-time representatives for each regulated activity.
+If more than one BCR applies, the **highest** applicable amount is required; exchange rules may impose a higher figure.
+
+#### 2.2.2 Applicant criteria
+
+The applicant should be primarily engaged in one or more regulated activities, operate from a physical Singapore office, and be able to discharge its duties efficiently, honestly and fairly. MAS considers reputation, at least five years’ relevant track record, home supervision, and the fit-and-proper status of the applicant, its holding and related companies, officers, employees, representatives and substantial shareholders.
+
+#### 2.2.3 Management criteria
+
+The board needs at least **two** members and at least **one** resident in Singapore; the CEO should be Singapore-resident. MAS approval is required for relevant CEO and director appointments. The firm should employ at least **two full-time representatives** for each regulated activity.
 
 #### 2.2.4 Change of particulars
 
-MAS must be informed within 14 days of changes to the firm’s name, principal place of business, regulated activities/products, trading name and other prescribed particulars, or cessation of a regulated activity.
+MAS must be informed **within 14 days** of changes to the firm’s name, principal place of business, regulated activities/products, trading name or other prescribed particulars, or of the cessation of a regulated activity.
 
-#### 2.2.5–2.2.6 Lapsing, revocation, suspension and approvals
+#### 2.2.5 Lapse, revocation and suspension
 
-A licence lapses on winding-up/dissolution or a prescribed event. MAS may revoke or suspend it where the firm or its people fail to act efficiently, honestly and fairly, fail to act in customers’ best interests or breach licence conditions. Continuing to operate after lapse, suspension or revocation is a serious offence. MAS prior approval is required for CEO and director appointments; directors and CEOs must remain fit and proper.
+A licence lapses on winding-up/dissolution or a prescribed event. MAS may revoke or suspend it where the firm or its people fail to act efficiently, honestly and fairly, fail to act in customers’ best interests, or breach licence conditions. Continuing to operate after lapse, suspension or revocation is a serious offence.
+
+#### 2.2.6 Approvals
+
+MAS prior approval is required for CEO and director appointments, and directors and CEOs must remain fit and proper.
 
 #### 2.2.7 Duties of CMS licence holders
 
-The holder should maintain written operating, financial, accounting, compliance and internal-audit policies; identify, address and monitor risks; audit compliance with law and exchange/clearing-house rules; set written limits for discretionary powers; document monitoring; ensure accurate and complete reports; segregate duties; maintain qualified representatives and an examination/exemption register; and report representative misconduct within 14 days of discovery.
+Maintain written operating, financial, accounting, compliance and internal-audit policies; identify, address and monitor risks; audit compliance with law and exchange/clearing-house rules; set written limits for discretionary powers; document monitoring; ensure accurate and complete reports; segregate duties; maintain qualified representatives and an examination/exemption register; and report representative misconduct **within 14 days** of discovery.
 
 ### 2.3 Registration of representatives
 
-An individual may conduct a regulated activity only after the relevant notification/registration as appointed, provisional or temporary representative, or under an exemption. A representative may act for one principal only unless MAS permits more than one or the principals are related corporations.
+#### 2.3.1 Notification and the one-principal rule
 
-#### 2.3.2 Competency and 2.3.3 due diligence
+An individual may conduct a regulated activity only after the relevant notification/registration as an appointed, provisional or temporary representative, or under an exemption. A representative may act for **one principal only** unless MAS permits more or the principals are related corporations.
 
-The representative must satisfy education, relevant work-experience, CMFAS and fit-and-proper requirements. The principal should verify identity and work authorisation, conduct reference and public-register checks, review regulatory/criminal/disciplinary history and check financial soundness, bankruptcy, credit status and relevant CPF obligations for self-employed persons.
+#### 2.3.2 Competency requirements
 
-#### 2.3.4–2.3.7 RNF, public register and continuing education
+The representative must satisfy education, relevant work-experience, CMFAS and fit-and-proper requirements.
 
-MAS considers seriousness, relevance and time elapsed when refusing, revoking or suspending registration. The Representative Notification Framework allows electronic notification. The public register shows permitted activities, recent principals and formal MAS action. The RNF number stays with the individual when changing principals. Status can cease when the principal notifies MAS, the person stops acting for one month, MAS revokes it, the principal ceases the activity or the principal’s licence lapses/revokes/is prohibited. Provisional status is limited to three months; temporary appointments are limited to the permitted short-term periods. A representative reports changes to the principal within seven days and the principal reports to MAS within 14 days. Continuing education should cover ethics, market conduct, products, compliance and other relevant skills; the source notes minimum core and supplementary CPD expectations.
+#### 2.3.3 Due diligence
+
+The principal should verify identity and work authorisation, conduct reference and public-register checks, review regulatory/criminal/disciplinary history, and check financial soundness, bankruptcy, credit status and relevant CPF obligations for self-employed persons.
+
+#### 2.3.4 Representative Notification Framework and RNF
+
+The Representative Notification Framework allows electronic notification. The **RNF number stays with the individual** when changing principals.
+
+#### 2.3.5 Public register
+
+The public register shows permitted activities, recent principals and formal MAS action. MAS considers seriousness, relevance and time elapsed when refusing, revoking or suspending registration.
+
+#### 2.3.6 Cessation of status
+
+Status can cease when the principal notifies MAS, the person stops acting for one month, MAS revokes it, the principal ceases the activity, or the principal’s licence lapses/revokes/is prohibited. Provisional status is limited to **three months**; temporary appointments are limited to the permitted short-term periods. A representative reports changes to the principal within **seven days**, and the principal reports to MAS within **14 days**.
+
+#### 2.3.7 Continuing education
+
+Continuing education should cover ethics, market conduct, products, compliance and other relevant skills, with minimum core and supplementary CPD expectations.
 
 ### 2.4 Advertising
 
-Product advertisements must not be false or misleading, must be fair and balanced, clear and legible, comply with electronic-font requirements, carry the statement “This advertisement has not been reviewed by the Monetary Authority of Singapore”, and receive documented written approval before publication. Non-product advertisements must not be false or misleading, must not promise a supposedly free service unless it is genuinely free without conditions, and must not exaggerate in a way that exploits inexperience.
+Product advertisements must not be false or misleading; must be fair and balanced, clear and legible; must meet electronic-font requirements; must carry the statement **“This advertisement has not been reviewed by the Monetary Authority of Singapore”**; and must receive documented written approval before publication.
+
+Non-product advertisements must not be false or misleading, must not promise a supposedly free service unless it is genuinely free without conditions, and must not exaggerate in a way that exploits inexperience.
 
 ### 2.5 Customer accounts and SIPs
 
-Before trading, the firm should complete account opening, documentation, suitability/risk profiling and any required Customer Account Review (CAR) or Customer Knowledge Assessment (CKA).
+Before trading, the firm completes account opening, documentation, suitability/risk profiling and any required **Customer Account Review (CAR)** or **Customer Knowledge Assessment (CKA)**.
 
-- **Listed SIPs:** CAR assesses knowledge/experience in derivatives or listed SIPs.
-- **Unlisted SIPs:** CKA assesses knowledge/experience in the particular unlisted SIP.
-- A relevant diploma, professional finance qualification, six qualifying transactions in the preceding three years, or three consecutive years of relevant experience in the preceding ten years may satisfy the relevant assessment. A prescribed independent learning module may also help satisfy the knowledge requirement.
-- Senior management or designated personnel who are independent of the account-opening process must approve a SIP account.
-- A customer may request advice at any time. For unlisted SIPs, the firm should offer advice; if the customer declines, obtain written confirmation and explain the customer’s responsibility for suitability.
-- If the customer does not possess knowledge/experience, notify him in writing. For a listed SIP account, obtain written confirmation of the intention to proceed, explain general features and risks in writing, and state that the customer is responsible for understanding the products. For an unlisted SIP, the firm cannot transact unless it is also an exempt financial adviser and provides the required advisory service.
-- A CAR is generally valid for three years, subject to the source’s transaction-continuity rule or a new CAR. A positive CKA is valid for one year.
-- Keep profile, education, work/investment experience, assessment, outcome, approval and relevant trade communications. Customer profiles should be updated at least annually.
+| | Listed SIP | Unlisted SIP |
+|---|---|---|
+| Assessment | CAR | CKA |
+| Knowledge/experience in | derivatives or listed SIPs | the particular unlisted SIP |
+| Validity | 3 years (subject to transaction-continuity rule) | 1 year (positive CKA) |
 
-For overseas-listed investment products, provide the risk-warning statement and obtain acknowledgement before the first relevant transaction. Risks include different investor protection, laws and redress, tax and currency exposure, additional costs, counterparty/correspondent-broker default and political/economic/social developments. The acknowledgement must be retained for at least five years. If no reliable EIP-classification system is used, the product is treated as a SIP and CAR applies; outsourced classification remains the CMS holder’s responsibility.
+- A relevant diploma, professional finance qualification, **six qualifying transactions in the preceding three years**, or **three consecutive years** of relevant experience in the preceding ten years may satisfy the assessment; a prescribed independent learning module may help.
+- Senior management or designated personnel **independent of the account-opening process** must approve a SIP account.
+- A customer may request advice at any time. For unlisted SIPs the firm should **offer** advice; if declined, obtain written confirmation and explain the customer’s responsibility for suitability.
+- If the customer lacks knowledge/experience, notify him in writing. For a **listed** SIP, obtain written confirmation of intent to proceed, explain general features and risks in writing, and state the customer is responsible for understanding the products. For an **unlisted** SIP, the firm cannot transact unless it is also an exempt financial adviser providing the required advisory service.
+- Keep profile, education, work/investment experience, assessment, outcome, approval and relevant trade communications; update profiles at least annually.
+
+**Overseas-listed investment products:** provide the risk-warning statement and obtain acknowledgement before the first relevant transaction. Risks include different investor protection, laws and redress, tax and currency exposure, additional costs, counterparty/correspondent-broker default and political/economic/social developments. Retain the acknowledgement for at least **five years**. Without a reliable EIP-classification system the product is treated as a SIP and CAR applies; outsourced classification remains the CMS holder’s responsibility.
 
 ### 2.6 Privacy of customer information
 
-Customer and order information is confidential. Banking Act section 47 permits disclosure only in specified circumstances such as customer consent, operational/risk-management or audit needs, or legal/regulatory investigation. An order may be disclosed only when needed to execute it, permitted by relevant market/clearing rules, or required by MAS. PDPA requires disciplined collection, use, accuracy, storage and disclosure of personal data. Check the Do Not Call Registry before marketing calls and obtain clear, unambiguous consent.
+Customer and order information is confidential. **Banking Act s.47** permits disclosure only in specified circumstances — customer consent, operational/risk-management or audit needs, or legal/regulatory investigation. An order may be disclosed only when needed to execute it, permitted by market/clearing rules, or required by MAS. **PDPA** requires disciplined collection, use, accuracy, storage and disclosure of personal data. Check the **Do Not Call Registry** before marketing calls and obtain clear, unambiguous consent.
 
 ### 2.7 Managing trading accounts
 
@@ -247,39 +310,74 @@ Open the account, obtain legal documents, complete suitability and risk profilin
 
 #### 2.7.1 Contract notes
 
-Issue a contract note by the next business day after a purchase or sale, or by the next business day after a required late detail becomes available. It should identify the firm and address, principal/dealing-against-customer status where relevant, customer, date, product and quantity, price, consideration, adjustments, commission and taxes/duties. Overseas transactions may follow the overseas exchange’s requirements. Maintain channels for discrepancy reports and complaints.
+Issue a contract note by the **next business day** after a purchase or sale, or by the next business day after a required late detail becomes available. It should identify: firm and address; principal/dealing-against-customer status where relevant; customer; date; product and quantity; price; consideration; adjustments; commission; and taxes/duties. Overseas transactions may follow the overseas exchange’s requirements. Maintain channels for discrepancy reports and complaints.
 
 #### 2.7.2 Statements
 
-Monthly statements should show transactions and prices, derivatives/spot-FX positions and marked-to-market unrealised profit or loss, custody assets and collateral, asset movements and reasons, money movement/balance, and charges/credits. A monthly statement need not be sent where CDP/clearing-house information already supplies it, there has been no account change, or an eligible non-retail customer uses agreed real-time electronic statements or requests non-receipt in writing. If the last month of a calendar quarter has no monthly statement, send a quarterly statement with the same information.
+Monthly statements show transactions and prices, derivatives/spot-FX positions and marked-to-market unrealised P&L, custody assets and collateral, asset movements and reasons, money movement/balance, and charges/credits.
+
+| A monthly statement is **not** required where… |
+|---|
+| CDP/clearing-house information already supplies it |
+| there has been no account change |
+| an eligible non-retail customer uses agreed real-time electronic statements or requests non-receipt in writing |
+
+If the last month of a calendar quarter has no monthly statement, send a **quarterly** statement with the same information.
 
 ### 2.8 Books and audit trails
 
-Keep books and transaction records in English for at least five years, in a form that permits proper audit and true/fair financial statements. Records cover customer and guarantor details, authorised traders, customer assets and custody movements, powers of attorney, agreements, risk disclosures, acknowledgements, account-opening documents, orders, advertisements and advice, ledgers/invoices, transaction confirmations, proprietary transactions, income/expenses, liabilities, assets, OTC transactions and underwriting/placement allotment bases. The list is not exhaustive.
+Keep books and transaction records **in English for at least five years**, in a form permitting proper audit and true/fair financial statements. Records cover customer and guarantor details, authorised traders, customer assets and custody movements, powers of attorney, agreements, risk disclosures, acknowledgements, account-opening documents, orders, advertisements and advice, ledgers/invoices, transaction confirmations, proprietary transactions, income/expenses, liabilities, assets, OTC transactions, and underwriting/placement allotment bases (the list is not exhaustive).
 
-Appoint an auditor and lodge annual accounts, balance sheet and auditor’s report with MAS within five months of the financial year-end. The auditor must immediately report material financial deterioration, SFA contraventions/fraud or irregularities affecting customer money/assets; a copy goes to an approved exchange where relevant. Destroying, concealing, altering or sending books/assets out of Singapore to obstruct examination or audit is an offence. Reasonable precautions must prevent falsification.
+Appoint an auditor and lodge annual accounts, balance sheet and auditor’s report with MAS **within five months** of the financial year-end. The auditor must **immediately** report material financial deterioration, SFA contraventions/fraud or irregularities affecting customer money/assets, with a copy to an approved exchange where relevant. Destroying, concealing, altering or sending books/assets out of Singapore to obstruct examination or audit is an offence; reasonable precautions must prevent falsification.
 
 ### 2.9 Customer money and assets
 
-Customer money generally includes funds received for purchases/sales, holding products, maintaining trading accounts, product financing, fund management or the firm’s business, subject to exclusions such as amounts already directed to repay the customer’s debt, pay the customer/another entitled person, pay proper charges, or certain institutional OTC transactions. Customer assets are beneficially owned securities and assets other than money, subject to the institutional OTC carve-out.
+#### 2.9.1 Customer money — definition
 
-#### 2.9.1–2.9.2 Customer money
+Customer money generally includes funds received for purchases/sales, holding products, maintaining trading accounts, product financing, fund management or the firm’s business — subject to exclusions such as amounts already directed to repay the customer’s debt, pay the customer/another entitled person, pay proper charges, or certain institutional OTC transactions.
 
-Treat customer money as belonging to the customer. Retail customer money for OTC derivatives must be segregated in trust; other retail money and non-retail money must be placed in a permitted trust/segregated account or an account directed by the customer under the rules. Deposit by the next business day. Do not commingle with firm money or use it for another person’s margin, guarantee or credit. Permitted institutions include licensed banks, merchant banks and finance companies; certain foreign-currency deposits may be placed with an authorised foreign custodian with prior written consent.
+#### 2.9.2 Customer money — segregation and permitted use
 
-Disclose trust-account arrangements, commingling, insolvency consequences, clearing-house placements and foreign-jurisdiction risks to retail customers. Perform initial and periodic due diligence on the financial institution and obtain its written acknowledgement that the money is held on trust, separately designated and not subject to set-off for the firm’s debt. Customer money may be placed with clearing houses/members to facilitate positions or invested in permitted government securities/debt instruments. Interest and returns belong to customers, except the firm may retain returns on its own money advanced to maintain the account. Withdrawals are limited to entitled payments, customer obligations, proper charges, written directions (with the retail exception), reimbursement of advances without creating underfunding, clearing/investment purposes or lawfully authorised purposes.
+Treat customer money as belonging to the customer.
+
+- **Retail customer money for OTC derivatives:** must be segregated in trust.
+- **Other retail and non-retail money:** placed in a permitted trust/segregated account or an account directed by the customer under the rules.
+- **Deposit by the next business day.** Do not commingle with firm money or use it for another person’s margin, guarantee or credit.
+- **Permitted institutions:** licensed banks, merchant banks and finance companies; certain foreign-currency deposits may be placed with an authorised foreign custodian with prior written consent.
+- Disclose trust-account arrangements, commingling, insolvency consequences, clearing-house placements and foreign-jurisdiction risks to retail customers. Perform initial and periodic due diligence on the institution and obtain its written acknowledgement that the money is held on trust, separately designated and not subject to set-off for the firm’s debt.
+- Customer money may be placed with clearing houses/members to facilitate positions or invested in permitted government securities/debt instruments. Interest and returns belong to customers, except the firm may retain returns on its **own** money advanced to maintain the account.
+- **Withdrawals** are limited to entitled payments, customer obligations, proper charges, written directions (with the retail exception), reimbursement of advances without creating underfunding, clearing/investment purposes, or lawfully authorised purposes.
 
 #### 2.9.3 Customer assets
 
-Deposit customer assets in a custody account on trust, separately from firm assets, normally by the next business day. Permitted custodians include banks, merchant banks, finance companies, depository agents, approved trustees and licensed custodians; a foreign custodian requires prior written consent. Disclose commingling, insolvency and foreign-law risks. Obtain the custodian’s written acknowledgement and conduct initial and periodic suitability due diligence.
+Customer assets are beneficially owned securities and assets other than money, subject to the institutional OTC carve-out. Deposit them in a custody account on trust, separately from firm assets, normally by the next business day. Permitted custodians include banks, merchant banks, finance companies, depository agents, approved trustees and licensed custodians; a foreign custodian requires prior written consent. Disclose commingling, insolvency and foreign-law risks; obtain the custodian’s written acknowledgement and conduct initial and periodic suitability due diligence.
 
-Customer agreements must explain instructions, authority, liens/security interests, collateral realisation, custodian default, commingling records, registration, income/entitlements, information and fees. Custody agreements must require separate identification, restrict liens and withdrawals, provide records, entitlement procedures, custodian liability and fees. Lending specified products requires risk explanation and written consent for retail/non-exempt customers, plus agreements. A mortgage/charge/pledge/hypothecation must not exceed the amount owed; retail customers require disclosure, risk explanation and written consent. Withdrawals are allowed only for entitled delivery, customer obligations, written instructions, specified-product lending, lawful collateralisation, clearing-house purposes or law.
+- **Customer agreements** must explain instructions, authority, liens/security interests, collateral realisation, custodian default, commingling records, registration, income/entitlements, information and fees.
+- **Custody agreements** must require separate identification, restrict liens and withdrawals, and provide records, entitlement procedures, custodian liability and fees.
+- **Lending specified products** requires risk explanation and written consent for retail/non-exempt customers, plus agreements.
+- A **mortgage/charge/pledge/hypothecation** must not exceed the amount owed; retail customers require disclosure, risk explanation and written consent.
+- **Withdrawals** are allowed only for entitled delivery, customer obligations, written instructions, specified-product lending, lawful collateralisation, clearing-house purposes or law.
+
+### Exam cues
+
+- **BCR:** memorise the five tiers (S$5m / S$1m / S$1m / S$500k / S$50k); where more than one applies, take the **highest**.
+- **Clocks:** 14 days for licence-particular changes, representative reporting and misconduct reports; **7 days** for a representative to inform the principal; 3 months provisional; 1 month cessation trigger.
+- **SIP accounts:** listed → CAR (3 years); unlisted → CKA (1 year); six transactions in three years or three years in ten; approval independent of account opening.
+- **One principal only** (unless related corporations or MAS permits).
+- **Customer money vs customer assets:** money is segregated in trust; assets sit in a custody account on trust; both by the next business day.
+- **Trap:** a written disclaimer or risk acknowledgement does not remove the firm’s SFA/FAA liability, and outsourced EIP classification remains the CMS holder’s responsibility.
 
 ## Chapter 3 — Market conduct
 
-### 3.1–3.2 Scope
+The prohibitions that keep markets fair, efficient, orderly and transparent. The examination tests which provision catches which behaviour, and the extraterritorial reach of the rules.
 
-Market conduct rules protect fair, efficient, orderly and transparent markets. They apply to acts in Singapore involving products listed or quoted inside or outside Singapore, and to acts outside Singapore involving products listed or quoted on a Singapore organised market. This extraterritorial reach is a frequent examination point.
+### 3.1 Scope
+
+Market conduct rules apply to acts **in Singapore** involving products listed or quoted inside or outside Singapore, and to acts **outside Singapore** involving products listed or quoted on a Singapore organised market. This extraterritorial reach is a frequent examination point.
+
+### 3.2 Objective
+
+The rules protect fair, efficient, orderly and transparent markets — the same objective the anti-manipulation, disclosure and insider-trading provisions enforce from different angles.
 
 ### 3.3 False trading and market rigging
 
@@ -307,11 +405,13 @@ It is an offence to circulate information that a price will rise, fall or be mai
 
 ### 3.9 Insider trading
 
-Inside information is not generally available information that would be likely to materially affect price or value and influence persons who commonly invest. Information is generally available if it is observable, publicised in a way likely to reach investors and a reasonable dissemination period has elapsed, or is a reasonable deduction/inference from such information.
+**Inside information** is information that is not generally available, would be likely to materially affect price or value, and would influence persons who commonly invest. **Generally available** information is observable; publicised in a way likely to reach investors with a reasonable dissemination period elapsed; or a reasonable deduction/inference from such information.
 
-Connected persons include officers, substantial shareholders and people whose professional/business relationship gives access to price-sensitive information, including lawyers, accountants, bankers, investment bankers, public-relations advisers, consultants and transaction counterparties. For a connected person, possession of non-public information and the statutory presumptions are central. A non-connected person may still be liable if he knows the information is non-public and price-sensitive, regardless of the source and regardless of an intention not to use it. Persons must not trade, procure another to trade or communicate the information to facilitate trading.
+- **Connected persons** include officers, substantial shareholders, and people whose professional/business relationship gives access to price-sensitive information — lawyers, accountants, bankers, investment bankers, public-relations advisers, consultants and transaction counterparties. Possession of non-public information and the statutory presumptions are central.
+- **Non-connected persons** may still be liable if they know the information is non-public and price-sensitive — regardless of the source and regardless of any intention not to use it.
+- Persons must not trade, procure another to trade, or communicate the information to facilitate trading.
 
-Exceptions/defences include specified CIS redemptions, underwriter activity, legally required transactions or communications, corporate/partnership knowledge rules where Chinese walls apply, a person’s own transaction knowledge, corporate own-transaction knowledge, parity of information and the broker-dealer exception where the instruction was unsolicited, there was no advice and the principal is not an associate. If unsure, stop and consult compliance.
+**Exceptions/defences:** specified CIS redemptions; underwriter activity; legally required transactions or communications; corporate/partnership knowledge rules where Chinese walls apply; a person’s own transaction knowledge; corporate own-transaction knowledge; parity of information; and the broker-dealer exception (instruction unsolicited, no advice given, principal not an associate). If unsure, stop and consult compliance.
 
 ### 3.10 Securities hawking
 
@@ -326,13 +426,24 @@ Securities hawking is offering securities, securities-based derivatives or CIS u
 
 ### 3.12 Penalties
 
-Market misconduct may result in criminal fines/imprisonment, civil penalties, compensation for other market participants’ losses, licence suspension/revocation, disciplinary action and reputational damage. The source focuses on the categories and consequences rather than memorising the amount of penalties.
+Market misconduct may result in criminal fines/imprisonment, civil penalties, compensation for other participants’ losses, licence suspension/revocation, disciplinary action and reputational damage. Learn the categories and consequences — the **amount** of a penalty is not tested.
+
+### Exam cues
+
+- **Extraterritorial reach:** acts in Singapore on foreign-listed products, and acts abroad on Singapore-listed products, are both caught.
+- **Intent separates the provisions:** manipulation needs intention to induce trading; false trading may be reckless; **section 201** is the broad anti-fraud catch-all.
+- **Insider trading:** connected vs non-connected. A non-connected person can be liable merely knowing the information is non-public and price-sensitive, even without intent to use it.
+- **Generally available** requires a reasonable dissemination period to have elapsed.
+- **Hawking** targets the *unsolicited meeting*; qualifying offers to institutional/accredited investors are outside it.
+- **Trap:** the private or public nature of the information — not the source — decides non-connected liability.
 
 ## Chapter 4 — Ethics, codes and standards for securities dealing
 
+Ethics as the standard above the legal minimum. The examination tests the client-centred framework, the ethical threats, and the six-step resolution process.
+
 ### 4.1 Ethics and importance
 
-Ethics are moral principles or rules guiding behaviour when it affects others. Ethics goes beyond the minimum law: it is doing the right thing even when no one is watching. Ethical failure can damage an individual, firm, market confidence and the wider financial ecosystem; interconnected markets allow harm to spread across borders.
+Ethics are the moral principles or rules guiding behaviour when it affects others. Ethics goes beyond the law: it is doing the right thing even when no one is watching. Ethical failure damages the individual, the firm, market confidence and the wider financial ecosystem; interconnected markets let harm spread across borders.
 
 ### 4.2 Ethical framework
 
@@ -384,24 +495,36 @@ Use Chinese walls and segregate sales, dealing, research, proprietary, risk, com
 
 ### 4.5 Resolving ethical dilemmas
 
-Use a six-step process: gather facts; identify ethical/regulatory issues; identify affected parties and conflicts; consult internal reporting/whistleblowing procedures; evaluate alternatives; implement the best action, monitor and document the reasoning. Documentation helps prove what was known, what was considered and why the action was reasonable.
+Use a six-step process: gather facts; identify ethical/regulatory issues; identify affected parties and conflicts; consult internal reporting/whistleblowing procedures; evaluate alternatives; implement the best action, monitor and document the reasoning. Documentation proves what was known, what was considered and why the action was reasonable.
+
+### Exam cues
+
+- **The framework is client-centred and ordered:** understand products → analyse risks objectively → execute quickly, fairly and transparently → serve with honesty and integrity → safeguard reputation and market integrity.
+- **Three threats:** self-interest, self-review and influence.
+- **Six preparation steps:** clients first; integrity, competence, diligence and respect; care and independent judgement; trust and market conduct; disassociate from a problematic deal; seek compliance/legal guidance.
+- **Conflicts:** avoid, or disclose fully and prominently; do not decide while conflicted. Chinese walls segregate sales, dealing, research, proprietary, risk, compliance and audit.
+- **Trap:** disclosure is not a licence — a conflict must still be controlled or avoided.
 
 ## Chapter 5 — Securities dealing practices and skills
 
-### 5.1–5.2 Onboarding and profiling
+How a representative onboards, profiles, classifies and services a client, and the conduct standards — best execution and internal controls — that apply to the trading itself.
+
+### 5.1 Onboarding
 
 Onboarding combines AML/CFT KYC with investment profiling. Gather identity/background, objectives, experience, financial capacity, employment/retirement status, structures and investment horizon. Use simplified CDD only for genuinely low-risk cases; use EDD for high-risk clients such as PEPs, high-risk businesses and opaque structures.
 
-Investor categories:
+### 5.2 Investor categories and profiling
 
-- **Accredited investor (AI):** includes individuals meeting the prescribed net-asset, financial-asset or income thresholds; corporations/entities/trusts and partnerships meeting prescribed ownership or asset tests. Opt-in and opt-out requirements apply.
-- **Institutional investor (II):** includes governments/statutory bodies, central banks, licensed banks/merchant banks/finance companies/insurers/trust companies, pension funds/CIS, CMS holders, exchanges/clearing houses, prescribed fund managers and other prescribed institutions.
-- **Expert investor (EI):** persons whose business involves acquiring, disposing of or holding capital markets products and prescribed trustees/persons.
-- **Retail investor:** everyone else and the highest level of protection.
+| Category | Who | Protection |
+|---|---|---|
+| **Accredited investor (AI)** | individuals meeting prescribed net-asset, financial-asset or income thresholds; entities/trusts/partnerships meeting prescribed tests | opt-in and opt-out requirements apply |
+| **Institutional investor (II)** | governments/statutory bodies, central banks, licensed banks/merchant banks/finance companies/insurers/trust companies, pension funds/CIS, CMS holders, exchanges/clearing houses, prescribed fund managers | — |
+| **Expert investor (EI)** | persons whose business involves acquiring, disposing of or holding capital markets products; prescribed trustees/persons | — |
+| **Retail investor** | everyone else | **highest** |
 
-Correct classification affects disclosure, product access, SIP rules and exemptions. A risk profile should normally be independently reviewed under a four-eyes principle and explained to the client. Do not simply increase a risk rating because the client wants a riskier product; document any disagreement and advice. Consider mental capacity and coercion.
+Correct classification affects disclosure, product access, SIP rules and exemptions. A risk profile should normally be independently reviewed under a **four-eyes principle** and explained to the client. Do not simply raise a risk rating because the client wants a riskier product; document any disagreement and advice. Consider mental capacity and coercion.
 
-Before advice, obtain investment objectives, financial situation and needs. If the customer rejects the recommendation, document the decision and warn that the advice did not take those factors into account. Keep records, normally at least five years as good practice. Conflicts need not be repeated only while the prior disclosure remains accurate, complete and reasonably known; disclose again if stale or uncertain. A disclaimer cannot remove SFA/FAA liabilities.
+Before advice, obtain investment objectives, financial situation and needs. If the customer rejects the recommendation, document the decision and warn that the advice did not take those factors into account. Keep records, normally at least **five years** as good practice. Conflicts need not be repeated only while the prior disclosure remains accurate, complete and reasonably known; disclose again if stale or uncertain. **A disclaimer cannot remove SFA/FAA liabilities.**
 
 ### 5.3 Coherent investment/trading strategies
 
@@ -433,49 +556,109 @@ Stay current on rules/products, communicate risk and costs, document, understand
 
 Credit risk is loss when a counterparty cannot perform. Set credit strategy and limits by customer/group, industry, geography and risk tolerance. Assess financial capacity, repayment, credit history and collateral. Monitor margin and exposures; call for top-ups or liquidate under the agreement if collateral falls below threshold, and consider legal action if defaults continue.
 
+### Exam cues
+
+- **Classification changes protection:** retail gets the highest protection; AI/II/EI relax disclosure, product access, SIP rules and exemptions.
+- **Best execution** is the most advantageous **overall** result — price, costs, speed, likelihood of execution and settlement, size, execution quality, and the client’s instruction. Never receive Payment for Order Flow.
+- **Agent vs principal:** an agent executes under mandate; a principal trades on its own behalf and must agree the trade. Cross trades must benefit **both** clients and never mix staff personal with client accounts.
+- **Four-eyes** review of the risk profile; specific client instructions override best-execution parameters for those parameters only.
+- **Trap:** a disclaimer does not remove SFA/FAA liability; conflicts must be controlled, not merely disclosed.
+
 ## Chapter 6 — CPF Investment Scheme (CPFIS)
 
-### 6.1–6.2 Structure and history
+Using CPF savings to invest. The examination tests the OA/SA distinction, the investment account, the thresholds and limits, and what happens at 55, on bankruptcy and on death.
 
-CPFIS began with OA investing in 1987 and expanded to SA in 2001. **CPFIS-OA** uses Ordinary Account money and requires a CPF Investment Account. **CPFIS-SA** uses Special Account money and does not require that investment account.
+### 6.1 Structure
 
-OA products include fixed deposits, Singapore Government bonds/T-bills, statutory-board bonds, government-guaranteed bonds, annuities, endowment policies, fund-management accounts, ILPs, unit trusts and ETFs. Up to 35% of investable savings may be used for shares, property funds/REITs and corporate bonds, and up to 10% for gold products. SA permits specified lower-risk products and selected ILPs/unit trusts/ETFs, subject to CPF classification. Only OA money above S$20,000 and SA money above S$40,000 is generally investible so the first S$60,000 earns additional interest; permitted regular-premium insurance and agent-bank fees are treated separately.
+**CPFIS-OA** uses Ordinary Account money and requires a CPF Investment Account. **CPFIS-SA** uses Special Account money and does not require that investment account.
 
-### 6.3–6.6 Investment account, eligibility and process
+### 6.2 History
 
-An agent bank—DBS, OCBC or UOB—holds the CPFIS-OA investment account for settlement and holdings; a member may have only one. Eligibility requires age 18 or older, not being an undischarged bankrupt, and exceeding the OA/SA thresholds. New investors must complete the Self-Awareness Questionnaire. Bring identity documents, SAQ status and CPF statement. Inform the dealer of account details before trading. A qualifying SGX-listed CPFIS-OA purchase may be sold one trading day later if entered successfully and sufficient funds/limits exist.
+CPFIS began with OA investing in 1987 and expanded to SA in 2001.
+
+### 6.3 Investment account
+
+An **agent bank** — DBS, OCBC or UOB — holds the CPFIS-OA investment account for settlement and holdings; a member may have only **one**.
+
+### 6.4 Eligibility
+
+Age 18 or older, not an undischarged bankrupt, and exceeding the OA/SA thresholds. Only OA money above **S$20,000** and SA money above **S$40,000** is generally investible, so the first **S$60,000** earns additional interest; permitted regular-premium insurance and agent-bank fees are treated separately.
+
+### 6.5 Application process
+
+New investors must complete the **Self-Awareness Questionnaire (SAQ)**. Bring identity documents, SAQ status and CPF statement. Inform the dealer of account details before trading.
+
+### 6.6 Short-term sale of a qualifying purchase
+
+A qualifying SGX-listed CPFIS-OA purchase may be sold **one trading day later** if entered successfully and sufficient funds/limits exist.
 
 ### 6.7 Service providers
 
-Fixed deposits use included banks; government bonds/T-bills and statutory-board bonds use permitted bond dealers/brokers; guaranteed bonds use brokers; annuities/endowments/ILPs use included insurers; unit trusts use fund managers/administrators; fund-management accounts use approved fund managers; shares/property funds/corporate bonds/ETFs use brokers; gold ETFs use brokers and other gold products use the permitted agent-bank route, currently UOB for the source’s examples.
+| Product | Route |
+|---|---|
+| Fixed deposits | included banks |
+| Government bonds/T-bills, statutory-board bonds | permitted bond dealers/brokers |
+| Guaranteed bonds | brokers |
+| Annuities/endowments/ILPs | included insurers |
+| Unit trusts | fund managers/administrators |
+| Fund-management accounts | approved fund managers |
+| Shares, property funds, corporate bonds, ETFs | brokers |
+| Gold ETFs / other gold products | brokers / the permitted agent-bank route (currently UOB) |
 
 ### 6.8 Product inclusion criteria
 
-Products generally require provider application and CPF Board review. Investments must normally be in Singapore dollars and cannot be assigned, pledged or used as collateral. Criteria cover included banks and credit quality, scripless SGD government securities, Mainboard listing and disclosure for statutory-board/government-guaranteed/corporate bonds, life insured and maturity restrictions for insurance, fund-manager eligibility and peer/expense/track-record requirements for unit trusts, SGX listing/physical replication/tracking/expense requirements for ETFs, Singapore incorporation/Mainboard/proxy rights/watch-list restrictions for shares and property funds, credit ratings and disclosure for corporate bonds, and physical-gold/backing/proxy requirements for gold ETFs.
+Products generally require provider application and CPF Board review. Investments must normally be in **Singapore dollars** and cannot be assigned, pledged or used as collateral. Criteria cover included banks and credit quality; scripless SGD government securities; Mainboard listing and disclosure for statutory-board/government-guaranteed/corporate bonds; life-insured and maturity restrictions for insurance; fund-manager eligibility and peer/expense/track-record requirements for unit trusts; SGX listing/physical replication/tracking/expense requirements for ETFs; Singapore incorporation/Mainboard/proxy rights/watch-list restrictions for shares and property funds; credit ratings and disclosure for corporate bonds; and physical-gold/backing/proxy requirements for gold ETFs.
 
-### 6.9–6.11 Transfers, profits and charges
+**OA investment limits:** up to **35%** of investable savings for shares, property funds/REITs and corporate bonds; up to **10%** for gold products. SA permits specified lower-risk products and selected ILPs/unit trusts/ETFs, subject to CPF classification.
 
-Members may transfer cash from the CPF Investment Account to OA. The bank automatically transfers cash if the account is inactive for two consecutive months, and unused IPO application money is returned. Dividends/profits remain in CPF and cannot be withdrawn as ordinary cash; losses do not need to be made good. Charges may be paid from CPF savings. The source notes sales charges were removed from October 2020 and the wrap-fee cap reduced to 0.4% after earlier reductions.
+### 6.9 Transfers
 
-### 6.12–6.14 Release, bankruptcy and death
+Members may transfer cash from the CPF Investment Account to OA. The bank automatically transfers cash if the account is inactive for **two consecutive months**, and unused IPO application money is returned.
 
-At age 55, investment holdings/cash may be released subject to the required retirement sum—FRS or BRS with sufficient property charge/pledge. Without the requirement, holdings remain within CPF and sale proceeds return to the relevant CPF account. Undischarged bankrupts may hold or liquidate existing CPFIS investments but cannot make new investments; CPFIS assets remain protected from creditor/Official Assignee claims while within the scheme. At death, CPFIS investments and OA investment-account cash form part of the estate and are not covered by CPF nomination. Insurance policies with valid revocable nominations may pay nominated beneficiaries directly; otherwise the administrator/executor needs Letters of Administration or Grant of Probate. Protection may cease after death and assets can meet creditor claims under probate law.
+### 6.10 Profits and losses
+
+Dividends/profits remain in CPF and cannot be withdrawn as ordinary cash; losses do not need to be made good.
+
+### 6.11 Charges
+
+Charges may be paid from CPF savings. Sales charges were removed from **October 2020** and the wrap-fee cap reduced to **0.4%** after earlier reductions.
+
+### 6.12 Release at age 55
+
+Investment holdings/cash may be released subject to the required retirement sum — **FRS**, or **BRS** with sufficient property charge/pledge. Without the requirement, holdings remain within CPF and sale proceeds return to the relevant CPF account.
+
+### 6.13 Bankruptcy
+
+Undischarged bankrupts may hold or liquidate existing CPFIS investments but cannot make new investments; CPFIS assets remain protected from creditor/Official Assignee claims while within the scheme.
+
+### 6.14 Death
+
+CPFIS investments and OA investment-account cash form part of the **estate** and are **not** covered by CPF nomination. Insurance policies with valid revocable nominations may pay nominated beneficiaries directly; otherwise the administrator/executor needs Letters of Administration or Grant of Probate. Protection may cease after death and assets can meet creditor claims under probate law.
+
+### Exam cues
+
+- **OA vs SA:** OA needs a CPF Investment Account; SA does not. Agent bank is one of DBS/OCBC/UOB and only one account.
+- **Numbers:** S$20,000 OA / S$40,000 SA retention (first S$60,000); 35% shares/property/REITs/corporate bonds; 10% gold; wrap-fee cap 0.4%; sales charges removed Oct 2020.
+- **No assignment, pledge or collateralisation** of CPFIS investments.
+- **At 55:** release only if the retirement sum (FRS, or BRS with property charge/pledge) is met.
+- **Death:** CPFIS falls into the estate — **CPF nomination does not cover it** (unlike the CPF monies themselves).
+- **Trap:** profits stay inside CPF (no ordinary cash), but losses need not be made good.
 
 ## Chapter 7 — Prevention of financial crimes
 
-The RES 1B and RES 2B Chapter 7 chapters cover the same core AML/CFT framework. The following consolidated teaching treatment applies to both modules.
+The AML/CFT framework that applies to both modules — the offences, the laws, the risk-based approach, CDD/KYC and reporting. The examination tests the money-laundering stages, which statute applies, the CDD thresholds and the STR reporting duty.
 
 ### 7.1 Financial crime, ML, TF, sanctions and fraud
 
-Financial crime includes money laundering, terrorism financing, embargoes/sanctions and fraud. CMIs must exercise due diligence on customers, persons acting for them, connected parties and beneficial owners; maintain high ethical standards; avoid business/transactions connected with ML/TF; and cooperate with law enforcement.
+Financial crime includes money laundering, terrorism financing, embargoes/sanctions and fraud. CMIs must exercise due diligence on customers, persons acting for them, connected parties and beneficial owners; maintain high ethical standards; avoid business or transactions connected with ML/TF; and cooperate with law enforcement.
 
-**Money laundering** disguises criminal proceeds as legitimate. The classic stages are placement (introducing benefits into the financial system), layering (creating transactions and asset conversions that obscure the trail) and integration (returning funds as apparently legitimate wealth). The stages may overlap or occur in a different order. Capital markets are attractive for layering because assets are liquid, transferable and easily converted.
+**Money laundering** disguises criminal proceeds as legitimate. The stages are **placement** (introducing benefits into the financial system), **layering** (creating transactions and asset conversions that obscure the trail) and **integration** (returning funds as apparently legitimate wealth). The stages may overlap or occur in a different order. Capital markets attract layering because assets are liquid, transferable and easily converted.
 
-**Terrorism financing** may use illegal or legitimate sources—such as robbery, donations, publications, businesses or self-funding—and may involve small amounts. Third-party payments and transfers therefore require care.
+**Terrorism financing** may use illegal or legitimate sources — robbery, donations, publications, businesses or self-funding — and may involve small amounts, so third-party payments and transfers require care.
 
 **Embargoes and sanctions** may target countries, named persons/entities, sectors or products. Shell companies, opaque ownership, bearer shares and multiple layers can conceal designated ultimate owners. CMIs must trace ownership/control to natural persons, screen lists, freeze and report designated assets and avoid prohibited transactions/services. Singapore implements UN sanctions through MAS regulations under FSMA 2022.
 
-**Fraud** involves deception/dishonesty to gain an advantage at another’s expense. Internal fraud can involve an employee selling client assets and diverting proceeds; external fraud can involve hacking or impersonation. Controls include independent verification, call-backs, dual controls, clean-desk and audit.
+**Fraud** involves deception or dishonesty to gain an advantage at another’s expense. Internal fraud can involve an employee selling client assets and diverting proceeds; external fraud can involve hacking or impersonation. Controls include independent verification, call-backs, dual controls, clean-desk and audit.
 
 ### 7.2 Singapore AML/CFT regime
 
@@ -524,7 +707,7 @@ Identify beneficial owners: generally individuals owning more than 25%; if uncle
 
 Source-of-funds review asks whether funds are legitimate, unexpected, owned by the customer, consistent with wealth/profile, consistent with the business and linked to higher-risk jurisdictions. Risk scoring may consider PEP status, country, activity, wealth, flow-through, client visits, complexity, unusual services and origin/destination of funds. Higher-risk examples include personal holding companies, trusts, gambling, remittance, precious metals/diamonds and cash-intensive businesses. Complex structures need a business rationale, financial statements, site visits, screenings and periodic review.
 
-Non-face-to-face relationships need controls as stringent as face-to-face: MyInfo where applicable, secure video/signatures/biometrics, independent call-backs, fraud controls and assessment of technology. Identity should be verified before onboarding or a transaction exceeding S$20,000; limited deferral may be used only for essential business continuity with close controls, completion as soon as practicable and the source’s 30-business-day suspension and 120-business-day termination milestones.
+Non-face-to-face relationships need controls as stringent as face-to-face: MyInfo where applicable, secure video/signatures/biometrics, independent call-backs, fraud controls and assessment of technology. Identity should be verified before onboarding or a transaction exceeding S$20,000; limited deferral may be used only for essential business continuity with close controls, completion as soon as practicable and the 30-business-day suspension and 120-business-day termination milestones.
 
 Screen clients, agents, connected parties and UBOs before onboarding, after onboarding, periodically, after a transaction over S$20,000 for a non-account client and when sanction lists or party information changes. Document results and use four-eyes review of alerts. A positive sanctions hit requires freezing/reporting, not merely monitoring.
 
@@ -550,11 +733,19 @@ Before launch, assess ML/TF risk separately from credit, market and operational 
 
 ### 7.12 Operational controls
 
-Control premises, systems, data integrity, passwords and privileged access on a need-to-know basis; change passwords; prohibit sharing; use clean-desk, dual payment control, hold-mail controls, IT/fraud training and audit. The source’s “FRAUD” reminder is: **Follow** policy, **Report** concerns, **Act** on suspicion, **Unite** with management/enforcement and expect **Disciplinary**/criminal consequences.
+Control premises, systems, data integrity, passwords and privileged access on a need-to-know basis; change passwords; prohibit sharing; use clean-desk, dual payment control, hold-mail controls, IT/fraud training and audit. The “FRAUD” reminder is: **Follow** policy, **Report** concerns, **Act** on suspicion, **Unite** with management/enforcement and expect **Disciplinary**/criminal consequences.
 
-### 7.13–7.15 Reporting, penalties, policy, audit and training
+### 7.13 Reporting and records
 
-Maintain a central reporting point, STR register and supporting records. Non-compliance creates legal, regulatory, financial, civil/commercial and reputation risk; tipping-off is itself an offence. Group policies should extend across branches/subsidiaries, share necessary CDD/transaction information and apply the higher standard where local law permits. Compliance needs a qualified, resourced AML/CFT officer with access to records; internal audit must be independent and adequately resourced. Training must be tailored, recorded, effective and refreshed at least every two years. Hiring checks should cover past employers, AML/TF information, bankruptcy and risk-based credit history.
+Maintain a central reporting point, STR register and supporting records. Group policies should extend across branches/subsidiaries, share necessary CDD/transaction information and apply the higher standard where local law permits.
+
+### 7.14 Penalties
+
+Non-compliance creates legal, regulatory, financial, civil/commercial and reputation risk; **tipping-off is itself an offence**.
+
+### 7.15 Policy, audit and training
+
+Compliance needs a qualified, resourced AML/CFT officer with access to records; internal audit must be independent and adequately resourced. Training must be tailored, recorded, effective and refreshed at least every **two years**. Hiring checks should cover past employers, AML/TF information, bankruptcy and risk-based credit history.
 
 ### 7.16 Effectiveness
 
@@ -563,6 +754,16 @@ MAS’s three-pillar view is:
 - **Governance:** board/senior-management tone, oversight, resources, reporting and remediation.
 - **Risk awareness:** ownership, accountability, tailored guidance, red flags, escalation and continuous learning.
 - **Execution:** effective policies, calibrated monitoring, enhanced CDD, timely escalation, STRs and closure of past issues.
+
+### Exam cues
+
+- **ML stages:** placement → layering → integration, in order. Capital markets suit layering.
+- **Which statute:** **CDSA** (money laundering), **TSOFA** (terrorism financing), **MACMA** (cross-border assistance), Penal Code (general). Know the fit.
+- **Numbers:** CDD/verification threshold **S$20,000**; retain client and transaction records **five years**; STR as soon as practicable and generally within **15 business days** of referral; training refreshed at least every **two years**; enterprise-wide risk assessment reviewed at least every **two years**.
+- **Beneficial owner:** generally **>25%** ownership; if unclear, ultimate control; if none, executive authority. Trusts: settlor, trustee, protector, beneficiaries.
+- **Three lines of defence:** business (1st) → compliance/AML-CFT (2nd) → independent internal audit (3rd); the board and senior management retain final accountability.
+- **Reporting:** STR to **STRO/CAD** with a copy to MAS; reasonable grounds suffice — do not need to prove the crime. **Tipping off is itself an offence.**
+- **Trap:** a positive sanctions hit requires freezing and reporting, not merely monitoring; reliance on another institution does not remove the CMI’s responsibility.
 
 ## RES 1B appendices
 
@@ -603,11 +804,11 @@ The 30 source questions are organised as follows:
 5. **Chapter 6:** the 35% CPFIS-OA limit, agent banks, eligibility, ETF inclusion criteria and the probate document used to claim residual CPFIS investments after death.
 6. **Chapter 7:** placement, layering and integration; the main money-laundering statute; five-year document retention; KYC information; and the response to a sanctions-list match.
 
-The source warns that these questions familiarise candidates with scope, general nature and format; they do not cover all examination material. The expanded question bank in `RES12B_QUESTIONS.md` therefore includes both these themes and additional application questions.
+These questions familiarise candidates with scope, general nature and format; they do not cover all examination material. The expanded question bank in `RES12B_QUESTIONS.md` therefore includes both these themes and additional application questions.
 
 ### Appendix H — Essential readings
 
-The source points learners to the primary material rather than treating the study guide as a substitute for law. The listed readings include:
+Use the primary material rather than treating the study guide as a substitute for law. The readings include:
 
 - Securities and Futures Act;
 - Securities and Futures (Licensing and Conduct of Business) Regulations;
@@ -636,32 +837,47 @@ These materials were identified in the source as available from Singapore Statut
 
 ## Chapter 1 — The capital markets industry and derivatives participants
 
+The derivatives-specific market map. RES 1B covers MAS, SGX, SGX-ST, CDP, SGX-DT and SGX-DC; RES 2B adds the derivatives venues and clearing houses. The examination tests who may trade or clear derivatives and under which rules.
+
 ### 1.1 Introduction
 
-The primary market raises capital through shares, bonds/fixed-income securities and company warrants. The secondary market allows investors to transfer risk and manage positions. Futures, options, warrants and leverage certificates are examples of derivatives. OTC markets are decentralised and negotiated; exchanges centralise orders and provide price/quantity discovery. Trading requires exchange membership or a Trading Member relationship.
+The primary market raises capital through shares, bonds/fixed-income securities and company warrants. The secondary market lets investors transfer risk and manage positions. Futures, options, warrants and leverage certificates are derivatives. OTC markets are decentralised and negotiated; exchanges centralise orders and provide price/quantity discovery. Trading requires exchange membership or a Trading Member relationship.
 
 ### 1.2 Institutional participants
 
-Banks, CMS broker/dealers and fund managers participate in derivatives markets. Broker/dealers do not take deposits; they match or route orders and may be Trading or Clearing Members. Fund managers manage segregated mandates and collective schemes across bonds, equities and derivatives.
+Banks, CMS broker/dealers and fund managers participate in derivatives markets. Broker/dealers do not take deposits; they match or route orders and may be Trading or Clearing Members. Fund managers run segregated mandates and collective schemes across bonds, equities and derivatives.
 
-Remote overseas trading/clearing members may be exempt if they are foreign-incorporated, members of the relevant venue, do not serve Singapore residents, are not Singapore-regulated financial institutions, are supervised at home and have a suitable MAS information-sharing arrangement. A remote SGX clearing member also cannot have a MAS-regulated financial-institution affiliate.
+Remote overseas trading/clearing members may be exempt if they are foreign-incorporated, members of the relevant venue, do not serve Singapore residents, are not Singapore-regulated financial institutions, are supervised at home and have a suitable MAS information-sharing arrangement. A remote SGX **clearing** member also cannot have a MAS-regulated financial-institution affiliate.
 
 ### 1.3 Regulatory bodies and rule sources
 
-The objectives and roles of MAS, SGX, SGX RegCo, SGX-ST, CDP, SGX-DT and SGX-DC are as described in RES 1B. RES 2B also covers:
+The objectives and roles of MAS, SGX, SGX RegCo, SGX-ST, CDP, SGX-DT and SGX-DC are as for RES 1B. RES 2B adds:
 
-- **IFSG:** approved derivatives exchange under the SFA, with IFSG Rules governing members.
-- **ICE Clear Singapore:** approved clearing house and central counterparty for IFSG futures; ICE Clear Rules govern members.
-- **APEX:** approved international derivatives exchange for commodity and financial futures/options across agriculture, energy, metals and RMB-related products.
-- **APEX Clear:** approved clearing house/central counterparty for APEX products.
+| Body | Role |
+|---|---|
+| **IFSG** | approved derivatives exchange under the SFA; IFSG Rules govern members |
+| **ICE Clear Singapore** | approved clearing house and CCP for IFSG futures; ICE Clear Rules govern members |
+| **APEX** | approved international derivatives exchange for commodity and financial futures/options — agriculture, energy, metals and RMB-related products |
+| **APEX Clear** | approved clearing house/CCP for APEX products |
 
-The relevant sources include SFA/SFR, SGX-ST Mainboard/Catalist and Trading Rules, CDP Clearing/DVP/Depository Rules, SGX-DT Futures Trading Rules, SGX-DC Clearing Rules, IFSG Trading Rules and Procedures, ICE Clear Singapore Rules and Procedures, and APEX/APEX Clear Rules and Procedures.
+The rule sources are SFA/SFR, SGX-ST Mainboard/Catalist and Trading Rules, CDP Clearing/DVP/Depository Rules, SGX-DT Futures Trading Rules, SGX-DC Clearing Rules, IFSG Trading Rules and Procedures, ICE Clear Singapore Rules and Procedures, and APEX/APEX Clear Rules and Procedures.
+
+### Exam cues
+
+- **Who may clear:** IFSG futures clear through **ICE Clear Singapore**; APEX products through **APEX Clear**; SGX-DT and eligible OTC through **SGX-DC**.
+- **Remote member exemption:** foreign-incorporated, member of the venue, no Singapore residents served, home-supervised, with an MAS information-sharing arrangement. A remote **clearing** member also cannot have a MAS-regulated affiliate.
+- Everything in RES 1B Chapter 1 (MAS, SGX, SGX-ST, CDP, SGX-DT, SGX-DC, SGX RegCo) also applies here.
+- **Trap:** broker/dealers do not take deposits — that is a bank activity, not a CMS dealing activity.
 
 ## Chapter 2 — Licensing and business operations
 
-### 2.1–2.2 Licensing and base capital
+The derivatives-specific licensing and operational rules. They parallel RES 1B; the differences are the base-capital table and the derivatives account, risk-disclosure and register-of-interests requirements.
 
-Corporations dealing in derivatives as principal or agent require the appropriate CMS licence unless exempt. A variation is required to add a regulated activity or additional product. The main BCR tables are:
+### 2.1 Licensing
+
+Corporations dealing in derivatives as principal or agent require the appropriate CMS licence unless exempt. A **variation** is required to add a regulated activity or additional product.
+
+### 2.2 Base capital
 
 | Activity/entity | BCR |
 |---|---:|
@@ -679,11 +895,11 @@ Corporations dealing in derivatives as principal or agent require the appropriat
 | Leveraged FX: retail clients | S$5m |
 | Leveraged FX: AI/II/EI clients | S$1m |
 
-The other application, management, notification, lapse, approval and duty requirements parallel RES 1B, but derivatives firms must also account for exchange/clearing-house membership and product-specific controls.
+The application, management, notification, lapse, approval and duty requirements parallel RES 1B, but derivatives firms must also account for exchange/clearing-house membership and product-specific controls.
 
 ### 2.3 Representatives
 
-Representatives need notification/registration and may act for one principal unless permitted otherwise. Competency, education, relevant experience, CMFAS, fit-and-proper, identity, work-authorisation, past-record, bankruptcy and credit checks apply. RNF status, public register, RNF number, cessation, seven-day individual notification, 14-day principal notification and continuing education requirements apply as described for RES 1B.
+Representatives need notification/registration and may act for **one principal** unless permitted otherwise. Competency, education, relevant experience, CMFAS, fit-and-proper, identity, work-authorisation, past-record, bankruptcy and credit checks apply. RNF status, public register, RNF number, cessation, the seven-day individual notification and 14-day principal notification, and continuing education apply as for RES 1B.
 
 ### 2.4 Advertising
 
@@ -691,74 +907,131 @@ Product advertisements must be truthful, fair, balanced, clear, legible, properl
 
 ### 2.5 Confidentiality
 
-Customer order information may be disclosed only where needed for execution, permitted by market/clearing rules or required by MAS. Banking secrecy, PDPA, DNC checks and clear consent apply.
+Customer order information may be disclosed only where needed for execution, permitted by market/clearing rules, or required by MAS. Banking secrecy, PDPA, DNC checks and clear consent apply.
 
 ### 2.6 Opening and management of derivatives accounts
 
-Before opening a derivatives account, provide a separate **Form 13** risk-disclosure document and obtain the customer’s signed and dated acknowledgement that he received and understood it. Monthly statements show derivatives/spot-FX positions, establishment prices, marked-to-market unrealised profit/loss, custody assets, asset movements, customer money movements and charges/credits. Exceptions include clearing-house information, no account change and eligible non-retail real-time statements/written non-receipt. A quarterly statement is required if the last month of the quarter had no monthly statement.
+Before opening a derivatives account, provide a separate **Form 13** risk-disclosure document and obtain the customer’s **signed and dated** acknowledgement that he received and understood it. Monthly statements show derivatives/spot-FX positions, establishment prices, marked-to-market unrealised P&L, custody assets, asset movements, customer money movements and charges/credits. Exceptions: clearing-house information, no account change, and eligible non-retail real-time statements or written non-receipt. A quarterly statement is required if the last month of the quarter had no monthly statement.
 
-Issue contract notes by the next business day. They should identify the firm, customer, date, derivatives type/quantity, price, consideration, adjustments, commission and taxes, and principal/dealing-against-customer status. For OTC derivatives, a transaction confirmation may replace the contract note if it states holder, counterparty, principal status, date, type and notional value.
+Issue contract notes by the **next business day**, identifying the firm, customer, date, derivatives type/quantity, price, consideration, adjustments, commission and taxes, and principal/dealing-against-customer status. For OTC derivatives, a transaction confirmation may replace the contract note if it states holder, counterparty, principal status, date, type and notional value.
 
 ### 2.7 Books and audit trails
 
-Keep English books and records for at least five years, including customer/guarantor/authorised-trader information, money/assets, powers of attorney, agreements, Form 13/Form 14 acknowledgements, OTC account documents, orders, advertisements, communications, confirmations, proprietary trades, income/expenses, assets/liabilities and all OTC transactions. Audit, five-month filing, immediate auditor reporting, and prohibition on destroying/concealing/altering books apply.
+Keep English books and records for at least **five years**, including customer/guarantor/authorised-trader information, money/assets, powers of attorney, agreements, Form 13/Form 14 acknowledgements, OTC account documents, orders, advertisements, communications, confirmations, proprietary trades, income/expenses, assets/liabilities and all OTC transactions. Audit, five-month filing, immediate auditor reporting, and the prohibition on destroying/concealing/altering books apply.
 
 ### 2.8 Customer money/assets and fiduciary controls
 
-Treat customer money/assets as belonging to customers and segregate them. Trust/custody accounts must be maintained with permitted institutions/custodians; conduct due diligence, obtain acknowledgements, disclose commingling/insolvency/foreign-law risks and ensure interest/returns accrue to customers. Investment of customer money is limited to permitted government securities/debt instruments with records. The firm may advance its own funds only to prevent underfunding/undermargin or maintain the account, and may retain returns on that advance.
+Treat customer money/assets as belonging to customers and segregate them. Trust/custody accounts must be held with permitted institutions/custodians; conduct due diligence, obtain acknowledgements, disclose commingling/insolvency/foreign-law risks and ensure interest/returns accrue to customers. Investment of customer money is limited to permitted government securities/debt instruments with records. The firm may advance its own funds only to prevent underfunding/undermargin or maintain the account, and may retain returns on that advance.
 
-Customer agreements and custody agreements must describe authority, liens, collateral realisation, commingling, registration, entitlements, information, liability and fees. Withdrawals are limited to customer/entitled payments, proper charges, customer directions, customer obligations, clearing/investment purposes, lending, lawful collateralisation or law. Customer assets may be mortgaged only up to the debt, with retail disclosure, risk explanation and written consent. Compute trust/custody account balances and required customer amounts at least daily, before noon each business day, retain supporting data five years. Do not transfer retail customer money title except for compliant specified-product lending.
+Customer agreements and custody agreements must describe authority, liens, collateral realisation, commingling, registration, entitlements, information, liability and fees. Withdrawals are limited to customer/entitled payments, proper charges, customer directions, customer obligations, clearing/investment purposes, lending, lawful collateralisation or law. Customer assets may be mortgaged only up to the debt, with retail disclosure, risk explanation and written consent. Compute trust/custody account balances and required customer amounts at least daily, **before noon** each business day, and retain supporting data for five years. Do not transfer retail customer money title except for compliant specified-product lending.
 
 ### 2.9 Register of interests in listed specified products
 
-CMS holders and representatives must record interests in listed specified products within seven days of acquisition, retain the entry at least five years, keep a copy in Singapore and provide it to MAS on request.
+CMS holders and representatives must record interests in listed specified products **within seven days** of acquisition, retain the entry at least five years, keep a copy in Singapore and provide it to MAS on request.
+
+### Exam cues
+
+- **BCR:** leveraged FX and OTC derivatives with retail clients sit at the S$5m tier; derivatives clearing members are S$5m; specified commodity futures are lower. Where more than one applies, take the **highest**.
+- **Form 13:** separate derivatives risk-disclosure document with a **signed and dated** acknowledgement before the account opens. Form 14 covers the overseas-listed product warning.
+- **Register of interests:** listed specified products, **within 7 days**, retained 5 years, copy in Singapore.
+- **Daily control:** compute trust/custody balances at least daily, **before noon** each business day.
+- **Trap:** a transaction confirmation may replace a contract note for OTC derivatives only, and only if it carries the stated content.
 
 ## Chapter 3 — Market conduct for derivatives
 
-### 3.1–3.2 Scope and prohibited conduct
+The derivatives application of the market-conduct rules — the same prohibitions as RES 1B, plus derivatives-specific conduct (bucketing, hunting for stops, cornering) and trading-practice rules.
 
-Rules apply extraterritorially to derivatives listed/quoted outside Singapore when the act occurs in Singapore and to derivatives listed/quoted in Singapore when the act occurs abroad. Securities-based derivatives include derivatives on securities or securities indices, such as equity-index futures/options, leverage certificates and structured warrants.
+### 3.1 Scope
+
+Rules apply extraterritorially to derivatives listed/quoted outside Singapore when the act occurs in Singapore, and to derivatives listed/quoted in Singapore when the act occurs abroad.
+
+### 3.2 Securities-based derivatives
+
+Securities-based derivatives include derivatives on securities or securities indices — equity-index futures/options, leverage certificates and structured warrants — so the securities-market rules reach them.
 
 ### 3.3 False trading and market rigging
 
-Do not create artificial activity, trade without beneficial ownership, act recklessly to create a false market or use transactions to mislead. Derivatives examples include hunting for stops—pushing bids/offers to trigger stop orders—and wash trades with no economic value, including coordinated accounts or same contract/strike/expiry trades.
+Do not create artificial activity, trade without beneficial ownership, act recklessly to create a false market, or use transactions to mislead. Derivatives examples include **hunting for stops** — pushing bids/offers to trigger stop orders — and **wash trades** with no economic value, including coordinated accounts or same contract/strike/expiry trades.
 
 ### 3.4 Manipulating derivatives prices and cornering
 
-Do not manipulate or attempt to manipulate a derivatives price or its underlying, and do not corner or attempt to corner the underlying. Cornering means acquiring enough of the underlying to control price and force short sellers to cover at inflated prices.
+Do not manipulate or attempt to manipulate a derivatives price or its underlying, and do not corner or attempt to corner the underlying. **Cornering** means acquiring enough of the underlying to control price and force short sellers to cover at inflated prices.
 
 ### 3.5 Securities and securities-based derivatives manipulation
 
-Do not effect two or more transactions that raise, lower, maintain or stabilise the price of securities or securities-based derivatives with an intention to induce others to deal.
+Do not effect two or more transactions that raise, lower, maintain or stabilise the price of securities or securities-based derivatives **with an intention to induce others to deal**.
 
-### 3.6 False/misleading statements and 3.7 bucketing
+### 3.6 False or misleading statements
 
-False/misleading statements may be distributed through reports, media, electronic means or word of mouth and may induce buying/selling or affect price. **Bucketing** is taking the opposite side of a customer’s derivatives order, or pretending to execute it, without a bona fide market purchase/sale. It denies competitive execution and is prohibited. Taking the opposite side requires prior consent and compliance with market rules.
+False/misleading statements may be distributed through reports, media, electronic means or word of mouth and may induce buying/selling or affect price.
 
-### 3.8 Fraudulent inducement and 3.9 deceptive devices
+### 3.7 Bucketing
 
-Do not induce trading through knowingly false statements, dishonest concealment, reckless false/deceptive statements or false recorded information. Section 201 catches schemes, fraud, material false statements and material omissions.
+**Bucketing** is taking the opposite side of a customer’s derivatives order, or pretending to execute it, without a bona fide market purchase/sale. It denies competitive execution and is prohibited. Taking the opposite side requires prior consent and compliance with market rules.
 
-### 3.10 Insider trading and 3.11 illegal-transaction information
+### 3.8 Fraudulent inducement
 
-Inside information, general availability, connected/non-connected persons, no-intention rule, exceptions and parity-of-information defences apply to derivatives and securities-based derivatives. Do not trade, procure trading or communicate inside information. Do not circulate information about illegal transactions to benefit from their price effect.
+Do not induce trading through knowingly false statements, dishonest concealment, reckless false/deceptive statements or false recorded information.
 
-### 3.12–3.19 Trading-practice rules
+### 3.9 Deceptive devices
 
-- **Non-disclosure of orders:** order information stays confidential except for execution, market/clearing rules or MAS.
-- **Withdrawal/withholding:** do not withhold or withdraw a customer order for self/another’s benefit.
-- **Trading against customer orders:** do not trade against a customer’s futures order for the firm, an associate/connected person or an interested account unless prior consent and market-rule conditions are met.
-- **Front running/priority:** do not trade personally before a customer’s same-class order; comply with customer priority.
-- **Cross trades:** simultaneous buy/sell orders for different accounts must be exposed/executed through the approved electronic system or according to market rules. The examples in the source test which side should be exposed first when prices differ in attractiveness.
-- **Churning:** excessive trades to generate commissions without sound opportunities.
-- **Overtrading:** positions must stay within firm, sponsor, exchange, clearing-house and regulatory limits; excess positions must be reduced.
-- **Pre-arranged trades:** agreed or predetermined prices/trades between dealers/brokers undermine fair and transparent markets.
+**Section 201** catches schemes, fraud, material false statements and material omissions.
+
+### 3.10 Insider trading
+
+Inside information, general availability, connected/non-connected persons, the no-intention rule, exceptions and parity-of-information defences apply to derivatives and securities-based derivatives. Do not trade, procure trading or communicate inside information.
+
+### 3.11 Illegal-transaction information
+
+Do not circulate information about illegal transactions to benefit from their price effect.
+
+### 3.12 Non-disclosure of orders
+
+Order information stays confidential except for execution, market/clearing rules, or MAS.
+
+### 3.13 Withdrawal or withholding of orders
+
+Do not withhold or withdraw a customer order for your own or another’s benefit.
+
+### 3.14 Trading against customer orders
+
+Do not trade against a customer’s futures order for the firm, an associate/connected person or an interested account unless prior consent and market-rule conditions are met.
+
+### 3.15 Front running and priority
+
+Do not trade personally before a customer’s same-class order; comply with customer priority.
+
+### 3.16 Cross trades
+
+Simultaneous buy/sell orders for different accounts must be exposed/executed through the approved electronic system or according to market rules. Test questions often ask which side should be exposed first when prices differ in attractiveness.
+
+### 3.17 Churning
+
+Excessive trades to generate commissions without sound opportunities.
+
+### 3.18 Overtrading
+
+Positions must stay within firm, sponsor, exchange, clearing-house and regulatory limits; excess positions must be reduced.
+
+### 3.19 Pre-arranged trades
+
+Agreed or predetermined prices/trades between dealers/brokers undermine fair and transparent markets.
 
 ### 3.20 Penalties
 
-Report suspected manipulation, false trading or insider trading promptly to MAS and the relevant exchange. Breach may lead to criminal/civil penalties, compensation, suspension/loss of licence or registration and reputation loss.
+Report suspected manipulation, false trading or insider trading **promptly** to MAS and the relevant exchange. Breach may lead to criminal/civil penalties, compensation, suspension/loss of licence or registration, and reputation loss.
+
+### Exam cues
+
+- **Bucketing** is the derivatives-specific trap: taking the opposite side, or pretending to execute, without a bona fide market trade — prior consent is required.
+- **Hunting for stops** and **wash trades** are the false-trading examples; **cornering** is the manipulation of the underlying.
+- **Section 201** is again the broad anti-fraud catch-all.
+- **Trading-practice rules:** non-disclosure, no withholding/withdrawal, no trading against, no front running, cross trades exposed through the approved system, no churning, no overtrading, no pre-arranged trades.
+- **Trap:** prior consent makes taking the opposite side permissible; without it, it is bucketing.
 
 ## Chapter 4 — OTC derivatives
+
+Decentralised, negotiated derivatives and the regime built around them after 2008. The examination tests which persons must report or clear, what the risk-disclosure documents are, and the dealing-practice standards.
 
 ### 4.1 Overview
 
@@ -766,43 +1039,70 @@ OTC derivatives are negotiated through dealers/brokers on a decentralised networ
 
 ### 4.2 Regulatory regime
 
-Post-2008 reforms introduced trade repositories, extended market-operator/clearing/intermediary regulation and mandated reporting/clearing of prescribed OTC derivatives. Specified persons—banks, bank subsidiaries, merchant banks, finance companies, insurers and CMS holders—must report specified interest-rate, credit, FX, commodity and equity derivatives traded/booked in Singapore to a licensed repository. Section 129C requires prescribed contracts to be cleared with an approved/recognised clearing house.
+Post-2008 reforms introduced trade repositories, extended market-operator/clearing/intermediary regulation and mandated reporting/clearing of prescribed OTC derivatives. **Specified persons** — banks, bank subsidiaries, merchant banks, finance companies, insurers and CMS holders — must report specified interest-rate, credit, FX, commodity and equity derivatives traded/booked in Singapore to a licensed repository. **Section 129C** requires prescribed contracts to be cleared with an approved/recognised clearing house.
 
 ### 4.3 SGX-DC clearing
 
-Eligible OTC commodity derivatives are registered through Titan OTC. Clearing members post initial/maintenance margin, obtain customer margin and pay variation margin for mark-to-market movements. A member may set higher internal requirements and must review them continuously.
+Eligible OTC commodity derivatives are registered through **Titan OTC**. Clearing members post initial/maintenance margin, obtain customer margin and pay variation margin for mark-to-market movements. A member may set higher internal requirements and must review them continuously.
 
 ### 4.4 Risk disclosure
 
-Form 13 and relevant Form 14/industry-standard disclosure documents must explain leverage, market, counterparty, settlement, liquidity and other product risks before account opening/execution as required. Overseas-listed products require the separate risk warning and acknowledgement.
+**Form 13** and relevant **Form 14**/industry-standard disclosure documents must explain leverage, market, counterparty, settlement, liquidity and other product risks before account opening/execution as required. Overseas-listed products require the separate risk warning and acknowledgement.
 
 ### 4.5 OTC dealing practices
 
-State all material terms clearly, disclose minimum dealing amounts/credit limits early, use standard confirmations and terminology, and use negotiated master agreements such as ISDA with governing law, netting, default, termination and undertaking terms. Credit-support documents should address collateral, transfer and legal regime. If a broker cannot substantiate a quotation and a difference is payable, close at the next available price and settle the difference with the principal.
+State all material terms clearly, disclose minimum dealing amounts/credit limits early, use standard confirmations and terminology, and use negotiated master agreements such as **ISDA** with governing law, netting, default, termination and undertaking terms. Credit-support documents should address collateral, transfer and legal regime. If a broker cannot substantiate a quotation and a difference is payable, close at the next available price and settle the difference with the principal.
+
+### Exam cues
+
+- **Reporting:** specified persons → licensed trade repository. **Clearing:** prescribed contracts → approved/recognised clearing house (s.129C).
+- **Documents:** **Form 13** is the derivatives risk disclosure; **Form 14** is the overseas-listed product warning.
+- **ISDA** master agreement covers governing law, netting, default, termination and undertakings; a credit-support document covers collateral and transfer.
+- **Trap:** bilateral counterparty risk is the OTC default; a CCP reduces it but adds margin and default-fund considerations — it does not eliminate risk.
 
 ## Chapter 5 — Ethics and standards for derivatives dealing
 
-### 5.1–5.3 Ethics, framework and dilemmas
+The ethics framework applied to derivatives, plus the best-execution standard and the wholesale-market codes. The examination tests the same framework as RES 1B with derivatives-specific risks.
 
-Apply the same client-first ethical framework as RES 1B, with derivatives-specific attention to leverage, complexity, long-lived OTC exposures, principal/client information and market integrity. Ethical threats remain self-interest, self-review and influence.
+### 5.1 Ethics and importance
+
+Apply the same client-first ethical framework as RES 1B — ethics goes beyond the legal minimum.
+
+### 5.2 Ethical framework
+
+The client-centred cycle and the three threats (self-interest, self-review, influence) apply as for RES 1B.
+
+### 5.3 Ethical dilemmas
+
+With derivatives-specific attention to leverage, complexity, long-lived OTC exposures, principal/client information and market integrity.
 
 ### 5.4 Standards and procedures
 
 Professionalism requires law, independence/objectivity, no misrepresentation or misconduct and continuing competence. Protect market integrity from material non-public information and informational/transactional manipulation. Duties to clients include loyalty, prudence, care, fair dealing, complaints handling, suitability, written investment-management agreements, accurate performance presentation and confidentiality of clients/principals/counterparties. Do not reveal a principal’s identity prematurely or pressure other market participants. Duties to employers include loyalty, no misuse of confidential information, no client-list solicitation/misappropriation/self-dealing, transparent additional compensation and proper supervision/whistleblowing.
 
-Diligence requires a reasonable basis and research. Communicate investment process, limitations, risks, important factors, costs, fact/opinion distinctions and retain records. Avoid or disclose conflicts; give client/employer trades priority; disclose referral fees, gifts and benefits. Recommended procedures include segregation of sales/dealing/research, resisting sponsor/issuer influence, protecting opinion integrity, supervisory reviews, gift limits, a designated compliance officer and continuous training.
+Diligence requires a reasonable basis and research. Communicate investment process, limitations, risks, important factors, costs, fact/opinion distinctions and retain records. Avoid or disclose conflicts; give client/employer trades priority; disclose referral fees, gifts and benefits. Procedures include segregation of sales/dealing/research, resisting sponsor/issuer influence, protecting opinion integrity, supervisory reviews, gift limits, a designated compliance officer and continuous training.
 
-The **SFEMC Blue Book** provides wholesale-market standards covering general dealing, ethics, governance/risk/compliance, back office and instrument-specific practices. The **BIS FX Global Code** is organised around ethics, governance, information sharing, execution, risk management/compliance, and confirmation/settlement.
+- **SFEMC Blue Book:** wholesale-market standards covering general dealing, ethics, governance/risk/compliance, back office and instrument-specific practices.
+- **BIS FX Global Code:** ethics, governance, information sharing, execution, risk management/compliance, and confirmation/settlement.
 
 ### 5.5 Best execution for derivatives
 
-Take reasonable steps for the best overall result, considering price, cost, speed, likelihood of execution/settlement, size and execution quality. Use written policies, time priority for comparable orders, no PFOF, monitoring and clear disclosure. Apply speed/likelihood, price and cost, size/liquidity, overall quality and client-specific instructions. Distinguish agent and principal capacities, handle orders fairly and transparently, prohibit improper staff/client or house-account cross trades, and disclose risk.
+Take reasonable steps for the best overall result, considering price, cost, speed, likelihood of execution/settlement, size and execution quality. Use written policies, time priority for comparable orders, no PFOF, monitoring and clear disclosure. Distinguish agent and principal capacities, handle orders fairly and transparently, prohibit improper staff/client or house-account cross trades, and disclose risk.
 
 ### 5.6 Applying the ethical framework
 
 Gather facts, identify ethical issues, identify stakeholders, use internal reporting/whistleblowing, evaluate alternatives, implement and monitor the best action, and document the reasoning. In suitability cases, protect the client’s long-term objectives even where a more aggressive strategy would earn more commission.
 
+### Exam cues
+
+- **Same framework as RES 1B**, with derivatives-specific emphasis on **leverage, complexity, long-lived OTC exposures** and principal/client information.
+- **Best execution:** price, cost, speed, likelihood of execution/settlement, size, execution quality. **No PFOF.**
+- **Codes:** the SFEMC **Blue Book** (Singapore wholesale market, instrument-specific) and the BIS **FX Global Code** (global conduct principles).
+- **Trap:** suitability — protect the client’s long-term objectives even where a more aggressive strategy earns more commission.
+
 ## Chapter 6 — Derivatives dealing practices and skills
+
+How a derivatives representative profiles a client, analyses markets, formulates a strategy, executes and monitors it, and manages the risks — including CAR/CKA for SIP accounts.
 
 ### 6.1 Scope
 
@@ -810,9 +1110,11 @@ Recommendations require a reasonable basis unless the firm merely executes instr
 
 ### 6.2 Market-information analysis
 
-- **Fundamental analysis:** company/industry financials, ratios and valuation; useful for long-horizon equity decisions.
-- **Technical analysis:** historical price/volume patterns and charts; useful for shorter horizons and market fluctuations.
-- **Global macro analysis:** interest rates, policies, geopolitics, history and systemic forces.
+| Approach | Basis | Best horizon |
+|---|---|---|
+| **Fundamental** | company/industry financials, ratios and valuation | long-horizon equity decisions |
+| **Technical** | historical price/volume patterns and charts | shorter horizons and market fluctuations |
+| **Global macro** | interest rates, policies, geopolitics, systemic forces | thematic/top-down views |
 
 Use reliable sources and conduct due diligence on third-party research, including the author’s experience, reputation and possible bias.
 
@@ -820,7 +1122,7 @@ Use reliable sources and conduct due diligence on third-party research, includin
 
 Reassess the overall purpose: alpha/excess return or hedging. Define return and risk objectives, performance targets, benchmarks, fees/taxes/inflation/spending assumptions, asset-allocation targets and ranges, and risk tolerance. Address time horizon, liquidity needs, legal constraints and foreign-investment restrictions.
 
-Risk management should use consistent metrics, a rebalancing plan and the five-step cycle: identify, assess, evaluate, respond and report. Rebalancing can reduce exposure to events or implement tactical asset allocation.
+Risk management should use consistent metrics, a rebalancing plan and the **five-step cycle: identify, assess, evaluate, respond and report**. Rebalancing can reduce exposure to events or implement tactical asset allocation.
 
 ### 6.4 Implementation and monitoring
 
@@ -828,29 +1130,41 @@ Obtain client information before advice; review profiles/needs at least annually
 
 Risk skills include stop-losses, daily loss limits and Value at Risk. Monitor risk, return, performance versus benchmark and variances, report and explain changes, and refine the portfolio.
 
-### 6.5–6.6 KYC and SIP accounts
+### 6.5 KYC for derivatives clients
 
-For retail clients trading SIPs, conduct CAR for listed SIPs and CKA for unlisted SIPs. The same qualification, six-transaction and three-year relevant-experience tests apply, with product-specific experience for unlisted SIPs. Learning modules or CMFAS modules can satisfy knowledge requirements subject to the source’s evidence requirements.
+Obtain client information before advice and keep it current; the onboarding and CDD standards of RES 1B Chapter 5 apply.
 
-Independent senior management approval is needed for a SIP account. A negative CAR may still lead to a listed-SIP account only with written outcome, customer confirmation, risk explanation and responsibility warning. A negative CKA generally prevents unlisted-SIP dealing unless the firm is also an exempt financial adviser providing advice. CAR validity is three years with the stated transaction/new-assessment rule; CKA validity is one year. Keep assessment, outcome, approval and communications.
+### 6.6 SIP accounts
 
-For overseas-listed products, give and record the risk warning; classify EIPs accurately; if classification is not implemented, treat as SIP and perform CAR; outsourced classification remains the CMS holder’s responsibility.
+For retail clients trading SIPs, conduct **CAR** for listed SIPs and **CKA** for unlisted SIPs. The same qualification, six-transaction and three-year relevant-experience tests apply, with product-specific experience for unlisted SIPs.
+
+- **Independent senior management approval** is needed for a SIP account.
+- A **negative CAR** may still lead to a listed-SIP account only with written outcome, customer confirmation, risk explanation and responsibility warning.
+- A **negative CKA** generally prevents unlisted-SIP dealing unless the firm is also an exempt financial adviser providing advice.
+- **Validity:** CAR three years; CKA one year. Keep assessment, outcome, approval and communications.
+- For overseas-listed products, give and record the risk warning; classify EIPs accurately; if classification is not implemented, treat as SIP and perform CAR; outsourced classification remains the CMS holder’s responsibility.
 
 ### 6.7 Risk management
 
-- **Operational risk:** losses from failed processes, people, systems and external events; use business continuity, documented controls, trained staff and recovery procedures.
-- **Market risk:** loss from FX, interest, credit-spread, equity and commodity movement; manage diversification, limits, monitoring and reporting.
-- **Correlation risk:** linked instruments move together and amplify exposure.
-- **Political/legal risk:** policy, intervention, conflict, terrorism or regulatory change affects values.
-- **Gap risk:** price jumps past a stop-loss with no tradable prices in between.
-- **Capital risk:** loss of principal, potentially exceeding principal in margin trading.
-- **Technology risk:** cyberattack, outage and system failure; the source highlights critical-system downtime and prompt MAS notification for severe incidents, plus cyber-hygiene controls.
-- **Credit/counterparty risk:** an obligor defaults; reduce exposure, set limits and use collateral/clearing where appropriate.
-- **Liquidity risk:** inability to fund obligations or close positions without unacceptable loss; use liquid assets, diversified funding and scenario analysis.
-- **Regulatory risk:** laws/rules make activities more costly or unavailable; monitor and adapt.
-- **Interconnected/systemic risk:** one institution or market failure transmits through connected counterparties.
+| Risk | Meaning / control |
+|---|---|
+| **Operational** | failed processes, people, systems, external events — business continuity, controls, trained staff, recovery |
+| **Market** | FX, interest, credit-spread, equity, commodity movement — diversification, limits, monitoring |
+| **Correlation** | linked instruments move together and amplify exposure |
+| **Political/legal** | policy, intervention, conflict, terrorism, regulatory change |
+| **Gap** | price jumps past a stop-loss with no tradable prices in between |
+| **Capital** | loss of principal, potentially exceeding it in margin trading |
+| **Technology** | cyberattack, outage, system failure — critical-system downtime requires prompt MAS notification |
+| **Credit/counterparty** | an obligor defaults — reduce exposure, set limits, use collateral/clearing |
+| **Liquidity** | inability to fund obligations or close positions without unacceptable loss — liquid assets, diversified funding, scenario analysis |
+| **Regulatory** | laws/rules make activities more costly or unavailable — monitor and adapt |
+| **Interconnected/systemic** | one institution or market failure transmits through connected counterparties |
 
-MAS’s CRAFT/impact-and-risk supervision uses diagnostic and remedial tools. AML/CFT risk management requires risk comprehension, board governance, transaction monitoring and customer acceptance/risk profiling.
+MAS’s **CRAFT**/impact-and-risk supervision uses diagnostic and remedial tools. AML/CFT risk management requires risk comprehension, board governance, transaction monitoring and customer acceptance/risk profiling.
+
+### Exam cues
+
+- **CAR vs CKA:** listed SIP → CAR; unlisted SIP → CKA. Negative CAR may still permit a listed-SIP account with written confirmations; negative CKA generally blocks unlisted dealing unless the firm is also an exempt financial adviser.\n- **Analysis tools:** fundamental (long horizon), technical (short horizon), global macro (top-down).\n- **Risk cycle:** identify → assess → evaluate → respond → report.\n- **Risk types:** operational, market, correlation, political/legal, gap, capital, technology, credit/counterparty, liquidity, regulatory, interconnected/systemic.\n- **Trap:** a negative CAR is not an automatic bar (with written confirmations); a negative CKA is a bar unless the firm can give advice as an exempt financial adviser.
 
 ## RES 2B appendices
 

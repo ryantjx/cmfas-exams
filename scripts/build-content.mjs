@@ -26,7 +26,7 @@ import { copyFileSync, existsSync, mkdirSync, rmSync, writeFileSync } from 'node
 import path from 'node:path';
 
 import { EXAMS, HOME, STUDY_PLAN } from './lib/exams.mjs';
-import { extractGuideChapters, shiftHeadings, splitGuide } from './lib/questions.mjs';
+import { shiftHeadings, splitGuide } from './lib/questions.mjs';
 import {
   REPO_ROOT,
   chapterLabel,
@@ -207,8 +207,12 @@ const practiceExams = [];
 for (const exam of EXAMS) {
   const guideLines = readLines(exam.guide);
   const { intro, pages } = splitGuide(exam, guideLines);
-  const chapters = extractGuideChapters(exam, guideLines);
   const guideChapters = pages.filter((p) => p.kind === 'chapter' || p.kind === 'appendix' || p.kind === 'appendix-group');
+
+  // The bank (and its chapter rollup) is needed by both the overview count and
+  // the practice catalogue, so read it before either is written.
+  const bank = JSON.parse(readText(`src/data/banks/${exam.id}.json`));
+  const bankChaptersWithQuestions = bank.chapters.filter((c) => c.questionCount > 0);
 
   // --- overview -------------------------------------------------------------
   const stubLines = stripLeadingTitleLine(readLines(exam.stub));
@@ -224,8 +228,8 @@ for (const exam of EXAMS) {
 **Real exam:** ${exam.realExam.note}
 </Aside>
 
-**Question bank:** ${JSON.parse(readText(`src/data/banks/${exam.id}.json`)).generated.questionCount} questions
-across ${chapters.filter((c) => c.questionCount > 0).length} chapters.
+**Question bank:** ${bank.generated.questionCount} questions
+across ${bankChaptersWithQuestions.length} chapters.
 
 ## Syllabus
 
@@ -271,15 +275,18 @@ ${introBody}
 
 ${chapterList}
 
-Each chapter page ends with a link to that chapter's quiz.
+Chapters that have questions end with a link to that chapter's quiz.
 `,
   );
 
   // --- guide chapter/subsection pages --------------------------------------
   for (const page of guideChapters) {
     const body = shiftHeadings(stripLeadingTitleLine(page.lines), page.level).join('\n').trim();
+    // Only link a chapter quiz when the bank actually holds questions for it,
+    // otherwise the deep link opens a chapter with nothing to answer.
+    const hasQuiz = bankChaptersWithQuestions.some((c) => c.id === page.id);
     const practiceLink =
-      page.kind === 'chapter'
+      page.kind === 'chapter' && hasQuiz
         ? `\n---\n\n[Practise this chapter \u2192](${link(`/practice/${exam.id}/?type=chapter&chapter=${page.id}`)})\n`
         : '';
     write(
@@ -297,7 +304,6 @@ ${practiceLink}`,
   // --- practice catalogue ---------------------------------------------------
   // Practice lives in its own top-level section (see below); here we only
   // collect what the picker needs.
-  const bank = JSON.parse(readText(`src/data/banks/${exam.id}.json`));
   practiceExams.push({
     id: exam.id,
     name: exam.name,
@@ -305,9 +311,11 @@ ${practiceLink}`,
     questions: bank.questions.length,
     dailySize: bank.dailySize,
     realExam: exam.realExam,
-    chapters: bank.chapters
-      .filter((c) => c.questionCount > 0)
-      .map((c) => ({ id: c.id, title: c.title, count: c.questionCount })),
+    chapters: bankChaptersWithQuestions.map((c) => ({
+      id: c.id,
+      title: c.title,
+      count: c.questionCount,
+    })),
   });
 
   // --- downloads ------------------------------------------------------------
