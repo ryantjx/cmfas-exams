@@ -1,5 +1,8 @@
 /* Study-site tweaks on top of Starlight's defaults, plus the quiz UI. */
 
+/* KaTeX stylesheet for the study guides' LaTeX formulas (`$…$`, `$$…$$`). */
+@import 'katex/dist/katex.min.css';
+
 :root {
   --quiz-border: var(--sl-color-gray-5);
   --quiz-muted: var(--sl-color-gray-3);
@@ -13,6 +16,13 @@
   display: block;
   overflow-x: auto;
   max-width: 100%;
+}
+
+/* Long display equations scroll rather than overflow the content column. */
+.katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding-block: 0.25rem;
 }
 
 .quiz-visually-hidden {

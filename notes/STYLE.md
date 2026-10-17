@@ -53,6 +53,21 @@ One- to three-line orientation: what the chapter governs and why it is tested.
   the arithmetic shown step by step. The current guides bury calculations in a
   sentence; unpack them.
 
+## Mathematics
+
+Write formulas as LaTeX, not inline code:
+
+- Inline maths uses `$$…$$` (e.g. `$$n$$`, `$$\beta$$`). Display maths also uses
+  `$$…$$`; put a blank line before and after so it renders as a centred block.
+- **Single-dollar `$…$` math is disabled**, because the guides are full of
+  currency amounts (`$1,305`, `S$200,000`) that must stay literal. Write money as
+  plain text — escape a leading dollar in display maths as `\$` if needed.
+- The website renders this with KaTeX; the printable PDFs render it with
+  pandoc/xelatex (`pandoc … -f gfm` — no special flag needed, since single-dollar
+  math is off by default there too).
+- Keep prose descriptions of calculations as prose. Use maths only for the
+  formula itself and for symbol definitions.
+
 ## Build contract (do not break)
 
 The splitter keys off exact heading patterns. Numbering may change to match the

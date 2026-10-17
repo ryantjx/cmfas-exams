@@ -147,9 +147,11 @@ They include equity-index, single-stock, bond, short/long interest-rate and curr
 
 ### Interest-rate futures
 
-Short-term futures are often quoted as `P = 100 × (1 − R)`, so a higher implied rate produces a lower price. For long-term forward rates, use:
+Short-term futures are often quoted as $$P = 100(1 - R)$$, so a higher implied rate produces a lower price. For long-term forward rates, use:
 
-`(1 + d1 r1/360)(1 + d2 r2/360) = (1 + D R/360)`.
+$$
+\left(1 + \frac{d_1 r_1}{360}\right)\left(1 + \frac{d_2 r_2}{360}\right) = \left(1 + \frac{DR}{360}\right)
+$$
 
 **Worked example.** Given a 45-day rate of 1.25% and a 135-day rate of 1.75%, the implied 90-day forward rate is approximately **2%** using the stated day-count convention. A Mini-JGB example demonstrates the price/tick and contract-size calculation; US Treasury-note examples show how a tick change translates into P&L.
 
@@ -157,17 +159,21 @@ Short-term futures are often quoted as `P = 100 × (1 − R)`, so a higher impli
 
 Interest-rate parity links spot and forward/futures rates:
 
-`F = S × [1 + Rc(n/360)] / [1 + Rb(n/360)]`,
+$$
+F = S \times \frac{1 + R_c\,(n/360)}{1 + R_b\,(n/360)}
+$$
 
-where `Rb` is the base-currency rate and `Rc` is the counter-currency rate. With GBP/USD spot 1.2422, UK rate 0.70444% and US rate 1.799%, the one-year theoretical forward is approximately 1.2557.
+where $$R_b$$ is the base-currency rate and $$R_c$$ is the counter-currency rate. With GBP/USD spot 1.2422, UK rate 0.70444% and US rate 1.799%, the one-year theoretical forward is approximately 1.2557.
 
 ### Equity-index futures and SSFs
 
 Indices may be price-weighted or capitalisation-weighted. Compared with buying shares, index futures provide cash-settled diversified exposure, daily MTM, leverage, short exposure without borrowing stock, and no direct dividend entitlement. Fair value is:
 
-`F = S[1 + r(t/360)] − D`,
+$$
+F = S\left[1 + r\,(t/360)\right] - D
+$$
 
-where `D` is dividends before expiry. The difference between futures and spot is the basis; convergence and cash-and-carry/reverse cash-and-carry arbitrage constrain mispricing. Single-stock futures (SSFs) similarly provide transparent, leveraged, exchange-traded long/short exposure, but a short position may add selling pressure and remains exposed to leverage and basis/roll factors.
+where $$D$$ is dividends before expiry. The difference between futures and spot is the basis; convergence and cash-and-carry/reverse cash-and-carry arbitrage constrain mispricing. Single-stock futures (SSFs) similarly provide transparent, leveraged, exchange-traded long/short exposure, but a short position may add selling pressure and remains exposed to leverage and basis/roll factors.
 
 ## 2.4 Settlement, clearing and SGX orders
 
@@ -181,7 +187,9 @@ Order types include limit, market-to-limit (MTL), market, stop (stop-limit/MTL/m
 
 The cost-of-carry model is:
 
-`F0,t = S0(1 + C0,t)`.
+$$
+F_{0,t} = S_0\left(1 + C_{0,t}\right)
+$$
 
 Carry may include financing, storage, insurance and transport, less income or convenience yield. Under no-arbitrage:
 
@@ -194,7 +202,9 @@ Carry may include financing, storage, insurance and transport, less income or co
 
 For hedging, define basis consistently as:
 
-`basis = spot/cash price of the asset being hedged − futures price`.
+$$
+\text{basis} = \text{spot/cash price of the asset being hedged} - \text{futures price}
+$$
 
 Basis converges toward zero at expiry when the same deliverable/settlement reference is used. **Contango** means futures above spot; **backwardation** means futures below spot. Basis is affected by carry, storage, income/coupons, convenience yield, time to expiry, yield-curve shape, liquidity, administered versus market rates, expectations and contract/asset mismatch. Basis risk arises because spot and futures do not move in perfect lockstep before expiry.
 
@@ -254,9 +264,9 @@ A worked S&P spread example shows a net gain of about **USD11,500** in one scena
 
 ### Butterflies, condors and credit spreads
 
-- **Butterfly:** four legs with weights `+1, −2, +1` across three maturities; it targets curvature/relative richness and is usually more market-neutral than an outright.
+- **Butterfly:** four legs with weights $$+1,\ -2,\ +1$$ across three maturities; it targets curvature/relative richness and is usually more market-neutral than an outright.
 - **Double butterfly:** two butterflies combined to target a broader curve shape.
-- **Condor:** four different maturities with `+1, −1, −1, +1`; it normally has a wider but flatter profit zone than a butterfly.
+- **Condor:** four different maturities with $$+1,\ -1,\ -1,\ +1$$; it normally has a wider but flatter profit zone than a butterfly.
 - **TED spread:** compares T-bill/Treasury and Eurodollar/LIBOR pricing; it is a credit/liquidity-risk indicator, not merely a pure interest-rate trade.
 - **Inter-product spread:** e.g., gasoline versus heating oil, driven by refining economics and seasonal demand.
 
@@ -275,11 +285,15 @@ A disciplined hedge programme specifies:
 
 ### Target rate and hedge value
 
-`Target rate = futures rate + target-rate basis`.
+$$
+\text{Target rate} = \text{futures rate} + \text{target-rate basis}
+$$
 
 For a long cash exposure hedged by a short futures position:
 
-`Vt = St + (F − Ft) = F + (St − Ft) = initial futures price + ending basis`.
+$$
+V_t = S_t + (F - F_t) = F + (S_t - F_t) = \text{initial futures price} + \text{ending basis}
+$$
 
 ### Hedge styles
 
@@ -292,21 +306,27 @@ For a long cash exposure hedged by a short futures position:
 
 General hedge ratio:
 
-`h = ΔS/ΔF`; number of contracts = `−h × exposure value / contract size`.
+$$
+h = \frac{\Delta S}{\Delta F}; \qquad \text{number of contracts} = \frac{-h \times \text{exposure value}}{\text{contract size}}
+$$
 
 A **USD100 million 90-day exposure** against USD1 million Eurodollar futures needs **100 contracts** per 90-day period in a stack hedge (a 6-month exposure may require two stacks, subject to the question’s exact convention). A USD50m/6-month example gives 100 contracts under its stated assumptions.
 
 For long-term bonds:
 
-`hedge ratio = PVBP of hedged security / PVBP of CTD bond × conversion factor`.
+$$
+\text{hedge ratio} = \frac{\text{PVBP of hedged security}}{\text{PVBP of CTD bond}} \times \text{conversion factor}
+$$
 
 A worked example produces approximately **157 Treasury-futures contracts**. Use DV01/PVBP, not face value alone.
 
 For an equity portfolio:
 
-`N = VP/(F × T) × beta`,
+$$
+N = \frac{VP}{F \times T} \times \beta
+$$
 
-where `T` is the contract value per index point. A portfolio example results in about 30 S&P contracts and shows that a hedge reduces systematic risk while leaving stock-specific and basis risk.
+where $$T$$ is the contract value per index point. A portfolio example results in about 30 S&P contracts and shows that a hedge reduces systematic risk while leaving stock-specific and basis risk.
 
 Other applications include currency receivables, floating-rate deposits/debt, Nikkei exposure and 130/30 portfolios (long 130% and short 30% with net 100% equity exposure).
 
@@ -334,9 +354,11 @@ European options are exercisable only at expiry; American options can be exercis
 
 ## 4.2 Features and definitions
 
-`option price/premium = intrinsic value + time value`.
+$$
+\text{option price/premium} = \text{intrinsic value} + \text{time value}
+$$
 
-For a call, `IV = max(0, S − X)`; for a put, `IV = max(0, X − S)`. Time value = premium − intrinsic value.
+For a call, $$IV = \max(0,\ S - X)$$; for a put, $$IV = \max(0,\ X - S)$$. Time value = premium − intrinsic value.
 
 - **ITM:** immediate exercise has positive value.
 - **ATM:** immediate exercise has approximately zero value.
@@ -351,12 +373,12 @@ Exchange option cycles use month codes such as JAJO, FMAN and MJSD; contract spe
 
 At expiry, ignoring costs:
 
-- long call payoff = `max(0, S − X)`; profit = payoff − premium;
-- long put payoff = `max(0, X − S)`; profit = payoff − premium;
+- long call payoff = $$\max(0,\ S - X)$$; profit = payoff − premium;
+- long put payoff = $$\max(0,\ X - S)$$; profit = payoff − premium;
 - short call profit = premium − call payoff;
 - short put profit = premium − put payoff.
 
-Long-call breakeven = `X + premium`; maximum loss is premium and upside is theoretically unlimited. Long-put maximum loss is premium; maximum payoff before premium is `X` if the underlying falls to zero. Naked short calls can have unlimited losses; naked short puts can lose substantially down to zero. Covered calls and spreads limit some risk.
+Long-call breakeven = $$X + \text{premium}$$; maximum loss is premium and upside is theoretically unlimited. Long-put maximum loss is premium; maximum payoff before premium is $$X$$ if the underlying falls to zero. Naked short calls can have unlimited losses; naked short puts can lose substantially down to zero. Covered calls and spreads limit some risk.
 
 ## 4.4 Factors affecting premiums
 
@@ -379,7 +401,9 @@ The option holder has limited loss and optionality; the writer receives premium 
 
 For European options on the same underlying, strike and expiry, with consistent units and no dividends (or dividends correctly discounted):
 
-`C + PV(X) = P + S`.
+$$
+C + \text{PV}(X) = P + S
+$$
 
 This creates synthetic positions:
 
@@ -416,7 +440,7 @@ Check ticker, underlying, contract size/multiplier, listed months, trading hours
 - **Equity-index options:** usually cash-settled; multiply index payoff by the contract multiplier.
 - **Bond options:** expose the investor to rates, credit, liquidity and embedded-option risk.
 - **Interest-rate options:** caps are call-like protection against rising rates; floors are put-like protection against falling rates; collars combine buying one and selling another.
-- **Eurodollar/short-rate options:** often quoted on `100 − yield`; the tick value converts price changes into dollars.
+- **Eurodollar/short-rate options:** often quoted on $$100 - \text{yield}$$; the tick value converts price changes into dollars.
 - **Currency options:** involve two currencies, not just a single share price; large notionals and 24-hour markets heighten monitoring and counterparty risk.
 - **Options on futures:** the option gives the right to enter a futures position at the strike.
 - **Swaptions:** options to enter swaps; a payer swaption protects against rising rates, while a receiver swaption protects against falling rates. Exercise date, swap tenor, fixed rate, notional and settlement are key.
@@ -470,10 +494,10 @@ A structured warrant is issued by a third-party financial institution and refere
 
 Cash settlement per warrant is:
 
-- call: `(S − X)/n` if positive;
-- put: `(X − S)/n` if positive;
+- call: $$\dfrac{S - X}{n}$$ if positive;
+- put: $$\dfrac{X - S}{n}$$ if positive;
 
-where `n` is the conversion ratio (number of warrants per one underlying unit). Physical settlement, if offered, follows the product terms.
+where $$n$$ is the conversion ratio (number of warrants per one underlying unit). Physical settlement, if offered, follows the product terms.
 
 Compared with company-issued warrants, structured warrants are issued by an unrelated financial institution and normally do not dilute the underlying company. Both can expire worthless and provide no ordinary voting/dividend rights.
 
@@ -481,13 +505,13 @@ Benefits include leverage, limited loss to the purchase price (subject to issuer
 
 ## 5.3 Key terms
 
-- **Conversion ratio (`n`):** warrants needed for one underlying unit.
-- **Strike/exercise price (`X`):** price at which the underlying is bought/sold.
+- **Conversion ratio ($$n$$):** warrants needed for one underlying unit.
+- **Strike/exercise price ($$X$$):** price at which the underlying is bought/sold.
 - **Expiry:** final life/exercise date.
 - **Issue/market price:** amount paid for the warrant.
 - **Settlement:** physical or cash.
-- **Gearing:** underlying price divided by `warrant price × n`.
-- **Effective gearing:** `delta × gearing`; a better approximation of short-term percentage sensitivity than gearing alone.
+- **Gearing:** underlying price divided by $$\text{warrant price} \times n$$.
+- **Effective gearing:** $$\text{delta} \times \text{gearing}$$; a better approximation of short-term percentage sensitivity than gearing alone.
 
 The SGX code normally identifies underlying, issuer, call/put or style and maturity. Always confirm the current term sheet rather than inferring from a ticker.
 
@@ -495,7 +519,7 @@ The SGX code normally identifies underlying, issuer, call/put or style and matur
 
 Life to expiry, underlying price, strike, implied volatility, dividends, interest rates, conversion ratio, liquidity, issuer credit and gearing affect price. A call rises with underlying and volatility and generally falls with dividends; a put behaves in the opposite direction for spot/dividends. Time value normally decays faster close to expiry and is not linear.
 
-Warrant delta is `n × (change in warrant price / change in underlying)`. Implied volatility is backed out from the observed price; it is not a guaranteed prediction.
+Warrant delta is $$n \times \dfrac{\text{change in warrant price}}{\text{change in underlying}}$$. Implied volatility is backed out from the observed price; it is not a guaranteed prediction.
 
 ## 5.5 Trading structured warrants
 
@@ -505,20 +529,20 @@ Calls and puts may be bought to express bullish/bearish views, hedge a portfolio
 
 Intrinsic value:
 
-- call: `max[0, (S − X)/n]`;
-- put: `max[0, (X − S)/n]`.
+- call: $$\max\left[0,\ (S - X)/n\right]$$;
+- put: $$\max\left[0,\ (X - S)/n\right]$$.
 
 Conversion price:
 
-- call: `X + n × WP`;
-- put: `X − n × WP`.
+- call: $$X + n \times WP$$;
+- put: $$X - n \times WP$$.
 
 The warrant premium is its price above intrinsic value. The formula sheet also expresses dollar premium as:
 
-- call: `nWP + X − S`;
-- put: `nWP − X + S`.
+- call: $$nWP + X - S$$;
+- put: $$nWP - X + S$$.
 
-Premium percentage may be calculated against the relevant conversion value; state the convention used. A call with `X=$1`, `WP=$1.20`, `n=1` has conversion price $2.20. A warrant at $0.40 on a $2.40 share has 6× gearing when `n=1`.
+Premium percentage may be calculated against the relevant conversion value; state the convention used. A call with $$X = \text{\$}1$$, $$WP = \text{\$}1.20$$, $$n = 1$$ has conversion price \$2.20. A warrant at \$0.40 on a \$2.40 share has 6× gearing when $$n = 1$$.
 
 ## 5.7 Roles in the market
 
@@ -536,9 +560,9 @@ Cash-settled warrants pay the in-the-money amount according to the final settlem
 
 Dividends, special dividends, buybacks/cancellations, rights, bonus issues and splits can adjust strike and conversion ratio so that the product remains economically comparable. The formula sheet gives:
 
-- dividend adjustment factor `=(P − SD − ND)/(P − ND)`;
-- buyback/cancellation factors `A/B` and `(P − CD)/P`;
-- split factor `A/B`;
+- dividend adjustment factor $$\dfrac{P - SD - ND}{P - ND}$$;
+- buyback/cancellation factors $$\dfrac{A}{B}$$ and $$\dfrac{P - CD}{P}$$;
+- split factor $$\dfrac{A}{B}$$;
 
 with the new strike = old strike × factors and new conversion ratio = old conversion ratio × factors. Read the issuer’s adjustment announcement.
 
@@ -616,7 +640,9 @@ Knock-out warrants combine exchange-traded warrant-style leverage with a barrier
 
 CBBCs are exchange-traded leveraged long/short products, usually linked to an equity/index. A bull profits from a rise; a bear profits from a fall. Delta is often close to 1 before the call event, and gearing is:
 
-`underlying price / (CBBC price × conversion ratio)`.
+$$
+\text{gearing} = \frac{\text{underlying price}}{\text{CBBC price} \times \text{conversion ratio}}
+$$
 
 The **mandatory call event (MCE)** is triggered when the underlying reaches the call price: for a bear, spot rises to/above the call price; for a bull, spot falls to/below it.
 
@@ -626,13 +652,13 @@ The **mandatory call event (MCE)** is triggered when the underlying reaches the 
 
 Theoretical price (simplified source formula):
 
-- bull = `[(underlying − strike) + financial cost] / conversion ratio`;
-- bear = `[(strike − underlying) + financial cost] / conversion ratio`.
+- bull = $$\dfrac{(\text{underlying} - \text{strike}) + \text{financial cost}}{\text{conversion ratio}}$$;
+- bear = $$\dfrac{(\text{strike} - \text{underlying}) + \text{financial cost}}{\text{conversion ratio}}$$.
 
 Residual value for R-CBBCs:
 
-- bull = `(settlement price − strike)/conversion ratio`;
-- bear = `(strike − settlement price)/conversion ratio`.
+- bull = $$\dfrac{\text{settlement price} - \text{strike}}{\text{conversion ratio}}$$;
+- bear = $$\dfrac{\text{strike} - \text{settlement price}}{\text{conversion ratio}}$$.
 
 The settlement price is subject to the MCE observation rules: a **bull** uses the **minimum** and a **bear** the **maximum** observed price between MCE and the next session, subject to the product terms. At maturity, the same direction-specific formula uses the closing settlement price.
 
@@ -726,9 +752,11 @@ The principal component can be a zero-coupon bond, corporate/AAA bond or deposit
 
 ### Range accrual notes (RAN)
 
-A RAN pays a high rate on observations inside a stated range and a lower rate outside. If `n` of `N` observations are inside:
+A RAN pays a high rate on observations inside a stated range and a lower rate outside. If $$n$$ of $$N$$ observations are inside:
 
-`payout = P1(n/N) + P2((N − n)/N)`.
+$$
+\text{payout} = P_1\frac{n}{N} + P_2\frac{N - n}{N}
+$$
 
 The term sheet defines reference index, range, observation frequency, payout rates, minimum/maximum, call rights, settlement and whether the condition is observed at expiry or throughout life.
 
@@ -738,7 +766,7 @@ The issuer may call after a lockout/observation period. Calling creates reinvest
 
 ### Inverse floater
 
-Coupon typically follows `max[X% − leverage × floating-rate index, minimum coupon]`. It benefits from falling rates but can fall to the floor when rates rise; leverage makes rate risk nonlinear.
+Coupon typically follows $$\max\left[X\% - \text{leverage} \times \text{floating-rate index},\ \text{minimum coupon}\right]$$. It benefits from falling rates but can fall to the floor when rates rise; leverage makes rate risk nonlinear.
 
 ### Step-up callable note (CSUN-type)
 
@@ -801,13 +829,21 @@ A TRS fund receives the total return of a reference asset/index and pays financi
 
 Constant proportion portfolio insurance allocates between risky and risk-free assets:
 
-`cushion = portfolio value − floor value`;
+$$
+\text{cushion} = \text{portfolio value} - \text{floor value}
+$$
 
-`multiplier = 1 / crash size`;
+$$
+\text{multiplier} = \frac{1}{\text{crash size}}
+$$
 
-`risky allocation = multiplier × cushion`;
+$$
+\text{risky allocation} = \text{multiplier} \times \text{cushion}
+$$
 
-`risk-free allocation = portfolio value − risky allocation`.
+$$
+\text{risk-free allocation} = \text{portfolio value} - \text{risky allocation}
+$$
 
 As the portfolio rises, risky allocation normally rises; as it falls, the manager sells risky assets and moves into the risk-free asset. The floor may increase over time and the risky allocation may be capped at 100% or allowed to be leveraged depending on the terms. A sharp fall can force the fund entirely into the risk-free asset, after which it may miss a later recovery: this is the “cash-lock” or gap-to-floor risk. In a range-bound market CPPI may buy high and sell low. DPPI varies the multiplier and has similar path, fee, gap, liquidity and manager risks.
 
@@ -961,7 +997,7 @@ The front office, middle office and back office manage market, credit and settle
 - **Maturity limit:** restricts illiquid deferred contracts.
 - **Stress-test limit:** measures portfolio under adverse scenarios.
 
-For fixed income: 1 bp = 0.01%; DV01/PVBP is dollar price change per 1 bp; duration is a weighted cash-flow time measure; modified duration measures price sensitivity. `ΔP/P ≈ −modified duration × ΔYTM`. A modified duration of 2 and a 100 bp yield rise implies about a 2% price fall. If price $980 has PVBP $1, a 5 bp yield rise reduces it to $975.
+For fixed income: 1 bp = 0.01%; DV01/PVBP is dollar price change per 1 bp; duration is a weighted cash-flow time measure; modified duration measures price sensitivity: $$\frac{\Delta P}{P} \approx -\text{modified duration} \times \Delta YTM$$. A modified duration of 2 and a 100 bp yield rise implies about a 2% price fall. If price \$980 has PVBP \$1, a 5 bp yield rise reduces it to \$975.
 
 VaR combines volatility/correlation into a loss threshold. A 1-day 95% VaR of SGD1m means a 5% probability that loss exceeds SGD1m over one day, under the model’s assumptions. VaR has confidence, horizon and loss-estimate components; it is not a guarantee or stress-test substitute.
 
@@ -1026,7 +1062,7 @@ The client is effectively short a put: below the strike, he owns the falling sto
 
 ## 12.5 Range accrual note — Robert
 
-AUD/USD range = 0.7600–0.8200, maturity three months, maximum yield 6%, minimum 1%, MMR 2.75%. If inside for two months and outside for one, annualised payout is `6%×2/3 + 1%×1/3 = 4.33%` (the answer text displays approximately 4.32% due to rounding).
+AUD/USD range = 0.7600–0.8200, maturity three months, maximum yield 6%, minimum 1%, MMR 2.75%. If inside for two months and outside for one, annualised payout is $$6\% \times \tfrac{2}{3} + 1\% \times \tfrac{1}{3} = 4.33\%$$ (the answer text displays approximately 4.32% due to rounding).
 
 To make the digital spread cheaper or raise maximum yield: narrow the range, skew it so spot is nearer a barrier, extend maturity, or lower the minimum yield. Widening the range makes inside outcomes more likely and the option more expensive; shortening maturity can increase cost. A double-no-touch version observes the path: touching either barrier terminates the enhanced payout and leaves only the minimum return.
 
@@ -1063,14 +1099,14 @@ The case studies test the same method, not the products. For each, work the numb
 
 # Appendix A — CPPI strategy worked examples
 
-Parameters: initial $100; crash size 20%; multiplier `1/20%=5`; risky asset S&P index fund; five-year tenor.
+Parameters: initial \$100; crash size 20%; multiplier $$1/20\% = 5$$; risky asset S&P index fund; five-year tenor.
 
 - Day 1 floor 85%: cushion 15; risky = 5×15 = $75; risk-free = $25.
 - New floor 86% with total still $100: cushion 14; risky = $70; risk-free = $30.
-- Portfolio at $86 after risky asset falls 20%: risky falls $70→$56; plus $30 risk-free = $86; liquidate all risky into risk-free, so later equity appreciation is missed.
-- Portfolio at $96: risky value $66, required risky allocation `5×(96−86)%=$50`; sell $16 risky and hold $46 risk-free.
-- Portfolio at $110: required allocation `5×(110−86)%=$120`; if capped, put all $110 in risky; if leverage permitted, borrow $10 and hold $120 risky.
-- If leveraged risky value falls 20% from $120 to $96, repay $10 and move remaining $86 to risk-free. The crash has again locked the floor.
+- Portfolio at \$86 after risky asset falls 20%: risky falls \$70→\$56; plus \$30 risk-free = \$86; liquidate all risky into risk-free, so later equity appreciation is missed.
+- Portfolio at \$96: risky value \$66, required risky allocation $$5 \times (96 - 86)\% = \text{\$}50$$; sell \$16 risky and hold \$46 risk-free.
+- Portfolio at \$110: required allocation $$5 \times (110 - 86)\% = \text{\$}120$$; if capped, put all \$110 in risky; if leverage permitted, borrow \$10 and hold \$120 risky.
+- If leveraged risky value falls 20% from \$120 to \$96, repay \$10 and move remaining \$86 to risk-free. The crash has again locked the floor.
 
 The reallocation repeats periodically. CPPI assumes an appreciating, relatively low-volatility asset with limited drawdown; a range-bound or gap-down market can cause buy-high/sell-low behaviour.
 
@@ -1104,61 +1140,61 @@ Exam habit: identify contract size, tick value, trading hours/session, price lim
 
 ## Futures
 
-`F0,t = S0(1 + C0,t)`
+$$F_{0,t} = S_0(1 + C_{0,t})$$
 
-`P = 100(1 − R)` for short-rate futures.
+$$P = 100(1 - R)$$ for short-rate futures.
 
-`(1 + d1r1/360)(1 + d2r2/360) = (1 + DR/360)` for long-rate futures.
+$$\left(1 + \frac{d_1 r_1}{360}\right)\left(1 + \frac{d_2 r_2}{360}\right) = \left(1 + \frac{DR}{360}\right)$$ for long-rate futures.
 
-`F = S × [1 + Rc(n/360)]/[1 + Rb(n/360)]` for interest-rate parity.
+$$F = S \times \frac{1 + R_c(n/360)}{1 + R_b(n/360)}$$ for interest-rate parity.
 
-`F = S[1 + r(t/360)] − D` for equity-index futures.
+$$F = S\left[1 + r(t/360)\right] - D$$ for equity-index futures.
 
-`target hedge rate = futures rate + target-rate basis`.
+$$\text{target hedge rate} = \text{futures rate} + \text{target-rate basis}$$
 
-`Vt = St + (F − Ft) = F + (St − Ft)`.
+$$V_t = S_t + (F - F_t) = F + (S_t - F_t)$$
 
-`bond hedge ratio = PVBP(hedged security)/PVBP(CTD) × conversion factor`.
+$$\text{bond hedge ratio} = \frac{\text{PVBP(hedged security)}}{\text{PVBP(CTD)}} \times \text{conversion factor}$$
 
-`h = ΔS/ΔF`; contracts for a delta-neutral loan = `−h × loan value/contract size`.
+$$h = \frac{\Delta S}{\Delta F}$$; contracts for a delta-neutral loan $$= \frac{-h \times \text{loan value}}{\text{contract size}}$$
 
-`N = VP/(F × T) × β` for equity futures hedging.
+$$N = \frac{VP}{F \times T} \times \beta$$ for equity futures hedging.
 
 ## Options
 
-`option price = intrinsic value + time value`.
+$$\text{option price} = \text{intrinsic value} + \text{time value}$$
 
-`call IV = max(0,S−X)`; `put IV = max(0,X−S)`.
+$$\text{call IV} = \max(0, S - X)$$; $$\text{put IV} = \max(0, X - S)$$
 
-`C + PV(X) = P + S`.
+$$C + \text{PV}(X) = P + S$$
 
-`delta = change in option price/change in underlying`; `gamma = change in delta/change in underlying`.
+$$\text{delta} = \frac{\text{change in option price}}{\text{change in underlying}}$$; $$\text{gamma} = \frac{\text{change in delta}}{\text{change in underlying}}$$
 
 ## Warrants and CBBCs
 
-`gearing = share price/(warrant price × n)`; `effective gearing = delta × gearing`.
+$$\text{gearing} = \frac{\text{share price}}{\text{warrant price} \times n}$$; $$\text{effective gearing} = \text{delta} \times \text{gearing}$$
 
-`call IV=max[0,(S−X)/n]`; `put IV=max[0,(X−S)/n]`.
+$$\text{call IV} = \max[0, (S - X)/n]$$; $$\text{put IV} = \max[0, (X - S)/n]$$
 
-`call conversion price=X+nWP`; `put conversion price=X−nWP`.
+$$\text{call conversion price} = X + nWP$$; $$\text{put conversion price} = X - nWP$$
 
-`call cash settlement=(S−X)/n`; `put cash settlement=(X−S)/n`.
+$$\text{call cash settlement} = (S - X)/n$$; $$\text{put cash settlement} = (X - S)/n$$
 
-`bull CBBC=[(underlying−strike)+financial cost]/conversion ratio`.
+$$\text{bull CBBC} = \frac{(\text{underlying} - \text{strike}) + \text{financial cost}}{\text{conversion ratio}}$$
 
-`bear CBBC=[(strike−underlying)+financial cost]/conversion ratio`.
+$$\text{bear CBBC} = \frac{(\text{strike} - \text{underlying}) + \text{financial cost}}{\text{conversion ratio}}$$
 
-R-CBBC residual: bull `(settlement−strike)/n`; bear `(strike−settlement)/n`; N-CBBC residual is zero at MCE.
+R-CBBC residual: bull $$(\text{settlement} - \text{strike})/n$$; bear $$(\text{strike} - \text{settlement})/n$$; N-CBBC residual is zero at MCE.
 
 ## Structured products
 
-`CPPI cushion=portfolio−floor`; `multiplier=1/crash size`; `risky=M×cushion`; `risk-free=portfolio−risky`.
+$$\text{CPPI cushion} = \text{portfolio} - \text{floor}$$; $$\text{multiplier} = 1/\text{crash size}$$; $$\text{risky} = M \times \text{cushion}$$; $$\text{risk-free} = \text{portfolio} - \text{risky}$$
 
-`RAN payout=P1(n/N)+P2((N−n)/N)`.
+$$\text{RAN payout} = P_1\frac{n}{N} + P_2\frac{N - n}{N}$$
 
-`inverse floater coupon=max[X%−leverage×floating index, minimum coupon]`.
+$$\text{inverse floater coupon} = \max\left[X\% - \text{leverage} \times \text{floating index},\ \text{minimum coupon}\right]$$
 
-`participation rate = discount sum / call premium` under the structured-product convention.
+$$\text{participation rate} = \frac{\text{discount sum}}{\text{call premium}}$$ under the structured-product convention.
 
 # Appendix E — Review Questions: what they test
 
