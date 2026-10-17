@@ -10,15 +10,22 @@
  * expected total or if any question has an unresolvable answer key.
  */
 
-import { mkdirSync, writeFileSync } from 'node:fs';
+import { mkdirSync, rmSync, writeFileSync } from 'node:fs';
 import path from 'node:path';
 
 import { EXAMS, DAILY_QUIZ_SIZE } from './lib/exams.mjs';
 import { extractGuideChapters, parseBank } from './lib/questions.mjs';
-import { REPO_ROOT, readLines } from './lib/util.mjs';
+import { REPO_ROOT, chapterLabel, readLines } from './lib/util.mjs';
 
 const DATA_DIR = path.join(REPO_ROOT, 'src', 'data', 'banks');
 const PUBLIC_DIR = path.join(REPO_ROOT, 'public', 'banks');
+
+// This script owns these two directories and rebuilds them from scratch, so a
+// bank removed from the config cannot leave a stale file behind. (The catalogue
+// index that build-content.mjs adds afterwards is written after this point.)
+for (const dir of [DATA_DIR, PUBLIC_DIR]) {
+  rmSync(dir, { recursive: true, force: true });
+}
 
 let failed = false;
 
@@ -58,17 +65,21 @@ for (const exam of EXAMS) {
 
   // --- chapter rollup -------------------------------------------------------
   const chapters = guideChapters
-    .map((c) => ({
-      id: c.id,
-      num: c.num,
-      title: c.title,
-      slug: c.slug,
-      partId: c.partId ?? null,
-      partTitle: c.partTitle ?? null,
-      isAppendix: Boolean(c.isAppendix),
-      order: c.order,
-      questionCount: questions.filter((q) => q.chapterId === c.id).length,
-    }))
+    .map((c) => {
+      const kind = c.isAppendix ? 'appendix' : 'chapter';
+      return {
+        id: c.id,
+        num: c.num,
+        kind,
+        title: chapterLabel({ kind, num: c.num, partId: c.partId, title: c.title }),
+        slug: c.slug,
+        partId: c.partId ?? null,
+        partTitle: c.partTitle ?? null,
+        isAppendix: Boolean(c.isAppendix),
+        order: c.order,
+        questionCount: questions.filter((q) => q.chapterId === c.id).length,
+      };
+    })
     .sort((a, b) => a.order - b.order);
 
   const byChapter = new Map();
@@ -80,6 +91,7 @@ for (const exam of EXAMS) {
       chapters.push({
         id,
         num: null,
+        kind: 'chapter',
         title: id === 'mixed' ? 'Rapid mixed review' : id,
         slug: `chapter-${id}`,
         partId: null,

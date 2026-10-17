@@ -52,6 +52,22 @@ export function takeUntilHeading(lines, pattern) {
   return index === -1 ? [...lines] : lines.slice(0, index);
 }
 
+/**
+ * Sidebar/nav label for a guide chapter. Chapters carry their syllabus number so
+ * the navigation reads like the syllabus — "2 Futures, Forwards and Swaps" — and
+ * RES 12B chapters are part-qualified ("1B.3 Market conduct", "2B.4 OTC
+ * derivatives") because its two parts share chapter numbers.
+ *
+ * Only the label changes; `slug` is untouched, so URLs stay stable.
+ */
+export function chapterLabel(chapter) {
+  const { kind, num, partId, title } = chapter;
+  if (kind === 'chapter' && num !== undefined && num !== null) {
+    return `${partId ? `${partId}.${num}` : num} ${title}`;
+  }
+  return title;
+}
+
 export function countWords(lines) {
   return lines.join(' ').split(/\s+/).filter(Boolean).length;
 }

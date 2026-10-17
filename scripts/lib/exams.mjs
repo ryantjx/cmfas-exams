@@ -27,11 +27,11 @@ export const EXAMS = [
     shortName: 'CM-SIP',
     title: 'CM-SIP — Derivatives and Collective Investment Schemes (SIP)',
     subtitle: 'Specified Investment Products: derivatives and structured products',
-    bank: 'cmsip/CMSIP_QUESTIONS.md',
+    bank: 'notes/cmsip/CMSIP_QUESTIONS.md',
     bankFormat: 'bold',
     chapterSource: 'heading',
-    guide: 'cmsip/CMSIP_AI.md',
-    stub: 'cmsip/CMSIP.md',
+    guide: 'notes/cmsip/CMSIP_AI.md',
+    stub: 'notes/cmsip/CMSIP.md',
     guideIntroTitle: 'Introduction and exam orientation',
     expectedQuestions: 186,
     realExam: {
@@ -42,17 +42,17 @@ export const EXAMS = [
     },
     pdfs: [
       {
-        src: 'cmsip/CM-SIP Study Guide v1.1 - January 2026 (FINAL).pdf',
+        src: 'notes/cmsip/CM-SIP Study Guide v1.1 - January 2026 (FINAL).pdf',
         name: 'CM-SIP Official Study Guide v1.1 (January 2026)',
         kind: 'official',
       },
       {
-        src: 'cmsip/output/pdf/CMSIP_AI.pdf',
+        src: 'notes/cmsip/output/pdf/CMSIP_AI.pdf',
         name: 'CM-SIP Study Guide (printable PDF)',
         kind: 'generated',
       },
       {
-        src: 'cmsip/output/pdf/CMSIP_QUESTIONS.pdf',
+        src: 'notes/cmsip/output/pdf/CMSIP_QUESTIONS.pdf',
         name: 'CM-SIP Question Bank (printable PDF)',
         kind: 'generated',
       },
@@ -64,11 +64,11 @@ export const EXAMS = [
     shortName: 'FMRP',
     title: 'FMRP — Financial Markets Regulatory Practices',
     subtitle: 'Conduct, ethics and regulatory practice for financial markets',
-    bank: 'fmrp/FMRP_QUESTIONS.md',
+    bank: 'notes/fmrp/FMRP_QUESTIONS.md',
     bankFormat: 'heading',
     chapterSource: 'heading',
-    guide: 'fmrp/FMRP_AI.md',
-    stub: 'fmrp/FMRP.md',
+    guide: 'notes/fmrp/FMRP_AI.md',
+    stub: 'notes/fmrp/FMRP.md',
     guideIntroTitle: 'Introduction and core learning sequence',
     expectedQuestions: 300,
     realExam: {
@@ -79,17 +79,17 @@ export const EXAMS = [
     },
     pdfs: [
       {
-        src: 'fmrp/FMRP Study Guide v3.2.pdf',
+        src: 'notes/fmrp/FMRP Study Guide v3.2.pdf',
         name: 'FMRP Official Study Guide v3.2',
         kind: 'official',
       },
       {
-        src: 'fmrp/output/pdf/FMRP_AI.pdf',
+        src: 'notes/fmrp/output/pdf/FMRP_AI.pdf',
         name: 'FMRP Teaching Guide (printable PDF)',
         kind: 'generated',
       },
       {
-        src: 'fmrp/output/pdf/FMRP_QUESTIONS.pdf',
+        src: 'notes/fmrp/output/pdf/FMRP_QUESTIONS.pdf',
         name: 'FMRP Question Bank (printable PDF, questions only)',
         kind: 'generated',
       },
@@ -101,11 +101,11 @@ export const EXAMS = [
     shortName: 'RES 12B',
     title: 'RES 12B — Rules, Ethics and Skills for Securities and Derivatives Dealers',
     subtitle: 'Non-exchange members: RES 1B (securities) and RES 2B (derivatives)',
-    bank: 'res12b/RES12B_QUESTIONS.md',
+    bank: 'notes/res12b/RES12B_QUESTIONS.md',
     bankFormat: 'heading',
     chapterSource: 'sourceTag',
-    guide: 'res12b/RES12B_AI.md',
-    stub: 'res12b/RES12B.md',
+    guide: 'notes/res12b/RES12B_AI.md',
+    stub: 'notes/res12b/RES12B.md',
     guideIntroTitle: 'Introduction and coverage map',
     expectedQuestions: 310,
     realExam: {
@@ -116,17 +116,17 @@ export const EXAMS = [
     },
     pdfs: [
       {
-        src: 'res12b/RES 12B Combined.pdf',
+        src: 'notes/res12b/RES 12B Combined.pdf',
         name: 'RES 12B Official Study Guide (combined)',
         kind: 'official',
       },
       {
-        src: 'res12b/output/pdf/RES12B_AI.pdf',
+        src: 'notes/res12b/output/pdf/RES12B_AI.pdf',
         name: 'RES 12B Study Guide (printable PDF)',
         kind: 'generated',
       },
       {
-        src: 'res12b/output/pdf/RES12B_QUESTIONS.pdf',
+        src: 'notes/res12b/output/pdf/RES12B_QUESTIONS.pdf',
         name: 'RES 12B Question Bank (printable PDF, questions only)',
         kind: 'generated',
       },
@@ -135,11 +135,11 @@ export const EXAMS = [
 ];
 
 export const STUDY_PLAN = {
-  src: '121026_EXAMS.md',
+  src: 'notes/121026_EXAMS.md',
   title: 'Study plan',
   description:
     'Exam sequencing, booking windows, study load and sitting strategy across RES 12B, FMRP and CM-SIP.',
-  pdf: { src: '121026_EXAMS.pdf', name: 'Study plan (printable PDF)' },
+  pdf: { src: 'notes/121026_EXAMS.pdf', name: 'Study plan (printable PDF)' },
 };
 
 export const HOME = {

@@ -2,30 +2,51 @@
 /**
  * Generate the Starlight content tree and copy downloadable assets.
  *
- * All output lands under `src/content/docs/`, `public/banks/` and
- * `public/downloads/` — all of which are gitignored. The repo-root markdown is
- * never modified.
+ * All output lands under `src/content/docs/`, `src/data/`, `public/banks/` and
+ * `public/downloads/` — all of which are gitignored. The markdown under `notes/`
+ * is the single source of truth and is never modified.
  *
  *   src/content/docs/index.mdx                       site home
- *   src/content/docs/study-plan.md                   from 121026_EXAMS.md
+ *   src/content/docs/study-plan.mdx                  from notes/121026_EXAMS.md
  *   src/content/docs/<exam>/overview.md              exam facts + syllabus
  *   src/content/docs/<exam>/guide/index.md           guide intro + TOC
  *   src/content/docs/<exam>/guide/<slug>.md          one per chapter/appendix
  *   src/content/docs/<exam>/practice/{daily,chapter,mock}.mdx
  *   src/content/docs/<exam>/downloads.md             PDF links
+ *   src/data/sidebar.json                            explicit guide sub-trees
  *   public/downloads/<exam>/<file>.pdf               copied PDFs
  *   public/banks/*.json                              (written by build-banks.mjs)
+ *
+ * The sidebar lists every guide chapter explicitly (see `src/data/sidebar.json`,
+ * consumed by astro.config.mjs) so chapters are navigable directly under
+ * "Study guide" rather than being collected onto a single index page.
  */
 
-import { copyFileSync, existsSync, mkdirSync, writeFileSync } from 'node:fs';
+import { copyFileSync, existsSync, mkdirSync, rmSync, writeFileSync } from 'node:fs';
 import path from 'node:path';
 
 import { EXAMS, HOME, STUDY_PLAN } from './lib/exams.mjs';
 import { extractGuideChapters, shiftHeadings, splitGuide } from './lib/questions.mjs';
-import { REPO_ROOT, readLines, readText, stripLeadingTitleLine, yamlString } from './lib/util.mjs';
+import {
+  REPO_ROOT,
+  chapterLabel,
+  readLines,
+  readText,
+  stripLeadingTitleLine,
+  yamlString,
+} from './lib/util.mjs';
 
 const DOCS_DIR = path.join(REPO_ROOT, 'src', 'content', 'docs');
 const DOWNLOADS_DIR = path.join(REPO_ROOT, 'public', 'downloads');
+const BANKS_DIR = path.join(REPO_ROOT, 'public', 'banks');
+
+// The generated tree is rebuilt from scratch each run so stale pages left by a
+// renamed slug or a removed section cannot linger. `public/banks/` is owned by
+// build-banks.mjs (which wipes and rewrites it); here we only add the catalogue
+// index, so it is deliberately not wiped.
+for (const dir of [DOCS_DIR, DOWNLOADS_DIR]) {
+  rmSync(dir, { recursive: true, force: true });
+}
 
 /**
  * Site base path. Must match `base` in astro.config.mjs. Markdown/MDX links are
@@ -113,9 +134,9 @@ const examCards = EXAMS.map(
   (exam) =>
     `<CardGrid>\n` +
     `  <LinkCard title="${exam.name}" href="${link(`/${exam.id}/overview/`)}" description="${exam.subtitle}" />\n` +
-    `  <LinkCard title="${exam.name} — chapter quiz" href="${link(`/${exam.id}/practice/chapter/`)}" description="Practise one chapter at a time." />\n` +
-    `  <LinkCard title="${exam.name} — daily quiz" href="${link(`/${exam.id}/practice/daily/`)}" description="30 mixed questions." />\n` +
-    `  <LinkCard title="${exam.name} — mock exam" href="${link(`/${exam.id}/practice/mock/`)}" description="Full timed paper." />\n` +
+    `  <LinkCard title="${exam.name} — chapter quiz" href="${link(`/practice/${exam.id}/?type=chapter`)}" description="One chapter at a time, with the answer and explanation as soon as you answer." />\n` +
+    `  <LinkCard title="${exam.name} — daily quiz" href="${link(`/practice/${exam.id}/?type=daily`)}" description="30 mixed questions." />\n` +
+    `  <LinkCard title="${exam.name} — mock exam" href="${link(`/practice/${exam.id}/?type=mock`)}" description="Full timed paper." />\n` +
     `</CardGrid>`,
 ).join('\n\n');
 
@@ -141,7 +162,7 @@ ${examCards}
 | --- | --- | --- | --- | --- | --- | --- |
 ${EXAMS.map(
   (e) =>
-    `| **${e.name}** | ${e.realExam.questions} | ${formatHours(e.realExam.minutes)} | ${e.realExam.passPct}% | ${e.expectedQuestions} | [Guide](${link(`/${e.id}/guide/`)}) | [Practise](${link(`/${e.id}/practice/daily/`)}) |`,
+    `| **${e.name}** | ${e.realExam.questions} | ${formatHours(e.realExam.minutes)} | ${e.realExam.passPct}% | ${e.expectedQuestions} | [Guide](${link(`/${e.id}/guide/`)}) | [Practise](${link(`/practice/${e.id}/`)}) |`,
 ).join('\n')}
 
 <Aside type="note">
@@ -178,6 +199,11 @@ ${body}
 
 /* ------------------------------------------------------------------- exams */
 
+/** Sidebar entries for each exam's guide, emitted once generation is done. */
+const sidebarExams = [];
+/** Practice metadata for every exam, used to build the /practice/ section. */
+const practiceExams = [];
+
 for (const exam of EXAMS) {
   const guideLines = readLines(exam.guide);
   const { intro, pages } = splitGuide(exam, guideLines);
@@ -212,12 +238,12 @@ one page per chapter, with worked examples, formula sheets and exam cues.
 
 ## Practise
 
-- **[Chapter quiz](${link(`/${exam.id}/practice/chapter/`)})** — pick one chapter and work
-  through every question in it.
-- **[Daily quiz](${link(`/${exam.id}/practice/daily/`)})** — 30 mixed questions from across
-  the whole bank.
-- **[Mock exam](${link(`/${exam.id}/practice/mock/`)})** — ${exam.realExam.questions} questions,
-  ${exam.realExam.minutes} minutes, ${exam.realExam.passPct}% to pass.
+- **[Chapter quiz](${link(`/practice/${exam.id}/?type=chapter`)})** — work through one
+  chapter at a time, with the answer and explanation shown as soon as you answer.
+- **[Daily quiz](${link(`/practice/${exam.id}/?type=daily`)})** — 30 mixed questions from
+  across the whole bank.
+- **[Mock exam](${link(`/practice/${exam.id}/?type=mock`)})** — ${exam.realExam.questions}
+  questions, ${exam.realExam.minutes} minutes, ${exam.realExam.passPct}% to pass.
 
 ## Downloads
 
@@ -228,7 +254,7 @@ printable PDFs.
 
   // --- guide intro ----------------------------------------------------------
   const chapterList = guideChapters
-    .map((c) => `- [${c.title}](${link(`/${exam.id}/guide/${c.slug}/`)})`)
+    .map((c) => `- [${chapterLabel(c)}](${link(`/${exam.id}/guide/${c.slug}/`)})`)
     .join('\n');
 
   const introBody = stripLeadingTitleLine(intro).join('\n').trim();
@@ -254,99 +280,35 @@ Each chapter page ends with a link to that chapter's quiz.
     const body = shiftHeadings(stripLeadingTitleLine(page.lines), page.level).join('\n').trim();
     const practiceLink =
       page.kind === 'chapter'
-        ? `\n---\n\n[Practise this chapter \u2192](${link(`/${exam.id}/practice/chapter/?chapter=${page.id}`)})\n`
+        ? `\n---\n\n[Practise this chapter \u2192](${link(`/practice/${exam.id}/?type=chapter&chapter=${page.id}`)})\n`
         : '';
     write(
       `${exam.id}/guide/${page.slug}.md`,
       `${frontmatter({
-        title: page.title,
-        description: `${exam.name} study guide \u2014 ${page.title}.`,
-        sidebar: { label: page.title, order: page.order },
+        title: chapterLabel(page),
+        description: `${exam.name} study guide — ${page.title}.`,
+        sidebar: { label: chapterLabel(page), order: page.order },
       })}
 ${body || '_This section is a summary of the shared material in another chapter._'}
 ${practiceLink}`,
     );
   }
 
-  // --- practice pages -------------------------------------------------------
+  // --- practice catalogue ---------------------------------------------------
+  // Practice lives in its own top-level section (see below); here we only
+  // collect what the picker needs.
   const bank = JSON.parse(readText(`src/data/banks/${exam.id}.json`));
-  const quizChapters = bank.chapters.filter((c) => c.questionCount > 0);
-
-  write(
-    `${exam.id}/practice/daily.mdx`,
-    `${frontmatter({
-      title: `${exam.name} — daily quiz`,
-      description: `30 mixed ${exam.name} questions, freshly drawn on every visit.`,
-      sidebar: { label: 'Daily quiz', order: 2 },
-    })}import QuizLauncher from '@components/QuizLauncher.tsx';
-
-# ${exam.name} daily quiz
-
-Thirty questions drawn at random from the full ${bank.questions.length}-question
-bank, mixing chapters and question types. A new set is drawn each time you load
-the page, and nothing is stored.
-
-<QuizLauncher
-  client:only="react"
-  examId="${exam.id}"
-  mode="daily"
-  bankUrl={import.meta.env.BASE_URL + 'banks/${exam.id}.json'}
-  size={${bank.dailySize}}
-/>
-`,
-  );
-
-  write(
-    `${exam.id}/practice/chapter.mdx`,
-    `${frontmatter({
-      title: `${exam.name} — chapter quiz`,
-      description: `Practise a single ${exam.name} chapter.`,
-      sidebar: { label: 'Chapter quiz', order: 3 },
-    })}import QuizLauncher from '@components/QuizLauncher.tsx';
-
-# ${exam.name} chapter quiz
-
-Choose a chapter to work through every question in that chapter. Nothing is
-stored — reload to start again.
-
-<QuizLauncher
-  client:only="react"
-  examId="${exam.id}"
-  mode="chapter"
-  bankUrl={import.meta.env.BASE_URL + 'banks/${exam.id}.json'}
-  chapters={${JSON.stringify(
-    quizChapters.map((c) => ({ id: c.id, title: c.title, count: c.questionCount })),
-  )}}
-/>
-`,
-  );
-
-  write(
-    `${exam.id}/practice/mock.mdx`,
-    `${frontmatter({
-      title: `${exam.name} — mock exam`,
-      description: `Full-length timed ${exam.name} mock exam.`,
-      sidebar: { label: 'Mock exam', order: 4 },
-    })}import QuizLauncher from '@components/QuizLauncher.tsx';
-
-# ${exam.name} mock exam
-
-Mirrors the real paper: **${exam.realExam.questions} questions in
-${exam.realExam.minutes} minutes**, pass mark **${exam.realExam.passPct}%**. The
-timer starts when you begin and submits automatically at zero. Answers and
-explanations are revealed only after you submit.
-
-<QuizLauncher
-  client:only="react"
-  examId="${exam.id}"
-  mode="mock"
-  bankUrl={import.meta.env.BASE_URL + 'banks/${exam.id}.json'}
-  size={${exam.realExam.questions}}
-  timeLimitSec={${exam.realExam.minutes * 60}}
-  passPct={${exam.realExam.passPct}}
-/>
-`,
-  );
+  practiceExams.push({
+    id: exam.id,
+    name: exam.name,
+    subtitle: exam.subtitle,
+    questions: bank.questions.length,
+    dailySize: bank.dailySize,
+    realExam: exam.realExam,
+    chapters: bank.chapters
+      .filter((c) => c.questionCount > 0)
+      .map((c) => ({ id: c.id, title: c.title, count: c.questionCount })),
+  });
 
   // --- downloads ------------------------------------------------------------
   const records = downloadRecords.get(exam.id) ?? [];
@@ -373,8 +335,114 @@ PDFs open in the browser; use your browser's download button to save a copy.
 </Aside>
 `,
   );
+
+  // --- sidebar entries ------------------------------------------------------
+  // Every chapter/appendix is listed explicitly so it is reachable directly
+  // under "Study guide" in the sidebar.
+  sidebarExams.push({
+    label: exam.name,
+    items: [
+      { label: 'Overview', link: `/${exam.id}/overview/` },
+      {
+        label: 'Study guide',
+        items: [
+          // Labelled "Guide contents" rather than "Introduction" because FMRP's
+          // chapter 1 is itself titled Introduction.
+          { label: 'Guide contents', link: `/${exam.id}/guide/` },
+          ...guideChapters.map((page) => ({
+            label: chapterLabel(page),
+            link: `/${exam.id}/guide/${page.slug}/`,
+          })),
+        ],
+      },
+      { label: 'Downloads', link: `/${exam.id}/downloads/` },
+    ],
+  });
 }
+
+/* ---------------------------------------------------------------- practice */
+
+// One catalogue the picker fetches, so the exam and quiz-type choices are driven
+// by data rather than duplicated into every page.
+mkdirSync(BANKS_DIR, { recursive: true });
+writeFileSync(
+  path.join(BANKS_DIR, 'index.json'),
+  `${JSON.stringify(practiceExams, null, 2)}\n`,
+);
+
+write(
+  'practice/index.mdx',
+  `${frontmatter({
+    title: 'Practice',
+    description: 'Chapter quizzes, daily quizzes and mock exams for RES 12B, FMRP and CM-SIP.',
+  })}import PracticePicker from '@components/PracticePicker.tsx';
+
+# Practice
+
+Pick an exam, then pick how you want to practise. Nothing is stored.
+
+<PracticePicker client:only="react" base={import.meta.env.BASE_URL} />
+
+## The three modes
+
+| Mode | What it does |
+| --- | --- |
+| **Chapter quiz** | Every question in one chapter, with the answer and explanation shown as soon as you answer. |
+| **Daily quiz** | 30 questions drawn from the whole bank — a fresh set on every visit. |
+| **Mock exam** | The real paper's length, timing and pass mark. Results at the end only. |
+
+Use the sidebar to jump straight to an exam and a mode.
+`,
+);
+
+for (const entry of practiceExams) {
+  write(
+    `practice/${entry.id}/index.mdx`,
+    `${frontmatter({
+      title: `${entry.name} — practice`,
+      description: `Chapter quiz, daily quiz and mock exam for ${entry.name}.`,
+    })}import PracticePicker from '@components/PracticePicker.tsx';
+
+# ${entry.name} — practice
+
+Pick how you want to practise ${entry.name}. Nothing is stored.
+
+<PracticePicker client:only="react" base={import.meta.env.BASE_URL} examId="${entry.id}" />
+`,
+  );
+}
+
+/* ---------------------------------------------------------------- sidebar */
+
+// Consumed by astro.config.mjs so the sidebar and the generated content tree can
+// never drift apart. Practice is a single top-level section, not a per-exam one.
+const sidebar = [
+  { label: 'Home', link: '/' },
+  { label: 'Study plan', link: '/study-plan/' },
+  {
+    label: 'Practice',
+    items: [
+      { label: 'Start practising', link: '/practice/' },
+      ...practiceExams.map((entry) => ({
+        label: entry.name,
+        items: [
+          { label: 'Chapter quiz', link: `/practice/${entry.id}/?type=chapter` },
+          { label: 'Daily quiz', link: `/practice/${entry.id}/?type=daily` },
+          { label: 'Mock exam', link: `/practice/${entry.id}/?type=mock` },
+        ],
+      })),
+    ],
+  },
+  ...sidebarExams,
+];
+
+writeFileSync(
+  path.join(REPO_ROOT, 'src', 'data', 'sidebar.json'),
+  `${JSON.stringify(sidebar, null, 2)}\n`,
+);
+written.push('src/data/sidebar.json');
 
 /* ------------------------------------------------------------------- done */
 
 console.log(`Content generation complete — ${written.length} pages written.`);
+

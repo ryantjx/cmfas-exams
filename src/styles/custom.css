@@ -194,7 +194,7 @@
 
 .quiz-option {
   display: grid;
-  grid-template-columns: auto auto 1fr;
+  grid-template-columns: auto auto 1fr auto;
   gap: 0.75rem;
   align-items: start;
   border: 1px solid var(--quiz-border);
@@ -384,6 +384,9 @@
 }
 
 .quiz-picker-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
   margin-top: 1rem;
 }
 
@@ -504,14 +507,110 @@
 }
 
 .quiz-tick,
-.quiz-cross {
+.quiz-cross,
+.quiz-pick {
   margin-left: auto;
   font-size: var(--sl-text-xs);
   white-space: nowrap;
+}
+
+.quiz-pick {
+  color: var(--quiz-muted);
 }
 
 .quiz-rationale {
   margin: 0.6rem 0 0;
   font-size: var(--sl-text-sm);
   color: var(--sl-color-gray-2, #444);
+}
+
+/* ------------------------------------------------------ instant feedback */
+
+/* Chapter quiz: the answer and explanation appear right after each question. */
+.quiz-option.is-answer {
+  border-color: var(--quiz-good);
+  background: color-mix(in srgb, var(--quiz-good) 10%, transparent);
+}
+
+.quiz-option.is-wrong-answer {
+  border-color: var(--quiz-bad);
+  background: color-mix(in srgb, var(--quiz-bad) 10%, transparent);
+}
+
+/* Locked once revealed, so the tick and cross stay honest. */
+.quiz-option:has(input:disabled) {
+  cursor: default;
+}
+
+.quiz-feedback {
+  margin-top: 1.25rem;
+  border-left: 3px solid var(--quiz-border);
+  padding: 0.75rem 0 0.75rem 1rem;
+}
+
+.quiz-feedback.is-right {
+  border-left-color: var(--quiz-good);
+}
+
+.quiz-feedback.is-wrong {
+  border-left-color: var(--quiz-bad);
+}
+
+.quiz-feedback-verdict {
+  margin: 0 0 0.4rem;
+  font-weight: 600;
+}
+
+.quiz-feedback.is-right .quiz-feedback-verdict {
+  color: var(--quiz-good);
+}
+
+.quiz-feedback.is-wrong .quiz-feedback-verdict {
+  color: var(--quiz-bad);
+}
+
+.quiz-feedback-answer,
+.quiz-feedback-why {
+  margin: 0 0 0.4rem;
+}
+
+/* ------------------------------------------------------- exam/type picker */
+
+.quiz-tile-grid {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0;
+  display: grid;
+  gap: 0.6rem;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+}
+
+.quiz-tile {
+  display: block;
+  width: 100%;
+  height: 100%;
+  text-align: left;
+  border: 1px solid var(--quiz-border);
+  border-radius: 0.6rem;
+  padding: 0.9rem 1.1rem;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+}
+
+.quiz-tile:hover {
+  border-color: var(--quiz-accent);
+}
+
+.quiz-tile-title {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.2rem;
+}
+
+.quiz-tile-blurb {
+  display: block;
+  font-size: var(--sl-text-sm);
+  color: var(--quiz-muted);
 }

@@ -20,16 +20,21 @@ only in the open page.
 
 ## Source of truth
 
-The markdown in each exam folder is **never modified** by the build:
+The markdown under `notes/` is **never modified** by the build:
 
 ```
-cmsip/   CMSIP.md   CMSIP_AI.md   CMSIP_QUESTIONS.md
-fmrp/    FMRP.md    FMRP_AI.md    FMRP_QUESTIONS.md
-res12b/  RES12B.md  RES12B_AI.md  RES12B_QUESTIONS.md
-121026_EXAMS.md
+notes/
+  121026_EXAMS.md            study plan
+  cmsip/    CMSIP.md   CMSIP_AI.md   CMSIP_QUESTIONS.md
+  fmrp/     FMRP.md    FMRP_AI.md    FMRP_QUESTIONS.md
+  res12b/   RES12B.md  RES12B_AI.md  RES12B_QUESTIONS.md
 ```
 
-Everything under `src/content/docs/`, `src/data/banks/`, `public/banks/` and
+Each exam folder also holds the official provider PDF, the pre-generated
+`output/html` and `output/pdf` artefacts, and the `*_AI.md` teaching guide that
+the site splits into one page per chapter.
+
+Everything under `src/content/docs/`, `src/data/`, `public/banks/` and
 `public/downloads/` is **generated** and gitignored. Edit the markdown above, not
 the generated output.
 
@@ -56,11 +61,18 @@ scripts/lib/exams.mjs       exam config, real-exam facts, PDF sources
 scripts/lib/questions.mjs   the three question-bank parsers + guide splitter
 scripts/lib/util.mjs        filesystem and slug helpers
 scripts/build-banks.mjs     markdown → normalised question JSON
-scripts/build-content.mjs   markdown → Starlight pages + PDF copies
+scripts/build-content.mjs   markdown → Starlight pages, sidebar and PDF copies
 src/components/             QuizRunner (the quiz engine) and QuizLauncher
 src/lib/quiz.ts             sampling, shuffling, scoring, timers
 src/styles/custom.css       quiz UI
 ```
+
+The **sidebar** is generated too: `scripts/build-content.mjs` writes
+`src/data/sidebar.json`, which `astro.config.mjs` reads, so every guide chapter is
+listed explicitly underneath *Study guide* — e.g. *CM-SIP → Study guide → 2 Futures,
+Forwards and Swaps* — and the navigation can never drift from the content tree.
+Chapter labels carry the syllabus number; the URL slugs do not, so links stay
+stable.
 
 The three question banks use **three different markdown conventions**
 (`**1. [Type]**` for CM-SIP; `### 1. **[Type]** [REF]` for FMRP and RES 12B,

@@ -39,6 +39,11 @@ export type QuizRunnerProps = {
   timeLimitSec?: number;
   /** Pass mark percentage used to grade a mock. */
   passPct?: number;
+  /**
+   * Reveal the answer and explanation straight after each question instead of
+   * deferring everything to a review screen at the end. Used by the chapter quiz.
+   */
+  instantFeedback?: boolean;
 };
 
 type Answers = QuizAnswers;
@@ -64,6 +69,7 @@ export default function QuizRunner({
   chapterId,
   timeLimitSec,
   passPct,
+  instantFeedback = false,
 }: QuizRunnerProps) {
   const [bank, setBank] = useState<QuizBank | null>(null);
   const [error, setError] = useState<string | null>(null);
@@ -72,6 +78,7 @@ export default function QuizRunner({
   const [questions, setQuestions] = useState<QuizQuestion[]>([]);
   const [answers, setAnswers] = useState<Answers>({});
   const [flags, setFlags] = useState<Record<string, boolean>>({});
+  const [revealed, setRevealed] = useState<Record<string, boolean>>({});
   const [current, setCurrent] = useState(0);
   const [submitted, setSubmitted] = useState(false);
   const [remaining, setRemaining] = useState<number | null>(timeLimitSec ?? null);
@@ -121,6 +128,7 @@ export default function QuizRunner({
     setQuestions(chosen.map((q) => prepareQuestion(q, { shuffleAnswers })));
     setAnswers({});
     setFlags({});
+    setRevealed({});
     setCurrent(0);
     setSubmitted(false);
     setRemaining(timed ? timeLimitSec! : null);
@@ -151,6 +159,9 @@ export default function QuizRunner({
   const select = useCallback(
     (optionKey: string) => {
       if (!question || submitted) return;
+      // A revealed answer is locked, so the explanation always matches a choice
+      // the reader actually made.
+      if (instantFeedback && revealed[question.id]) return;
       setAnswers((previous) => {
         const existing = previous[question.id] ?? [];
         if (question.isMulti) {
@@ -161,8 +172,14 @@ export default function QuizRunner({
         }
         return { ...previous, [question.id]: [optionKey] };
       });
+      // Single-choice questions reveal as soon as they are answered ("show the
+      // answer and explanation after each answer"). Multi-response needs an
+      // explicit check, because several options have to be selected first.
+      if (instantFeedback && !question.isMulti) {
+        setRevealed((previous) => ({ ...previous, [question.id]: true }));
+      }
     },
-    [question, submitted],
+    [question, submitted, instantFeedback, revealed],
   );
 
   const toggleFlag = useCallback(() => {
@@ -212,6 +229,8 @@ export default function QuizRunner({
   const selected = answers[question.id] ?? [];
   const isFlagged = Boolean(flags[question.id]);
   const progress = Math.round((answeredCount / questions.length) * 100);
+  const isRevealed = instantFeedback && Boolean(revealed[question.id]);
+  const isAnswerCorrect = isRevealed && isCorrect(question, selected);
 
   return (
     <div className="quiz-shell" ref={topRef}>
@@ -270,21 +289,62 @@ export default function QuizRunner({
               <legend className="quiz-visually-hidden">Choose an answer</legend>
               {question.options.map((option, index) => {
                 const checked = selected.includes(option.key);
+                const isAnswer = isRevealed && question.answerKeys.includes(option.key);
+                const isWrongPick = isRevealed && checked && !isAnswer;
+                const classes = [
+                  'quiz-option',
+                  checked ? 'is-selected' : '',
+                  isAnswer ? 'is-answer' : '',
+                  isWrongPick ? 'is-wrong-answer' : '',
+                ]
+                  .filter(Boolean)
+                  .join(' ');
                 return (
-                  <label key={option.key} className={`quiz-option${checked ? ' is-selected' : ''}`}>
+                  <label key={option.key} className={classes}>
                     <input
                       type={question.isMulti ? 'checkbox' : 'radio'}
                       name={`q-${question.id}`}
                       value={option.key}
                       checked={checked}
+                      disabled={isRevealed}
                       onChange={() => select(option.key)}
                     />
                     <span className="quiz-option-letter">{letterFor(index)}</span>
                     <span className="quiz-option-text">{option.text}</span>
+                    {isAnswer && <span className="quiz-tick">✓ correct</span>}
+                    {isWrongPick && <span className="quiz-cross">✗ your answer</span>}
+                    {isRevealed && checked && isAnswer && question.isMulti && (
+                      <span className="quiz-pick">your answer</span>
+                    )}
                   </label>
                 );
               })}
             </fieldset>
+
+            {isRevealed && (
+              <div className={`quiz-feedback ${isAnswerCorrect ? 'is-right' : 'is-wrong'}`}>
+                <p className="quiz-feedback-verdict">
+                  {isAnswerCorrect ? '\u2713 Correct' : '\u2717 Incorrect'}
+                </p>
+                {!isAnswerCorrect && (
+                  <p className="quiz-feedback-answer">
+                    Correct answer:{' '}
+                    {question.options
+                      .map((option, index) =>
+                        question.answerKeys.includes(option.key) ? letterFor(index) : null,
+                      )
+                      .filter(Boolean)
+                      .join(', ')}
+                  </p>
+                )}
+                {question.rationale && (
+                  <p className="quiz-feedback-why">
+                    <strong>Why:</strong> {question.rationale}
+                  </p>
+                )}
+                {question.sourceRef && <p className="quiz-source">{question.sourceRef}</p>}
+              </div>
+            )}
           </article>
 
           <nav className="quiz-controls" aria-label="Question navigation">
@@ -296,34 +356,62 @@ export default function QuizRunner({
             >
               ← Previous
             </button>
-            <button
-              type="button"
-              className={`quiz-button quiz-flag${isFlagged ? ' is-on' : ''}`}
-              onClick={toggleFlag}
-              aria-pressed={isFlagged}
-            >
-              {isFlagged ? '★ Flagged' : '☆ Flag for review'}
-            </button>
+
+            {instantFeedback && !isRevealed && question.isMulti && (
+              <button
+                type="button"
+                className="quiz-button quiz-button-primary"
+                onClick={() => setRevealed((previous) => ({ ...previous, [question.id]: true }))}
+                disabled={selected.length === 0}
+              >
+                Check answer
+              </button>
+            )}
+
+            {!instantFeedback && (
+              <button
+                type="button"
+                className={`quiz-button quiz-flag${isFlagged ? ' is-on' : ''}`}
+                onClick={toggleFlag}
+                aria-pressed={isFlagged}
+              >
+                {isFlagged ? '★ Flagged' : '☆ Flag for review'}
+              </button>
+            )}
+
             {current < questions.length - 1 ? (
               <button
                 type="button"
                 className="quiz-button quiz-button-primary"
                 onClick={() => setCurrent((index) => Math.min(questions.length - 1, index + 1))}
+                disabled={instantFeedback && !isRevealed}
               >
                 Next →
               </button>
             ) : (
-              <button type="button" className="quiz-button quiz-button-primary" onClick={submit}>
-                Finish &amp; review
+              <button
+                type="button"
+                className="quiz-button quiz-button-primary"
+                onClick={submit}
+                disabled={instantFeedback && !isRevealed}
+              >
+                {instantFeedback ? 'Finish' : 'Finish & review'}
               </button>
             )}
           </nav>
 
-          {mode !== 'mock' && (
+          {mode !== 'mock' && !instantFeedback && (
             <p className="quiz-submit-row">
               <button type="button" className="quiz-button" onClick={submit}>
                 Submit this set for review
               </button>
+            </p>
+          )}
+
+          {instantFeedback && (
+            <p className="quiz-note">
+              The answer and explanation appear as soon as you answer
+              {question.isMulti ? ' and check.' : '.'}
             </p>
           )}
 
@@ -332,7 +420,10 @@ export default function QuizRunner({
           </p>
         </div>
 
-        <aside className={`quiz-sidebar${showNav ? '' : ' is-hidden'}`} aria-label="Question navigator">
+        <aside
+          className={`quiz-sidebar${showNav && !instantFeedback ? '' : ' is-hidden'}`}
+          aria-label="Question navigator"
+        >
           <div className="quiz-nav-head">
             <h3>Questions</h3>
             <button type="button" className="quiz-link" onClick={() => setShowNav((value) => !value)}>
@@ -371,7 +462,7 @@ export default function QuizRunner({
         </aside>
       </div>
 
-      {!showNav && (
+      {!showNav && !instantFeedback && (
         <p className="quiz-submit-row">
           <button type="button" className="quiz-link" onClick={() => setShowNav(true)}>
             Show question navigator
