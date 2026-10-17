@@ -1,0 +1,100 @@
+---
+/**
+ * Light/dark theme toggle, registered over Starlight's `ThemeSelect`.
+ *
+ * Starlight ships a three-option `auto | light | dark` dropdown. This replaces it
+ * with a single button that flips between light and dark, so the header control
+ * matches the two themes the site actually uses.
+ *
+ * It reuses Starlight's own storage key (`starlight-theme`) and `data-theme`
+ * attribute, so it stays in step with the FOUC-preventing `ThemeProvider` script
+ * inlined in <head>: the current theme is already on `document.documentElement`
+ * before this component runs, and a change persists across page loads.
+ */
+import { Icon } from '@astrojs/starlight/components';
+---
+
+<theme-toggle>
+  <button type="button" class="theme-toggle-button">
+    <span class="theme-icon is-light" aria-hidden="true"><Icon name="moon" /></span>
+    <span class="theme-icon is-dark" aria-hidden="true"><Icon name="sun" /></span>
+  </button>
+</theme-toggle>
+
+<style>
+  .theme-toggle-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2rem;
+    height: 2rem;
+    padding: 0;
+    border: 0;
+    border-radius: 0.5rem;
+    background: transparent;
+    color: var(--sl-color-gray-2);
+    font-size: 1.25rem;
+    line-height: 1;
+    cursor: pointer;
+  }
+
+  .theme-toggle-button:hover {
+    color: var(--sl-color-white);
+    background-color: var(--sl-color-gray-6);
+  }
+
+  .theme-toggle-button:focus-visible {
+    outline: 2px solid var(--sl-color-accent);
+    outline-offset: 2px;
+  }
+
+  /* Show a moon in light mode (to switch to dark) and a sun in dark mode. */
+  .theme-icon {
+    display: none;
+    align-items: center;
+  }
+
+  :global(html[data-theme='light']) .theme-icon.is-light,
+  :global(html[data-theme='dark']) .theme-icon.is-dark {
+    display: inline-flex;
+  }
+</style>
+
+<script>
+  /** Matches Starlight's storage key so the choice persists across visits. */
+  const STORAGE_KEY = 'starlight-theme';
+
+  type Theme = 'light' | 'dark';
+
+  const currentTheme = (): Theme =>
+    document.documentElement.dataset.theme === 'light' ? 'light' : 'dark';
+
+  const label = (theme: Theme): string =>
+    theme === 'light' ? 'Switch to dark theme' : 'Switch to light theme';
+
+  class ThemeToggle extends HTMLElement {
+    connectedCallback() {
+      const button = this.querySelector('button');
+      if (!button) return;
+
+      // Set the initial accessible label from the theme already applied to <html>.
+      button.setAttribute('aria-label', label(currentTheme()));
+
+      button.addEventListener('click', () => {
+        const next: Theme = currentTheme() === 'light' ? 'dark' : 'light';
+        document.documentElement.dataset.theme = next;
+        try {
+          localStorage.setItem(STORAGE_KEY, next);
+        } catch {
+          // Storage can be unavailable (private mode, blocked cookies); the
+          // theme still applies for this page load.
+        }
+        button.setAttribute('aria-label', label(next));
+      });
+    }
+  }
+
+  if (!customElements.get('theme-toggle')) {
+    customElements.define('theme-toggle', ThemeToggle);
+  }
+</script>

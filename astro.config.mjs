@@ -35,6 +35,10 @@ export default defineConfig({
       pagination: true,
       pagefind: true,
       customCss: ['./src/styles/custom.css'],
+      components: {
+        // Replace Starlight's auto|light|dark dropdown with a light/dark toggle.
+        ThemeSelect: './src/components/ThemeToggle.astro',
+      },
       sidebar,
       head: [
         {
