@@ -22,7 +22,17 @@ Firms should classify confidential information, limit access on a need-to-know b
 
 ## 3.2.1 Identify Confidential Information
 
-Names, order details, positions, pricing matrices, client strategies and information that can identify a customer or counterparty are confidential. Publicly observable general market information is different from protected customer-specific information.
+### 3.2.1.1 Trading Information
+
+**Trading information** is the most sensitive category. It covers what a customer is doing or planning: the fact of an order, its size and direction, the level sought, the timing, and the identity of the party. Related information produced by the participant — for example, that a customer has taken a large position and is now seeking a particular hedge — is equally protected, because it reveals the customer's exposure even where the original instruction was never disclosed.
+
+A representative must not use trading information for their own account, for another customer, or as market colour. The order book is confidential in full, not only the name attached to it.
+
+### 3.2.1.2 Designated Confidential Information
+
+**Designated confidential information** is information the firm has expressly classified as confidential — pricing matrices, valuation models, fee arrangements, client lists, strategy and business plans, and internal assessments of counterparties. Designation puts staff on notice and triggers the access and handling controls in 3.2.2.
+
+Designation is not the only source of the duty: information can be confidential by its nature even if no one has labelled it. Both the express designation and the inherent character of the information must be considered.
 
 ## 3.2.2 Limit Access and Protect Confidential Information
 
@@ -55,6 +65,14 @@ Market colour can describe general liquidity, flow, direction, volatility or exe
 ### 3.4.3 Approved Communication Modes/Channels
 
 Use approved recorded channels and systems for dealing and material instructions. Personal messaging, unapproved devices and informal channels create evidential, surveillance and confidentiality risk.
+
+#### 3.4.3.1 Electronic Trading System Logs
+
+Electronic trading platforms generate a contemporaneous log of quotes, orders, executions, timestamps, user identity and system events. Those logs are the firm's record of what happened and must be preserved, protected from alteration, and available to compliance and to MAS. A participant must not exploit a platform's status messages, nor trade on an obvious technical error.
+
+#### 3.4.3.2 Telephone Recordings
+
+Where dealing is conducted by telephone, the line must be a **recorded** line and the counterparty should be told. Recordings must be retained under the firm's policy and applicable law, protected against deletion, and retrievable for reconstruction of a trade, a complaint or an investigation. Using a mobile phone or an unrecorded line to conduct or vary a deal defeats this control and is treated as a serious breach rather than a technicality.
 
 ## 3.5 Training
 
