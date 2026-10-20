@@ -1744,7 +1744,7 @@ d. 14%.
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** `8% − 2×3% = 2%`—wait: the correct arithmetic is **2%**, so answer **a**. A floor may prevent it falling below the stated minimum.
+**Answer: a.** `8% − 2×3% = 2%`. A floor may prevent the coupon falling below the stated minimum, but before the floor the coupon is 2%.
 
 </details>
 
@@ -2712,3 +2712,661 @@ d. Fees, leverage, margin and currency.
 
 </details>
 
+
+## Chapter 5 — Structured Warrants and Daily Leveraged Certificates (expanded)
+
+**187. [Single choice]** Company warrants differ from structured warrants in that company warrants are:
+
+a. Call only, while structured warrants may be calls or puts.
+b. Settled only in cash.
+c. Issued by third parties with no dilution.
+d. Always longer than six months.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: a.** Structured warrants may be calls or puts and are usually under six months; company warrants are call only.
+
+</details>
+
+**188. [Calculation]** A warrant has share price SGD 18.16, warrant price SGD 0.325 and conversion ratio 8:1. Gearing is:
+
+a. 5.58×.
+b. 6.98×.
+c. 8.00×.
+d. 55.9×.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: b.** `18.16 / (0.325 × 8) = 6.98×`.
+
+</details>
+
+**189. [Single choice]** DBS shares rise 0.22% while the DBS call warrant falls 6.15% over the same period. The most likely explanation is:
+
+a. The issuer defaulted.
+b. Time decay outweighed the small favourable move.
+c. Gearing was below 1×.
+d. The conversion ratio was removed.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: b.** A short-dated warrant loses time value, which can exceed the gain from a small favourable underlying move.
+
+</details>
+
+**190. [Calculation]** A new buyer pays SGD 0.665 for a call warrant with strike SGD 16.50 and conversion ratio 8:1. The breakeven share price is:
+
+a. SGD 16.50.
+b. SGD 17.17.
+c. SGD 21.82.
+d. SGD 22.19.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: c.** `0.665 × 8 + 16.50 = 21.82`.
+
+</details>
+
+**191. [Single choice]** For SGX structured warrants, exercise style and settlement are normally:
+
+a. American style, physical delivery.
+b. European style, cash settled.
+c. Bermudan style, physical delivery.
+d. American style, cash settled.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: b.** SGX-listed structured warrants are European style and cash settled.
+
+</details>
+
+**192. [Multiple response]** Which statements about warrant price factors are correct?
+
+a. A higher call exercise price makes the call worth less.
+b. A higher put exercise price makes the put worth more.
+c. Higher interest rates raise call warrant prices.
+d. Higher interest rates raise put warrant prices.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: a, b and c.** Higher rates raise call prices because hedging costs rise, and lower put prices because put hedging becomes cheaper.
+
+</details>
+
+**193. [Single choice]** An issuer that commits to make a market in its structured warrants is exempt from:
+
+a. All disclosure obligations.
+b. Minimum placement and holder-size requirements, with a SGD 2 million minimum issue size.
+c. Issuer credit risk.
+d. The requirement to appoint a warrant agent.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: b.** The DMM commitment substitutes for placement and holder-spread requirements, and the minimum issue size is SGD 2 million, reduced from SGD 5 million.
+
+</details>
+
+**194. [Single choice]** SGX Asian-style warrant expiry means settlement is based on:
+
+a. The single closing price on the expiry date.
+b. The average of official closing prices over the five market days before expiry.
+c. The highest price during the warrant's life.
+d. The exercise price.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: b.** The last trading day is at least three business days before expiry, and the settlement price is a five-day average.
+
+</details>
+
+**195. [Calculation]** A 5× long DLC's underlying falls 10% and the DLC falls 50%. After the 30-minute airbag suspension the underlying falls a further 5%. The DLC price, from SGD 1.00 at the trigger, is approximately:
+
+a. SGD 0.50.
+b. SGD 0.75.
+c. SGD 0.95.
+d. Zero.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: b.** A further 5% underlying move is 25% of SGD 1.00, so the DLC resets to SGD 0.75. Without the airbag it would be SGD 0.50.
+
+</details>
+
+**196. [Calculation]** An index rises 2% a day for five days. The compounded index gain is 10.41%. A 3× long DLC gains approximately:
+
+a. 10.41%.
+b. 20.00%.
+c. 33.82%.
+d. 61.05%.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: c.** Daily resets compound: 3× produces 33.82%, while a 5× long produces 61.05%.
+
+</details>
+
+**197. [Multiple response]** Which are DLC risks?
+
+a. Daily reset makes results path dependent.
+b. The airbag suspends trading and resets the reference level.
+c. A DMM may stand down in exceptional volatility.
+d. Capital is fully protected against a falling underlying.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: a, b and c.** A DLC can lose the entire invested capital; the maximum loss equals the amount invested but is not protected.
+
+</details>
+
+## Chapter 6 — Barrier Options, Binary Options and CBBCs (expanded)
+
+**198. [Single choice]** Breaching a knock-out barrier is more damaging than a capped spread because:
+
+a. The spread has no maximum loss.
+b. The knock-out extinguishes the whole option and loses the full intrinsic value accumulated.
+c. The knock-out converts the option into a future.
+d. A spread cannot be closed out.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: b.** A spread merely caps the excess; a knock-out destroys the entire payoff.
+
+</details>
+
+**199. [Multiple response]** Which statements about knock-in barriers are correct?
+
+a. The option is activated when the barrier is touched.
+b. Terms remain active from the touch through expiry even if price falls back.
+c. A rebate is usually paid if the barrier is never reached.
+d. The option is extinguished on a touch.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: a, b and c.** Extinguishing on a touch describes a knock-out, not a knock-in.
+
+</details>
+
+**200. [Single choice]** A barrier capital preservation certificate preserves:
+
+a. The purchase price at all times.
+b. The nominal amount at maturity only.
+c. The nominal amount throughout the product's life.
+d. Only the coupon.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: b.** Capital preservation refers to nominal at maturity, not to the purchase price, and value may fall below it during the life.
+
+</details>
+
+**201. [Calculation]** A bull CBBC has underlying 1,050, strike 1,000, financial cost 10 and conversion ratio 10. Its theoretical price is:
+
+a. 4.
+b. 5.
+c. 6.
+d. 10.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: c.** `[(1,050 − 1,000) + 10] / 10 = 6`.
+
+</details>
+
+**202. [Multiple response]** Which statements about CBBC categories are correct?
+
+a. A Category N CBBC has no residual value after an MCE.
+b. A Category R CBBC may pay a residual value, which may be zero.
+c. An MCE terminates the product before maturity.
+d. Category R guarantees a positive residual.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: a, b and c.** Category R does not guarantee a positive residual; it may be zero.
+
+</details>
+
+**203. [Scenario]** An R-bull CBBC bought at SGD 0.30 triggers an MCE and settles at a residual of SGD 0.05. The investor's loss is:
+
+a. About 17%.
+b. About 50%.
+c. About 83%.
+d. Zero, because residual value is paid.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: c.** `(0.05 − 0.30) / 0.30 = −83.33%`, even though the underlying fell only about 12.5%.
+
+</details>
+
+## Chapter 7 — Structured Deposits (expanded)
+
+**204. [Multiple response]** Which are genuine client-suitability criteria for structured products?
+
+a. Risk appetite, meaning both ability and willingness to bear risk.
+b. Investment experience and knowledge.
+c. Liquidity needs and investment horizon.
+d. The headline yield alone.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: a, b and c.** The headline yield is not a suitability criterion; the worst case must be understood.
+
+</details>
+
+**205. [Calculation]** A structured note has a call premium of USD 24 and the discount sum available from the zero-coupon bond is USD 21.65. The participation rate is:
+
+a. 90.21%.
+b. 100.00%.
+c. 110.85%.
+d. 119.58%.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: a.** `21.65 / 24 = 0.9021 = 90.21%`. A bond with a 28.70 discount sum would give 119.58%.
+
+</details>
+
+**206. [Single choice]** In a standard dual currency investment, the investor is economically:
+
+a. Long a call on the reference currency and short a deposit.
+b. Short a call on the reference currency and long a money market deposit.
+c. Long a put and long a bond.
+d. Holding a physical currency basket.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: b.** The premium on the sold option funds the yield above the money-market rate.
+
+</details>
+
+**207. [Calculation]** A range accrual pays 7.25% for 88 of 90 days inside the range and 2.00% outside. The payout is approximately:
+
+a. 2.00%.
+b. 5.15%.
+c. 7.13%.
+d. 7.25%.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: c.** `(88/90 × 7.25%) + (2/90 × 2.00%) = 7.13%`.
+
+</details>
+
+**208. [Single choice]** In a 1×2 accumulator, once the price falls below the strike the investor must buy:
+
+a. Half the agreed quantity.
+b. The same quantity as above the strike.
+c. Twice the agreed quantity, subject to the terms.
+d. Nothing until maturity.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: c.** The gearing magnifies the downside quantity, which is why the discounted strike is compensation for an obligation.
+
+</details>
+
+## Chapter 8 — Structured Notes (expanded)
+
+**209. [Calculation]** A range accrual note at 5% inside a SOR range accrues on 110 of 182 days. The half-year payout is approximately:
+
+a. 1.50%.
+b. 3.02%.
+c. 5.00%.
+d. 5.50%.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: b.** `5% × 110/182 = 3.02%`.
+
+</details>
+
+**210. [Calculation]** An Apple ELN has strike USD 174.52 and an investment of USD 1,000,000. If conversion occurs, the investor receives approximately:
+
+a. 5,730 shares.
+b. 5,000 shares.
+c. 6,000 shares.
+d. 1,745 shares.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: a.** `1,000,000 / 174.52 = 5,730 shares`.
+
+</details>
+
+**211. [Single choice]** A worst-of ELN's key additional risk is:
+
+a. Correlation, because the weakest name drives the payoff.
+b. That the strongest name drives the payoff.
+c. That the coupon is guaranteed.
+d. That principal is always protected.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: a.** The payoff depends on the weakest constituent, so correlated names deteriorating together is the central risk.
+
+</details>
+
+**212. [Calculation]** A worst-of ELN's laggard trades at 29.16 against a conversion price of 27.00. The variable coupon is:
+
+a. 2.80%.
+b. 8.00%.
+c. 9.09%.
+d. 27.00%.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: b.** `(29.16 / 27.00 − 1) × 100 = 8.00%`.
+
+</details>
+
+**213. [Single choice]** A credit-linked note investor is economically:
+
+a. Buying credit protection.
+b. Selling credit protection on a reference entity.
+c. Holding the reference entity's equity.
+d. Holding a government bond.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: b.** The enhanced coupon compensates the investor for selling protection.
+
+</details>
+
+**214. [Multiple response]** Which are differences between a bond-linked note and a credit-linked note?
+
+a. A BLN is triggered by a bond price fall rather than a credit event.
+b. A BLN delivers the bond rather than referencing an ISDA credit event.
+c. A CLN references defined credit events.
+d. A BLN has no issuer risk.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: a, b and c.** A BLN still carries issuer risk.
+
+</details>
+
+**215. [Single choice]** An ETN differs from an ETF chiefly because an ETN is:
+
+a. A segregated pool of assets.
+b. Unsecured listed debt with issuer credit risk.
+c. Deposit-insured.
+d. Always physically backed.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: b.** The investor has a claim on the issuer, not on a segregated pool.
+
+</details>
+
+## Chapter 9 — Structured Funds (expanded)
+
+**216. [Calculation]** In a CPPI fund, the portfolio is worth $100 and the floor is $85, with a crash size of 20%. The risky allocation is:
+
+a. $15.
+b. $20.
+c. $75.
+d. $85.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: c.** Multiplier = 1/0.20 = 5; cushion = $15; risky = 5 × 15 = $75.
+
+</details>
+
+**217. [Scenario]** A CPPI fund reaches its floor after a sharp fall. The most likely consequence is:
+
+a. It buys risky assets at the low.
+b. It moves entirely to the risk-free asset and may miss a recovery.
+c. It guarantees unlimited upside.
+d. It removes issuer risk.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: b.** This is cash lock: the mechanism de-risks at the bottom.
+
+</details>
+
+**218. [Single choice]** A trustee must notify MAS of a breach within:
+
+a. One business day.
+b. Three business days.
+c. Two months.
+d. Three months.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: b.** Three business days. The semi-annual report is due within two months and the annual report within three.
+
+</details>
+
+**219. [Multiple response]** Which are causes of an ETF's tracking error?
+
+a. Transaction costs and cash drag.
+b. The replication method used.
+c. Futures roll in contango or backwardation.
+d. Hedging costs.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: a, b, c and d.** All four, plus portfolio holdings differing from the index.
+
+</details>
+
+**220. [Single choice]** Synthetic ETFs are subject to a net counterparty exposure limit of:
+
+a. 5% of NAV.
+b. 10% of NAV, with collateral of at least 90% of NAV.
+c. 50% of NAV.
+d. There is no limit.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: b.** The 10% limit applies with at least 90% collateral, rebalanced daily.
+
+</details>
+
+## Chapter 10 — CFDs (expanded)
+
+**221. [Calculation]** An investor buys 10,000 CFDs at $2.00 and sells at $2.20, with 0.4% commission, 8% GST on commission and 5% p.a. financing for 10 days. Net profit is approximately:
+
+a. $1,790.78.
+b. $1,818.56.
+c. $2,000.00.
+d. $2,209.22.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: a.** Gross $2,000 less $86.40 buy cost, $95.04 sell cost and $27.78 financing = $1,790.78.
+
+</details>
+
+**222. [Calculation]** A short CFD sells 10,000 at $3.30 and covers at $3.45, with $319.10 total expense and $6,600 margin. The ROI is approximately:
+
+a. +4.55%.
+b. −4.55%.
+c. −27.56%.
+d. −100%.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: c.** A net loss of $1,819.10 on $6,600 margin is −27.56%, even though the underlying moved only 4.5%.
+
+</details>
+
+**223. [Single choice]** The predominant CFD business model in Singapore is:
+
+a. Direct market access.
+b. A market maker quoting its own price.
+c. An exchange-traded CFD.
+d. A physical delivery model.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: a.** DMA routes orders through the provider into the underlying market.
+
+</details>
+
+**224. [Scenario]** A long CFD stop-loss is set at $9.50 but the market gaps from $9.60 to $9.30. The investor should understand that:
+
+a. The stop guarantees $9.50.
+b. Execution may be worse than the stop unless a guaranteed stop applies.
+c. The position is automatically cancelled.
+d. The provider absorbs the difference.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: b.** A plain stop is not a guarantee; only a guaranteed stop, a paid service, removes gap risk.
+
+</details>
+
+## Chapter 11 — Key Product and Investment Risks (expanded)
+
+**225. [Multiple response]** Which are causes of basis risk in a futures hedge?
+
+a. The hedged asset differs from the contract's underlying.
+b. The hedger is uncertain about the exact transaction date.
+c. The hedge is closed out well before expiry.
+d. The contract size does not match the hedged position.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: a, b, c and d.** All four, with the last causing under- or over-hedging.
+
+</details>
+
+**226. [Single choice]** A "lock limit" market means:
+
+a. The price has reached its daily limit and no counterparty will trade, so the position cannot be offset.
+b. The exchange has closed permanently.
+c. Margin requirements are suspended.
+d. The contract has been cash settled.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: a.** Without an offsetting trade there is no way to close the position.
+
+</details>
+
+**227. [Single choice]** Reinvestment risk is greatest for:
+
+a. Zero-coupon bonds.
+b. Callable bonds with large coupons and long maturities.
+c. Short-dated discount instruments.
+d. Floating-rate notes resetting daily.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: b.** Zero-coupon bonds have none; callable high-coupon long bonds have the most.
+
+</details>
+
+**228. [Calculation]** A bond has modified duration 2 and the yield rises 100bp. The approximate price change is:
+
+a. +2%.
+b. −2%.
+c. −20%.
+d. 0%.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: b.** `ΔP/P ≈ −D × ΔYTM = −2 × 1% = −2%`.
+
+</details>
+
+**229. [Single choice]** A 1-day 95% VaR of SGD 1m means:
+
+a. The maximum possible loss is SGD 1m.
+b. There is about a 5% probability of losing more than SGD 1m in one day.
+c. The portfolio will lose SGD 1m one day in five.
+d. The portfolio cannot lose more than SGD 1m.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: b.** VaR is a threshold estimate at a confidence level and horizon, not a maximum loss.
+
+</details>
+
+**230. [Single choice]** A short (sold) pay-fixed swaption exposes the seller to:
+
+a. A loss capped at the fixed rate.
+b. Unlimited loss if rates rise.
+c. No loss.
+d. Loss limited to the premium received.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: b.** A receive-fixed swaption's loss is capped at the fixed rate, but a pay-fixed one is unlimited.
+
+</details>
+
+**231. [Multiple response]** Which are legitimate futures risk limits?
+
+a. Open-contract limits.
+b. Maximum-loss limits.
+c. Maturity and stress-test limits.
+d. No limits, because futures are exchange traded.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: a, b and c.** Exchange trading does not remove firm-level risk.
+
+</details>
+
+**232. [Single choice]** A confirmation should always state:
+
+a. Only the trade date.
+b. Option style, expiry date and time, premium payment date, settlement date, strike and both currency amounts.
+c. Only the counterparty name.
+d. Only the commission.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer: b.** These six fields prevent settlement disputes.
+
+</details>

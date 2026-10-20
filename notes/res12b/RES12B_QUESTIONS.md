@@ -5072,38 +5072,394 @@ d. Only physical warehouse inspection procedures.
 
 </details>
 
+### 311. **[Single choice]** [RES 1B §1.1.1.1] What is the primary function of the primary market?
+
+a. Transferring existing securities between investors.
+b. Providing opportunities for businesses to raise capital by issuing securities.
+c. Clearing and settling trades.
+d. Setting monetary policy.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** b.
+
+**Rationale:** Capital-raising through the issuance of shares, bonds and company warrants takes place in the primary market; trading afterwards occurs in the secondary market.
+
+</details>
+
+### 312. **[Single choice]** [RES 1B §1.2.1.2] A Wholesale Bank may accept Singapore dollar fixed deposits of at least:
+
+a. S$50,000.
+b. S$250,000.
+c. S$500,000.
+d. Any amount.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** b.
+
+**Rationale:** Wholesale Banks may take foreign-currency deposits in any amount but are restricted on SGD, with a S$250,000 floor on fixed deposits.
+
+</details>
+
+### 313. **[Single choice]** [RES 1B §1.2.1.2] An SGD savings or current account opened by a Wholesale Bank for a Singapore-resident natural person should:
+
+a. Bear interest at the market rate.
+b. Not be interest-bearing without MAS's prior approval.
+c. Be capped at S$250,000.
+d. Be converted to a fixed deposit after one year.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** b.
+
+**Rationale:** This restriction protects the retail deposit franchise; without MAS approval the account should not pay interest.
+
+</details>
+
+### 314. **[Single choice]** [RES 1B §1.2.1.3] A Merchant Bank in Singapore:
+
+a. May accept Singapore dollar deposits from the public.
+b. May not accept Singapore deposits or borrow Singapore dollars from the public except from banks, finance companies, shareholders and shareholder-controlled companies.
+c. Operates retail branches.
+d. Is licensed under the SFA.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** b.
+
+**Rationale:** Merchant Banks are licensed under s.55S of the Banking Act and are restricted to wholesale and permitted counterparties.
+
+</details>
+
+### 315. **[Single choice]** [RES 1B §1.2.2.1] Unlike a bank, a broker/dealer company:
+
+a. Takes deposits.
+b. Does not take deposits but specialises in matching buyers with sellers and may be a Trading or Clearing Member.
+c. Cannot provide clearing services.
+d. Is always a market maker.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** b.
+
+**Rationale:** Deposit taking is a banking activity; broker/dealers provide trading and clearing access.
+
+</details>
+
+### 316. **[Multiple response]** [RES 1B §1.2.2.4] Which conditions must a remote overseas trading member satisfy for the CMS licence exemption?
+
+a. Be incorporated outside Singapore.
+b. Be a member of the relevant approved exchange, clearing house, recognised market operator or recognised clearing house.
+c. Not serve Singapore residents.
+d. Be regulated in its home jurisdiction with a suitable MAS information-sharing arrangement.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** a, b, c and d.
+
+**Rationale:** All four apply, together with the requirement not to be a Singapore-regulated financial institution. A remote clearing member additionally cannot have a MAS-regulated affiliate.
+
+</details>
+
+### 317. **[Multiple response]** [RES 1B §1.3.1.1] Which are functions of MAS?
+
+a. Acting as Singapore's central bank, including monetary policy and currency issuance.
+b. Conducting integrated supervision of financial services and financial stability surveillance.
+c. Managing the official foreign reserves.
+d. Developing Singapore as an international financial centre.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** a, b, c and d.
+
+**Rationale:** These are the four statutory functions under the MAS Act.
+
+</details>
+
+### 318. **[Multiple response]** [RES 1B §1.3.1.1] Which powers does the SFA give MAS?
+
+a. Approving exchanges and clearing houses.
+b. Reviewing amendments to exchange and clearing-house rules.
+c. Taking disciplinary action, including revocation of licence and prohibition orders.
+d. Inspecting the books of a CMS licence holder and investigating suspected contraventions.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** a, b, c and d.
+
+**Rationale:** The SFA confers a wide supervisory and enforcement remit covering all four.
+
+</details>
+
+### 319. **[Combination choice]** [RES 1B §1.3.1.2] Which guiding principles govern SGX's regulation of the markets?
+
+a. Disclosure-based regulation and comprehensive risk management.
+b. Risk-based targeting of regulatory activities.
+c. Balanced international best practice and transparency.
+d. SGX as a frontline regulator managing regulatory conflict, under MAS oversight.
+
+Choose one:
+
+- A. (a) and (b) only.
+- B. (a), (b) and (c) only.
+- C. (a), (b), (c) and (d).
+- D. (d) only.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C.
+
+**Rationale:** These are the six guiding principles; the sixth acknowledges that MAS remains the statutory regulator.
+
+</details>
+
+### 320. **[Single choice]** [RES 1B §1.3.1.4] CDP holds book-entry securities as:
+
+a. Legal owner.
+b. Bare trustee for the collective benefit of depositors.
+c. Pledgee.
+d. Market maker.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** b.
+
+**Rationale:** Securities are immobilised and ownership transfers by book entry, with CDP holding as bare trustee.
+
+</details>
+
+### 321. **[Single choice]** [RES 1B §1.3.1.4] SGX trades must settle on:
+
+a. T+1.
+b. T+2.
+c. T+3.
+d. The trade date.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** b.
+
+**Rationale:** T+2 means two exchange business days after the trade day, settled gross in the end-of-day run.
+
+</details>
+
+### 322. **[Single choice]** [RES 1B §1.3.1.4] The purpose of CDP's Pre-Settlement Matching Service is to:
+
+a. Replace the clearing house.
+b. Automate pre-settlement matching through straight-through processing, reducing manual error and settlement failure.
+c. Set securities prices.
+d. Guarantee settlement of every trade.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** b.
+
+**Rationale:** Launched in 2008, PSMS removes the manual telephone affirmation process and matches instructions early.
+
+</details>
+
+### 323. **[Single choice]** [RES 1B §1.3.1.6] SGX-DC's status as a Qualifying CCP means its bank members benefit from:
+
+a. An exemption from margin.
+b. Lower capital requirements for trade and default-fund exposures under Basel III.
+c. A government guarantee.
+d. No clearing-house rules.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** b.
+
+**Rationale:** Qualifying CCP status reduces capital cost; it does not remove margin or the clearing rules.
+
+</details>
+
+### 324. **[Single choice]** [RES 1B §1.3.1.7] SGX RegCo was established in 2017 to:
+
+a. Replace MAS as the statutory regulator.
+b. Separate frontline regulatory functions from SGX's commercial and operating activities, with its own board.
+c. Operate the derivatives clearing house.
+d. Set monetary policy.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** b.
+
+**Rationale:** The separation addresses the conflict inherent in an exchange regulating its own market.
+
+</details>
+
+### 325. **[Combination choice]** [RES 1B §1.4.3.1] Which statements about a secondary listing on SGX-ST Mainboard are correct?
+
+a. The issuer must already be listed on an acceptable home exchange.
+b. It need not comply with SGX-ST's continuing listing obligations.
+c. It must announce to SGX-ST at the same time as it releases information to the home exchange.
+d. It must comply with the home exchange's rules and the laws of its jurisdiction of incorporation.
+
+Choose one:
+
+- A. (a) and (b) only.
+- B. (a), (b), (c) and (d).
+- C. (c) and (d) only.
+- D. (a) only.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B.
+
+**Rationale:** All four describe a secondary listing; simultaneous disclosure is the key practical obligation.
+
+</details>
+
+### 326. **[Single choice]** [RES 1B §1.4.3.2] Global Depositary Receipts listed on SGX-ST are offered:
+
+a. To the general public.
+b. Only to institutional and accredited investors.
+c. Only to retail investors.
+d. Only to SGX members.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** b.
+
+**Rationale:** GDRs are specialist products, and disclosure must be provided to SGX-ST in English at the same time as to the home exchange.
+
+</details>
+
+### 327. **[Single choice]** [RES 1B §1.4.5] Which Mainboard admission route requires market capitalisation of at least S$30 million?
+
+a. None; the S$30 million figure applies to pre-tax profit.
+b. The profit test requires at least S$30 million consolidated pre-tax profit with a three-year track record.
+c. The revenue test requires S$30 million revenue.
+d. Catalist requires S$30 million.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** b.
+
+**Rationale:** The other routes require S$150 million market cap with profit, or S$300 million with revenue.
+
+</details>
+
+### 328. **[Combination choice]** [RES 1B §1.4.5] Which requirements apply to a Mainboard issuer with market capitalisation below S$300 million?
+
+a. At least 25% public shareholding.
+b. At least 500 shareholders.
+c. At least two independent directors.
+d. A Singapore-resident independent director for a foreign issuer.
+
+Choose one:
+
+- A. (a) and (b) only.
+- B. (a), (b) and (c) only.
+- C. (a), (b), (c) and (d).
+- D. (c) and (d) only.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C.
+
+**Rationale:** All four apply, along with promoter moratoria tied to the admission route used.
+
+</details>
+
+### 329. **[Combination choice]** [RES 1B §1.4.6] Which statements about Catalist are correct?
+
+a. Only a primary listing is permitted.
+b. An SGX-authorised full sponsor is required, with a continuing sponsor for the life of the listing.
+c. There is no minimum quantitative entry test.
+d. At least 15% of post-invitation share capital must be in public hands with at least 200 shareholders.
+
+Choose one:
+
+- A. (a) and (c) only.
+- B. (a), (b), (c) and (d).
+- C. (b) and (d) only.
+- D. (a) and (b) only.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B.
+
+**Rationale:** Catalist is sponsor-supervised with no quantitative test, and the float and shareholder thresholds are 15% and 200.
+
+</details>
+
+### 330. **[Single choice]** [RES 1B §1.4.6.2] Catalist offer documents are:
+
+a. Not subject to any liability provisions.
+b. Lodged on Catalodge, follow prospectus-style disclosure including SFA liability provisions, and are exposed for at least 14 days.
+c. Lodged with MAS only.
+d. Exposed for at least seven days.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** b.
+
+**Rationale:** The exposure period is 14 days for Catalist, against at least seven for Mainboard OPERA exposure.
+
+</details>
+
+### 331. **[Multiple response]** [RES 1B §1.4.8] Which actions may SGX take against a non-compliant sponsor or registered professional?
+
+a. Reprimand.
+b. Require education or rectification.
+c. Impose conditions.
+d. Suspend the sponsor or registered professional.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** a, b, c and d.
+
+**Rationale:** The enforcement ladder runs from reprimand through conditions to suspension.
+
+</details>
+
+### 332. **[Single choice]** [RES 1B §2.5.1] The distinction between a listed and an unlisted Specified Investment Product determines:
+
+a. The commission rate.
+b. Whether a CAR or a CKA applies, and what follows a failed assessment.
+c. Whether the product can be sold at all.
+d. The settlement cycle.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** b.
+
+**Rationale:** Listed SIPs take a CAR valid for three years; unlisted SIPs take a CKA valid for one year, and a negative CKA generally blocks dealing.
+
+</details>
+
 ## Coverage audit
 
-This expanded bank contains 310 questions: 210 converted questions and 100 additional original questions. It is deliberately larger than the 60-question examination format in `RES12B.md`. The source review questions familiarise candidates with scope and format but do not cover all tested material.
+This bank holds **332 questions** across both parts of the combined paper. It is deliberately larger than the 60-question examination format in `RES12B.md`, because the paper draws on fourteen chapters plus fifteen appendices.
 
-| Module | Study-guide area | Question coverage |
-|---|---|---|
-| RES 1B | Chapter 1 | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 121, 122, 123, 124, 125, 126 |
-| RES 1B | Chapter 2 | 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 127, 128, 129, 130, 131, 132, 133 |
-| RES 1B | Chapter 3 | 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 134, 135, 136, 137, 138, 139, 140 |
-| RES 1B | Chapter 4 | 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 141, 142, 143, 144, 145, 146 |
-| RES 1B | Chapter 5 | 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 147, 148, 149, 150, 151, 152, 153 |
-| RES 1B | Chapter 6 | 64, 65, 66, 67, 68, 69, 70, 154, 155, 156, 157, 158, 159, 160 |
-| RES 1B | Chapter 7 | 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 161, 162, 163, 164, 165, 166, 167 |
-| RES 1B | Appendix A | 84 |
-| RES 1B | Appendix B | 85 |
-| RES 1B | Appendix C | 86 |
-| RES 1B | Appendix D | 87, 169 |
-| RES 1B | Appendix E | 88 |
-| RES 1B | Appendix F | 89, 170 |
-| RES 1B | Appendix G | 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120 |
-| RES 1B | Appendix H | 168 |
-| RES 2B | Chapter 1 | 171, 172, 173, 174, 175, 261, 262, 263, 264, 265, 266 |
-| RES 2B | Chapter 2 | 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 267, 268, 269, 270, 271, 272, 273 |
-| RES 2B | Chapter 3 | 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 274, 275, 276, 277, 278, 279, 280 |
-| RES 2B | Chapter 4 | 202, 203, 204, 205, 206, 207, 208, 209, 210, 281, 282, 283, 284, 285, 286, 287 |
-| RES 2B | Chapter 5 | 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 288, 289, 290, 291, 292, 293, 294 |
-| RES 2B | Chapter 6 | 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 295, 296, 297, 298, 299, 300, 301 |
-| RES 2B | Chapter 7 | 231, 232, 233, 234, 235, 236, 237, 238, 302, 303, 304, 305, 306, 307, 308 |
-| RES 2B | Appendix A | 239 |
-| RES 2B | Appendix B | 240 |
-| RES 2B | Appendix C | 241 |
-| RES 2B | Appendix D | 242 |
-| RES 2B | Appendix E | 243 |
-| RES 2B | Appendix F | 244, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 310 |
-| RES 2B | Appendix G | 245 |
+Coverage is verified mechanically rather than through a hand-written section-to-question table, which drifts with every edit:
+
+- `npm run audit` compares the guide headings against `scripts/lib/syllabus.mjs`, listing all **180** official RES 12B sections across RES 1B and RES 2B, and reports any section without a heading or any heading not in the manifest.
+- `npm run test:parser` asserts that every question carries a resolvable answer key and maps to a declared chapter. RES 12B questions are assigned by their `[RES 1B §x.y]` source tag, so the part-qualified chapter ids (`1B-3`, `2B-4`) stay correct.
+- RES 2B chapter 7 and its appendices are shared with RES 1B chapter 7, carried once on the `1B-7` page; the manifest marks this with `sharedWith` so the audit does not expect a duplicate.
+
+The source review questions familiarise candidates with scope and format but do not cover all tested material, so the original questions extend every chapter and appendix.

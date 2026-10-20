@@ -1,52 +1,49 @@
-Restore full content to CM-SIP chapters 10 and 11
+Expand the question banks to match the restored coverage
 
-CM-SIP reaches 411/411 official sections. All three guides are now complete:
+Each bank now covers the material the guides actually contain, rather than the
+condensed versions they replaced.
 
-  CM-SIP    411/411 (100%)   50,792 words
-  FMRP      212/212 (100%)   11,178 words
-  RES 12B   180/180 (100%)   16,675 words
+  CM-SIP    186 -> 232    (+46)
+  FMRP      300 -> 317    (+17)
+  RES 12B   310 -> 332    (+22)
 
-0 defects, 0 blocking findings under --strict.
+CM-SIP additions cover chapters 5-11, which the old bank touched only
+lightly: warrant gearing and breakeven arithmetic (6.98x, SGD 21.82),
+the time-decay trap where shares rose 0.22% and the warrant fell 6.15%,
+DMM relief at SGD 2 million, Asian-style five-day expiry, the DLC airbag
+reset to SGD 0.75, five-day compounding at 33.82% versus 10.41%, knock-out
+versus spread severity, Category R residual risk with the 83% loss on a
+12.5% underlying fall, the seven suitability criteria, participation rates,
+the DCI as a short call plus deposit, range accrual payouts, ELN conversion
+shares, worst-of variable coupons, CLN versus BLN, CPPI cash lock, trustee
+notification clocks, ETF tracking error and the 10%/90% counterparty limit,
+CFD cost arithmetic in both directions and the -27.56% ROI, basis-risk
+causes, lock-limit markets, reinvestment-risk ranking, duration and PVBP,
+and VaR interpretation.
 
-Chapter 10 grows from 924 to 3,600 words, covering all 18 sections:
-- 10.1 the London early-1990s equity-swap origin and the absence of a US
-  retail market
-- 10.2 the five contract terms and the no-ownership, no-voting, no-delivery
-  distinction
-- 10.3 stamp duty is not charged in Singapore
-- 10.4 the three provider models, with DMA predominant in Singapore
-- 10.5 a nine-row comparison against shares, options and warrants
-- 10.6.1 both margin examples: 10% on $20,000 giving $2,000 at 10x, and 20%
-  on $10,500 giving $2,100 at 5x
-- 10.6.2-10.6.4 mark-to-market, margin call and partial versus full
-  liquidation with liability for the shortfall
-- 10.6.5 the limit and MTL examples, and the 10-tick stop-entry constraint
-- 10.6.6 the full long cost arithmetic: $86.40 + $95.04 + $27.78 = $209.22,
-  net $1,790.78
-- 10.6.7 both short scenarios: $303.98 expense and 25.70% ROI, then
-  -$1,819.10 and -27.56% when the price rises
-- 10.6.8 corporate actions, and 10.6.9 the five-row CFD-versus-futures table
-- 10.7-10.8 the global underlying list and each strategy, including deal
-  risk in merger arbitrage
+FMRP additions cover the restored chapter 1 and chapter 3 material: the FX
+market as the largest, the one-year money-market boundary, the four
+features a market needs, the four investment-banking activities, IDB
+money-broker approval and the prohibition on acting as principal, finance
+company deposit limits, banking-licence branch rules, MAS 911, Primary
+Dealers, the CMS "Bank" naming restriction, the banks' conduct obligations,
+Blue Book versus FX Global Code scope, SFEMC objectives, trading versus
+designated confidential information, and electronic logs and recorded lines.
 
-Chapter 11 grows from 874 to 3,900 words, covering all 24 sections:
-- 11.1.1.1-11.1.1.3 basis risk with its four causes, liquidity including the
-  "lock limit" market and the volume/open-interest indicators, and leverage
-- 11.1.2-11.1.7 options, index options, bond options with the flight-to-safety
-  and bond-vigilante framing, currency options, warrants and CFDs
-- 11.2.1 market risk framed as selling protection, with the four payoff
-  profiles
-- 11.2.2-11.2.4 CPPI risk, credit risk, and the six ISDA credit events with
-  the full CLN cash-flow chain through the SPV and the AAA collateral
-- 11.2.5-11.2.7 liquidity with lock-ups and issuer track record, early
-  termination, and structure risk including the pay-fixed swaption's
-  unlimited loss
-- 11.2.8-11.2.14 reinvestment risk with its full ranking, volatility risk
-  through embedded options, correlation, FX, legal, transactional and
-  mis-selling risk
-- 11.3.1-11.3.4 the four futures limits, duration and PVBP arithmetic,
-  the VaR interpretation at one day in twenty, the five Greek limits, CSA
-  collateral and clearing-broker risk, and the six-field confirmation
-  checklist
+RES 12B additions cover the restored subsections across both parts: primary
+market function, wholesale bank S$250,000 floor and the interest-bearing
+restriction, merchant bank deposit prohibition, broker/dealers as Trading or
+Clearing Members, the remote-member exemption conditions, MAS's four
+functions and five SFA powers, SGX's six guiding principles, CDP as bare
+trustee at T+2 with PSMS, Qualifying CCP capital relief, SGX RegCo, secondary
+listing obligations, GDRs for institutional and accredited investors, the
+S$30m/S$150m/S$300m admission routes, the 25%/500 Mainboard thresholds,
+Catalist's sponsor model at 15%/200, Catalodge exposure, sponsor enforcement,
+and the listed/unlisted CAR-versus-CKA distinction.
 
-Also corrects a heading typo (10..6.5) that the audit caught.
+Also fixes CMSIP Q120, where the answer key read "c" while its own arithmetic
+gave 2% (answer a), and replaces the hand-maintained section-to-question
+tables in both banks with a pointer to npm run audit, which verifies coverage
+against scripts/lib/syllabus.mjs mechanically and cannot drift.
+
+37/37 parser checks pass; all 13 printable artefacts regenerated.

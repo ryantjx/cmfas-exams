@@ -5029,211 +5029,313 @@ Choose one:
 
 </details>
 
+### 301. **[Original | Single choice]** [FMRP §1.2.2.1] Which market is the largest financial market in the world?
+
+a. The equity market.
+b. The foreign exchange market.
+c. The money market.
+d. The derivatives market.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** b.
+
+**Rationale:** The FX market facilitates currency conversion and FX exposure management and is the largest financial market in the world.
+
+</details>
+
+### 302. **[Original | Single choice]** [FMRP §1.2.2.2] Money-market instruments are distinguished by:
+
+a. Original maturities of one year or less.
+b. Conversion into equity.
+c. A minimum maturity of five years.
+d. Being exchange listed.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** a.
+
+**Rationale:** Money markets facilitate short-term borrowing and lending with original maturities of one year or shorter, using T-bills, commercial paper, bankers' acceptances and certificates of deposit.
+
+</details>
+
+### 303. **[Original | Combination choice]** [FMRP §1.2.1] Which features must be present for financial markets to function efficiently and effectively?
+
+a. Sufficient active Market Participants to ensure liquidity.
+b. Reasonable transparency so participants can see prices dealt.
+c. Clear and enforceable rules that facilitate orderly trading and prohibit misconduct.
+d. Dealing on a fair and objective "best deal" basis rather than on personal relationships.
+
+Choose one:
+
+- A. (a) and (b) only.
+- B. (a), (b) and (c) only.
+- C. (a), (b), (c) and (d).
+- D. (c) and (d) only.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C.
+
+**Rationale:** All four features are required; the fourth is the one most often overlooked.
+
+</details>
+
+### 304. **[Original | Single choice]** [FMRP §1.3.1.2] Which activity is NOT one of the four core investment banking activities described?
+
+a. Underwriting a security issue.
+b. Advising on a merger or acquisition.
+c. Making markets in securities the bank originated.
+d. Offering demand deposit accounts to retail customers.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** d.
+
+**Rationale:** Deposit taking is a commercial banking activity. Investment banking comprises underwriting, M&A advisory, sales and trading flow business, and proprietary trading.
+
+</details>
+
+### 305. **[Original | Single choice]** [FMRP §1.3.2] An Inter-Dealer Broker in the Singapore FX and money markets must:
+
+a. Take principal positions to make markets.
+b. Obtain formal approval as a money broker under the MAS Act and must not act as principal.
+c. Deal in securities without any exemption.
+d. Publish its own exchange rates.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** b.
+
+**Rationale:** IDBs are intermediaries, cannot act as principal or take positions in the FX and money markets, and need money-broker approval.
+
+</details>
+
+### 306. **[Original | Single choice]** [FMRP §1.3.3] Finance companies in Singapore:
+
+a. May offer deposit accounts repayable on demand by cheque.
+b. May offer term deposit accounts but not deposit accounts repayable on demand by cheque, draft or order.
+c. Are licensed under the Banking Act.
+d. Cannot lend for motor vehicles.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** b.
+
+**Rationale:** They provide instalment credit and mortgage loans, are governed by the Finance Companies Act, and may take term deposits only.
+
+</details>
+
+### 307. **[Original | Combination choice]** [FMRP §1.4.2] Which statements about Singapore banking licences are correct?
+
+a. Singapore Full Banks face no restriction on the number of branches.
+b. Foreign Full Banks are generally permitted only a single branch.
+c. Qualifying Full Banks may have more places of business than other foreign Full Banks.
+d. Wholesale Banks may conduct Singapore-dollar retail banking.
+
+Choose one:
+
+- A. (a), (b) and (c) only.
+- B. (a) and (d) only.
+- C. (b) and (c) only.
+- D. (a), (b), (c) and (d).
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A.
+
+**Rationale:** Wholesale Banks do not carry out SGD retail banking; the other three statements are correct.
+
+</details>
+
+### 308. **[Original | Single choice]** [FMRP §1.4.3.1] Under MAS 911, banks and merchant banks must:
+
+a. Register their FX and money-market dealers and provide their personal particulars to MAS.
+b. Publish dealer names to the market.
+c. Obtain a CMS licence for each dealer.
+d. Cease proprietary trading.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** a.
+
+**Rationale:** MAS maintains a register of FX and Money Market Dealers under that notice.
+
+</details>
+
+### 309. **[Original | Combination choice]** [FMRP §1.4.3.2] A Primary Dealer in Singapore Government Securities is expected to comply with:
+
+a. The Government Securities Act and its subsidiary legislation.
+b. The Notice on Obligations of Primary Dealers (MAS 761).
+c. The Rules and Market Practices of the SGS Market and the SGS Repo Code of Best Practice.
+d. Only its internal trading policy.
+
+Choose one:
+
+- A. (a) only.
+- B. (a) and (b) only.
+- C. (a), (b) and (c).
+- D. (d) only.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C.
+
+**Rationale:** Primary Dealer status carries statutory, notice-based and market-practice obligations.
+
+</details>
+
+### 310. **[Original | Single choice]** [FMRP §1.4.4] A CMS Licence holder, subject to exceptions:
+
+a. May describe itself as a bank.
+b. May not use the word "Bank" or any derivative, or any word indicating it transacts banking business.
+c. May take deposits.
+d. Need not appoint Representatives.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** b.
+
+**Rationale:** The naming restriction prevents confusion between a capital-markets intermediary and a licensed bank.
+
+</details>
+
+### 311. **[Original | Single choice]** [FMRP §1.4.4] Which statement about banks and CMS licensing is correct?
+
+a. Banks must obtain a separate CMS licence before carrying on any SFA regulated activity.
+b. Banks and Merchant Banks may carry on SFA regulated activities without a separate CMS licence but must still meet SFA business-conduct requirements.
+c. Banks are exempt from SFA conduct requirements entirely.
+d. Merchant Banks cannot deal in securities.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** b.
+
+**Rationale:** The licensing exemption does not remove the conduct obligations attached to the activity.
+
+</details>
+
+### 312. **[Original | Single choice]** [FMRP §1.5.2] How do the Blue Book and the FX Global Code relate?
+
+a. The Blue Book replaced the Global Code.
+b. The Global Code applies only to FX, while the Blue Book applies to FX, other asset classes and benchmark setting.
+c. Both apply only to equities.
+d. They are mutually exclusive regimes.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** b.
+
+**Rationale:** They apply in parallel, and the Blue Book has the wider asset-class scope.
+
+</details>
+
+### 313. **[Original | Combination choice]** [FMRP §1.5.1] Which are objectives of the SFEMC?
+
+a. Fostering the growth and development of the Singapore treasury market.
+b. Enhancing the stature and reputation of Singapore markets through professional conduct and competence.
+c. Issuing and updating the Blue Book.
+d. Mediating disputes among Market Participants who agree to mediation.
+
+Choose one:
+
+- A. (a) and (b) only.
+- B. (a), (b) and (c) only.
+- C. (a), (b), (c) and (d).
+- D. (c) and (d) only.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C.
+
+**Rationale:** SFEMC also acts as a channel of communication among Market Participants and MAS.
+
+</details>
+
+### 314. **[Original | Single choice]** [FMRP §3.2.1.1] Which information is the most sensitive category of confidential information?
+
+a. Published market data.
+b. Trading information about a customer's order and related information revealing the customer's exposure.
+c. A firm's public accounts.
+d. Exchange trading hours.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** b.
+
+**Rationale:** Trading information, including related information that reveals the customer's position, must never be used for the firm's or another customer's benefit, nor as market colour.
+
+</details>
+
+### 315. **[Original | Single choice]** [FMRP §3.2.1.2] Designated confidential information differs from information that is confidential by nature because:
+
+a. Only designated information attracts a duty of confidence.
+b. Designation is an express classification that triggers access and handling controls, but unmarked information can still be confidential by its character.
+c. Designation removes the need for information barriers.
+d. It applies only to customer names.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** b.
+
+**Rationale:** Both the express designation and the inherent character of the information must be considered.
+
+</details>
+
+### 316. **[Original | Single choice]** [FMRP §3.4.3.1] Electronic trading system logs should be:
+
+a. Deleted at the end of each day once trades confirm.
+b. Preserved, protected from alteration, and available to compliance and MAS.
+c. Treated as the private property of the dealer.
+d. Replaced by telephone recordings.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** b.
+
+**Rationale:** Logs are the contemporaneous record of quotes, orders, executions, timestamps, user identity and system events.
+
+</details>
+
+### 317. **[Original | Single choice]** [FMRP §3.4.3.2] A dealer who varies a deal using a mobile phone instead of a recorded line:
+
+a. Is acting acceptably if the variation is small.
+b. Has defeated the recording control and committed a serious breach.
+c. Need only tell the counterparty later.
+d. May do so if the recorded line is busy.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** b.
+
+**Rationale:** Dealing and material instructions must use approved recorded channels; an unrecorded line leaves no reconstructable record.
+
+</details>
+
 ## Coverage audit
 
-The table maps each numbered guide section to at least one question. Parent sections are covered by questions tagged to their numbered child sections; Appendix A is represented by all source-reference questions, and Appendix B is represented by the reading-list question in Chapter 1.
+This bank holds **317 questions**: 48 source-reference questions (1–48) reproducing the themes of Appendix A, followed by original questions (49–317) distributed across the eight chapters and their numbered subsections.
 
-| Guide section | Question numbers |
-| --- | --- |
-| FMRP §1.1 Introduction to this Guide | 49 |
-| FMRP §1.2 Financial Markets Structure | 1, 50, 51, 52, 53 |
-| FMRP §1.2.1 What Are Financial Markets? | 50, 51 |
-| FMRP §1.2.2 Types of Financial Markets | 1, 52, 53 |
-| FMRP §1.3 Functions of Key Players and Institutions | 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64 |
-| FMRP §1.3.1 Banks | 54, 55 |
-| FMRP §1.3.2 Inter-Dealer Brokers (IDBs) | 56, 57 |
-| FMRP §1.3.3 Finance Companies | 58 |
-| FMRP §1.3.4 Insurance Companies | 59 |
-| FMRP §1.3.5 Capital Markets Intermediaries | 60 |
-| FMRP §1.3.6 Financial Advisers | 61 |
-| FMRP §1.3.7 Insurance Brokers | 62 |
-| FMRP §1.3.8 Trust Companies | 63 |
-| FMRP §1.3.9 Money-Changing and Remittance Businesses | 64 |
-| FMRP §1.4 Regulatory Bodies and Regulatory Framework in Singapore | 2, 65, 66, 67, 68, 69, 70, 78 |
-| FMRP §1.4.1 Central Banks and MAS | 65, 66 |
-| FMRP §1.4.2 Types of Banking Licenses issued by MAS | 67 |
-| FMRP §1.4.3 Registration and Licenses for Regulated Activities | 68 |
-| FMRP §1.4.4 CMS Licences | 2, 69, 70, 78 |
-| FMRP §1.5 Professional Bodies | 71, 72, 73, 74, 75, 76, 77 |
-| FMRP §1.5.1 SFEMC | 71, 72 |
-| FMRP §1.5.2 Codes of Conduct and Guidance on Best Market Practices | 73 |
-| FMRP §1.5.3 ACI | 74 |
-| FMRP §1.5.4 ABS | 75 |
-| FMRP §1.5.5 IBF | 76, 77 |
-| FMRP §2.1 Introduction | 79 |
-| FMRP §2.2 Fit and Proper Guidelines and Disclosure Requirements | 80, 81, 82, 83, 84, 85, 86, 106 |
-| FMRP §2.2.1 Honesty, Integrity, Reputation | 80, 81, 82 |
-| FMRP §2.2.2 Competency and Capability | 83 |
-| FMRP §2.2.3 Financial Soundness | 84 |
-| FMRP §2.2.4 Change of Particulars and Additional Regulated Activity | 85, 106 |
-| FMRP §2.3 Conflicts of Interest and Ethical Standards | 3, 4, 5, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 105, 107, 108 |
-| FMRP §2.3.1 Acting for Only One Principal | 87, 88 |
-| FMRP §2.3.2 Personal Relationships | 5, 89, 107 |
-| FMRP §2.3.3 Entertainment, Gifts and Favours | 3, 90, 91 |
-| FMRP §2.3.4 Personal Dealing | 4, 92, 93 |
-| FMRP §2.3.5 Disclosure of Interests | 94, 108 |
-| FMRP §2.3.6 Bets and Gambling | 95 |
-| FMRP §2.3.7 Promotion of Ethical Practices, Values and Conduct | 96, 105 |
-| FMRP §2.4 Professional Knowledge | 97, 109 |
-| FMRP §2.5 Dealings with Customers | 7, 8, 98, 99, 100, 101, 102, 104 |
-| FMRP §2.5.1 Risk Disclosure | 8, 99 |
-| FMRP §2.5.2 Managed Account Disclosures | 100 |
-| FMRP §2.5.3 Dealing as Principal | 101 |
-| FMRP §2.5.4 Customer Money and Assets | 7, 102 |
-| FMRP §2.6 Reporting of Misconduct | 6, 103, 110 |
-| FMRP §3.1 Introduction | 111, 112 |
-| FMRP §3.2 Identify and Limit Access to Confidential Information | 10, 113, 114, 115, 116, 117, 118, 130, 133, 137 |
-| FMRP §3.2.1 Identify Confidential Information | 10, 113, 114, 115 |
-| FMRP §3.2.2 Limit Access and Protect Confidential Information | 116, 117, 118, 133 |
-| FMRP §3.3 Disclosure of Confidential Information | 9, 11, 119, 120, 121, 122, 131, 134 |
-| FMRP §3.3.1 Allowable Disclosures | 9, 11, 119, 120 |
-| FMRP §3.3.2 Prudence before Disclosure | 121, 122, 134 |
-| FMRP §3.4 Communication Practices | 12, 13, 123, 124, 125, 126, 127, 128, 132, 135, 138 |
-| FMRP §3.4.1 Clear, Accurate, Professional, Not Misleading | 12, 123, 124, 135 |
-| FMRP §3.4.2 Market Colour Appropriately | 13, 125, 126, 138 |
-| FMRP §3.4.3 Approved Communication Modes/Channels | 127, 128 |
-| FMRP §3.5 Training | 129, 136 |
-| FMRP §4.1 Governance Structure | 139, 140 |
-| FMRP §4.2 Remuneration Structure | 141, 142 |
-| FMRP §4.3 Reporting Misconduct/Inappropriate Behaviour | 143, 144 |
-| FMRP §4.4 Segregation of Duties | 14, 15, 145, 146, 147, 183 |
-| FMRP §4.5 Overview Risk Management and Compliance | 23, 148, 149 |
-| FMRP §4.6 Risk Management Frameworks | 19, 20, 21, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 181 |
-| FMRP §4.6.1 Approval of Risk Limits | 151, 152 |
-| FMRP §4.6.2 Implementation of Risk Measures | 21, 153, 154, 181 |
-| FMRP §4.6.3 Monitoring Risk Activity | 19, 155, 156, 157 |
-| FMRP §4.6.4 Periodic Validation of Valuation Models | 158, 159 |
-| FMRP §4.7 Framework for Compliance and Review | 22, 160, 161 |
-| FMRP §4.8 Ensuring Adherence | 162, 163 |
-| FMRP §4.9 Key Risk Types | 17, 18, 164, 165, 166, 167, 168, 169, 170, 171 |
-| FMRP §4.9.1 Market Risk | 165, 166 |
-| FMRP §4.9.2 Credit/Counterparty Risk | 18, 167, 168 |
-| FMRP §4.9.3 Operational Risk | 17, 169, 170 |
-| FMRP §4.10 AML/KYC | 16, 172, 173, 174, 175, 176, 177, 178, 179, 180, 182 |
-| FMRP §4.10.1 AML | 16, 173, 174, 175 |
-| FMRP §4.10.2 Regulatory Framework of Financial Crimes | 176, 177 |
-| FMRP §4.10.3 Customer Onboarding | 178, 179, 180, 182 |
-| FMRP §5.1 General Dealing Principles and Market Conduct | 26, 28, 33, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195 |
-| FMRP §5.1.1 Rates and Quotes | 184, 185 |
-| FMRP §5.1.2 Dealing Amounts | 26, 33, 186 |
-| FMRP §5.1.3 Discovering Names from IDBs | 187, 188 |
-| FMRP §5.1.4 Direct Dealing | 189, 190 |
-| FMRP §5.1.5 Electronic Trade Conventions | 191, 192 |
-| FMRP §5.1.6 Handling Customer Orders | 28, 193, 194 |
-| FMRP §5.2 Market Misconduct | 34, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207 |
-| FMRP §5.2.1 Insider Trading | 196 |
-| FMRP §5.2.2 Front Running | 197 |
-| FMRP §5.2.3 Withholding Orders | 198 |
-| FMRP §5.2.4 Disclosure of Customer Orders | 34, 199 |
-| FMRP §5.2.5 Bucketing | 200 |
-| FMRP §5.2.6 Price Manipulation/Cornering | 201 |
-| FMRP §5.2.7 False Trading | 202 |
-| FMRP §5.2.8 Fraudulently Inducing Persons to Trade | 203 |
-| FMRP §5.2.9 Fraudulent/Deceptive Devices | 204 |
-| FMRP §5.2.10 Dissemination of Illegal Transaction Information | 205 |
-| FMRP §5.2.11 Points and Positions Parking | 206 |
-| FMRP §5.3 Risk Controls and Audit | 29, 208, 209, 210, 211, 212 |
-| FMRP §5.3.1 Intraday Deal Checks/Confirmations | 208 |
-| FMRP §5.3.2 Articulation of Deal Confirmations | 209 |
-| FMRP §5.3.3 Out-trades | 210 |
-| FMRP §5.3.4 Complaints | 211 |
-| FMRP §5.3.5 Arbitration | 212 |
-| FMRP §5.3.6 Cancellations/Error Trades | 29 |
-| FMRP §5.4 FX Dealing | 30, 31, 32, 213, 214, 215, 216, 238 |
-| FMRP §5.4.1 Trading Hours | 30 |
-| FMRP §5.4.2 Value Dates | 213 |
-| FMRP §5.4.3 Disruptions/Unforeseen Holidays | 214 |
-| FMRP §5.4.4 FX Swap Dealing | 215, 238 |
-| FMRP §5.4.5 FX Swap Rate Setting | 31 |
-| FMRP §5.4.6 Off-Market Rollovers | 32 |
-| FMRP §5.4.7 Currency Options | 216 |
-| FMRP §5.5 NDF | 217, 218, 219, 220, 221 |
-| FMRP §5.5.1 NDF Trading Hours | 217 |
-| FMRP §5.5.2 NDF Disruptions | 218 |
-| FMRP §5.5.3 Quoting Conventions | 219 |
-| FMRP §5.5.4 Fixing/Maturity Dates | 220 |
-| FMRP §5.5.5 Settlement/Fixing | 221 |
-| FMRP §5.6 Money Market | 36, 37, 222, 223 |
-| FMRP §5.6.1 Value Dates | 36, 222 |
-| FMRP §5.6.2 Interest Rate Options | 37, 223 |
-| FMRP §5.7 Debt Securities | 224, 225, 226, 227, 228 |
-| FMRP §5.7.1 Value Dates/Settlement/Holiday | 224 |
-| FMRP §5.7.2 Price Quotations | 225 |
-| FMRP §5.7.3 Interest Accrual | 226 |
-| FMRP §5.7.4 Coupon Period | 227 |
-| FMRP §5.7.5 Clearing/Settlement Platform | 228 |
-| FMRP §5.8 SGS | 35, 229, 230, 231, 232, 233 |
-| FMRP §5.8.1 Compliance Rules | 35 |
-| FMRP §5.8.2 Guidelines/Directives | 229 |
-| FMRP §5.8.3 Trading Hours | 230 |
-| FMRP §5.8.4 Price Quotations | 231 |
-| FMRP §5.8.5 Market Lot Transactions | 232 |
-| FMRP §5.8.6 Securities Borrowing/Lending | 233 |
-| FMRP §5.9 Restrictions against Lending SGD | 27, 234 |
-| FMRP §5.10 Specific Execution Requirements | 24, 25, 235, 236, 237 |
-| FMRP §5.10.1 IDBs | 24, 25, 235 |
-| FMRP §5.10.2 Prime Brokers | 236 |
-| FMRP §5.10.3 E-Trading Platform Providers | 237 |
-| FMRP §6.1 Confirmation and Settlement Systems/Frameworks | 239, 240, 241 |
-| FMRP §6.1.1 Processing Capacity | 239 |
-| FMRP §6.1.2 STP | 240 |
-| FMRP §6.1.3 Data Integrity | 241 |
-| FMRP §6.2 Confirmation Procedures | 38, 41, 242, 243, 244, 245, 246, 247, 248, 249, 260, 262 |
-| FMRP §6.2.1 Segregated Functions | 242 |
-| FMRP §6.2.2 As Soon As Practicable | 243 |
-| FMRP §6.2.3 Key Confirmation Data | 38, 244 |
-| FMRP §6.2.4 Single Party | 245 |
-| FMRP §6.2.5 Auto-Generated | 246 |
-| FMRP §6.2.6 Block Transactions | 247 |
-| FMRP §6.2.7 Discrepancy Resolution | 248, 260 |
-| FMRP §6.2.8 Product-Specific | 41, 249, 262 |
-| FMRP §6.3 Settlement Procedures | 39, 40, 250, 251, 252, 253, 261 |
-| FMRP §6.3.1 Mitigating Settlement Risk | 250, 261 |
-| FMRP §6.3.2 Netting | 40, 251 |
-| FMRP §6.3.3 Direct Payments | 39, 253 |
-| FMRP §6.4 Standing Settlement Instructions | 254, 255 |
-| FMRP §6.5 Nostro Balance Requirements | 256, 257 |
-| FMRP §6.5.1 SGD Payments | 257 |
-| FMRP §6.6 Account Reconciliation | 258 |
-| FMRP §6.7 Late-Payment Penalties | 259 |
-| FMRP §7.1 Introduction | 263, 279 |
-| FMRP §7.2 General Description | 264, 273 |
-| FMRP §7.3 Role of SFEMC | 42, 265, 274 |
-| FMRP §7.4 Communication During Disruptions | 43, 266, 272, 275 |
-| FMRP §7.5 Ethics/Conduct During Disruptions | 267, 276 |
-| FMRP §7.6 Settlement During Disruptions | 44, 268, 269, 270, 277, 278 |
-| FMRP §7.6.1 Alternative Settlement Procedures | 268, 277 |
-| FMRP §7.6.2 Avoid Unilateral Suspensions | 269, 278 |
-| FMRP §7.6.3 SGD Settlement Disruptions | 44, 270 |
-| FMRP §7.7 CCP Rules | 271, 280 |
-| FMRP §8.1 Introduction | 281, 282 |
-| FMRP §8.1.1 Surveyed vs Traded Benchmarks | 281 |
-| FMRP §8.1.2 IOSCO Role | 282 |
-| FMRP §8.2 Parties | 45, 283, 284, 285, 286 |
-| FMRP §8.2.1 Oversight Committee | 283 |
-| FMRP §8.2.2 Benchmark Administrator | 284 |
-| FMRP §8.2.3 Calculation Agent | 285 |
-| FMRP §8.2.4 Submitter | 286 |
-| FMRP §8.3 Market Practices | 46, 287, 288 |
-| FMRP §8.3.1 Reasonable Basis | 287 |
-| FMRP §8.3.2 Traded Benchmarks | 46 |
-| FMRP §8.3.3 Limited Liquidity | 288 |
-| FMRP §8.4 Code of Conduct | 47, 289, 290, 291, 292 |
-| FMRP §8.4.1 Integrity/Professionalism/Ethics | 289 |
-| FMRP §8.4.2 Benchmark Commentary | 47 |
-| FMRP §8.4.3 Prohibited Behaviour | 290, 291 |
-| FMRP §8.4.4 Non-Overseen Benchmarks | 292 |
-| FMRP §8.5 Best Practices | 48, 293, 294, 295, 296, 297, 298, 299, 300 |
-| FMRP §8.5.1 Experience/Seniority/Character | 293 |
-| FMRP §8.5.2 Supervision | 294 |
-| FMRP §8.5.3 Information Management | 295 |
-| FMRP §8.5.4 Record Retention | 296 |
-| FMRP §8.5.5 Confidentiality | 48 |
-| FMRP §8.5.6 Conflicts/Segregation | 297 |
-| FMRP §8.5.7 Escalation | 298 |
-| FMRP §8.5.8 Electronic Surveillance | 299 |
-| FMRP §8.5.9 Audit/QA | 300 |
-| Appendix A - Review Questions | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48 |
-| Appendix B - Essential Readings | 77 |
+Every official numbered section is covered, the coverage having been restored from a summary-only appendix to a complete set of chapter questions. Rather than maintain a hand-written section-to-question table that drifts with every edit, coverage is verified mechanically:
 
-The 48 source-reference questions are numbered 1-48 in this bank. Original questions begin at 49 and are distributed by chapter as specified in the build plan.
+- `npm run audit` compares the guide headings against `scripts/lib/syllabus.mjs`, which lists all **212** official FMRP sections, and reports any section without a heading and any heading not in the manifest.
+- `npm run test:parser` asserts that every question carries at least one resolvable answer key and maps to a declared chapter, so a new question cannot silently fail to attach to its chapter.
+
+The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3, 10 on Chapter 4, 14 on Chapter 5, 4 on Chapter 6, 3 on Chapter 7 and 4 on Chapter 8) familiarise candidates with scope and format; they do not cover all examinable material, which is why the original questions extend every chapter.

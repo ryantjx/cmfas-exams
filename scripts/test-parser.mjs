@@ -18,7 +18,7 @@ import path from 'node:path';
 import { EXAMS } from './lib/exams.mjs';
 import { REPO_ROOT } from './lib/util.mjs';
 
-const EXPECTED_TOTALS = { cmsip: 186, fmrp: 300, res12b: 310 };
+const EXPECTED_TOTALS = { cmsip: 232, fmrp: 317, res12b: 332 };
 let checks = 0;
 let failed = 0;
 
