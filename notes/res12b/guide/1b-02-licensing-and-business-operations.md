@@ -102,6 +102,10 @@ Before trading, the firm completes account opening, documentation, suitability/r
 | Knowledge/experience in | derivatives or listed SIPs | the particular unlisted SIP |
 | Validity | 3 years (subject to transaction-continuity rule) | 1 year (positive CKA) |
 
+### 2.5.1 Specified Investment Products
+
+A **Specified Investment Product (SIP)** is a capital markets product whose terms, features or risks are sufficiently complex that dealing requires a knowledge assessment. The distinction between **listed** and **unlisted** SIPs drives which assessment applies and what happens if the customer fails it.
+
 - A relevant diploma, professional finance qualification, **six qualifying transactions in the preceding three years**, or **three consecutive years** of relevant experience in the preceding ten years may satisfy the assessment; a prescribed independent learning module may help.
 - Senior management or designated personnel **independent of the account-opening process** must approve a SIP account.
 - A customer may request advice at any time. For unlisted SIPs the firm should **offer** advice; if declined, obtain written confirmation and explain the customer’s responsibility for suitability.
