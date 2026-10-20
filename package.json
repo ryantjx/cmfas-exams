@@ -14,6 +14,9 @@
     "check": "astro check",
     "test:parser": "node scripts/test-parser.mjs",
     "lint:notes": "node scripts/lint-notes.mjs",
+    "audit": "node scripts/audit-guides.mjs",
+    "split:guides": "node scripts/split-guides.mjs",
+    "pdf": "node scripts/build-pdfs.mjs",
     "verify": "npm run test:parser && npm run check && npm run build"
   },
   "dependencies": {

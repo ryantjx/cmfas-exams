@@ -4,176 +4,41 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>RES 12B Study Guide</title>
+  <title>RES 12B — Study Guide</title>
   <style>
-    /* Default styles provided by pandoc.
-    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
-    */
-    html {
-      color: #1a1a1a;
-      background-color: #fdfdfd;
-    }
-    body {
-      margin: 0 auto;
-      max-width: 36em;
-      padding-left: 50px;
-      padding-right: 50px;
-      padding-top: 50px;
-      padding-bottom: 50px;
-      hyphens: auto;
-      overflow-wrap: break-word;
-      text-rendering: optimizeLegibility;
-      font-kerning: normal;
-    }
-    @media (max-width: 600px) {
-      body {
-        font-size: 0.9em;
-        padding: 12px;
-      }
-      h1 {
-        font-size: 1.8em;
-      }
-    }
-    @media print {
-      html {
-        background-color: white;
-      }
-      body {
-        background-color: transparent;
-        color: black;
-        font-size: 12pt;
-      }
-      p, h2, h3 {
-        orphans: 3;
-        widows: 3;
-      }
-      h2, h3, h4 {
-        page-break-after: avoid;
-      }
-    }
-    p {
-      margin: 1em 0;
-    }
-    a {
-      color: #1a1a1a;
-    }
-    a:visited {
-      color: #1a1a1a;
-    }
-    img {
-      max-width: 100%;
-    }
-    svg {
-      height: auto;
-      max-width: 100%;
-    }
-    h1, h2, h3, h4, h5, h6 {
-      margin-top: 1.4em;
-    }
-    h5, h6 {
-      font-size: 1em;
-      font-style: italic;
-    }
-    h6 {
-      font-weight: normal;
-    }
-    ol, ul {
-      padding-left: 1.7em;
-      margin-top: 1em;
-    }
-    li > ol, li > ul {
-      margin-top: 0;
-    }
-    blockquote {
-      margin: 1em 0 1em 1.7em;
-      padding-left: 1em;
-      border-left: 2px solid #e6e6e6;
-      color: #606060;
-    }
-    code {
-      white-space: pre-wrap;
-      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
-      font-size: 85%;
-      margin: 0;
-      hyphens: manual;
-    }
-    pre {
-      margin: 1em 0;
-      overflow: auto;
-    }
-    pre code {
-      padding: 0;
-      overflow: visible;
-      overflow-wrap: normal;
-    }
-    .sourceCode {
-     background-color: transparent;
-     overflow: visible;
-    }
-    hr {
-      border: none;
-      border-top: 1px solid #1a1a1a;
-      height: 1px;
-      margin: 1em 0;
-    }
-    table {
-      margin: 1em 0;
-      border-collapse: collapse;
-      width: 100%;
-      overflow-x: auto;
-      display: block;
-      font-variant-numeric: lining-nums tabular-nums;
-    }
-    table caption {
-      margin-bottom: 0.75em;
-    }
-    tbody {
-      margin-top: 0.5em;
-      border-top: 1px solid #1a1a1a;
-      border-bottom: 1px solid #1a1a1a;
-    }
-    th {
-      border-top: 1px solid #1a1a1a;
-      padding: 0.25em 0.5em 0.25em 0.5em;
-    }
-    td {
-      padding: 0.125em 0.5em 0.25em 0.5em;
-    }
-    header {
-      margin-bottom: 4em;
-      text-align: center;
-    }
-    #TOC li {
-      list-style: none;
-    }
-    #TOC ul {
-      padding-left: 1.3em;
-    }
-    #TOC > ul {
-      padding-left: 0;
-    }
-    #TOC a:not(:hover) {
-      text-decoration: none;
-    }
-    span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: min(4vw, 1.5em);}
-    div.column{flex: auto; overflow-x: auto;}
-    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    /* The extra [class] is a hack that increases specificity enough to
-       override a similar rule in reveal.js */
-    ul.task-list[class]{list-style: none;}
-    ul.task-list li input[type="checkbox"] {
-      font-size: inherit;
-      width: 0.8em;
-      margin: 0 0.8em 0.2em -1.6em;
-      vertical-align: middle;
-    }
-    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
-  </style>
+
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+
+ul.task-list[class]{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+font-size: inherit;
+width: 0.8em;
+margin: 0 0.8em 0.2em -1.6em;
+vertical-align: middle;
+}
+.display.math{display: block; text-align: center; margin: 0.5rem auto;}
+</style>
+  <style type="text/css">
+body { max-width: 46em; margin: 0 auto; padding: 2em 1em; font: 16px/1.6 -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; color: #1a1a1a; }
+h1 { font-size: 1.9em; border-bottom: 2px solid #1a1a1a; padding-bottom: .3em; margin-top: 2.2em; page-break-before: always; }
+h1:first-of-type { page-break-before: auto; margin-top: 0; }
+h2 { font-size: 1.35em; margin-top: 1.8em; }
+h3 { font-size: 1.12em; margin-top: 1.5em; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; font-size: .93em; }
+th, td { border: 1px solid #bbb; padding: .35em .5em; text-align: left; vertical-align: top; }
+th { background: #f2f2f2; }
+code { background: #f4f4f4; padding: .1em .3em; border-radius: 3px; font-size: .9em; }
+details { margin: .8em 0; padding: .5em .8em; background: #f8f8f8; border-left: 3px solid #888; }
+summary { cursor: pointer; font-weight: 600; }
+blockquote { margin: 1em 0; padding-left: 1em; border-left: 3px solid #ddd; color: #555; }
+</style>
 </head>
 <body>
 <header id="title-block-header">
-<h1 class="title">RES 12B Study Guide</h1>
+<h1 class="title">RES 12B — Study Guide</h1>
 </header>
 <h1 id="res-12b--study-guide">RES 12B — Study Guide</h1>
 <p>A concise guide to the combined RES 12B paper — <strong>RES
@@ -227,45 +92,43 @@ of the rules.</li>
 <li>Appendices A–G</li>
 </ol>
 <hr />
-<h1 id="part-i--res-1b">Part I — RES 1B</h1>
-<h2
-id="chapter-1--the-capital-markets-industry-in-singapore-and-participants">Chapter
-1 — The capital markets industry in Singapore and participants</h2>
+<h1 id="the-capital-markets-industry-in-singapore-and-participants">The
+capital markets industry in Singapore and participants</h1>
 <p>Who and what makes up the Singapore market: the primary and secondary
 markets, the institutions that intermediate and regulate them, and the
 listing framework. The examination tests roles, powers and thresholds —
 which body may do what, and which applicant fits which listing
 route.</p>
-<h3 id="11-introduction">1.1 Introduction</h3>
-<h4 id="111-the-primary-market">1.1.1 The primary market</h4>
+<h2 id="11-introduction">1.1 Introduction</h2>
+<h3 id="111-the-primary-market">1.1.1 The primary market</h3>
 <p>The primary market is where issuers raise new capital — equity
 shares, bonds and other fixed-income securities, and company warrants.
 Investors supply capital and accept that the instrument’s value will
 move with the issuer’s performance, market conditions and risk
 perception.</p>
-<h4 id="112-the-secondary-market">1.1.2 The secondary market</h4>
+<h3 id="112-the-secondary-market">1.1.2 The secondary market</h3>
 <p>The secondary market is where those instruments change hands after
 issue. It lets investors realise profits, exit poor investments,
 transfer risk and rebalance. Derivatives — futures, options, warrants,
 leverage certificates — transfer or manage risk without buying or
 selling the underlying.</p>
-<h4 id="113-exchanges-and-otc-markets">1.1.3 Exchanges and OTC
-markets</h4>
+<h3 id="113-exchanges-and-otc-markets">1.1.3 Exchanges and OTC
+markets</h3>
 <p>An OTC market is decentralised: participants contact one another to
 discover interest and negotiate. An exchange centralises buy and sell
 interest, improving price and quantity discovery. A person trades on an
 exchange either as a Trading Member or as a customer of one.</p>
-<h4 id="114-financial-intermediaries">1.1.4 Financial
-intermediaries</h4>
+<h3 id="114-financial-intermediaries">1.1.4 Financial
+intermediaries</h3>
 <p>Primary-market issues are complex and normally involve an issue
 manager or corporate-finance adviser, often a bank or CMS licence
 holder, who runs due diligence, structuring, documentation, regulatory
 submissions and investor communication. In the secondary market, brokers
 match or route orders; custodians safeguard client assets and support
 settlement.</p>
-<h3 id="12-institutional-participants-in-capital-markets">1.2
-Institutional participants in capital markets</h3>
-<h4 id="121-banks">1.2.1 Banks</h4>
+<h2 id="12-institutional-participants-in-capital-markets">1.2
+Institutional participants in capital markets</h2>
+<h3 id="121-banks">1.2.1 Banks</h3>
 <ul>
 <li><strong>Qualifying Full Banks and Full Banks:</strong> full range of
 approved banking business; accept deposits in any amount and currency;
@@ -281,19 +144,19 @@ Banking Act; cannot accept SGD deposits from, or borrow SGD from, the
 public except within permitted categories (banks, finance companies,
 shareholders and shareholder-controlled companies).</li>
 </ul>
-<h4 id="122-cms-licence-holders">1.2.2 CMS licence holders</h4>
+<h3 id="122-cms-licence-holders">1.2.2 CMS licence holders</h3>
 <p>CMS licence holders conduct regulated activities such as dealing in
 capital markets products, advising on corporate finance and providing
 custodial services, as principal or agent. <strong>Product
 financing</strong> (credit for purchases) and <strong>specified-product
 lending</strong> (lending securities/products under the rules) are
 different activities and must not be confused.</p>
-<h4 id="123-finance-companies">1.2.3 Finance companies</h4>
+<h3 id="123-finance-companies">1.2.3 Finance companies</h3>
 <p>Finance companies operate under the Finance Companies Act and may be
 exempt institutions for specified CMS licensing purposes, subject to
 their legal and regulatory conditions.</p>
-<h4 id="124-remote-overseas-trading-and-clearing-members">1.2.4 Remote
-overseas trading and clearing members</h4>
+<h3 id="124-remote-overseas-trading-and-clearing-members">1.2.4 Remote
+overseas trading and clearing members</h3>
 <p>An overseas-based remote member is exempt from a Singapore CMS
 licence if it: is incorporated outside Singapore; is a member of the
 relevant approved exchange/clearing house or recognised market
@@ -303,13 +166,13 @@ home regulator has a suitable MAS information-sharing arrangement. A
 remote <strong>clearing</strong> member additionally cannot have a
 MAS-regulated financial-institution affiliate; a remote
 <strong>trading</strong> member has no such restriction.</p>
-<h3 id="13-regulatory-framework-and-regulatory-bodies">1.3 Regulatory
-framework and regulatory bodies</h3>
+<h2 id="13-regulatory-framework-and-regulatory-bodies">1.3 Regulatory
+framework and regulatory bodies</h2>
 <p>Singapore’s framework aims at acceptable risk and financial-system
 stability, safe and efficient infrastructure, fair/orderly/transparent
 markets, and informed customers.</p>
-<h4 id="131-monetary-authority-of-singapore-mas">1.3.1 Monetary
-Authority of Singapore (MAS)</h4>
+<h3 id="131-monetary-authority-of-singapore-mas">1.3.1 Monetary
+Authority of Singapore (MAS)</h3>
 <p>MAS is Singapore’s central bank and integrated financial supervisor.
 Its functions include monetary policy, currency issuance, payment-system
 oversight, acting as banker and financial agent to the Government,
@@ -323,8 +186,8 @@ and Markets Act 2022. Its powers include approving exchanges and
 clearing houses, reviewing rule amendments, inspecting books,
 investigating breaches and imposing warnings, fines, reprimands,
 suspensions, licence revocations and prohibition orders.</p>
-<h4 id="132-singapore-exchange-limited-sgx">1.3.2 Singapore Exchange
-Limited (SGX)</h4>
+<h3 id="132-singapore-exchange-limited-sgx">1.3.2 Singapore Exchange
+Limited (SGX)</h3>
 <p>SGX is an integrated multi-asset market infrastructure providing
 listing, trading, clearing, settlement, depository and market-data
 services. Its regulatory approach is guided by: (1) disclosure-based
@@ -332,7 +195,7 @@ regulation; (2) comprehensive risk management; (3) risk-based targeting;
 (4) balanced international best practice; (5) transparency; and (6) SGX
 as frontline regulator while managing regulatory conflict under MAS
 oversight.</p>
-<h4 id="133-sgx-st">1.3.3 SGX-ST</h4>
+<h3 id="133-sgx-st">1.3.3 SGX-ST</h3>
 <p>SGX Securities Trading is the approved securities exchange; it
 manages day-to-day securities-market regulation, membership, trading
 requirements and discipline. <strong>Mainboard</strong> is for
@@ -341,7 +204,7 @@ established issuers and has quantitative entry requirements.
 sponsor-supervised model and has no minimum quantitative entry test. The
 SGX-ST Listing Manual governs listing, acquisitions, realisations,
 takeovers and timely disclosure.</p>
-<h4 id="134-cdp">1.3.4 CDP</h4>
+<h3 id="134-cdp">1.3.4 CDP</h3>
 <p>The Central Depository provides integrated clearing, settlement and
 depository facilities for equities, fixed income and funds. It holds
 book-entry securities as bare trustee, immobilises securities and uses a
@@ -358,30 +221,30 @@ settlement failure.</li>
 <strong>free of payment (FOP)</strong> settles cash outside CDP. The CDP
 Clearing, Depository and Settlement Rules apply.</li>
 </ul>
-<h4 id="135-sgx-dt">1.3.5 SGX-DT</h4>
+<h3 id="135-sgx-dt">1.3.5 SGX-DT</h3>
 <p>SGX Derivatives Trading (est. 1978) operates a futures market for
 commodity and financial underlyings — interest rates, equity and equity
 indices, and energy. Its Futures Trading Rules govern members and
 trading/settlement conduct.</p>
-<h4 id="136-sgx-dc">1.3.6 SGX-DC</h4>
+<h3 id="136-sgx-dc">1.3.6 SGX-DC</h3>
 <p>SGX Derivatives Clearing clears products traded on SGX-DT and OTC
 commodity and financial derivatives registered through the SGX Titan OTC
 platform. It is a Qualifying Central Counterparty, which can reduce
 Basel III capital costs for members and banking-group participants. The
 SGX-DC Clearing Rules govern clearing members.</p>
-<h4 id="137-sgx-regco">1.3.7 SGX RegCo</h4>
+<h3 id="137-sgx-regco">1.3.7 SGX RegCo</h3>
 <p>SGX RegCo, an independent regulatory subsidiary created in 2017, has
 its own board and separates frontline regulatory functions from SGX’s
 commercial and operating activities.</p>
-<h3 id="14-sgx-listing-framework">1.4 SGX listing framework</h3>
-<h4 id="141-listing-process">1.4.1 Listing process</h4>
+<h2 id="14-sgx-listing-framework">1.4 SGX listing framework</h2>
+<h3 id="141-listing-process">1.4.1 Listing process</h3>
 <p>An issuer appoints a CMS corporate-finance issue manager or adviser
 plus professional advisers (lawyers, accountants). The process:
 preparation and due diligence; submission of listing documents; SGX-ST
 review, with MAS/SGX prospectus review where a prospectus is involved;
 public exposure; registration; launch; allocation; and commencement of
 trading.</p>
-<h4 id="142-ipo-timeline">1.4.2 IPO timeline</h4>
+<h3 id="142-ipo-timeline">1.4.2 IPO timeline</h3>
 <ul>
 <li><strong>Mainboard:</strong> Section A review commonly about four to
 six weeks; then Section B/prospectus review, any research blackout,
@@ -393,8 +256,8 @@ listing application and offer document are lodged; the offer document is
 exposed for public comment (indicative two weeks); registration/launch
 (indicative one to two weeks); trading commences.</li>
 </ul>
-<h4 id="143-listing-methods-and-gdrs">1.4.3 Listing methods and
-GDRs</h4>
+<h3 id="143-listing-methods-and-gdrs">1.4.3 Listing methods and
+GDRs</h3>
 <ul>
 <li><strong>Primary listing:</strong> the issuer meets the initial
 listing requirements and, after listing, the continuing
@@ -408,15 +271,15 @@ Mainboard by an overseas-listed company; specialist products for
 institutional and accredited investors. Information released to the home
 exchange must also be provided to SGX-ST in English.</li>
 </ul>
-<h4 id="144-ipo-or-introduction">1.4.4 IPO or introduction</h4>
+<h3 id="144-ipo-or-introduction">1.4.4 IPO or introduction</h3>
 <p>An <strong>IPO</strong> offers new and/or existing shares to the
 public under a prospectus lodged with MAS. An
 <strong>introduction</strong> involves no public share offer and suits
 an issuer that needs no capital at listing; an introductory document is
 submitted to SGX-ST and is not exposed for public comment like a
 prospectus.</p>
-<h4 id="145-mainboard-admission-requirements">1.4.5 Mainboard admission
-requirements</h4>
+<h3 id="145-mainboard-admission-requirements">1.4.5 Mainboard admission
+requirements</h3>
 <p>An IPO applicant generally satisfies one of three quantitative
 tests:</p>
 <ol type="1">
@@ -445,7 +308,7 @@ issuers below S$300 million market capitalisation, at least two
 independent directors, Singapore-resident independent directors for
 foreign issuers, and promoter moratoria tied to the profit or
 market-capitalisation test.</p>
-<h4 id="146-catalist-listing">1.4.6 Catalist listing</h4>
+<h3 id="146-catalist-listing">1.4.6 Catalist listing</h3>
 <p>Catalist permits only a primary listing and requires an
 SGX-authorised <strong>full sponsor</strong>. There is no minimum
 quantitative entry test; the sponsor decides suitability, and SGX-ST may
@@ -463,12 +326,12 @@ and are exposed for at least <strong>14 days</strong>.</p>
 companies, is exchange-regulated and has quantitative admission tests;
 Catalist is for fast-growing companies, is sponsor-supervised and has no
 quantitative admission test.</p>
-<h4 id="147-continuing-obligations">1.4.7 Continuing obligations</h4>
+<h3 id="147-continuing-obligations">1.4.7 Continuing obligations</h3>
 <p>Mainboard and Catalist issuers have broadly similar continuing
 obligations: material disclosure, periodic reporting, additional share
 issues, corporate transactions, corporate governance, interested-person
 transactions and free-float requirements.</p>
-<h4 id="148-sponsors">1.4.8 Sponsors</h4>
+<h3 id="148-sponsors">1.4.8 Sponsors</h3>
 <p>Sponsors must remain eligible, seek SGX advice on issues affecting
 market integrity, maintain adequate systems and registered
 professionals, act independently and professionally, maintain regular
@@ -476,39 +339,39 @@ contact, use qualified specialists where necessary and avoid conflicts.
 SGX reviews sponsor due diligence, continuing activities and breaches,
 and may reprimand, require education or rectification, impose
 conditions, or suspend sponsors and registered professionals.</p>
-<h4 id="149-listed-and-quoted">1.4.9 Listed and quoted</h4>
+<h3 id="149-listed-and-quoted">1.4.9 Listed and quoted</h3>
 <p>“Listed” means appearing on SGX-ST’s official list. “Quoted” may mean
 trading on an OTC quotation platform without being listed and without
 the full listing/continuing-obligation framework.</p>
-<h4 id="1410-disclosure-and-sgxnet">1.4.10 Disclosure and SGXNet</h4>
+<h3 id="1410-disclosure-and-sgxnet">1.4.10 Disclosure and SGXNet</h3>
 <p>Listed issuers must disclose material information via SGXNet,
 including information about subsidiaries and associated companies where
 needed to avoid a false market or inform investment decisions.</p>
-<h4 id="1411-meetings-and-voting">1.4.11 Meetings and voting</h4>
+<h3 id="1411-meetings-and-voting">1.4.11 Meetings and voting</h3>
 <p>Shareholders receive meeting notices — normally <strong>14
 days</strong> for ordinary resolutions and <strong>21 days</strong> for
 special resolutions — and may attend or appoint proxies; resolutions are
 voted by <strong>poll</strong>.</p>
-<h4 id="1412-enforcement">1.4.12 Enforcement</h4>
+<h3 id="1412-enforcement">1.4.12 Enforcement</h3>
 <p>SGX may warn, fine by composition, require education or independent
 reviews, require remediation, suspend an issue manager or trading, or
 remove an issuer from the official list.</p>
-<h4 id="1413-debt-securities">1.4.13 Debt securities</h4>
+<h3 id="1413-debt-securities">1.4.13 Debt securities</h3>
 <p>SGX-ST may list fixed- and floating-rate bonds,
 convertible/exchangeable and covered bonds, asset-backed securities,
 loan participation notes and hybrid capital securities. Issuer,
 trustee/trust-deed, offering-document, fee and continuing-obligation
 requirements apply.</p>
-<h4 id="1414-spacs">1.4.14 SPACs</h4>
+<h3 id="1414-spacs">1.4.14 SPACs</h3>
 <p>The SPAC framework introduced a listing vehicle that raises IPO
 capital to acquire an operating business or assets through a merger,
 share exchange or similar combination. At IPO a SPAC has no operating
 history or revenue-generating business, so information about the target
 develops when a proposed business combination is announced.</p>
-<h3 id="exam-cues">Exam cues</h3>
+<h2 id="exam-cues">Exam cues</h2>
 <ul>
-<li><strong>Mainboard vs Catalist:</strong> S$30m profit / S$150m or
-S$300m market cap with 500 shareholders vs no quantitative test, 200
+<li><strong>Mainboard vs Catalist:</strong> S<span class="math inline">30<em>m</em><em>p</em><em>r</em><em>o</em><em>f</em><em>i</em><em>t</em>/<em>S</em></span>150m
+or S$300m market cap with 500 shareholders vs no quantitative test, 200
 shareholders and sponsor supervision. Catalist is <strong>primary
 listing only</strong>.</li>
 <li><strong>Numbers that decide questions:</strong> T+2 settlement; 25%
@@ -522,23 +385,23 @@ investors; English disclosure to SGX-ST.</li>
 <li><strong>IPO vs introduction:</strong> an introduction raises no
 public capital and has no prospectus exposure.</li>
 </ul>
-<h2 id="chapter-2--licensing-and-business-operations">Chapter 2 —
-Licensing and business operations</h2>
+<h1 id="licensing-and-business-operations">Licensing and business
+operations</h1>
 <p>How a firm becomes and stays licensed, how representatives are
 registered, and the controls around advertising, customer accounts,
 privacy, records and customer money. The examination tests who needs
 what licence, which assessment applies to which account, and the
 notification clocks.</p>
-<h3 id="21-introduction">2.1 Introduction</h3>
+<h2 id="21-introduction">2.1 Introduction</h2>
 <p>CMS licence holders are licensed under the SFA. Corporations need a
 licence for regulated activities unless exempt; individuals acting for a
 holder must be appointed, provisional or temporary representatives
 unless exempt. Licensing exists to secure confidence, stability,
 professional conduct, adequate resources, competent representatives and
 controls proportionate to the business.</p>
-<h3 id="22-grant-of-a-cms-licence">2.2 Grant of a CMS licence</h3>
-<h4 id="221-base-capital-requirements">2.2.1 Base capital
-requirements</h4>
+<h2 id="22-grant-of-a-cms-licence">2.2 Grant of a CMS licence</h2>
+<h3 id="221-base-capital-requirements">2.2.1 Base capital
+requirements</h3>
 <p>For securities, CIS units and exchange-traded derivatives the common
 BCR categories are:</p>
 <table>
@@ -573,7 +436,7 @@ BCR categories are:</p>
 </table>
 <p>If more than one BCR applies, the <strong>highest</strong> applicable
 amount is required; exchange rules may impose a higher figure.</p>
-<h4 id="222-applicant-criteria">2.2.2 Applicant criteria</h4>
+<h3 id="222-applicant-criteria">2.2.2 Applicant criteria</h3>
 <p>The applicant should be primarily engaged in one or more regulated
 activities, operate from a physical Singapore office, and be able to
 discharge its duties efficiently, honestly and fairly. MAS considers
@@ -581,29 +444,29 @@ reputation, at least five years’ relevant track record, home
 supervision, and the fit-and-proper status of the applicant, its holding
 and related companies, officers, employees, representatives and
 substantial shareholders.</p>
-<h4 id="223-management-criteria">2.2.3 Management criteria</h4>
+<h3 id="223-management-criteria">2.2.3 Management criteria</h3>
 <p>The board needs at least <strong>two</strong> members and at least
 <strong>one</strong> resident in Singapore; the CEO should be
 Singapore-resident. MAS approval is required for relevant CEO and
 director appointments. The firm should employ at least <strong>two
 full-time representatives</strong> for each regulated activity.</p>
-<h4 id="224-change-of-particulars">2.2.4 Change of particulars</h4>
+<h3 id="224-change-of-particulars">2.2.4 Change of particulars</h3>
 <p>MAS must be informed <strong>within 14 days</strong> of changes to
 the firm’s name, principal place of business, regulated
 activities/products, trading name or other prescribed particulars, or of
 the cessation of a regulated activity.</p>
-<h4 id="225-lapse-revocation-and-suspension">2.2.5 Lapse, revocation and
-suspension</h4>
+<h3 id="225-lapse-revocation-and-suspension">2.2.5 Lapse, revocation and
+suspension</h3>
 <p>A licence lapses on winding-up/dissolution or a prescribed event. MAS
 may revoke or suspend it where the firm or its people fail to act
 efficiently, honestly and fairly, fail to act in customers’ best
 interests, or breach licence conditions. Continuing to operate after
 lapse, suspension or revocation is a serious offence.</p>
-<h4 id="226-approvals">2.2.6 Approvals</h4>
+<h3 id="226-approvals">2.2.6 Approvals</h3>
 <p>MAS prior approval is required for CEO and director appointments, and
 directors and CEOs must remain fit and proper.</p>
-<h4 id="227-duties-of-cms-licence-holders">2.2.7 Duties of CMS licence
-holders</h4>
+<h3 id="227-duties-of-cms-licence-holders">2.2.7 Duties of CMS licence
+holders</h3>
 <p>Maintain written operating, financial, accounting, compliance and
 internal-audit policies; identify, address and monitor risks; audit
 compliance with law and exchange/clearing-house rules; set written
@@ -612,34 +475,34 @@ and complete reports; segregate duties; maintain qualified
 representatives and an examination/exemption register; and report
 representative misconduct <strong>within 14 days</strong> of
 discovery.</p>
-<h3 id="23-registration-of-representatives">2.3 Registration of
-representatives</h3>
-<h4 id="231-notification-and-the-one-principal-rule">2.3.1 Notification
-and the one-principal rule</h4>
+<h2 id="23-registration-of-representatives">2.3 Registration of
+representatives</h2>
+<h3 id="231-notification-and-the-one-principal-rule">2.3.1 Notification
+and the one-principal rule</h3>
 <p>An individual may conduct a regulated activity only after the
 relevant notification/registration as an appointed, provisional or
 temporary representative, or under an exemption. A representative may
 act for <strong>one principal only</strong> unless MAS permits more or
 the principals are related corporations.</p>
-<h4 id="232-competency-requirements">2.3.2 Competency requirements</h4>
+<h3 id="232-competency-requirements">2.3.2 Competency requirements</h3>
 <p>The representative must satisfy education, relevant work-experience,
 CMFAS and fit-and-proper requirements.</p>
-<h4 id="233-due-diligence">2.3.3 Due diligence</h4>
+<h3 id="233-due-diligence">2.3.3 Due diligence</h3>
 <p>The principal should verify identity and work authorisation, conduct
 reference and public-register checks, review
 regulatory/criminal/disciplinary history, and check financial soundness,
 bankruptcy, credit status and relevant CPF obligations for self-employed
 persons.</p>
-<h4 id="234-representative-notification-framework-and-rnf">2.3.4
-Representative Notification Framework and RNF</h4>
+<h3 id="234-representative-notification-framework-and-rnf">2.3.4
+Representative Notification Framework and RNF</h3>
 <p>The Representative Notification Framework allows electronic
 notification. The <strong>RNF number stays with the individual</strong>
 when changing principals.</p>
-<h4 id="235-public-register">2.3.5 Public register</h4>
+<h3 id="235-public-register">2.3.5 Public register</h3>
 <p>The public register shows permitted activities, recent principals and
 formal MAS action. MAS considers seriousness, relevance and time elapsed
 when refusing, revoking or suspending registration.</p>
-<h4 id="236-cessation-of-status">2.3.6 Cessation of status</h4>
+<h3 id="236-cessation-of-status">2.3.6 Cessation of status</h3>
 <p>Status can cease when the principal notifies MAS, the person stops
 acting for one month, MAS revokes it, the principal ceases the activity,
 or the principal’s licence lapses/revokes/is prohibited. Provisional
@@ -648,11 +511,11 @@ appointments are limited to the permitted short-term periods. A
 representative reports changes to the principal within <strong>seven
 days</strong>, and the principal reports to MAS within <strong>14
 days</strong>.</p>
-<h4 id="237-continuing-education">2.3.7 Continuing education</h4>
+<h3 id="237-continuing-education">2.3.7 Continuing education</h3>
 <p>Continuing education should cover ethics, market conduct, products,
 compliance and other relevant skills, with minimum core and
 supplementary CPD expectations.</p>
-<h3 id="24-advertising">2.4 Advertising</h3>
+<h2 id="24-advertising">2.4 Advertising</h2>
 <p>Product advertisements must not be false or misleading; must be fair
 and balanced, clear and legible; must meet electronic-font requirements;
 must carry the statement <strong>“This advertisement has not been
@@ -662,8 +525,8 @@ receive documented written approval before publication.</p>
 promise a supposedly free service unless it is genuinely free without
 conditions, and must not exaggerate in a way that exploits
 inexperience.</p>
-<h3 id="25-customer-accounts-and-sips">2.5 Customer accounts and
-SIPs</h3>
+<h2 id="25-customer-accounts-and-sips">2.5 Customer accounts and
+SIPs</h2>
 <p>Before trading, the firm completes account opening, documentation,
 suitability/risk profiling and any required <strong>Customer Account
 Review (CAR)</strong> or <strong>Customer Knowledge Assessment
@@ -726,8 +589,8 @@ developments. Retain the acknowledgement for at least <strong>five
 years</strong>. Without a reliable EIP-classification system the product
 is treated as a SIP and CAR applies; outsourced classification remains
 the CMS holder’s responsibility.</p>
-<h3 id="26-privacy-of-customer-information">2.6 Privacy of customer
-information</h3>
+<h2 id="26-privacy-of-customer-information">2.6 Privacy of customer
+information</h2>
 <p>Customer and order information is confidential. <strong>Banking Act
 s.47</strong> permits disclosure only in specified circumstances —
 customer consent, operational/risk-management or audit needs, or
@@ -737,10 +600,10 @@ MAS. <strong>PDPA</strong> requires disciplined collection, use,
 accuracy, storage and disclosure of personal data. Check the <strong>Do
 Not Call Registry</strong> before marketing calls and obtain clear,
 unambiguous consent.</p>
-<h3 id="27-managing-trading-accounts">2.7 Managing trading accounts</h3>
+<h2 id="27-managing-trading-accounts">2.7 Managing trading accounts</h2>
 <p>Open the account, obtain legal documents, complete suitability and
 risk profiling, and keep trading within the customer’s profile.</p>
-<h4 id="271-contract-notes">2.7.1 Contract notes</h4>
+<h3 id="271-contract-notes">2.7.1 Contract notes</h3>
 <p>Issue a contract note by the <strong>next business day</strong> after
 a purchase or sale, or by the next business day after a required late
 detail becomes available. It should identify: firm and address;
@@ -749,7 +612,7 @@ date; product and quantity; price; consideration; adjustments;
 commission; and taxes/duties. Overseas transactions may follow the
 overseas exchange’s requirements. Maintain channels for discrepancy
 reports and complaints.</p>
-<h4 id="272-statements">2.7.2 Statements</h4>
+<h3 id="272-statements">2.7.2 Statements</h3>
 <p>Monthly statements show transactions and prices, derivatives/spot-FX
 positions and marked-to-market unrealised P&amp;L, custody assets and
 collateral, asset movements and reasons, money movement/balance, and
@@ -776,7 +639,7 @@ statements or requests non-receipt in writing</td>
 <p>If the last month of a calendar quarter has no monthly statement,
 send a <strong>quarterly</strong> statement with the same
 information.</p>
-<h3 id="28-books-and-audit-trails">2.8 Books and audit trails</h3>
+<h2 id="28-books-and-audit-trails">2.8 Books and audit trails</h2>
 <p>Keep books and transaction records <strong>in English for at least
 five years</strong>, in a form permitting proper audit and true/fair
 financial statements. Records cover customer and guarantor details,
@@ -794,17 +657,17 @@ irregularities affecting customer money/assets, with a copy to an
 approved exchange where relevant. Destroying, concealing, altering or
 sending books/assets out of Singapore to obstruct examination or audit
 is an offence; reasonable precautions must prevent falsification.</p>
-<h3 id="29-customer-money-and-assets">2.9 Customer money and assets</h3>
-<h4 id="291-customer-money--definition">2.9.1 Customer money —
-definition</h4>
+<h2 id="29-customer-money-and-assets">2.9 Customer money and assets</h2>
+<h3 id="291-customer-money--definition">2.9.1 Customer money —
+definition</h3>
 <p>Customer money generally includes funds received for purchases/sales,
 holding products, maintaining trading accounts, product financing, fund
 management or the firm’s business — subject to exclusions such as
 amounts already directed to repay the customer’s debt, pay the
 customer/another entitled person, pay proper charges, or certain
 institutional OTC transactions.</p>
-<h4 id="292-customer-money--segregation-and-permitted-use">2.9.2
-Customer money — segregation and permitted use</h4>
+<h3 id="292-customer-money--segregation-and-permitted-use">2.9.2
+Customer money — segregation and permitted use</h3>
 <p>Treat customer money as belonging to the customer.</p>
 <ul>
 <li><strong>Retail customer money for OTC derivatives:</strong> must be
@@ -836,7 +699,7 @@ retail exception), reimbursement of advances without creating
 underfunding, clearing/investment purposes, or lawfully authorised
 purposes.</li>
 </ul>
-<h4 id="293-customer-assets">2.9.3 Customer assets</h4>
+<h3 id="293-customer-assets">2.9.3 Customer assets</h3>
 <p>Customer assets are beneficially owned securities and assets other
 than money, subject to the institutional OTC carve-out. Deposit them in
 a custody account on trust, separately from firm assets, normally by the
@@ -864,11 +727,10 @@ explanation and written consent.</li>
 customer obligations, written instructions, specified-product lending,
 lawful collateralisation, clearing-house purposes or law.</li>
 </ul>
-<h3 id="exam-cues-1">Exam cues</h3>
+<h2 id="exam-cues-1">Exam cues</h2>
 <ul>
-<li><strong>BCR:</strong> memorise the five tiers (S$5m / S$1m / S$1m /
-S$500k / S$50k); where more than one applies, take the
-<strong>highest</strong>.</li>
+<li><strong>BCR:</strong> memorise the five tiers (S<span class="math inline">5<em>m</em>/<em>S</em></span>1m / S<span class="math inline">1<em>m</em>/<em>S</em></span>500k / S$50k); where
+more than one applies, take the <strong>highest</strong>.</li>
 <li><strong>Clocks:</strong> 14 days for licence-particular changes,
 representative reporting and misconduct reports; <strong>7 days</strong>
 for a representative to inform the principal; 3 months provisional; 1
@@ -885,22 +747,22 @@ the next business day.</li>
 does not remove the firm’s SFA/FAA liability, and outsourced EIP
 classification remains the CMS holder’s responsibility.</li>
 </ul>
-<h2 id="chapter-3--market-conduct">Chapter 3 — Market conduct</h2>
+<h1 id="market-conduct">Market conduct</h1>
 <p>The prohibitions that keep markets fair, efficient, orderly and
 transparent. The examination tests which provision catches which
 behaviour, and the extraterritorial reach of the rules.</p>
-<h3 id="31-scope">3.1 Scope</h3>
+<h2 id="31-scope">3.1 Scope</h2>
 <p>Market conduct rules apply to acts <strong>in Singapore</strong>
 involving products listed or quoted inside or outside Singapore, and to
 acts <strong>outside Singapore</strong> involving products listed or
 quoted on a Singapore organised market. This extraterritorial reach is a
 frequent examination point.</p>
-<h3 id="32-objective">3.2 Objective</h3>
+<h2 id="32-objective">3.2 Objective</h2>
 <p>The rules protect fair, efficient, orderly and transparent markets —
 the same objective the anti-manipulation, disclosure and insider-trading
 provisions enforce from different angles.</p>
-<h3 id="33-false-trading-and-market-rigging">3.3 False trading and
-market rigging</h3>
+<h2 id="33-false-trading-and-market-rigging">3.3 False trading and
+market rigging</h2>
 <p>Prohibited conduct includes creating an appearance of active trading,
 buying and selling without changing beneficial ownership, acting
 recklessly in a way likely to create a false or misleading market
@@ -908,28 +770,28 @@ appearance, and transactions intended to mislead about price or market
 activity. A wash sale is a transaction with no real change in beneficial
 ownership. Matching orders are coordinated buy/sell orders entered with
 knowledge of the other side to create a false market.</p>
-<h3 id="34-securities-market-manipulation">3.4 Securities-market
-manipulation</h3>
+<h2 id="34-securities-market-manipulation">3.4 Securities-market
+manipulation</h2>
 <p>It is prohibited to effect two or more transactions in securities or
 securities-based derivatives that raise, lower, maintain or stabilise
 price with the intention of inducing others to trade. Trading through
 several customer accounts or using fictitious orders to support a price
 can be manipulative.</p>
-<h3 id="35-false-or-misleading-statements-and-information">3.5 False or
-misleading statements and information</h3>
+<h2 id="35-false-or-misleading-statements-and-information">3.5 False or
+misleading statements and information</h2>
 <p>It is prohibited to disseminate materially false or misleading
 information likely to induce subscription, buying or selling, or
 raise/lower/maintain/stabilise a price, where the person knows or should
 know it is false or is reckless as to truth. The medium may be research,
 newsletters, electronic communications, media or word of mouth.</p>
-<h3 id="36-fraudulently-inducing-dealing">3.6 Fraudulently inducing
-dealing</h3>
+<h2 id="36-fraudulently-inducing-dealing">3.6 Fraudulently inducing
+dealing</h2>
 <p>A person must not induce or attempt to induce dealing through a
 knowingly misleading/false/deceptive statement, dishonest concealment of
 a material fact, reckless publication, or storing/recording materially
 false information.</p>
-<h3 id="37-manipulative-and-deceptive-devices">3.7 Manipulative and
-deceptive devices</h3>
+<h2 id="37-manipulative-and-deceptive-devices">3.7 Manipulative and
+deceptive devices</h2>
 <p>Section 201 is a broad anti-fraud rule. It covers schemes or devices
 to defraud, practices likely to operate as fraud or deception,
 materially false statements, and omissions of material facts needed to
@@ -937,8 +799,8 @@ make statements non-misleading. Spoofing-like conduct in a pre-open or
 pre-close phase—placing large orders with no intention to execute and
 cancelling them to move the price—is the type of conduct the section
 captures.</p>
-<h3 id="38-dissemination-of-information-about-illegal-transactions">3.8
-Dissemination of information about illegal transactions</h3>
+<h2 id="38-dissemination-of-information-about-illegal-transactions">3.8
+Dissemination of information about illegal transactions</h2>
 <p>It is an offence to circulate information that a price will rise,
 fall or be maintained because of an illegal transaction. An illegal
 transaction includes false trading, rigging, manipulation, false
@@ -946,7 +808,7 @@ statements, fraudulent inducement and deceptive devices. Liability may
 arise where the person or an associate entered or purported to enter the
 illegal transaction, or received/expected a benefit for circulating the
 information.</p>
-<h3 id="39-insider-trading">3.9 Insider trading</h3>
+<h2 id="39-insider-trading">3.9 Insider trading</h2>
 <p><strong>Inside information</strong> is information that is not
 generally available, would be likely to materially affect price or
 value, and would influence persons who commonly invest.
@@ -974,15 +836,15 @@ person’s own transaction knowledge; corporate own-transaction knowledge;
 parity of information; and the broker-dealer exception (instruction
 unsolicited, no advice given, principal not an associate). If unsure,
 stop and consult compliance.</p>
-<h3 id="310-securities-hawking">3.10 Securities hawking</h3>
+<h2 id="310-securities-hawking">3.10 Securities hawking</h2>
 <p>Securities hawking is offering securities, securities-based
 derivatives or CIS units in an unsolicited meeting. It is designed to
 prevent pressure selling and “boiler-room” practices. The prohibition
 does not apply in the same way to qualifying offers to institutional or
 accredited investors and certain products not requiring a
 prospectus.</p>
-<h3 id="311-other-market-conduct-rules">3.11 Other market conduct
-rules</h3>
+<h2 id="311-other-market-conduct-rules">3.11 Other market conduct
+rules</h2>
 <ul>
 <li><strong>Short selling:</strong> a covered short sale has borrowed or
 arranged delivery; an uncovered/naked short sale does not. Short selling
@@ -1004,13 +866,13 @@ termination/default, fees, governing law and jurisdiction. Explain risks
 and obtain written understanding for non-exempt customers; exemptions
 can apply for accredited, expert and institutional investors.</li>
 </ul>
-<h3 id="312-penalties">3.12 Penalties</h3>
+<h2 id="312-penalties">3.12 Penalties</h2>
 <p>Market misconduct may result in criminal fines/imprisonment, civil
 penalties, compensation for other participants’ losses, licence
 suspension/revocation, disciplinary action and reputational damage.
 Learn the categories and consequences — the <strong>amount</strong> of a
 penalty is not tested.</p>
-<h3 id="exam-cues-2">Exam cues</h3>
+<h2 id="exam-cues-2">Exam cues</h2>
 <ul>
 <li><strong>Extraterritorial reach:</strong> acts in Singapore on
 foreign-listed products, and acts abroad on Singapore-listed products,
@@ -1029,19 +891,18 @@ it.</li>
 <li><strong>Trap:</strong> the private or public nature of the
 information — not the source — decides non-connected liability.</li>
 </ul>
-<h2
-id="chapter-4--ethics-codes-and-standards-for-securities-dealing">Chapter
-4 — Ethics, codes and standards for securities dealing</h2>
+<h1 id="ethics-codes-and-standards-for-securities-dealing">Ethics, codes
+and standards for securities dealing</h1>
 <p>Ethics as the standard above the legal minimum. The examination tests
 the client-centred framework, the ethical threats, and the six-step
 resolution process.</p>
-<h3 id="41-ethics-and-importance">4.1 Ethics and importance</h3>
+<h2 id="41-ethics-and-importance">4.1 Ethics and importance</h2>
 <p>Ethics are the moral principles or rules guiding behaviour when it
 affects others. Ethics goes beyond the law: it is doing the right thing
 even when no one is watching. Ethical failure damages the individual,
 the firm, market confidence and the wider financial ecosystem;
 interconnected markets let harm spread across borders.</p>
-<h3 id="42-ethical-framework">4.2 Ethical framework</h3>
+<h2 id="42-ethical-framework">4.2 Ethical framework</h2>
 <p>The framework is a client-centred cycle:</p>
 <ol type="1">
 <li><strong>Understand products/services:</strong> know features, risks
@@ -1061,33 +922,33 @@ emphasise integrity, competence, diligence and respect; exercise care
 and independent judgement; build trust and observe market conduct;
 disassociate from a problematic deal; and seek compliance/legal
 guidance.</p>
-<h3 id="43-ethical-dilemmas">4.3 Ethical dilemmas</h3>
+<h2 id="43-ethical-dilemmas">4.3 Ethical dilemmas</h2>
 <p>An ethical dilemma is a conflict between a proposed action and
 ethical standards, rules or professional obligations. Key threats are
 self-interest, self-review and influence. Identify facts before
 assumptions and do not let sales targets convert an unsuitable product
 into a recommendation.</p>
-<h3 id="44-professional-ethics-and-standards">4.4 Professional ethics
-and standards</h3>
+<h2 id="44-professional-ethics-and-standards">4.4 Professional ethics
+and standards</h2>
 <p>Core principles are integrity, competence, diligence and respect;
 putting profession/client interests above personal interests; reasonable
 care and independent judgement; conduct that reflects credit on the
 profession; promotion of market integrity; and continuing
 competence.</p>
-<h4 id="4411-professionalism">4.4.1.1 Professionalism</h4>
+<h3 id="4411-professionalism">4.4.1.1 Professionalism</h3>
 <p>Know and follow applicable law, including SFA/FAA requirements and
 exchange rules; maintain independence/objectivity; do not misrepresent;
 do not engage in dishonest, fraudulent or deceptive misconduct; and
 maintain competence. Gifts, benefits, compensation and pressure must not
 compromise judgement.</p>
-<h4 id="4412-integrity-of-capital-markets">4.4.1.2 Integrity of capital
-markets</h4>
+<h3 id="4412-integrity-of-capital-markets">4.4.1.2 Integrity of capital
+markets</h3>
 <p>Do not trade or induce others to trade on material non-public
 information. Typical information includes earnings, mergers,
 asset-quality changes, new business/licences, management changes,
 qualified audit opinions, disputes, bankruptcy, regulatory breaches and
 credit-rating changes.</p>
-<h4 id="4413-duties-to-clients">4.4.1.3 Duties to clients</h4>
+<h3 id="4413-duties-to-clients">4.4.1.3 Duties to clients</h3>
 <p>Act with loyalty, prudence and care; deal fairly; make suitable
 recommendations based on reasonable inquiries into objectives, financial
 situation, needs, risk appetite and total portfolio; present fair,
@@ -1096,7 +957,7 @@ sources; and preserve confidentiality unless illegal activity, law or
 client permission permits disclosure. Execution-related advice on listed
 EIPs requires rationale and prescribed disclosure; broader advice may
 require FAA appointment.</p>
-<h4 id="4414-duties-to-employers">4.4.1.4 Duties to employers</h4>
+<h3 id="4414-duties-to-employers">4.4.1.4 Duties to employers</h3>
 <p>Be loyal, protect confidential information and firm opportunities,
 follow the code of conduct and remain fit and proper. Employers should
 provide clear policies, training, balanced remuneration and
@@ -1106,14 +967,14 @@ permission. Additional compensation that conflicts with the employer
 requires written consent. Supervisors must make reasonable efforts to
 ensure subordinates comply; whistleblowing is expected where silence
 could imply collusion.</p>
-<h4 id="4415-investment-analysis-recommendations-and-actions">4.4.1.5
-Investment analysis, recommendations and actions</h4>
+<h3 id="4415-investment-analysis-recommendations-and-actions">4.4.1.5
+Investment analysis, recommendations and actions</h3>
 <p>Use diligence, independence and thorough research; have a reasonable
 basis; retain supporting records; explain the investment process,
 material changes, limitations, risks, important factors, costs and the
 distinction between fact and opinion. Communications through email,
 mobile, blogs and other media must comply with firm controls.</p>
-<h4 id="4416-conflicts-of-interest">4.4.1.6 Conflicts of interest</h4>
+<h3 id="4416-conflicts-of-interest">4.4.1.6 Conflicts of interest</h3>
 <p>Avoid conflicts or make full, fair, prominent and plain-language
 disclosure. Examples include personal/proprietary positions, family
 interests, cross-department information, ownership of stock, outside
@@ -1121,22 +982,22 @@ directorships and multiple-principal activity. Refrain from deciding
 when conflicted and escalate independently. Give client trades priority
 over personal trades and do not negotiate private referral fees outside
 approved arrangements.</p>
-<h4 id="442-compliance-procedures">4.4.2 Compliance procedures</h4>
+<h3 id="442-compliance-procedures">4.4.2 Compliance procedures</h3>
 <p>Use Chinese walls and segregate sales, dealing, research,
 proprietary, risk, compliance and audit functions. Resist undue
 influence from issuers or sponsors and control gifts/entertainment.
 Protect research integrity through objective analysis,
 personal-investment policies, restricted lists and compensation that
 does not reward compromised opinions.</p>
-<h3 id="45-resolving-ethical-dilemmas">4.5 Resolving ethical
-dilemmas</h3>
+<h2 id="45-resolving-ethical-dilemmas">4.5 Resolving ethical
+dilemmas</h2>
 <p>Use a six-step process: gather facts; identify ethical/regulatory
 issues; identify affected parties and conflicts; consult internal
 reporting/whistleblowing procedures; evaluate alternatives; implement
 the best action, monitor and document the reasoning. Documentation
 proves what was known, what was considered and why the action was
 reasonable.</p>
-<h3 id="exam-cues-3">Exam cues</h3>
+<h2 id="exam-cues-3">Exam cues</h2>
 <ul>
 <li><strong>The framework is client-centred and ordered:</strong>
 understand products → analyse risks objectively → execute quickly,
@@ -1154,19 +1015,19 @@ sales, dealing, research, proprietary, risk, compliance and audit.</li>
 <li><strong>Trap:</strong> disclosure is not a licence — a conflict must
 still be controlled or avoided.</li>
 </ul>
-<h2 id="chapter-5--securities-dealing-practices-and-skills">Chapter 5 —
-Securities dealing practices and skills</h2>
+<h1 id="securities-dealing-practices-and-skills">Securities dealing
+practices and skills</h1>
 <p>How a representative onboards, profiles, classifies and services a
 client, and the conduct standards — best execution and internal controls
 — that apply to the trading itself.</p>
-<h3 id="51-onboarding">5.1 Onboarding</h3>
+<h2 id="51-onboarding">5.1 Onboarding</h2>
 <p>Onboarding combines AML/CFT KYC with investment profiling. Gather
 identity/background, objectives, experience, financial capacity,
 employment/retirement status, structures and investment horizon. Use
 simplified CDD only for genuinely low-risk cases; use EDD for high-risk
 clients such as PEPs, high-risk businesses and opaque structures.</p>
-<h3 id="52-investor-categories-and-profiling">5.2 Investor categories
-and profiling</h3>
+<h2 id="52-investor-categories-and-profiling">5.2 Investor categories
+and profiling</h2>
 <table>
 <thead>
 <tr>
@@ -1216,13 +1077,13 @@ Conflicts need not be repeated only while the prior disclosure remains
 accurate, complete and reasonably known; disclose again if stale or
 uncertain. <strong>A disclaimer cannot remove SFA/FAA
 liabilities.</strong></p>
-<h3 id="53-coherent-investmenttrading-strategies">5.3 Coherent
-investment/trading strategies</h3>
+<h2 id="53-coherent-investmenttrading-strategies">5.3 Coherent
+investment/trading strategies</h2>
 <p>Explain the portfolio mix, asset classes, products, geographies,
 percentages and reasons for inclusion, and document why it matches the
 risk profile. Periodically report performance, explain variances and
 explain proposed strategy changes and time horizons.</p>
-<h3 id="54-best-execution">5.4 Best execution</h3>
+<h2 id="54-best-execution">5.4 Best execution</h2>
 <p>Best execution means reasonable steps to obtain the most advantageous
 overall result, considering price, costs, speed, likelihood of execution
 and settlement, size, execution quality and the client’s instruction.
@@ -1241,8 +1102,8 @@ trading in CISs. Quotes must be firm unless qualified; do not make
 frivolous quotes or park positions to conceal profit/loss. Only
 authorised staff should deal in FX/NDFs; off-market rollovers are a
 fraud risk.</p>
-<h3 id="55-risk-management-and-internal-controls">5.5 Risk management
-and internal controls</h3>
+<h2 id="55-risk-management-and-internal-controls">5.5 Risk management
+and internal controls</h2>
 <p>The board/senior management should approve proportionate policies,
 review them, maintain ethical codes, segregate duties, mark positions to
 market, report exposures/P&amp;L at least daily, protect premises and
@@ -1253,7 +1114,7 @@ credit limits. Controls should cover suitability/risk disclosure, CDD,
 records, MIS, margin calls, liquidity, access, valuation,
 reconciliation, trade confirmation, funds transfers and escalation of
 unsuitable trades.</p>
-<h3 id="56-account-types">5.6 Account types</h3>
+<h2 id="56-account-types">5.6 Account types</h2>
 <ul>
 <li><strong>Personal:</strong> cash or margin; check funding, margin,
 authorised instructions and POA; death can trigger probate.</li>
@@ -1271,22 +1132,22 @@ enhanced diligence, source-of-wealth/funds review,
 tax-residency/FATCA/AEOI information and careful tracing of
 ownership.</li>
 </ul>
-<h3 id="57-trust-based-client-relationship">5.7 Trust-based client
-relationship</h3>
+<h2 id="57-trust-based-client-relationship">5.7 Trust-based client
+relationship</h2>
 <p>Stay current on rules/products, communicate risk and costs, document,
 understand product/originator reputation, respect objectives, disclose
 conflicts, prioritise clients and seek best price. Relationship
 management is continuous; update KYC and financial circumstances, review
 discrepancies and communicate material facts, process, limitations,
 critical factors, fact/opinion distinction and records.</p>
-<h3 id="58-credit-risk">5.8 Credit risk</h3>
+<h2 id="58-credit-risk">5.8 Credit risk</h2>
 <p>Credit risk is loss when a counterparty cannot perform. Set credit
 strategy and limits by customer/group, industry, geography and risk
 tolerance. Assess financial capacity, repayment, credit history and
 collateral. Monitor margin and exposures; call for top-ups or liquidate
 under the agreement if collateral falls below threshold, and consider
 legal action if defaults continue.</p>
-<h3 id="exam-cues-4">Exam cues</h3>
+<h2 id="exam-cues-4">Exam cues</h2>
 <ul>
 <li><strong>Classification changes protection:</strong> retail gets the
 highest protection; AI/II/EI relax disclosure, product access, SIP rules
@@ -1305,38 +1166,36 @@ parameters only.</li>
 <li><strong>Trap:</strong> a disclaimer does not remove SFA/FAA
 liability; conflicts must be controlled, not merely disclosed.</li>
 </ul>
-<h2 id="chapter-6--cpf-investment-scheme-cpfis">Chapter 6 — CPF
-Investment Scheme (CPFIS)</h2>
+<h1 id="cpf-investment-scheme-cpfis">CPF Investment Scheme (CPFIS)</h1>
 <p>Using CPF savings to invest. The examination tests the OA/SA
 distinction, the investment account, the thresholds and limits, and what
 happens at 55, on bankruptcy and on death.</p>
-<h3 id="61-structure">6.1 Structure</h3>
+<h2 id="61-structure">6.1 Structure</h2>
 <p><strong>CPFIS-OA</strong> uses Ordinary Account money and requires a
 CPF Investment Account. <strong>CPFIS-SA</strong> uses Special Account
 money and does not require that investment account.</p>
-<h3 id="62-history">6.2 History</h3>
+<h2 id="62-history">6.2 History</h2>
 <p>CPFIS began with OA investing in 1987 and expanded to SA in 2001.</p>
-<h3 id="63-investment-account">6.3 Investment account</h3>
+<h2 id="63-investment-account">6.3 Investment account</h2>
 <p>An <strong>agent bank</strong> — DBS, OCBC or UOB — holds the
 CPFIS-OA investment account for settlement and holdings; a member may
 have only <strong>one</strong>.</p>
-<h3 id="64-eligibility">6.4 Eligibility</h3>
+<h2 id="64-eligibility">6.4 Eligibility</h2>
 <p>Age 18 or older, not an undischarged bankrupt, and exceeding the
-OA/SA thresholds. Only OA money above <strong>S$20,000</strong> and SA
-money above <strong>S$40,000</strong> is generally investible, so the
-first <strong>S$60,000</strong> earns additional interest; permitted
-regular-premium insurance and agent-bank fees are treated
-separately.</p>
-<h3 id="65-application-process">6.5 Application process</h3>
+OA/SA thresholds. Only OA money above <strong>S<span class="math inline">20, 000 * *<em>a</em><em>n</em><em>d</em><em>S</em><em>A</em><em>m</em><em>o</em><em>n</em><em>e</em><em>y</em><em>a</em><em>b</em><em>o</em><em>v</em><em>e</em> * *<em>S</em></span>40,000</strong>
+is generally investible, so the first <strong>S$60,000</strong> earns
+additional interest; permitted regular-premium insurance and agent-bank
+fees are treated separately.</p>
+<h2 id="65-application-process">6.5 Application process</h2>
 <p>New investors must complete the <strong>Self-Awareness Questionnaire
 (SAQ)</strong>. Bring identity documents, SAQ status and CPF statement.
 Inform the dealer of account details before trading.</p>
-<h3 id="66-short-term-sale-of-a-qualifying-purchase">6.6 Short-term sale
-of a qualifying purchase</h3>
+<h2 id="66-short-term-sale-of-a-qualifying-purchase">6.6 Short-term sale
+of a qualifying purchase</h2>
 <p>A qualifying SGX-listed CPFIS-OA purchase may be sold <strong>one
 trading day later</strong> if entered successfully and sufficient
 funds/limits exist.</p>
-<h3 id="67-service-providers">6.7 Service providers</h3>
+<h2 id="67-service-providers">6.7 Service providers</h2>
 <table>
 <thead>
 <tr>
@@ -1379,8 +1238,8 @@ funds/limits exist.</p>
 </tr>
 </tbody>
 </table>
-<h3 id="68-product-inclusion-criteria">6.8 Product inclusion
-criteria</h3>
+<h2 id="68-product-inclusion-criteria">6.8 Product inclusion
+criteria</h2>
 <p>Products generally require provider application and CPF Board review.
 Investments must normally be in <strong>Singapore dollars</strong> and
 cannot be assigned, pledged or used as collateral. Criteria cover
@@ -1399,30 +1258,30 @@ investable savings for shares, property funds/REITs and corporate bonds;
 up to <strong>10%</strong> for gold products. SA permits specified
 lower-risk products and selected ILPs/unit trusts/ETFs, subject to CPF
 classification.</p>
-<h3 id="69-transfers">6.9 Transfers</h3>
+<h2 id="69-transfers">6.9 Transfers</h2>
 <p>Members may transfer cash from the CPF Investment Account to OA. The
 bank automatically transfers cash if the account is inactive for
 <strong>two consecutive months</strong>, and unused IPO application
 money is returned.</p>
-<h3 id="610-profits-and-losses">6.10 Profits and losses</h3>
+<h2 id="610-profits-and-losses">6.10 Profits and losses</h2>
 <p>Dividends/profits remain in CPF and cannot be withdrawn as ordinary
 cash; losses do not need to be made good.</p>
-<h3 id="611-charges">6.11 Charges</h3>
+<h2 id="611-charges">6.11 Charges</h2>
 <p>Charges may be paid from CPF savings. Sales charges were removed from
 <strong>October 2020</strong> and the wrap-fee cap reduced to
 <strong>0.4%</strong> after earlier reductions.</p>
-<h3 id="612-release-at-age-55">6.12 Release at age 55</h3>
+<h2 id="612-release-at-age-55">6.12 Release at age 55</h2>
 <p>Investment holdings/cash may be released subject to the required
 retirement sum — <strong>FRS</strong>, or <strong>BRS</strong> with
 sufficient property charge/pledge. Without the requirement, holdings
 remain within CPF and sale proceeds return to the relevant CPF
 account.</p>
-<h3 id="613-bankruptcy">6.13 Bankruptcy</h3>
+<h2 id="613-bankruptcy">6.13 Bankruptcy</h2>
 <p>Undischarged bankrupts may hold or liquidate existing CPFIS
 investments but cannot make new investments; CPFIS assets remain
 protected from creditor/Official Assignee claims while within the
 scheme.</p>
-<h3 id="614-death">6.14 Death</h3>
+<h2 id="614-death">6.14 Death</h2>
 <p>CPFIS investments and OA investment-account cash form part of the
 <strong>estate</strong> and are <strong>not</strong> covered by CPF
 nomination. Insurance policies with valid revocable nominations may pay
@@ -1430,13 +1289,13 @@ nominated beneficiaries directly; otherwise the administrator/executor
 needs Letters of Administration or Grant of Probate. Protection may
 cease after death and assets can meet creditor claims under probate
 law.</p>
-<h3 id="exam-cues-5">Exam cues</h3>
+<h2 id="exam-cues-5">Exam cues</h2>
 <ul>
 <li><strong>OA vs SA:</strong> OA needs a CPF Investment Account; SA
 does not. Agent bank is one of DBS/OCBC/UOB and only one account.</li>
-<li><strong>Numbers:</strong> S$20,000 OA / S$40,000 SA retention (first
-S$60,000); 35% shares/property/REITs/corporate bonds; 10% gold; wrap-fee
-cap 0.4%; sales charges removed Oct 2020.</li>
+<li><strong>Numbers:</strong> S<span class="math inline">20, 000<em>O</em><em>A</em>/<em>S</em></span>40,000
+SA retention (first S$60,000); 35% shares/property/REITs/corporate
+bonds; 10% gold; wrap-fee cap 0.4%; sales charges removed Oct 2020.</li>
 <li><strong>No assignment, pledge or collateralisation</strong> of CPFIS
 investments.</li>
 <li><strong>At 55:</strong> release only if the retirement sum (FRS, or
@@ -1447,14 +1306,14 @@ themselves).</li>
 <li><strong>Trap:</strong> profits stay inside CPF (no ordinary cash),
 but losses need not be made good.</li>
 </ul>
-<h2 id="chapter-7--prevention-of-financial-crimes">Chapter 7 —
-Prevention of financial crimes</h2>
+<h1 id="prevention-of-financial-crimes">Prevention of financial
+crimes</h1>
 <p>The AML/CFT framework that applies to both modules — the offences,
 the laws, the risk-based approach, CDD/KYC and reporting. The
 examination tests the money-laundering stages, which statute applies,
 the CDD thresholds and the STR reporting duty.</p>
-<h3 id="71-financial-crime-ml-tf-sanctions-and-fraud">7.1 Financial
-crime, ML, TF, sanctions and fraud</h3>
+<h2 id="71-financial-crime-ml-tf-sanctions-and-fraud">7.1 Financial
+crime, ML, TF, sanctions and fraud</h2>
 <p>Financial crime includes money laundering, terrorism financing,
 embargoes/sanctions and fraud. CMIs must exercise due diligence on
 customers, persons acting for them, connected parties and beneficial
@@ -1484,12 +1343,12 @@ advantage at another’s expense. Internal fraud can involve an employee
 selling client assets and diverting proceeds; external fraud can involve
 hacking or impersonation. Controls include independent verification,
 call-backs, dual controls, clean-desk and audit.</p>
-<h3 id="72-singapore-amlcft-regime">7.2 Singapore AML/CFT regime</h3>
+<h2 id="72-singapore-amlcft-regime">7.2 Singapore AML/CFT regime</h2>
 <p>Singapore follows FATF standards. MAS Notices and Guidelines place
 prevention responsibility on financial institutions and their staff. A
 risk-based approach requires controls commensurate with customer,
 country, product, service, transaction and delivery-channel risk.</p>
-<h3 id="73-main-laws">7.3 Main laws</h3>
+<h2 id="73-main-laws">7.3 Main laws</h2>
 <ul>
 <li><strong>Penal Code:</strong> general criminal offences.</li>
 <li><strong>CDSA:</strong> criminalises dealing with, concealing,
@@ -1507,15 +1366,15 @@ terrorist property; imposes reporting duties.</li>
 good-faith reporting, five-year retention of financial transaction
 documents and compliance with production, restraint, charging and
 confiscation orders.</p>
-<h3 id="74-mas-notices-and-sanctions-guidance">7.4 MAS notices and
-sanctions guidance</h3>
+<h2 id="74-mas-notices-and-sanctions-guidance">7.4 MAS notices and
+sanctions guidance</h2>
 <p>MAS Notice SFA 04-N02 and its Guidelines set CMI obligations for CDD,
 risk management, controls, reporting and governance. Sanctions guidance
 requires enhanced attention to sanctioned countries/persons,
 correspondent banking and front companies, freezing/reporting, strong
 board oversight and effective detection.</p>
-<h3 id="75-targeted-financial-sanctions">7.5 Targeted financial
-sanctions</h3>
+<h2 id="75-targeted-financial-sanctions">7.5 Targeted financial
+sanctions</h2>
 <p>Financial institutions must immediately freeze designated
 funds/assets/economic resources, avoid financial transactions or
 assistance involving designated persons/items or sanctioned
@@ -1523,8 +1382,8 @@ proliferation/nuclear activities, and notify MAS. Screen clients,
 connected parties and beneficial owners before onboarding and
 periodically. Current sanction lists must be checked rather than relying
 on an old list.</p>
-<h3 id="76-tax-crimes-as-predicate-offences">7.6 Tax crimes as predicate
-offences</h3>
+<h2 id="76-tax-crimes-as-predicate-offences">7.6 Tax crimes as predicate
+offences</h2>
 <p>Since 1 July 2013, specified direct and GST tax crimes are ML
 predicate offences. Direct-tax offences include false information or
 records to obtain PIC cash payouts/bonuses (Income Tax Act sections
@@ -1533,7 +1392,7 @@ evasion (section 96A). GST offences include tax evasion (section 62) and
 improperly obtaining refunds (section 63). CMIs must identify
 tax-related risk, conduct CDD/monitoring and file STRs where
 warranted.</p>
-<h3 id="77-three-lines-of-defence">7.7 Three lines of defence</h3>
+<h2 id="77-three-lines-of-defence">7.7 Three lines of defence</h2>
 <ol type="1">
 <li><strong>First line — business units:</strong> identify, assess and
 control risk in onboarding, front office and operations.</li>
@@ -1546,13 +1405,13 @@ training and remediation and report independently to the audit
 committee/board.</li>
 </ol>
 <p>Board and senior management retain final accountability.</p>
-<h3 id="78-governance">7.8 Governance</h3>
+<h2 id="78-governance">7.8 Governance</h2>
 <p>The board and senior management set risk appetite and tone, receive
 meaningful information about current/emerging risk, assess control
 effectiveness, understand legal developments, resource compliance,
 escalate weaknesses, monitor remediation and integrate AML/CFT
 effectiveness into performance and disciplinary decisions.</p>
-<h3 id="79-client-onboarding-and-kyc">7.9 Client onboarding and KYC</h3>
+<h2 id="79-client-onboarding-and-kyc">7.9 Client onboarding and KYC</h2>
 <p>Do not open anonymous or fictitious-name accounts. Collect identity,
 address/residency, age, employment, education, family/lifestyle,
 business, incorporation, financials, organisation, directors,
@@ -1636,8 +1495,8 @@ transactions, material changes in account operation, major policy
 changes and insufficient information. Tax-related review considers
 tax-residency changes, information-exchange arrangements, CRS/AEOI and
 tax-amnesty participation.</p>
-<h3 id="710-enterprise-wide-risk-assessment">7.10 Enterprise-wide risk
-assessment</h3>
+<h2 id="710-enterprise-wide-risk-assessment">7.10 Enterprise-wide risk
+assessment</h2>
 <p>Assess clients, countries, products, services, transactions, delivery
 channels and business lines across the firm, using qualitative and
 quantitative analysis. Weight risk factors in a calibrated manner.
@@ -1645,13 +1504,13 @@ Review at least every two years or on material triggers such as new
 client segments, products or delivery channels; document and obtain
 senior-management approval. Implement controls and enhanced measures for
 higher risks.</p>
-<h3 id="711-new-products-practices-and-technologies">7.11 New products,
-practices and technologies</h3>
+<h2 id="711-new-products-practices-and-technologies">7.11 New products,
+practices and technologies</h2>
 <p>Before launch, assess ML/TF risk separately from credit, market and
 operational risk, especially where anonymity is increased. Senior
 management and heads of business, risk and compliance should approve
 mitigation.</p>
-<h3 id="712-operational-controls">7.12 Operational controls</h3>
+<h2 id="712-operational-controls">7.12 Operational controls</h2>
 <p>Control premises, systems, data integrity, passwords and privileged
 access on a need-to-know basis; change passwords; prohibit sharing; use
 clean-desk, dual payment control, hold-mail controls, IT/fraud training
@@ -1659,24 +1518,24 @@ and audit. The “FRAUD” reminder is: <strong>Follow</strong> policy,
 <strong>Report</strong> concerns, <strong>Act</strong> on suspicion,
 <strong>Unite</strong> with management/enforcement and expect
 <strong>Disciplinary</strong>/criminal consequences.</p>
-<h3 id="713-reporting-and-records">7.13 Reporting and records</h3>
+<h2 id="713-reporting-and-records">7.13 Reporting and records</h2>
 <p>Maintain a central reporting point, STR register and supporting
 records. Group policies should extend across branches/subsidiaries,
 share necessary CDD/transaction information and apply the higher
 standard where local law permits.</p>
-<h3 id="714-penalties">7.14 Penalties</h3>
+<h2 id="714-penalties">7.14 Penalties</h2>
 <p>Non-compliance creates legal, regulatory, financial, civil/commercial
 and reputation risk; <strong>tipping-off is itself an
 offence</strong>.</p>
-<h3 id="715-policy-audit-and-training">7.15 Policy, audit and
-training</h3>
+<h2 id="715-policy-audit-and-training">7.15 Policy, audit and
+training</h2>
 <p>Compliance needs a qualified, resourced AML/CFT officer with access
 to records; internal audit must be independent and adequately resourced.
 Training must be tailored, recorded, effective and refreshed at least
 every <strong>two years</strong>. Hiring checks should cover past
 employers, AML/TF information, bankruptcy and risk-based credit
 history.</p>
-<h3 id="716-effectiveness">7.16 Effectiveness</h3>
+<h2 id="716-effectiveness">7.16 Effectiveness</h2>
 <p>MAS’s three-pillar view is:</p>
 <ul>
 <li><strong>Governance:</strong> board/senior-management tone,
@@ -1687,7 +1546,7 @@ guidance, red flags, escalation and continuous learning.</li>
 monitoring, enhanced CDD, timely escalation, STRs and closure of past
 issues.</li>
 </ul>
-<h3 id="exam-cues-6">Exam cues</h3>
+<h2 id="exam-cues-6">Exam cues</h2>
 <ul>
 <li><strong>ML stages:</strong> placement → layering → integration, in
 order. Capital markets suit layering.</li>
@@ -1715,9 +1574,8 @@ crime. <strong>Tipping off is itself an offence.</strong></li>
 and reporting, not merely monitoring; reliance on another institution
 does not remove the CMI’s responsibility.</li>
 </ul>
-<h2 id="res-1b-appendices">RES 1B appendices</h2>
-<h3 id="appendix-a--fit-and-proper-criteria">Appendix A — Fit and Proper
-Criteria</h3>
+<h1 id="appendix-a--fit-and-proper-criteria">Appendix A — Fit and Proper
+Criteria</h1>
 <p>Assess <strong>honesty, integrity and reputation; competence and
 capability; and financial soundness</strong>. Failure on one factor is
 not automatically determinative; consider seriousness, relevance to
@@ -1728,38 +1586,38 @@ insolvency, dismissal, competence/qualification, concurrent conflicts,
 bankruptcy, unsatisfied judgments, winding-up and receivership. Firms
 must have proper shareholders/directors/officers and recruitment/control
 processes.</p>
-<h3 id="appendix-b--car-criteria">Appendix B — CAR criteria</h3>
+<h1 id="appendix-b--car-criteria">Appendix B — CAR criteria</h1>
 <p>Knowledge/experience may be demonstrated by prescribed diploma/degree
 subjects, professional finance qualifications, at least six listed-SIP
 transactions in the preceding three years, or three consecutive years of
 relevant investment-product work in the preceding ten years. An
 independent learning module may help where the customer initially
 fails.</p>
-<h3 id="appendix-c--cka-criteria">Appendix C — CKA criteria</h3>
+<h1 id="appendix-c--cka-criteria">Appendix C — CKA criteria</h1>
 <p>The education and professional-qualification routes are similar.
 Experience is product-specific: at least six CIS/ILP transactions for
 those products, or six other unlisted-SIP transactions for other
 unlisted SIPs in the preceding three years, or three consecutive years’
 relevant work in the preceding ten years. An approved independent module
 may help.</p>
-<h3 id="appendix-d--overseas-listed-risk-warning">Appendix D —
-Overseas-listed risk warning</h3>
+<h1 id="appendix-d--overseas-listed-risk-warning">Appendix D —
+Overseas-listed risk warning</h1>
 <p>The warning covers different regulation/investor protection, legal
 systems and redress, reporting/accounting language, repatriation and
 foreign-investor restrictions, tax, currency/exchange controls,
 additional fees, foreign counterparties/correspondent brokers and
 political/economic/social conditions. Obtain acknowledgement before
 first transaction.</p>
-<h3 id="appendix-e--excluded-investment-products">Appendix E — Excluded
-Investment Products</h3>
+<h1 id="appendix-e--excluded-investment-products">Appendix E — Excluded
+Investment Products</h1>
 <p>The list includes ordinary shares, certain share units, issuer
 rights/options/derivatives, business-trust units and derivatives, listed
 real-estate CIS units, certain tightly limited CIS structures,
 debentures other than specified asset-backed securities/structured
 notes, immediate currency-exchange arrangements and stapled combinations
 of EIPs. Classification must remain accurate and current.</p>
-<h3 id="appendix-f--suspicious-transaction-examples">Appendix F —
-Suspicious transaction examples</h3>
+<h1 id="appendix-f--suspicious-transaction-examples">Appendix F —
+Suspicious transaction examples</h1>
 <p>Red flags include economically irrational trading, many accounts and
 transfers, immediate withdrawals, sudden dormant-account activity,
 unexplained delinquent repayment, unclear investment-management source
@@ -1770,7 +1628,7 @@ pseudonyms/numbered accounts, tax-evasion indicators, terrorism links,
 frequent signatory changes, rapid use of incoming funds as collateral,
 unusual young-person transfers and unregulated intermediaries. A single
 flag is not conclusive; assess the combination and plausibility.</p>
-<h3 id="appendix-g--review-questions">Appendix G — Review questions</h3>
+<h1 id="appendix-g--review-questions">Appendix G — Review questions</h1>
 <p>The source questions cover licensing changes, overseas-product
 warnings, statements, trust-account advances, extraterritorial market
 conduct, false information, connected persons, securities lending,
@@ -1807,8 +1665,8 @@ information; and the response to a sanctions-list match.</li>
 format; they do not cover all examination material. The expanded
 question bank in <code>RES12B_QUESTIONS.md</code> therefore includes
 both these themes and additional application questions.</p>
-<h3 id="appendix-h--essential-readings">Appendix H — Essential
-readings</h3>
+<h1 id="appendix-h--essential-readings">Appendix H — Essential
+readings</h1>
 <p>Use the primary material rather than treating the study guide as a
 substitute for law. The readings include:</p>
 <ul>
@@ -1843,15 +1701,13 @@ guidelines;</li>
 Singapore Statutes Online, MAS or CPF. Treat the current statutory text
 and MAS/SGX rules as authoritative for live practice.</p>
 <hr />
-<h1 id="part-ii--res-2b">Part II — RES 2B</h1>
-<h2
-id="chapter-1--the-capital-markets-industry-and-derivatives-participants">Chapter
-1 — The capital markets industry and derivatives participants</h2>
+<h1 id="the-capital-markets-industry-and-derivatives-participants">The
+capital markets industry and derivatives participants</h1>
 <p>The derivatives-specific market map. RES 1B covers MAS, SGX, SGX-ST,
 CDP, SGX-DT and SGX-DC; RES 2B adds the derivatives venues and clearing
 houses. The examination tests who may trade or clear derivatives and
 under which rules.</p>
-<h3 id="11-introduction-1">1.1 Introduction</h3>
+<h2 id="11-introduction-1">1.1 Introduction</h2>
 <p>The primary market raises capital through shares, bonds/fixed-income
 securities and company warrants. The secondary market lets investors
 transfer risk and manage positions. Futures, options, warrants and
@@ -1859,8 +1715,8 @@ leverage certificates are derivatives. OTC markets are decentralised and
 negotiated; exchanges centralise orders and provide price/quantity
 discovery. Trading requires exchange membership or a Trading Member
 relationship.</p>
-<h3 id="12-institutional-participants">1.2 Institutional
-participants</h3>
+<h2 id="12-institutional-participants">1.2 Institutional
+participants</h2>
 <p>Banks, CMS broker/dealers and fund managers participate in
 derivatives markets. Broker/dealers do not take deposits; they match or
 route orders and may be Trading or Clearing Members. Fund managers run
@@ -1872,8 +1728,8 @@ Singapore residents, are not Singapore-regulated financial institutions,
 are supervised at home and have a suitable MAS information-sharing
 arrangement. A remote SGX <strong>clearing</strong> member also cannot
 have a MAS-regulated financial-institution affiliate.</p>
-<h3 id="13-regulatory-bodies-and-rule-sources">1.3 Regulatory bodies and
-rule sources</h3>
+<h2 id="13-regulatory-bodies-and-rule-sources">1.3 Regulatory bodies and
+rule sources</h2>
 <p>The objectives and roles of MAS, SGX, SGX RegCo, SGX-ST, CDP, SGX-DT
 and SGX-DC are as for RES 1B. RES 2B adds:</p>
 <table>
@@ -1911,7 +1767,7 @@ Rules, CDP Clearing/DVP/Depository Rules, SGX-DT Futures Trading Rules,
 SGX-DC Clearing Rules, IFSG Trading Rules and Procedures, ICE Clear
 Singapore Rules and Procedures, and APEX/APEX Clear Rules and
 Procedures.</p>
-<h3 id="exam-cues-7">Exam cues</h3>
+<h2 id="exam-cues-7">Exam cues</h2>
 <ul>
 <li><strong>Who may clear:</strong> IFSG futures clear through
 <strong>ICE Clear Singapore</strong>; APEX products through <strong>APEX
@@ -1927,17 +1783,17 @@ SGX-DC, SGX RegCo) also applies here.</li>
 <li><strong>Trap:</strong> broker/dealers do not take deposits — that is
 a bank activity, not a CMS dealing activity.</li>
 </ul>
-<h2 id="chapter-2--licensing-and-business-operations-1">Chapter 2 —
-Licensing and business operations</h2>
+<h1 id="licensing-and-business-operations-1">Licensing and business
+operations</h1>
 <p>The derivatives-specific licensing and operational rules. They
 parallel RES 1B; the differences are the base-capital table and the
 derivatives account, risk-disclosure and register-of-interests
 requirements.</p>
-<h3 id="21-licensing">2.1 Licensing</h3>
+<h2 id="21-licensing">2.1 Licensing</h2>
 <p>Corporations dealing in derivatives as principal or agent require the
 appropriate CMS licence unless exempt. A <strong>variation</strong> is
 required to add a regulated activity or additional product.</p>
-<h3 id="22-base-capital">2.2 Base capital</h3>
+<h2 id="22-base-capital">2.2 Base capital</h2>
 <table>
 <thead>
 <tr>
@@ -2005,7 +1861,7 @@ clients</td>
 requirements parallel RES 1B, but derivatives firms must also account
 for exchange/clearing-house membership and product-specific
 controls.</p>
-<h3 id="23-representatives">2.3 Representatives</h3>
+<h2 id="23-representatives">2.3 Representatives</h2>
 <p>Representatives need notification/registration and may act for
 <strong>one principal</strong> unless permitted otherwise. Competency,
 education, relevant experience, CMFAS, fit-and-proper, identity,
@@ -2013,17 +1869,17 @@ work-authorisation, past-record, bankruptcy and credit checks apply. RNF
 status, public register, RNF number, cessation, the seven-day individual
 notification and 14-day principal notification, and continuing education
 apply as for RES 1B.</p>
-<h3 id="24-advertising-1">2.4 Advertising</h3>
+<h2 id="24-advertising-1">2.4 Advertising</h2>
 <p>Product advertisements must be truthful, fair, balanced, clear,
 legible, properly approved and carry the MAS non-review statement.
 Non-product advertisements must not mislead, falsely promise free
 services or exploit inexperience.</p>
-<h3 id="25-confidentiality">2.5 Confidentiality</h3>
+<h2 id="25-confidentiality">2.5 Confidentiality</h2>
 <p>Customer order information may be disclosed only where needed for
 execution, permitted by market/clearing rules, or required by MAS.
 Banking secrecy, PDPA, DNC checks and clear consent apply.</p>
-<h3 id="26-opening-and-management-of-derivatives-accounts">2.6 Opening
-and management of derivatives accounts</h3>
+<h2 id="26-opening-and-management-of-derivatives-accounts">2.6 Opening
+and management of derivatives accounts</h2>
 <p>Before opening a derivatives account, provide a separate <strong>Form
 13</strong> risk-disclosure document and obtain the customer’s
 <strong>signed and dated</strong> acknowledgement that he received and
@@ -2041,7 +1897,7 @@ principal/dealing-against-customer status. For OTC derivatives, a
 transaction confirmation may replace the contract note if it states
 holder, counterparty, principal status, date, type and notional
 value.</p>
-<h3 id="27-books-and-audit-trails">2.7 Books and audit trails</h3>
+<h2 id="27-books-and-audit-trails">2.7 Books and audit trails</h2>
 <p>Keep English books and records for at least <strong>five
 years</strong>, including customer/guarantor/authorised-trader
 information, money/assets, powers of attorney, agreements, Form 13/Form
@@ -2050,8 +1906,8 @@ communications, confirmations, proprietary trades, income/expenses,
 assets/liabilities and all OTC transactions. Audit, five-month filing,
 immediate auditor reporting, and the prohibition on
 destroying/concealing/altering books apply.</p>
-<h3 id="28-customer-moneyassets-and-fiduciary-controls">2.8 Customer
-money/assets and fiduciary controls</h3>
+<h2 id="28-customer-moneyassets-and-fiduciary-controls">2.8 Customer
+money/assets and fiduciary controls</h2>
 <p>Treat customer money/assets as belonging to customers and segregate
 them. Trust/custody accounts must be held with permitted
 institutions/custodians; conduct due diligence, obtain acknowledgements,
@@ -2072,16 +1928,16 @@ Compute trust/custody account balances and required customer amounts at
 least daily, <strong>before noon</strong> each business day, and retain
 supporting data for five years. Do not transfer retail customer money
 title except for compliant specified-product lending.</p>
-<h3 id="29-register-of-interests-in-listed-specified-products">2.9
-Register of interests in listed specified products</h3>
+<h2 id="29-register-of-interests-in-listed-specified-products">2.9
+Register of interests in listed specified products</h2>
 <p>CMS holders and representatives must record interests in listed
 specified products <strong>within seven days</strong> of acquisition,
 retain the entry at least five years, keep a copy in Singapore and
 provide it to MAS on request.</p>
-<h3 id="exam-cues-8">Exam cues</h3>
+<h2 id="exam-cues-8">Exam cues</h2>
 <ul>
 <li><strong>BCR:</strong> leveraged FX and OTC derivatives with retail
-clients sit at the S$5m tier; derivatives clearing members are S$5m;
+clients sit at the S<span class="math inline">5<em>m</em><em>t</em><em>i</em><em>e</em><em>r</em>; <em>d</em><em>e</em><em>r</em><em>i</em><em>v</em><em>a</em><em>t</em><em>i</em><em>v</em><em>e</em><em>s</em><em>c</em><em>l</em><em>e</em><em>a</em><em>r</em><em>i</em><em>n</em><em>g</em><em>m</em><em>e</em><em>m</em><em>b</em><em>e</em><em>r</em><em>s</em><em>a</em><em>r</em><em>e</em><em>S</em></span>5m;
 specified commodity futures are lower. Where more than one applies, take
 the <strong>highest</strong>.</li>
 <li><strong>Form 13:</strong> separate derivatives risk-disclosure
@@ -2097,102 +1953,102 @@ least daily, <strong>before noon</strong> each business day.</li>
 contract note for OTC derivatives only, and only if it carries the
 stated content.</li>
 </ul>
-<h2 id="chapter-3--market-conduct-for-derivatives">Chapter 3 — Market
-conduct for derivatives</h2>
+<h1 id="market-conduct-for-derivatives">Market conduct for
+derivatives</h1>
 <p>The derivatives application of the market-conduct rules — the same
 prohibitions as RES 1B, plus derivatives-specific conduct (bucketing,
 hunting for stops, cornering) and trading-practice rules.</p>
-<h3 id="31-scope-1">3.1 Scope</h3>
+<h2 id="31-scope-1">3.1 Scope</h2>
 <p>Rules apply extraterritorially to derivatives listed/quoted outside
 Singapore when the act occurs in Singapore, and to derivatives
 listed/quoted in Singapore when the act occurs abroad.</p>
-<h3 id="32-securities-based-derivatives">3.2 Securities-based
-derivatives</h3>
+<h2 id="32-securities-based-derivatives">3.2 Securities-based
+derivatives</h2>
 <p>Securities-based derivatives include derivatives on securities or
 securities indices — equity-index futures/options, leverage certificates
 and structured warrants — so the securities-market rules reach them.</p>
-<h3 id="33-false-trading-and-market-rigging-1">3.3 False trading and
-market rigging</h3>
+<h2 id="33-false-trading-and-market-rigging-1">3.3 False trading and
+market rigging</h2>
 <p>Do not create artificial activity, trade without beneficial
 ownership, act recklessly to create a false market, or use transactions
 to mislead. Derivatives examples include <strong>hunting for
 stops</strong> — pushing bids/offers to trigger stop orders — and
 <strong>wash trades</strong> with no economic value, including
 coordinated accounts or same contract/strike/expiry trades.</p>
-<h3 id="34-manipulating-derivatives-prices-and-cornering">3.4
-Manipulating derivatives prices and cornering</h3>
+<h2 id="34-manipulating-derivatives-prices-and-cornering">3.4
+Manipulating derivatives prices and cornering</h2>
 <p>Do not manipulate or attempt to manipulate a derivatives price or its
 underlying, and do not corner or attempt to corner the underlying.
 <strong>Cornering</strong> means acquiring enough of the underlying to
 control price and force short sellers to cover at inflated prices.</p>
-<h3 id="35-securities-and-securities-based-derivatives-manipulation">3.5
-Securities and securities-based derivatives manipulation</h3>
+<h2 id="35-securities-and-securities-based-derivatives-manipulation">3.5
+Securities and securities-based derivatives manipulation</h2>
 <p>Do not effect two or more transactions that raise, lower, maintain or
 stabilise the price of securities or securities-based derivatives
 <strong>with an intention to induce others to deal</strong>.</p>
-<h3 id="36-false-or-misleading-statements">3.6 False or misleading
-statements</h3>
+<h2 id="36-false-or-misleading-statements">3.6 False or misleading
+statements</h2>
 <p>False/misleading statements may be distributed through reports,
 media, electronic means or word of mouth and may induce buying/selling
 or affect price.</p>
-<h3 id="37-bucketing">3.7 Bucketing</h3>
+<h2 id="37-bucketing">3.7 Bucketing</h2>
 <p><strong>Bucketing</strong> is taking the opposite side of a
 customer’s derivatives order, or pretending to execute it, without a
 bona fide market purchase/sale. It denies competitive execution and is
 prohibited. Taking the opposite side requires prior consent and
 compliance with market rules.</p>
-<h3 id="38-fraudulent-inducement">3.8 Fraudulent inducement</h3>
+<h2 id="38-fraudulent-inducement">3.8 Fraudulent inducement</h2>
 <p>Do not induce trading through knowingly false statements, dishonest
 concealment, reckless false/deceptive statements or false recorded
 information.</p>
-<h3 id="39-deceptive-devices">3.9 Deceptive devices</h3>
+<h2 id="39-deceptive-devices">3.9 Deceptive devices</h2>
 <p><strong>Section 201</strong> catches schemes, fraud, material false
 statements and material omissions.</p>
-<h3 id="310-insider-trading">3.10 Insider trading</h3>
+<h2 id="310-insider-trading">3.10 Insider trading</h2>
 <p>Inside information, general availability, connected/non-connected
 persons, the no-intention rule, exceptions and parity-of-information
 defences apply to derivatives and securities-based derivatives. Do not
 trade, procure trading or communicate inside information.</p>
-<h3 id="311-illegal-transaction-information">3.11 Illegal-transaction
-information</h3>
+<h2 id="311-illegal-transaction-information">3.11 Illegal-transaction
+information</h2>
 <p>Do not circulate information about illegal transactions to benefit
 from their price effect.</p>
-<h3 id="312-non-disclosure-of-orders">3.12 Non-disclosure of orders</h3>
+<h2 id="312-non-disclosure-of-orders">3.12 Non-disclosure of orders</h2>
 <p>Order information stays confidential except for execution,
 market/clearing rules, or MAS.</p>
-<h3 id="313-withdrawal-or-withholding-of-orders">3.13 Withdrawal or
-withholding of orders</h3>
+<h2 id="313-withdrawal-or-withholding-of-orders">3.13 Withdrawal or
+withholding of orders</h2>
 <p>Do not withhold or withdraw a customer order for your own or
 another’s benefit.</p>
-<h3 id="314-trading-against-customer-orders">3.14 Trading against
-customer orders</h3>
+<h2 id="314-trading-against-customer-orders">3.14 Trading against
+customer orders</h2>
 <p>Do not trade against a customer’s futures order for the firm, an
 associate/connected person or an interested account unless prior consent
 and market-rule conditions are met.</p>
-<h3 id="315-front-running-and-priority">3.15 Front running and
-priority</h3>
+<h2 id="315-front-running-and-priority">3.15 Front running and
+priority</h2>
 <p>Do not trade personally before a customer’s same-class order; comply
 with customer priority.</p>
-<h3 id="316-cross-trades">3.16 Cross trades</h3>
+<h2 id="316-cross-trades">3.16 Cross trades</h2>
 <p>Simultaneous buy/sell orders for different accounts must be
 exposed/executed through the approved electronic system or according to
 market rules. Test questions often ask which side should be exposed
 first when prices differ in attractiveness.</p>
-<h3 id="317-churning">3.17 Churning</h3>
+<h2 id="317-churning">3.17 Churning</h2>
 <p>Excessive trades to generate commissions without sound
 opportunities.</p>
-<h3 id="318-overtrading">3.18 Overtrading</h3>
+<h2 id="318-overtrading">3.18 Overtrading</h2>
 <p>Positions must stay within firm, sponsor, exchange, clearing-house
 and regulatory limits; excess positions must be reduced.</p>
-<h3 id="319-pre-arranged-trades">3.19 Pre-arranged trades</h3>
+<h2 id="319-pre-arranged-trades">3.19 Pre-arranged trades</h2>
 <p>Agreed or predetermined prices/trades between dealers/brokers
 undermine fair and transparent markets.</p>
-<h3 id="320-penalties">3.20 Penalties</h3>
+<h2 id="320-penalties">3.20 Penalties</h2>
 <p>Report suspected manipulation, false trading or insider trading
 <strong>promptly</strong> to MAS and the relevant exchange. Breach may
 lead to criminal/civil penalties, compensation, suspension/loss of
 licence or registration, and reputation loss.</p>
-<h3 id="exam-cues-9">Exam cues</h3>
+<h2 id="exam-cues-9">Exam cues</h2>
 <ul>
 <li><strong>Bucketing</strong> is the derivatives-specific trap: taking
 the opposite side, or pretending to execute, without a bona fide market
@@ -2209,12 +2065,12 @@ no pre-arranged trades.</li>
 <li><strong>Trap:</strong> prior consent makes taking the opposite side
 permissible; without it, it is bucketing.</li>
 </ul>
-<h2 id="chapter-4--otc-derivatives">Chapter 4 — OTC derivatives</h2>
+<h1 id="otc-derivatives">OTC derivatives</h1>
 <p>Decentralised, negotiated derivatives and the regime built around
 them after 2008. The examination tests which persons must report or
 clear, what the risk-disclosure documents are, and the dealing-practice
 standards.</p>
-<h3 id="41-overview">4.1 Overview</h3>
+<h2 id="41-overview">4.1 Overview</h2>
 <p>OTC derivatives are negotiated through dealers/brokers on a
 decentralised network, usually with less public price transparency and
 bilateral counterparty risk. Clearing houses can interpose as CCP,
@@ -2224,7 +2080,7 @@ swaps, forward-rate agreements and commodity swaps. Compared with
 exchange markets, OTC markets have more sophisticated counterparties,
 longer-lived relationships, more tailored/non-standard terms and
 inter-dealer broking.</p>
-<h3 id="42-regulatory-regime">4.2 Regulatory regime</h3>
+<h2 id="42-regulatory-regime">4.2 Regulatory regime</h2>
 <p>Post-2008 reforms introduced trade repositories, extended
 market-operator/clearing/intermediary regulation and mandated
 reporting/clearing of prescribed OTC derivatives. <strong>Specified
@@ -2234,19 +2090,19 @@ interest-rate, credit, FX, commodity and equity derivatives
 traded/booked in Singapore to a licensed repository. <strong>Section
 129C</strong> requires prescribed contracts to be cleared with an
 approved/recognised clearing house.</p>
-<h3 id="43-sgx-dc-clearing">4.3 SGX-DC clearing</h3>
+<h2 id="43-sgx-dc-clearing">4.3 SGX-DC clearing</h2>
 <p>Eligible OTC commodity derivatives are registered through
 <strong>Titan OTC</strong>. Clearing members post initial/maintenance
 margin, obtain customer margin and pay variation margin for
 mark-to-market movements. A member may set higher internal requirements
 and must review them continuously.</p>
-<h3 id="44-risk-disclosure">4.4 Risk disclosure</h3>
+<h2 id="44-risk-disclosure">4.4 Risk disclosure</h2>
 <p><strong>Form 13</strong> and relevant <strong>Form
 14</strong>/industry-standard disclosure documents must explain
 leverage, market, counterparty, settlement, liquidity and other product
 risks before account opening/execution as required. Overseas-listed
 products require the separate risk warning and acknowledgement.</p>
-<h3 id="45-otc-dealing-practices">4.5 OTC dealing practices</h3>
+<h2 id="45-otc-dealing-practices">4.5 OTC dealing practices</h2>
 <p>State all material terms clearly, disclose minimum dealing
 amounts/credit limits early, use standard confirmations and terminology,
 and use negotiated master agreements such as <strong>ISDA</strong> with
@@ -2255,7 +2111,7 @@ Credit-support documents should address collateral, transfer and legal
 regime. If a broker cannot substantiate a quotation and a difference is
 payable, close at the next available price and settle the difference
 with the principal.</p>
-<h3 id="exam-cues-10">Exam cues</h3>
+<h2 id="exam-cues-10">Exam cues</h2>
 <ul>
 <li><strong>Reporting:</strong> specified persons → licensed trade
 repository. <strong>Clearing:</strong> prescribed contracts →
@@ -2270,22 +2126,22 @@ document covers collateral and transfer.</li>
 default; a CCP reduces it but adds margin and default-fund
 considerations — it does not eliminate risk.</li>
 </ul>
-<h2 id="chapter-5--ethics-and-standards-for-derivatives-dealing">Chapter
-5 — Ethics and standards for derivatives dealing</h2>
+<h1 id="ethics-and-standards-for-derivatives-dealing">Ethics and
+standards for derivatives dealing</h1>
 <p>The ethics framework applied to derivatives, plus the best-execution
 standard and the wholesale-market codes. The examination tests the same
 framework as RES 1B with derivatives-specific risks.</p>
-<h3 id="51-ethics-and-importance">5.1 Ethics and importance</h3>
+<h2 id="51-ethics-and-importance">5.1 Ethics and importance</h2>
 <p>Apply the same client-first ethical framework as RES 1B — ethics goes
 beyond the legal minimum.</p>
-<h3 id="52-ethical-framework">5.2 Ethical framework</h3>
+<h2 id="52-ethical-framework">5.2 Ethical framework</h2>
 <p>The client-centred cycle and the three threats (self-interest,
 self-review, influence) apply as for RES 1B.</p>
-<h3 id="53-ethical-dilemmas">5.3 Ethical dilemmas</h3>
+<h2 id="53-ethical-dilemmas">5.3 Ethical dilemmas</h2>
 <p>With derivatives-specific attention to leverage, complexity,
 long-lived OTC exposures, principal/client information and market
 integrity.</p>
-<h3 id="54-standards-and-procedures">5.4 Standards and procedures</h3>
+<h2 id="54-standards-and-procedures">5.4 Standards and procedures</h2>
 <p>Professionalism requires law, independence/objectivity, no
 misrepresentation or misconduct and continuing competence. Protect
 market integrity from material non-public information and
@@ -2314,22 +2170,22 @@ office and instrument-specific practices.</li>
 sharing, execution, risk management/compliance, and
 confirmation/settlement.</li>
 </ul>
-<h3 id="55-best-execution-for-derivatives">5.5 Best execution for
-derivatives</h3>
+<h2 id="55-best-execution-for-derivatives">5.5 Best execution for
+derivatives</h2>
 <p>Take reasonable steps for the best overall result, considering price,
 cost, speed, likelihood of execution/settlement, size and execution
 quality. Use written policies, time priority for comparable orders, no
 PFOF, monitoring and clear disclosure. Distinguish agent and principal
 capacities, handle orders fairly and transparently, prohibit improper
 staff/client or house-account cross trades, and disclose risk.</p>
-<h3 id="56-applying-the-ethical-framework">5.6 Applying the ethical
-framework</h3>
+<h2 id="56-applying-the-ethical-framework">5.6 Applying the ethical
+framework</h2>
 <p>Gather facts, identify ethical issues, identify stakeholders, use
 internal reporting/whistleblowing, evaluate alternatives, implement and
 monitor the best action, and document the reasoning. In suitability
 cases, protect the client’s long-term objectives even where a more
 aggressive strategy would earn more commission.</p>
-<h3 id="exam-cues-11">Exam cues</h3>
+<h2 id="exam-cues-11">Exam cues</h2>
 <ul>
 <li><strong>Same framework as RES 1B</strong>, with derivatives-specific
 emphasis on <strong>leverage, complexity, long-lived OTC
@@ -2344,19 +2200,19 @@ Global Code</strong> (global conduct principles).</li>
 objectives even where a more aggressive strategy earns more
 commission.</li>
 </ul>
-<h2 id="chapter-6--derivatives-dealing-practices-and-skills">Chapter 6 —
-Derivatives dealing practices and skills</h2>
+<h1 id="derivatives-dealing-practices-and-skills">Derivatives dealing
+practices and skills</h1>
 <p>How a derivatives representative profiles a client, analyses markets,
 formulates a strategy, executes and monitors it, and manages the risks —
 including CAR/CKA for SIP accounts.</p>
-<h3 id="61-scope">6.1 Scope</h3>
+<h2 id="61-scope">6.1 Scope</h2>
 <p>Recommendations require a reasonable basis unless the firm merely
 executes instructions or gives qualifying execution-related advice on
 listed EIPs. The process runs from client profiling and market analysis
 to strategy formation, implementation, execution, monitoring and risk
 management.</p>
-<h3 id="62-market-information-analysis">6.2 Market-information
-analysis</h3>
+<h2 id="62-market-information-analysis">6.2 Market-information
+analysis</h2>
 <table>
 <thead>
 <tr>
@@ -2386,8 +2242,8 @@ analysis</h3>
 <p>Use reliable sources and conduct due diligence on third-party
 research, including the author’s experience, reputation and possible
 bias.</p>
-<h3 id="63-trading-strategy-formulation">6.3 Trading-strategy
-formulation</h3>
+<h2 id="63-trading-strategy-formulation">6.3 Trading-strategy
+formulation</h2>
 <p>Reassess the overall purpose: alpha/excess return or hedging. Define
 return and risk objectives, performance targets, benchmarks,
 fees/taxes/inflation/spending assumptions, asset-allocation targets and
@@ -2397,8 +2253,8 @@ constraints and foreign-investment restrictions.</p>
 the <strong>five-step cycle: identify, assess, evaluate, respond and
 report</strong>. Rebalancing can reduce exposure to events or implement
 tactical asset allocation.</p>
-<h3 id="64-implementation-and-monitoring">6.4 Implementation and
-monitoring</h3>
+<h2 id="64-implementation-and-monitoring">6.4 Implementation and
+monitoring</h2>
 <p>Obtain client information before advice; review profiles/needs at
 least annually; disclose margin risks; document recommendations/warnings
 for at least five years as good practice; disclose conflicts; ensure
@@ -2409,11 +2265,11 @@ trades.</p>
 <p>Risk skills include stop-losses, daily loss limits and Value at Risk.
 Monitor risk, return, performance versus benchmark and variances, report
 and explain changes, and refine the portfolio.</p>
-<h3 id="65-kyc-for-derivatives-clients">6.5 KYC for derivatives
-clients</h3>
+<h2 id="65-kyc-for-derivatives-clients">6.5 KYC for derivatives
+clients</h2>
 <p>Obtain client information before advice and keep it current; the
 onboarding and CDD standards of RES 1B Chapter 5 apply.</p>
-<h3 id="66-sip-accounts">6.6 SIP accounts</h3>
+<h2 id="66-sip-accounts">6.6 SIP accounts</h2>
 <p>For retail clients trading SIPs, conduct <strong>CAR</strong> for
 listed SIPs and <strong>CKA</strong> for unlisted SIPs. The same
 qualification, six-transaction and three-year relevant-experience tests
@@ -2434,7 +2290,7 @@ classify EIPs accurately; if classification is not implemented, treat as
 SIP and perform CAR; outsourced classification remains the CMS holder’s
 responsibility.</li>
 </ul>
-<h3 id="67-risk-management">6.7 Risk management</h3>
+<h2 id="67-risk-management">6.7 Risk management</h2>
 <table>
 <thead>
 <tr>
@@ -2501,22 +2357,24 @@ counterparties</td>
 diagnostic and remedial tools. AML/CFT risk management requires risk
 comprehension, board governance, transaction monitoring and customer
 acceptance/risk profiling.</p>
-<h3 id="exam-cues-12">Exam cues</h3>
+<h2 id="exam-cues-12">Exam cues</h2>
 <ul>
 <li><strong>CAR vs CKA:</strong> listed SIP → CAR; unlisted SIP → CKA.
 Negative CAR may still permit a listed-SIP account with written
 confirmations; negative CKA generally blocks unlisted dealing unless the
-firm is also an exempt financial adviser.\n- <strong>Analysis
-tools:</strong> fundamental (long horizon), technical (short horizon),
-global macro (top-down).\n- <strong>Risk cycle:</strong> identify →
-assess → evaluate → respond → report.\n- <strong>Risk types:</strong>
-operational, market, correlation, political/legal, gap, capital,
-technology, credit/counterparty, liquidity, regulatory,
-interconnected/systemic.\n- <strong>Trap:</strong> a negative CAR is not
-an automatic bar (with written confirmations); a negative CKA is a bar
-unless the firm can give advice as an exempt financial adviser.</li>
+firm is also an exempt financial adviser.</li>
+<li><strong>Analysis tools:</strong> fundamental (long horizon),
+technical (short horizon), global macro (top-down).</li>
+<li><strong>Risk cycle:</strong> identify → assess → evaluate → respond
+→ report.</li>
+<li><strong>Risk types:</strong> operational, market, correlation,
+political/legal, gap, capital, technology, credit/counterparty,
+liquidity, regulatory, interconnected/systemic.</li>
+<li><strong>Trap:</strong> a negative CAR is not an automatic bar (with
+written confirmations); a negative CKA is a bar unless the firm can give
+advice as an exempt financial adviser.</li>
 </ul>
-<h2 id="res-2b-appendices">RES 2B appendices</h2>
+<h1 id="2b-appendices">2B appendices</h1>
 <ul>
 <li><strong>Appendix A — CAR:</strong> education/professional
 qualification, six listed-SIP transactions in three years, or three
@@ -2550,7 +2408,7 @@ guidance on CMS licensing, competency, fit-and-proper criteria, sale of
 investment products, OTC derivatives and AML/CFT; and SGX, ICE Clear
 Singapore, APEX and APEX Clear rules and procedures.</li>
 </ul>
-<h2 id="final-revision-checklist">Final revision checklist</h2>
+<h1 id="final-revision-checklist">Final revision checklist</h1>
 <p>Before an examination, be able to explain the difference between:</p>
 <ul>
 <li>primary and secondary markets;</li>

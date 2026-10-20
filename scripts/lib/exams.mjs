@@ -30,6 +30,9 @@ export const EXAMS = [
     bank: 'notes/cmsip/CMSIP_QUESTIONS.md',
     bankFormat: 'bold',
     chapterSource: 'heading',
+    // The guide is one markdown file per chapter; `guide` is the legacy monolith
+    // that `scripts/split-guides.mjs` splits from and that is deleted afterwards.
+    guideDir: 'notes/cmsip/guide',
     guide: 'notes/cmsip/CMSIP_AI.md',
     stub: 'notes/cmsip/CMSIP.md',
     guideIntroTitle: 'Introduction and exam orientation',
@@ -67,6 +70,7 @@ export const EXAMS = [
     bank: 'notes/fmrp/FMRP_QUESTIONS.md',
     bankFormat: 'heading',
     chapterSource: 'heading',
+    guideDir: 'notes/fmrp/guide',
     guide: 'notes/fmrp/FMRP_AI.md',
     stub: 'notes/fmrp/FMRP.md',
     guideIntroTitle: 'Introduction and core learning sequence',
@@ -104,6 +108,7 @@ export const EXAMS = [
     bank: 'notes/res12b/RES12B_QUESTIONS.md',
     bankFormat: 'heading',
     chapterSource: 'sourceTag',
+    guideDir: 'notes/res12b/guide',
     guide: 'notes/res12b/RES12B_AI.md',
     stub: 'notes/res12b/RES12B.md',
     guideIntroTitle: 'Introduction and coverage map',

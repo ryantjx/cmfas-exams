@@ -29,3 +29,9 @@ src/content/docs/
 src/data/
 public/banks/
 public/downloads/
+
+# Extracted text from the official study-guide PDFs (rebuilt on demand, ~1,000 files).
+.cache/
+
+# Scratch directory used by scripts/build-pdfs.mjs while assembling the documents.
+notes/*/output/.build/

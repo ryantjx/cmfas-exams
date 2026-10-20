@@ -18,6 +18,11 @@ A static study site for the Singapore capital markets exams — **RES 12B**,
 Nothing is persisted — no accounts, no cookies, no `localStorage`. Progress lives
 only in the open page.
 
+CMSIP: `notes/cmsip/CM-SIP Study Guide v1.1 - January 2026 (FINAL).pdf`
+RES12B: `notes/res12b/RES 12B Combined.pdf`
+FMRP: `notes/fmrp/FMRP Study Guide v3.2.pdf`
+
+
 ## Source of truth
 
 The markdown under `notes/` is **never modified** by the build:

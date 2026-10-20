@@ -26,7 +26,8 @@ import { copyFileSync, existsSync, mkdirSync, rmSync, writeFileSync } from 'node
 import path from 'node:path';
 
 import { EXAMS, HOME, STUDY_PLAN } from './lib/exams.mjs';
-import { shiftHeadings, splitGuide } from './lib/questions.mjs';
+import { loadGuide } from './lib/guide.mjs';
+import { shiftHeadings } from './lib/questions.mjs';
 import {
   REPO_ROOT,
   chapterLabel,
@@ -205,9 +206,14 @@ const sidebarExams = [];
 const practiceExams = [];
 
 for (const exam of EXAMS) {
-  const guideLines = readLines(exam.guide);
-  const { intro, pages } = splitGuide(exam, guideLines);
-  const guideChapters = pages.filter((p) => p.kind === 'chapter' || p.kind === 'appendix' || p.kind === 'appendix-group');
+  const { intro, pages } = loadGuide(exam);
+  const guideChapters = pages.filter(
+    (p) =>
+      p.kind === 'chapter' ||
+      p.kind === 'appendix' ||
+      p.kind === 'appendix-group' ||
+      p.kind === 'section',
+  );
 
   // The bank (and its chapter rollup) is needed by both the overview count and
   // the practice catalogue, so read it before either is written.

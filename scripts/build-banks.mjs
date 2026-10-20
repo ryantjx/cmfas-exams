@@ -14,7 +14,8 @@ import { mkdirSync, rmSync, writeFileSync } from 'node:fs';
 import path from 'node:path';
 
 import { EXAMS, DAILY_QUIZ_SIZE } from './lib/exams.mjs';
-import { extractGuideChapters, parseBank } from './lib/questions.mjs';
+import { extractGuideChapters } from './lib/guide.mjs';
+import { parseBank } from './lib/questions.mjs';
 import { REPO_ROOT, chapterLabel, readLines } from './lib/util.mjs';
 
 const DATA_DIR = path.join(REPO_ROOT, 'src', 'data', 'banks');
@@ -31,8 +32,7 @@ let failed = false;
 
 for (const exam of EXAMS) {
   const bankLines = readLines(exam.bank);
-  const guideLines = readLines(exam.guide);
-  const guideChapters = extractGuideChapters(exam, guideLines);
+  const guideChapters = extractGuideChapters(exam);
 
   const { questions, issues, warnings } = parseBank(exam, bankLines, guideChapters);
 

@@ -17,8 +17,8 @@
  */
 
 import { EXAMS } from './lib/exams.mjs';
-import { splitGuide } from './lib/questions.mjs';
-import { countWords, readLines } from './lib/util.mjs';
+import { listGuideFiles, readGuideFile } from './lib/guide.mjs';
+import { countWords } from './lib/util.mjs';
 
 const strict = process.argv.includes('--strict');
 
@@ -50,11 +50,13 @@ function structureRatio(lines) {
 let totalFindings = 0;
 
 for (const exam of EXAMS) {
-  const lines = readLines(exam.guide);
-  const { pages } = splitGuide(exam, lines);
-  const guidePages = pages.filter(
-    (p) => p.kind === 'chapter' || p.kind === 'appendix' || p.kind === 'appendix-group',
-  );
+  // Lint the files as authored: each page is its own file now, so the findings can
+  // name a path instead of a line offset inside a 1,200-line monolith.
+  const files = listGuideFiles(exam).map((name) => readGuideFile(exam, name));
+  const lines = files.flatMap((f) => f.lines);
+  const guidePages = files
+    .filter((f) => f.fields.kind !== 'intro')
+    .map((f) => ({ title: f.fields.title, kind: f.fields.kind, lines: f.lines }));
 
   const metaHits = [];
   lines.forEach((line, index) => {

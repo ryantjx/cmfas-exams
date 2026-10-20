@@ -4,179 +4,44 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>CM-SIP Study Guide</title>
+  <title>CM-SIP — Study Guide</title>
   <style>
-    /* Default styles provided by pandoc.
-    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
-    */
-    html {
-      color: #1a1a1a;
-      background-color: #fdfdfd;
-    }
-    body {
-      margin: 0 auto;
-      max-width: 36em;
-      padding-left: 50px;
-      padding-right: 50px;
-      padding-top: 50px;
-      padding-bottom: 50px;
-      hyphens: auto;
-      overflow-wrap: break-word;
-      text-rendering: optimizeLegibility;
-      font-kerning: normal;
-    }
-    @media (max-width: 600px) {
-      body {
-        font-size: 0.9em;
-        padding: 12px;
-      }
-      h1 {
-        font-size: 1.8em;
-      }
-    }
-    @media print {
-      html {
-        background-color: white;
-      }
-      body {
-        background-color: transparent;
-        color: black;
-        font-size: 12pt;
-      }
-      p, h2, h3 {
-        orphans: 3;
-        widows: 3;
-      }
-      h2, h3, h4 {
-        page-break-after: avoid;
-      }
-    }
-    p {
-      margin: 1em 0;
-    }
-    a {
-      color: #1a1a1a;
-    }
-    a:visited {
-      color: #1a1a1a;
-    }
-    img {
-      max-width: 100%;
-    }
-    svg {
-      height: auto;
-      max-width: 100%;
-    }
-    h1, h2, h3, h4, h5, h6 {
-      margin-top: 1.4em;
-    }
-    h5, h6 {
-      font-size: 1em;
-      font-style: italic;
-    }
-    h6 {
-      font-weight: normal;
-    }
-    ol, ul {
-      padding-left: 1.7em;
-      margin-top: 1em;
-    }
-    li > ol, li > ul {
-      margin-top: 0;
-    }
-    blockquote {
-      margin: 1em 0 1em 1.7em;
-      padding-left: 1em;
-      border-left: 2px solid #e6e6e6;
-      color: #606060;
-    }
-    code {
-      white-space: pre-wrap;
-      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
-      font-size: 85%;
-      margin: 0;
-      hyphens: manual;
-    }
-    pre {
-      margin: 1em 0;
-      overflow: auto;
-    }
-    pre code {
-      padding: 0;
-      overflow: visible;
-      overflow-wrap: normal;
-    }
-    .sourceCode {
-     background-color: transparent;
-     overflow: visible;
-    }
-    hr {
-      border: none;
-      border-top: 1px solid #1a1a1a;
-      height: 1px;
-      margin: 1em 0;
-    }
-    table {
-      margin: 1em 0;
-      border-collapse: collapse;
-      width: 100%;
-      overflow-x: auto;
-      display: block;
-      font-variant-numeric: lining-nums tabular-nums;
-    }
-    table caption {
-      margin-bottom: 0.75em;
-    }
-    tbody {
-      margin-top: 0.5em;
-      border-top: 1px solid #1a1a1a;
-      border-bottom: 1px solid #1a1a1a;
-    }
-    th {
-      border-top: 1px solid #1a1a1a;
-      padding: 0.25em 0.5em 0.25em 0.5em;
-    }
-    td {
-      padding: 0.125em 0.5em 0.25em 0.5em;
-    }
-    header {
-      margin-bottom: 4em;
-      text-align: center;
-    }
-    #TOC li {
-      list-style: none;
-    }
-    #TOC ul {
-      padding-left: 1.3em;
-    }
-    #TOC > ul {
-      padding-left: 0;
-    }
-    #TOC a:not(:hover) {
-      text-decoration: none;
-    }
-    span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: min(4vw, 1.5em);}
-    div.column{flex: auto; overflow-x: auto;}
-    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    /* The extra [class] is a hack that increases specificity enough to
-       override a similar rule in reveal.js */
-    ul.task-list[class]{list-style: none;}
-    ul.task-list li input[type="checkbox"] {
-      font-size: inherit;
-      width: 0.8em;
-      margin: 0 0.8em 0.2em -1.6em;
-      vertical-align: middle;
-    }
-  </style>
+
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+
+ul.task-list[class]{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+font-size: inherit;
+width: 0.8em;
+margin: 0 0.8em 0.2em -1.6em;
+vertical-align: middle;
+}
+.display.math{display: block; text-align: center; margin: 0.5rem auto;}
+</style>
+  <style type="text/css">
+body { max-width: 46em; margin: 0 auto; padding: 2em 1em; font: 16px/1.6 -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; color: #1a1a1a; }
+h1 { font-size: 1.9em; border-bottom: 2px solid #1a1a1a; padding-bottom: .3em; margin-top: 2.2em; page-break-before: always; }
+h1:first-of-type { page-break-before: auto; margin-top: 0; }
+h2 { font-size: 1.35em; margin-top: 1.8em; }
+h3 { font-size: 1.12em; margin-top: 1.5em; }
+table { border-collapse: collapse; width: 100%; margin: 1em 0; font-size: .93em; }
+th, td { border: 1px solid #bbb; padding: .35em .5em; text-align: left; vertical-align: top; }
+th { background: #f2f2f2; }
+code { background: #f4f4f4; padding: .1em .3em; border-radius: 3px; font-size: .9em; }
+details { margin: .8em 0; padding: .5em .8em; background: #f8f8f8; border-left: 3px solid #888; }
+summary { cursor: pointer; font-weight: 600; }
+blockquote { margin: 1em 0; padding-left: 1em; border-left: 3px solid #ddd; color: #555; }
+</style>
 </head>
 <body>
 <header id="title-block-header">
-<h1 class="title">CM-SIP Study Guide</h1>
+<h1 class="title">CM-SIP — Study Guide</h1>
 </header>
 <h1 id="cm-sip--study-guide">CM-SIP — Study Guide</h1>
-<h2
-id="capital-markets--specified-investment-products-sip-derivatives-and-collective-investment-schemes">Capital
+<h2 id="capital-markets--specified-investment-products-sip-derivatives-and-collective-investment-schemes">Capital
 Markets – Specified Investment Products (SIP): Derivatives and
 Collective Investment Schemes</h2>
 <p>A concise guide to the CM-SIP examination: derivatives, structured
@@ -279,8 +144,7 @@ exposures:</p>
 </tr>
 </tbody>
 </table>
-<h1 id="chapter-1--overview-of-derivatives">Chapter 1 — Overview of
-Derivatives</h1>
+<h1 id="overview-of-derivatives">Overview of Derivatives</h1>
 <h2 id="learning-objectives">Learning objectives</h2>
 <p>Understand what derivatives and structured products are, identify
 their underlying asset classes and uses, distinguish exchange-traded
@@ -421,8 +285,7 @@ bilateral credit exposure, physical versus cash settlement, ownership
 versus synthetic exposure, and hedging versus speculation. Always
 identify the underlying, the direction of exposure, leverage/margin,
 settlement, liquidity and counterparty.</p>
-<h1 id="chapter-2--futures-forwards-and-swaps">Chapter 2 — Futures,
-Forwards and Swaps</h1>
+<h1 id="futures-forwards-and-swaps">Futures, Forwards and Swaps</h1>
 <h2 id="21-introduction-to-futures-and-forwards">2.1 Introduction to
 futures and forwards</h2>
 <p>A futures contract is a standardised exchange-traded agreement to buy
@@ -484,13 +347,13 @@ ounces × (USD1,288.50 − USD1,259.10) = USD294,000 before costs.</p>
 interest-rate and currency futures. Other possible underlyings include
 weather, freight, real estate, crypto and volatility references.</p>
 <h3 id="interest-rate-futures">Interest-rate futures</h3>
-<p>Short-term futures are often quoted as
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>P</mi><mo>=</mo><mn>100</mn><mo stretchy="false" form="prefix">(</mo><mn>1</mn><mo>−</mo><mi>R</mi><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">P = 100(1 - R)</annotation></semantics></math>,
-so a higher implied rate produces a lower price. For long-term forward
-rates, use:</p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mrow><mo stretchy="true" form="prefix">(</mo><mn>1</mn><mo>+</mo><mfrac><mrow><msub><mi>d</mi><mn>1</mn></msub><msub><mi>r</mi><mn>1</mn></msub></mrow><mn>360</mn></mfrac><mo stretchy="true" form="postfix">)</mo></mrow><mrow><mo stretchy="true" form="prefix">(</mo><mn>1</mn><mo>+</mo><mfrac><mrow><msub><mi>d</mi><mn>2</mn></msub><msub><mi>r</mi><mn>2</mn></msub></mrow><mn>360</mn></mfrac><mo stretchy="true" form="postfix">)</mo></mrow><mo>=</mo><mrow><mo stretchy="true" form="prefix">(</mo><mn>1</mn><mo>+</mo><mfrac><mrow><mi>D</mi><mi>R</mi></mrow><mn>360</mn></mfrac><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">
-\left(1 + \frac{d_1 r_1}{360}\right)\left(1 + \frac{d_2 r_2}{360}\right) = \left(1 + \frac{DR}{360}\right)
-</annotation></semantics></math></p>
+<p>Short-term futures are often quoted as <span class="math display"><em>P</em> = 100(1 − <em>R</em>)</span>, so a
+higher implied rate produces a lower price. For long-term forward rates,
+use:</p>
+<p><span class="math display">$$
+\left(1 + \frac{d_1 r_1}{360}\right)\left(1 + \frac{d_2 r_2}{360}\right)
+= \left(1 + \frac{DR}{360}\right)
+$$</span></p>
 <p><strong>Worked example.</strong> Given a 45-day rate of 1.25% and a
 135-day rate of 1.75%, the implied 90-day forward rate is approximately
 <strong>2%</strong> using the stated day-count convention. A Mini-JGB
@@ -499,15 +362,13 @@ Treasury-note examples show how a tick change translates into
 P&amp;L.</p>
 <h3 id="currency-futures">Currency futures</h3>
 <p>Interest-rate parity links spot and forward/futures rates:</p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>F</mi><mo>=</mo><mi>S</mi><mo>×</mo><mfrac><mrow><mn>1</mn><mo>+</mo><msub><mi>R</mi><mi>c</mi></msub><mspace width="0.167em"></mspace><mo stretchy="false" form="prefix">(</mo><mi>n</mi><mi>/</mi><mn>360</mn><mo stretchy="false" form="postfix">)</mo></mrow><mrow><mn>1</mn><mo>+</mo><msub><mi>R</mi><mi>b</mi></msub><mspace width="0.167em"></mspace><mo stretchy="false" form="prefix">(</mo><mi>n</mi><mi>/</mi><mn>360</mn><mo stretchy="false" form="postfix">)</mo></mrow></mfrac></mrow><annotation encoding="application/x-tex">
+<p><span class="math display">$$
 F = S \times \frac{1 + R_c\,(n/360)}{1 + R_b\,(n/360)}
-</annotation></semantics></math></p>
-<p>where
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><msub><mi>R</mi><mi>b</mi></msub><annotation encoding="application/x-tex">R_b</annotation></semantics></math>
-is the base-currency rate and
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><msub><mi>R</mi><mi>c</mi></msub><annotation encoding="application/x-tex">R_c</annotation></semantics></math>
-is the counter-currency rate. With GBP/USD spot 1.2422, UK rate 0.70444%
-and US rate 1.799%, the one-year theoretical forward is approximately
+$$</span></p>
+<p>where <span class="math display"><em>R</em><sub><em>b</em></sub></span> is the
+base-currency rate and <span class="math display"><em>R</em><sub><em>c</em></sub></span> is the
+counter-currency rate. With GBP/USD spot 1.2422, UK rate 0.70444% and US
+rate 1.799%, the one-year theoretical forward is approximately
 1.2557.</p>
 <h3 id="equity-index-futures-and-ssfs">Equity-index futures and
 SSFs</h3>
@@ -515,17 +376,14 @@ SSFs</h3>
 with buying shares, index futures provide cash-settled diversified
 exposure, daily MTM, leverage, short exposure without borrowing stock,
 and no direct dividend entitlement. Fair value is:</p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>F</mi><mo>=</mo><mi>S</mi><mrow><mo stretchy="true" form="prefix">[</mo><mn>1</mn><mo>+</mo><mi>r</mi><mspace width="0.167em"></mspace><mo stretchy="false" form="prefix">(</mo><mi>t</mi><mi>/</mi><mn>360</mn><mo stretchy="false" form="postfix">)</mo><mo stretchy="true" form="postfix">]</mo></mrow><mo>−</mo><mi>D</mi></mrow><annotation encoding="application/x-tex">
-F = S\left[1 + r\,(t/360)\right] - D
-</annotation></semantics></math></p>
-<p>where
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>D</mi><annotation encoding="application/x-tex">D</annotation></semantics></math>
-is dividends before expiry. The difference between futures and spot is
-the basis; convergence and cash-and-carry/reverse cash-and-carry
-arbitrage constrain mispricing. Single-stock futures (SSFs) similarly
-provide transparent, leveraged, exchange-traded long/short exposure, but
-a short position may add selling pressure and remains exposed to
-leverage and basis/roll factors.</p>
+<p><span class="math display"><em>F</em> = <em>S</em>[1 + <em>r</em> (<em>t</em>/360)] − <em>D</em></span></p>
+<p>where <span class="math display"><em>D</em></span> is dividends
+before expiry. The difference between futures and spot is the basis;
+convergence and cash-and-carry/reverse cash-and-carry arbitrage
+constrain mispricing. Single-stock futures (SSFs) similarly provide
+transparent, leveraged, exchange-traded long/short exposure, but a short
+position may add selling pressure and remains exposed to leverage and
+basis/roll factors.</p>
 <h2 id="24-settlement-clearing-and-sgx-orders">2.4 Settlement, clearing
 and SGX orders</h2>
 <p>A futures position can be (1) held to physical delivery, (2) held to
@@ -544,9 +402,7 @@ groups quarterly contracts across a 2–5 year horizon; quotes may show
 the average net change.</p>
 <h2 id="25-futures-pricing-model">2.5 Futures pricing model</h2>
 <p>The cost-of-carry model is:</p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>F</mi><mrow><mn>0</mn><mo>,</mo><mi>t</mi></mrow></msub><mo>=</mo><msub><mi>S</mi><mn>0</mn></msub><mrow><mo stretchy="true" form="prefix">(</mo><mn>1</mn><mo>+</mo><msub><mi>C</mi><mrow><mn>0</mn><mo>,</mo><mi>t</mi></mrow></msub><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">
-F_{0,t} = S_0\left(1 + C_{0,t}\right)
-</annotation></semantics></math></p>
+<p><span class="math display"><em>F</em><sub>0, <em>t</em></sub> = <em>S</em><sub>0</sub>(1 + <em>C</em><sub>0, <em>t</em></sub>)</span></p>
 <p>Carry may include financing, storage, insurance and transport, less
 income or convenience yield. Under no-arbitrage:</p>
 <ul>
@@ -564,9 +420,8 @@ unavailable. Real markets also contain risk premia and expectations, so
 an apparent difference is not automatically risk-free.</p>
 <h2 id="26-basis">2.6 Basis</h2>
 <p>For hedging, define basis consistently as:</p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">basis</mtext><mo>=</mo><mtext mathvariant="normal">spot/cash price of the asset being hedged</mtext><mo>−</mo><mtext mathvariant="normal">futures price</mtext></mrow><annotation encoding="application/x-tex">
-\text{basis} = \text{spot/cash price of the asset being hedged} - \text{futures price}
-</annotation></semantics></math></p>
+<p><span class="math display">basis = spot/cash price of the asset being
+hedged − futures price</span></p>
 <p>Basis converges toward zero at expiry when the same
 deliverable/settlement reference is used. <strong>Contango</strong>
 means futures above spot; <strong>backwardation</strong> means futures
@@ -609,8 +464,7 @@ forwards and swaps are usually customised OTC. Pricing is driven by
 carry and parity, but basis, liquidity, margin and credit constraints
 matter. Swaps exchange exposures rather than principal ownership and are
 powerful but documentation- and counterparty-dependent.</p>
-<h1 id="chapter-3--futures-strategies">Chapter 3 — Futures
-Strategies</h1>
+<h1 id="futures-strategies">Futures Strategies</h1>
 <h2 id="31-market-participants">3.1 Market participants</h2>
 <ul>
 <li><strong>Hedgers:</strong> offset a cash exposure (e.g., a stock
@@ -680,15 +534,13 @@ moves the other way. An EUR/USD bearish-calendar example produces about
 <h3 id="butterflies-condors-and-credit-spreads">Butterflies, condors and
 credit spreads</h3>
 <ul>
-<li><strong>Butterfly:</strong> four legs with weights
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>+</mi><mn>1</mn><mo>,</mo><mspace width="0.222em"></mspace><mo>−</mo><mn>2</mn><mo>,</mo><mspace width="0.222em"></mspace><mo>+</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">+1,\ -2,\ +1</annotation></semantics></math>
-across three maturities; it targets curvature/relative richness and is
-usually more market-neutral than an outright.</li>
+<li><strong>Butterfly:</strong> four legs with weights <span class="math display">+1,  − 2,  + 1</span> across three maturities; it
+targets curvature/relative richness and is usually more market-neutral
+than an outright.</li>
 <li><strong>Double butterfly:</strong> two butterflies combined to
 target a broader curve shape.</li>
-<li><strong>Condor:</strong> four different maturities with
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>+</mi><mn>1</mn><mo>,</mo><mspace width="0.222em"></mspace><mo>−</mo><mn>1</mn><mo>,</mo><mspace width="0.222em"></mspace><mo>−</mo><mn>1</mn><mo>,</mo><mspace width="0.222em"></mspace><mo>+</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">+1,\ -1,\ -1,\ +1</annotation></semantics></math>;
-it normally has a wider but flatter profit zone than a butterfly.</li>
+<li><strong>Condor:</strong> four different maturities with <span class="math display">+1,  − 1,  − 1,  + 1</span>; it normally has a
+wider but flatter profit zone than a butterfly.</li>
 <li><strong>TED spread:</strong> compares T-bill/Treasury and
 Eurodollar/LIBOR pricing; it is a credit/liquidity-risk indicator, not
 merely a pure interest-rate trade.</li>
@@ -711,13 +563,11 @@ hedgeable, correlated, liquid and worth the transaction/margin cost.</p>
 <li>target hedge ratio, limits, monitoring and close-out.</li>
 </ol>
 <h3 id="target-rate-and-hedge-value">Target rate and hedge value</h3>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">Target rate</mtext><mo>=</mo><mtext mathvariant="normal">futures rate</mtext><mo>+</mo><mtext mathvariant="normal">target-rate basis</mtext></mrow><annotation encoding="application/x-tex">
-\text{Target rate} = \text{futures rate} + \text{target-rate basis}
-</annotation></semantics></math></p>
+<p><span class="math display">Target rate = futures rate + target-rate
+basis</span></p>
 <p>For a long cash exposure hedged by a short futures position:</p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>V</mi><mi>t</mi></msub><mo>=</mo><msub><mi>S</mi><mi>t</mi></msub><mo>+</mo><mo stretchy="false" form="prefix">(</mo><mi>F</mi><mo>−</mo><msub><mi>F</mi><mi>t</mi></msub><mo stretchy="false" form="postfix">)</mo><mo>=</mo><mi>F</mi><mo>+</mo><mo stretchy="false" form="prefix">(</mo><msub><mi>S</mi><mi>t</mi></msub><mo>−</mo><msub><mi>F</mi><mi>t</mi></msub><mo stretchy="false" form="postfix">)</mo><mo>=</mo><mtext mathvariant="normal">initial futures price</mtext><mo>+</mo><mtext mathvariant="normal">ending basis</mtext></mrow><annotation encoding="application/x-tex">
-V_t = S_t + (F - F_t) = F + (S_t - F_t) = \text{initial futures price} + \text{ending basis}
-</annotation></semantics></math></p>
+<p><span class="math display"><em>V</em><sub><em>t</em></sub> = <em>S</em><sub><em>t</em></sub> + (<em>F</em> − <em>F</em><sub><em>t</em></sub>) = <em>F</em> + (<em>S</em><sub><em>t</em></sub> − <em>F</em><sub><em>t</em></sub>) = initial
+futures price + ending basis</span></p>
 <h3 id="hedge-styles">Hedge styles</h3>
 <ul>
 <li><strong>Cash hedge:</strong> exposure already exists.</li>
@@ -730,29 +580,30 @@ duration/sensitivity so rate changes have offsetting effects.</li>
 </ul>
 <h3 id="hedge-ratios">Hedge ratios</h3>
 <p>General hedge ratio:</p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>h</mi><mo>=</mo><mfrac><mrow><mi mathvariant="normal">Δ</mi><mi>S</mi></mrow><mrow><mi mathvariant="normal">Δ</mi><mi>F</mi></mrow></mfrac><mo>;</mo><mspace width="2.0em"></mspace><mtext mathvariant="normal">number of contracts</mtext><mo>=</mo><mfrac><mrow><mi>−</mi><mi>h</mi><mo>×</mo><mtext mathvariant="normal">exposure value</mtext></mrow><mtext mathvariant="normal">contract size</mtext></mfrac></mrow><annotation encoding="application/x-tex">
-h = \frac{\Delta S}{\Delta F}; \qquad \text{number of contracts} = \frac{-h \times \text{exposure value}}{\text{contract size}}
-</annotation></semantics></math></p>
+<p><span class="math display">$$
+h = \frac{\Delta S}{\Delta F}; \qquad \text{number of contracts} =
+\frac{-h \times \text{exposure value}}{\text{contract size}}
+$$</span></p>
 <p>A <strong>USD100 million 90-day exposure</strong> against USD1
 million Eurodollar futures needs <strong>100 contracts</strong> per
 90-day period in a stack hedge (a 6-month exposure may require two
 stacks, subject to the question’s exact convention). A USD50m/6-month
 example gives 100 contracts under its stated assumptions.</p>
 <p>For long-term bonds:</p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">hedge ratio</mtext><mo>=</mo><mfrac><mtext mathvariant="normal">PVBP of hedged security</mtext><mtext mathvariant="normal">PVBP of CTD bond</mtext></mfrac><mo>×</mo><mtext mathvariant="normal">conversion factor</mtext></mrow><annotation encoding="application/x-tex">
-\text{hedge ratio} = \frac{\text{PVBP of hedged security}}{\text{PVBP of CTD bond}} \times \text{conversion factor}
-</annotation></semantics></math></p>
+<p><span class="math display">$$
+\text{hedge ratio} = \frac{\text{PVBP of hedged security}}{\text{PVBP of
+CTD bond}} \times \text{conversion factor}
+$$</span></p>
 <p>A worked example produces approximately <strong>157 Treasury-futures
 contracts</strong>. Use DV01/PVBP, not face value alone.</p>
 <p>For an equity portfolio:</p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>N</mi><mo>=</mo><mfrac><mrow><mi>V</mi><mi>P</mi></mrow><mrow><mi>F</mi><mo>×</mo><mi>T</mi></mrow></mfrac><mo>×</mo><mi>β</mi></mrow><annotation encoding="application/x-tex">
+<p><span class="math display">$$
 N = \frac{VP}{F \times T} \times \beta
-</annotation></semantics></math></p>
-<p>where
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>T</mi><annotation encoding="application/x-tex">T</annotation></semantics></math>
-is the contract value per index point. A portfolio example results in
-about 30 S&amp;P contracts and shows that a hedge reduces systematic
-risk while leaving stock-specific and basis risk.</p>
+$$</span></p>
+<p>where <span class="math display"><em>T</em></span> is the contract
+value per index point. A portfolio example results in about 30 S&amp;P
+contracts and shows that a hedge reduces systematic risk while leaving
+stock-specific and basis risk.</p>
 <p>Other applications include currency receivables, floating-rate
 deposits/debt, Nikkei exposure and 130/30 portfolios (long 130% and
 short 30% with net 100% equity exposure).</p>
@@ -780,7 +631,7 @@ relative-value trading.</p>
 arbitrage), what each spread isolates, how to calculate the hedge ratio
 and how margin/MTM changes cash needs. A hedge reduces a targeted risk;
 it does not remove all risks.</p>
-<h1 id="chapter-4--options">Chapter 4 — Options</h1>
+<h1 id="options">Options</h1>
 <h2 id="41-what-is-an-option">4.1 What is an option?</h2>
 <p>An option is a contract in which the buyer pays a premium for a right
 and the seller/writer accepts an obligation. A call gives the holder the
@@ -793,13 +644,10 @@ conventions, including Bermudan or event-dependent exercise. The
 strike/exercise price, expiry, underlying, contract size, settlement and
 style define the option.</p>
 <h2 id="42-features-and-definitions">4.2 Features and definitions</h2>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">option price/premium</mtext><mo>=</mo><mtext mathvariant="normal">intrinsic value</mtext><mo>+</mo><mtext mathvariant="normal">time value</mtext></mrow><annotation encoding="application/x-tex">
-\text{option price/premium} = \text{intrinsic value} + \text{time value}
-</annotation></semantics></math></p>
-<p>For a call,
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>I</mi><mi>V</mi><mo>=</mo><mrow><mi mathvariant="normal">max</mi><mo>&#8289;</mo></mrow><mo stretchy="false" form="prefix">(</mo><mn>0</mn><mo>,</mo><mspace width="0.222em"></mspace><mi>S</mi><mo>−</mo><mi>X</mi><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">IV = \max(0,\ S - X)</annotation></semantics></math>;
-for a put,
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>I</mi><mi>V</mi><mo>=</mo><mrow><mi mathvariant="normal">max</mi><mo>&#8289;</mo></mrow><mo stretchy="false" form="prefix">(</mo><mn>0</mn><mo>,</mo><mspace width="0.222em"></mspace><mi>X</mi><mo>−</mo><mi>S</mi><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">IV = \max(0,\ X - S)</annotation></semantics></math>.
+<p><span class="math display">option price/premium = intrinsic
+value + time value</span></p>
+<p>For a call, <span class="math display"><em>I</em><em>V</em> = max (0, <em>S</em> − <em>X</em>)</span>;
+for a put, <span class="math display"><em>I</em><em>V</em> = max (0, <em>X</em> − <em>S</em>)</span>.
 Time value = premium − intrinsic value.</p>
 <ul>
 <li><strong>ITM:</strong> immediate exercise has positive value.</li>
@@ -817,23 +665,19 @@ contract specifications determine the actual listed series.</p>
 <h2 id="43-option-pricepayoff">4.3 Option price/payoff</h2>
 <p>At expiry, ignoring costs:</p>
 <ul>
-<li>long call payoff =
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mrow><mi mathvariant="normal">max</mi><mo>&#8289;</mo></mrow><mo stretchy="false" form="prefix">(</mo><mn>0</mn><mo>,</mo><mspace width="0.222em"></mspace><mi>S</mi><mo>−</mo><mi>X</mi><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">\max(0,\ S - X)</annotation></semantics></math>;
-profit = payoff − premium;</li>
-<li>long put payoff =
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mrow><mi mathvariant="normal">max</mi><mo>&#8289;</mo></mrow><mo stretchy="false" form="prefix">(</mo><mn>0</mn><mo>,</mo><mspace width="0.222em"></mspace><mi>X</mi><mo>−</mo><mi>S</mi><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">\max(0,\ X - S)</annotation></semantics></math>;
-profit = payoff − premium;</li>
+<li>long call payoff = <span class="math display">max (0, <em>S</em> − <em>X</em>)</span>; profit =
+payoff − premium;</li>
+<li>long put payoff = <span class="math display">max (0, <em>X</em> − <em>S</em>)</span>; profit =
+payoff − premium;</li>
 <li>short call profit = premium − call payoff;</li>
 <li>short put profit = premium − put payoff.</li>
 </ul>
-<p>Long-call breakeven =
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>X</mi><mo>+</mo><mtext mathvariant="normal">premium</mtext></mrow><annotation encoding="application/x-tex">X + \text{premium}</annotation></semantics></math>;
-maximum loss is premium and upside is theoretically unlimited. Long-put
-maximum loss is premium; maximum payoff before premium is
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>X</mi><annotation encoding="application/x-tex">X</annotation></semantics></math>
-if the underlying falls to zero. Naked short calls can have unlimited
-losses; naked short puts can lose substantially down to zero. Covered
-calls and spreads limit some risk.</p>
+<p>Long-call breakeven = <span class="math display"><em>X</em> + premium</span>; maximum loss is
+premium and upside is theoretically unlimited. Long-put maximum loss is
+premium; maximum payoff before premium is <span class="math display"><em>X</em></span> if the underlying falls to zero.
+Naked short calls can have unlimited losses; naked short puts can lose
+substantially down to zero. Covered calls and spreads limit some
+risk.</p>
 <h2 id="44-factors-affecting-premiums">4.4 Factors affecting
 premiums</h2>
 <table>
@@ -889,9 +733,7 @@ volatility, rates, dividends, liquidity and early exercise matter.</p>
 <p>For European options on the same underlying, strike and expiry, with
 consistent units and no dividends (or dividends correctly
 discounted):</p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>C</mi><mo>+</mo><mtext mathvariant="normal">PV</mtext><mo stretchy="false" form="prefix">(</mo><mi>X</mi><mo stretchy="false" form="postfix">)</mo><mo>=</mo><mi>P</mi><mo>+</mo><mi>S</mi></mrow><annotation encoding="application/x-tex">
-C + \text{PV}(X) = P + S
-</annotation></semantics></math></p>
+<p><span class="math display"><em>C</em> + PV(<em>X</em>) = <em>P</em> + <em>S</em></span></p>
 <p>This creates synthetic positions:</p>
 <ul>
 <li>long stock = long call + short put;</li>
@@ -948,8 +790,8 @@ liquidity and embedded-option risk.</li>
 protection against rising rates; floors are put-like protection against
 falling rates; collars combine buying one and selling another.</li>
 <li><strong>Eurodollar/short-rate options:</strong> often quoted on
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>100</mn><mo>−</mo><mtext mathvariant="normal">yield</mtext></mrow><annotation encoding="application/x-tex">100 - \text{yield}</annotation></semantics></math>;
-the tick value converts price changes into dollars.</li>
+<span class="math display">100 − yield</span>; the tick value converts
+price changes into dollars.</li>
 <li><strong>Currency options:</strong> involve two currencies, not just
 a single share price; large notionals and 24-hour markets heighten
 monitoring and counterparty risk.</li>
@@ -1054,9 +896,8 @@ and expiries), condors, ratio hedges, seagulls, and
 protecting/re-centering a short strangle. These extend the same
 principles: identify the market view, volatility view, time exposure,
 maximum loss, margin, and adjustment/roll rules.</p>
-<h1
-id="chapter-5--structured-warrants-and-daily-leveraged-certificates">Chapter
-5 — Structured Warrants and Daily Leveraged Certificates</h1>
+<h1 id="structured-warrants-and-daily-leveraged-certificates">Structured
+Warrants and Daily Leveraged Certificates</h1>
 <h2 id="51-introduction">5.1 Introduction</h2>
 <p>Structured warrants and daily leveraged certificates (DLCs) are
 exchange-traded SIPs. They give leveraged exposure with a smaller cash
@@ -1075,17 +916,14 @@ downside exposure. A zero-strike warrant is economically close to a
 synthetic share exposure because its strike is zero.</p>
 <p>Cash settlement per warrant is:</p>
 <ul>
-<li>call:
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mstyle displaystyle="true"><mfrac><mrow><mi>S</mi><mo>−</mo><mi>X</mi></mrow><mi>n</mi></mfrac></mstyle><annotation encoding="application/x-tex">\dfrac{S - X}{n}</annotation></semantics></math>
-if positive;</li>
-<li>put:
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mstyle displaystyle="true"><mfrac><mrow><mi>X</mi><mo>−</mo><mi>S</mi></mrow><mi>n</mi></mfrac></mstyle><annotation encoding="application/x-tex">\dfrac{X - S}{n}</annotation></semantics></math>
-if positive;</li>
+<li>call: <span class="math display">$$\dfrac{S - X}{n}$$</span> if
+positive;</li>
+<li>put: <span class="math display">$$\dfrac{X - S}{n}$$</span> if
+positive;</li>
 </ul>
-<p>where
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>n</mi><annotation encoding="application/x-tex">n</annotation></semantics></math>
-is the conversion ratio (number of warrants per one underlying unit).
-Physical settlement, if offered, follows the product terms.</p>
+<p>where <span class="math display"><em>n</em></span> is the conversion
+ratio (number of warrants per one underlying unit). Physical settlement,
+if offered, follows the product terms.</p>
 <p>Compared with company-issued warrants, structured warrants are issued
 by an unrelated financial institution and normally do not dilute the
 underlying company. Both can expire worthless and provide no ordinary
@@ -1098,22 +936,17 @@ spread/market-maker liquidity, issuer credit, currency and corporate
 actions.</p>
 <h2 id="53-key-terms">5.3 Key terms</h2>
 <ul>
-<li><strong>Conversion ratio
-(<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>n</mi><annotation encoding="application/x-tex">n</annotation></semantics></math>):</strong>
-warrants needed for one underlying unit.</li>
-<li><strong>Strike/exercise price
-(<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>X</mi><annotation encoding="application/x-tex">X</annotation></semantics></math>):</strong>
-price at which the underlying is bought/sold.</li>
+<li><strong>Conversion ratio (<span class="math display"><em>n</em></span>):</strong> warrants needed for
+one underlying unit.</li>
+<li><strong>Strike/exercise price (<span class="math display"><em>X</em></span>):</strong> price at which the
+underlying is bought/sold.</li>
 <li><strong>Expiry:</strong> final life/exercise date.</li>
 <li><strong>Issue/market price:</strong> amount paid for the
 warrant.</li>
 <li><strong>Settlement:</strong> physical or cash.</li>
-<li><strong>Gearing:</strong> underlying price divided by
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">warrant price</mtext><mo>×</mo><mi>n</mi></mrow><annotation encoding="application/x-tex">\text{warrant price} \times n</annotation></semantics></math>.</li>
-<li><strong>Effective gearing:</strong>
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">delta</mtext><mo>×</mo><mtext mathvariant="normal">gearing</mtext></mrow><annotation encoding="application/x-tex">\text{delta} \times \text{gearing}</annotation></semantics></math>;
-a better approximation of short-term percentage sensitivity than gearing
-alone.</li>
+<li><strong>Gearing:</strong> underlying price divided by <span class="math display">warrant price × <em>n</em></span>.</li>
+<li><strong>Effective gearing:</strong> <span class="math display">delta × gearing</span>; a better approximation of
+short-term percentage sensitivity than gearing alone.</li>
 </ul>
 <p>The SGX code normally identifies underlying, issuer, call/put or
 style and maturity. Always confirm the current term sheet rather than
@@ -1126,10 +959,10 @@ and gearing affect price. A call rises with underlying and volatility
 and generally falls with dividends; a put behaves in the opposite
 direction for spot/dividends. Time value normally decays faster close to
 expiry and is not linear.</p>
-<p>Warrant delta is
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi><mo>×</mo><mstyle displaystyle="true"><mfrac><mtext mathvariant="normal">change in warrant price</mtext><mtext mathvariant="normal">change in underlying</mtext></mfrac></mstyle></mrow><annotation encoding="application/x-tex">n \times \dfrac{\text{change in warrant price}}{\text{change in underlying}}</annotation></semantics></math>.
-Implied volatility is backed out from the observed price; it is not a
-guaranteed prediction.</p>
+<p>Warrant delta is <span class="math display">$$n \times
+\dfrac{\text{change in warrant price}}{\text{change in
+underlying}}$$</span>. Implied volatility is backed out from the
+observed price; it is not a guaranteed prediction.</p>
 <h2 id="55-trading-structured-warrants">5.5 Trading structured
 warrants</h2>
 <p>Calls and puts may be bought to express bullish/bearish views, hedge
@@ -1141,34 +974,23 @@ with moneyness and expiry.</p>
 <h2 id="56-valuation">5.6 Valuation</h2>
 <p>Intrinsic value:</p>
 <ul>
-<li>call:
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mrow><mi mathvariant="normal">max</mi><mo>&#8289;</mo></mrow><mrow><mo stretchy="true" form="prefix">[</mo><mn>0</mn><mo>,</mo><mspace width="0.222em"></mspace><mo stretchy="false" form="prefix">(</mo><mi>S</mi><mo>−</mo><mi>X</mi><mo stretchy="false" form="postfix">)</mo><mi>/</mi><mi>n</mi><mo stretchy="true" form="postfix">]</mo></mrow></mrow><annotation encoding="application/x-tex">\max\left[0,\ (S - X)/n\right]</annotation></semantics></math>;</li>
-<li>put:
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mrow><mi mathvariant="normal">max</mi><mo>&#8289;</mo></mrow><mrow><mo stretchy="true" form="prefix">[</mo><mn>0</mn><mo>,</mo><mspace width="0.222em"></mspace><mo stretchy="false" form="prefix">(</mo><mi>X</mi><mo>−</mo><mi>S</mi><mo stretchy="false" form="postfix">)</mo><mi>/</mi><mi>n</mi><mo stretchy="true" form="postfix">]</mo></mrow></mrow><annotation encoding="application/x-tex">\max\left[0,\ (X - S)/n\right]</annotation></semantics></math>.</li>
+<li>call: <span class="math display">max [0, (<em>S</em> − <em>X</em>)/<em>n</em>]</span>;</li>
+<li>put: <span class="math display">max [0, (<em>X</em> − <em>S</em>)/<em>n</em>]</span>.</li>
 </ul>
 <p>Conversion price:</p>
 <ul>
-<li>call:
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>X</mi><mo>+</mo><mi>n</mi><mo>×</mo><mi>W</mi><mi>P</mi></mrow><annotation encoding="application/x-tex">X + n \times WP</annotation></semantics></math>;</li>
-<li>put:
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>X</mi><mo>−</mo><mi>n</mi><mo>×</mo><mi>W</mi><mi>P</mi></mrow><annotation encoding="application/x-tex">X - n \times WP</annotation></semantics></math>.</li>
+<li>call: <span class="math display"><em>X</em> + <em>n</em> × <em>W</em><em>P</em></span>;</li>
+<li>put: <span class="math display"><em>X</em> − <em>n</em> × <em>W</em><em>P</em></span>.</li>
 </ul>
 <p>The warrant premium is its price above intrinsic value. The formula
 sheet also expresses dollar premium as:</p>
 <ul>
-<li>call:
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi><mi>W</mi><mi>P</mi><mo>+</mo><mi>X</mi><mo>−</mo><mi>S</mi></mrow><annotation encoding="application/x-tex">nWP + X - S</annotation></semantics></math>;</li>
-<li>put:
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi><mi>W</mi><mi>P</mi><mo>−</mo><mi>X</mi><mo>+</mo><mi>S</mi></mrow><annotation encoding="application/x-tex">nWP - X + S</annotation></semantics></math>.</li>
+<li>call: <span class="math display"><em>n</em><em>W</em><em>P</em> + <em>X</em> − <em>S</em></span>;</li>
+<li>put: <span class="math display"><em>n</em><em>W</em><em>P</em> − <em>X</em> + <em>S</em></span>.</li>
 </ul>
 <p>Premium percentage may be calculated against the relevant conversion
-value; state the convention used. A call with
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>X</mi><mo>=</mo><mtext mathvariant="normal">$</mtext><mn>1</mn></mrow><annotation encoding="application/x-tex">X = \text{\$}1</annotation></semantics></math>,
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>W</mi><mi>P</mi><mo>=</mo><mtext mathvariant="normal">$</mtext><mn>1.20</mn></mrow><annotation encoding="application/x-tex">WP = \text{\$}1.20</annotation></semantics></math>,
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">n = 1</annotation></semantics></math>
-has conversion price $2.20. A warrant at $0.40 on a $2.40 share has 6×
-gearing when
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">n = 1</annotation></semantics></math>.</p>
+value; state the convention used. A call with <span class="math display"><em>X</em> = $1</span>, <span class="math display"><em>W</em><em>P</em> = $1.20</span>, <span class="math display"><em>n</em> = 1</span> has conversion price $2.20. A
+warrant at $0.40 on a $2.40 share has 6× gearing when <span class="math display"><em>n</em> = 1</span>.</p>
 <h2 id="57-roles-in-the-market">5.7 Roles in the market</h2>
 <p>The issuer designs, funds and bears issuer risk. A designated market
 maker (DMM) supplies quotes and liquidity subject to product/exchange
@@ -1194,14 +1016,10 @@ contract. Do not assume the final expiry spot is one closing print.</p>
 issues and splits can adjust strike and conversion ratio so that the
 product remains economically comparable. The formula sheet gives:</p>
 <ul>
-<li>dividend adjustment factor
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mstyle displaystyle="true"><mfrac><mrow><mi>P</mi><mo>−</mo><mi>S</mi><mi>D</mi><mo>−</mo><mi>N</mi><mi>D</mi></mrow><mrow><mi>P</mi><mo>−</mo><mi>N</mi><mi>D</mi></mrow></mfrac></mstyle><annotation encoding="application/x-tex">\dfrac{P - SD - ND}{P - ND}</annotation></semantics></math>;</li>
-<li>buyback/cancellation factors
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mstyle displaystyle="true"><mfrac><mi>A</mi><mi>B</mi></mfrac></mstyle><annotation encoding="application/x-tex">\dfrac{A}{B}</annotation></semantics></math>
-and
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mstyle displaystyle="true"><mfrac><mrow><mi>P</mi><mo>−</mo><mi>C</mi><mi>D</mi></mrow><mi>P</mi></mfrac></mstyle><annotation encoding="application/x-tex">\dfrac{P - CD}{P}</annotation></semantics></math>;</li>
-<li>split factor
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mstyle displaystyle="true"><mfrac><mi>A</mi><mi>B</mi></mfrac></mstyle><annotation encoding="application/x-tex">\dfrac{A}{B}</annotation></semantics></math>;</li>
+<li>dividend adjustment factor <span class="math display">$$\dfrac{P -
+SD - ND}{P - ND}$$</span>;</li>
+<li>buyback/cancellation factors <span class="math display">$$\dfrac{A}{B}$$</span> and <span class="math display">$$\dfrac{P - CD}{P}$$</span>;</li>
+<li>split factor <span class="math display">$$\dfrac{A}{B}$$</span>;</li>
 </ul>
 <p>with the new strike = old strike × factors and new conversion ratio =
 old conversion ratio × factors. Read the issuer’s adjustment
@@ -1247,9 +1065,8 @@ time value and is shaped by conversion ratio, gearing, volatility,
 dividends, rates, time, liquidity and issuer credit. DLCs amplify daily
 returns and reset, making path dependency and compounding central risks.
 SIP/CAR suitability and disclosure are part of the product analysis.</p>
-<h1
-id="chapter-6--barrier-options-binary-options-and-callable-contracts">Chapter
-6 — Barrier Options, Binary Options and Callable Contracts</h1>
+<h1 id="barrier-options-binary-options-and-callable-contracts">Barrier
+Options, Binary Options and Callable Contracts</h1>
 <h2 id="61-introduction">6.1 Introduction</h2>
 <p>Exotic derivatives add exercise events, path-dependent barriers,
 binary payoffs, baskets, Quanto conversion, unusual underlyings or
@@ -1348,9 +1165,10 @@ contracts (CBBCs)</h2>
 linked to an equity/index. A bull profits from a rise; a bear profits
 from a fall. Delta is often close to 1 before the call event, and
 gearing is:</p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">gearing</mtext><mo>=</mo><mfrac><mtext mathvariant="normal">underlying price</mtext><mrow><mtext mathvariant="normal">CBBC price</mtext><mo>×</mo><mtext mathvariant="normal">conversion ratio</mtext></mrow></mfrac></mrow><annotation encoding="application/x-tex">
-\text{gearing} = \frac{\text{underlying price}}{\text{CBBC price} \times \text{conversion ratio}}
-</annotation></semantics></math></p>
+<p><span class="math display">$$
+\text{gearing} = \frac{\text{underlying price}}{\text{CBBC price} \times
+\text{conversion ratio}}
+$$</span></p>
 <p>The <strong>mandatory call event (MCE)</strong> is triggered when the
 underlying reaches the call price: for a bear, spot rises to/above the
 call price; for a bull, spot falls to/below it.</p>
@@ -1366,17 +1184,19 @@ equal” to strike.</li>
 </ul>
 <p>Theoretical price (simplified source formula):</p>
 <ul>
-<li>bull =
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mstyle displaystyle="true"><mfrac><mrow><mo stretchy="false" form="prefix">(</mo><mtext mathvariant="normal">underlying</mtext><mo>−</mo><mtext mathvariant="normal">strike</mtext><mo stretchy="false" form="postfix">)</mo><mo>+</mo><mtext mathvariant="normal">financial cost</mtext></mrow><mtext mathvariant="normal">conversion ratio</mtext></mfrac></mstyle><annotation encoding="application/x-tex">\dfrac{(\text{underlying} - \text{strike}) + \text{financial cost}}{\text{conversion ratio}}</annotation></semantics></math>;</li>
-<li>bear =
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mstyle displaystyle="true"><mfrac><mrow><mo stretchy="false" form="prefix">(</mo><mtext mathvariant="normal">strike</mtext><mo>−</mo><mtext mathvariant="normal">underlying</mtext><mo stretchy="false" form="postfix">)</mo><mo>+</mo><mtext mathvariant="normal">financial cost</mtext></mrow><mtext mathvariant="normal">conversion ratio</mtext></mfrac></mstyle><annotation encoding="application/x-tex">\dfrac{(\text{strike} - \text{underlying}) + \text{financial cost}}{\text{conversion ratio}}</annotation></semantics></math>.</li>
+<li>bull = <span class="math display">$$\dfrac{(\text{underlying} -
+\text{strike}) + \text{financial cost}}{\text{conversion
+ratio}}$$</span>;</li>
+<li>bear = <span class="math display">$$\dfrac{(\text{strike} -
+\text{underlying}) + \text{financial cost}}{\text{conversion
+ratio}}$$</span>.</li>
 </ul>
 <p>Residual value for R-CBBCs:</p>
 <ul>
-<li>bull =
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mstyle displaystyle="true"><mfrac><mrow><mtext mathvariant="normal">settlement price</mtext><mo>−</mo><mtext mathvariant="normal">strike</mtext></mrow><mtext mathvariant="normal">conversion ratio</mtext></mfrac></mstyle><annotation encoding="application/x-tex">\dfrac{\text{settlement price} - \text{strike}}{\text{conversion ratio}}</annotation></semantics></math>;</li>
-<li>bear =
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mstyle displaystyle="true"><mfrac><mrow><mtext mathvariant="normal">strike</mtext><mo>−</mo><mtext mathvariant="normal">settlement price</mtext></mrow><mtext mathvariant="normal">conversion ratio</mtext></mfrac></mstyle><annotation encoding="application/x-tex">\dfrac{\text{strike} - \text{settlement price}}{\text{conversion ratio}}</annotation></semantics></math>.</li>
+<li>bull = <span class="math display">$$\dfrac{\text{settlement price} -
+\text{strike}}{\text{conversion ratio}}$$</span>;</li>
+<li>bear = <span class="math display">$$\dfrac{\text{strike} -
+\text{settlement price}}{\text{conversion ratio}}$$</span>.</li>
 </ul>
 <p>The settlement price is subject to the MCE observation rules: a
 <strong>bull</strong> uses the <strong>minimum</strong> and a
@@ -1451,9 +1271,8 @@ reinforces that a product’s marketing label is not a risk description.
 Recalculate the payoff under spot up, spot down, barrier touched,
 barrier not touched, early termination, maturity and issuer-default
 scenarios.</p>
-<h1
-id="chapter-7--structured-deposits-and-other-structured-products">Chapter
-7 — Structured Deposits and Other Structured Products</h1>
+<h1 id="structured-deposits-and-other-structured-products">Structured
+Deposits and Other Structured Products</h1>
 <h2 id="71-structured-products-purpose-and-suitability">7.1 Structured
 products: purpose and suitability</h2>
 <p>Structured products combine a deposit, note, fund, warrant, ILP,
@@ -1524,7 +1343,7 @@ headline yield.</p>
 that yield enhancement is commonly the premium received for selling an
 option. It reinforces early withdrawal, currency conversion, barrier and
 suitability issues.</p>
-<h1 id="chapter-8--structured-notes">Chapter 8 — Structured Notes</h1>
+<h1 id="structured-notes">Structured Notes</h1>
 <h2 id="81-notes">8.1 Notes</h2>
 <p>A structured note is a debt/debenture obligation whose return is
 linked to an underlying equity, index, currency, commodity, rate, credit
@@ -1555,14 +1374,12 @@ worst-of and access notes;</li>
 enhancement and capital preservation</h2>
 <h3 id="range-accrual-notes-ran">Range accrual notes (RAN)</h3>
 <p>A RAN pays a high rate on observations inside a stated range and a
-lower rate outside. If
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>n</mi><annotation encoding="application/x-tex">n</annotation></semantics></math>
-of
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mi>N</mi><annotation encoding="application/x-tex">N</annotation></semantics></math>
-observations are inside:</p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">payout</mtext><mo>=</mo><msub><mi>P</mi><mn>1</mn></msub><mfrac><mi>n</mi><mi>N</mi></mfrac><mo>+</mo><msub><mi>P</mi><mn>2</mn></msub><mfrac><mrow><mi>N</mi><mo>−</mo><mi>n</mi></mrow><mi>N</mi></mfrac></mrow><annotation encoding="application/x-tex">
+lower rate outside. If <span class="math display"><em>n</em></span> of
+<span class="math display"><em>N</em></span> observations are
+inside:</p>
+<p><span class="math display">$$
 \text{payout} = P_1\frac{n}{N} + P_2\frac{N - n}{N}
-</annotation></semantics></math></p>
+$$</span></p>
 <p>The term sheet defines reference index, range, observation frequency,
 payout rates, minimum/maximum, call rights, settlement and whether the
 condition is observed at expiry or throughout life.</p>
@@ -1572,10 +1389,10 @@ creates reinvestment risk: the investor loses the attractive coupon and
 may only reinvest at lower rates. A callable deposit/return is not the
 same as a bond held to maturity.</p>
 <h3 id="inverse-floater">Inverse floater</h3>
-<p>Coupon typically follows
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mrow><mi mathvariant="normal">max</mi><mo>&#8289;</mo></mrow><mrow><mo stretchy="true" form="prefix">[</mo><mi>X</mi><mi>%</mi><mo>−</mo><mtext mathvariant="normal">leverage</mtext><mo>×</mo><mtext mathvariant="normal">floating-rate index</mtext><mo>,</mo><mspace width="0.222em"></mspace><mtext mathvariant="normal">minimum coupon</mtext><mo stretchy="true" form="postfix">]</mo></mrow></mrow><annotation encoding="application/x-tex">\max\left[X\% - \text{leverage} \times \text{floating-rate index},\ \text{minimum coupon}\right]</annotation></semantics></math>.
-It benefits from falling rates but can fall to the floor when rates
-rise; leverage makes rate risk nonlinear.</p>
+<p>Coupon typically follows <span class="math display">max [<em>X</em>% − leverage × floating-rate
+index, minimum coupon]</span>. It benefits from falling rates but can
+fall to the floor when rates rise; leverage makes rate risk
+nonlinear.</p>
 <h3 id="step-up-callable-note-csun-type">Step-up callable note
 (CSUN-type)</h3>
 <p>Coupons step up on a schedule, but the issuer may call; investors
@@ -1642,7 +1459,7 @@ under the SFA framework, submitted with the prospectus at lodgement,
 made available with/alongside the prospectus (including online), and
 follows the prescribed format/headings as a minimum while adding
 material information needed for investor understanding.</p>
-<h1 id="chapter-9--structured-funds">Chapter 9 — Structured Funds</h1>
+<h1 id="structured-funds">Structured Funds</h1>
 <h2 id="91-structured-funds">9.1 Structured funds</h2>
 <p>A structured fund combines securities and/or derivatives to create a
 specified risk-return profile, capital-preservation objective,
@@ -1682,18 +1499,15 @@ issuer/fund risk.</p>
 <h3 id="cppi">CPPI</h3>
 <p>Constant proportion portfolio insurance allocates between risky and
 risk-free assets:</p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">cushion</mtext><mo>=</mo><mtext mathvariant="normal">portfolio value</mtext><mo>−</mo><mtext mathvariant="normal">floor value</mtext></mrow><annotation encoding="application/x-tex">
-\text{cushion} = \text{portfolio value} - \text{floor value}
-</annotation></semantics></math></p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">multiplier</mtext><mo>=</mo><mfrac><mn>1</mn><mtext mathvariant="normal">crash size</mtext></mfrac></mrow><annotation encoding="application/x-tex">
+<p><span class="math display">cushion = portfolio value − floor
+value</span></p>
+<p><span class="math display">$$
 \text{multiplier} = \frac{1}{\text{crash size}}
-</annotation></semantics></math></p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">risky allocation</mtext><mo>=</mo><mtext mathvariant="normal">multiplier</mtext><mo>×</mo><mtext mathvariant="normal">cushion</mtext></mrow><annotation encoding="application/x-tex">
-\text{risky allocation} = \text{multiplier} \times \text{cushion}
-</annotation></semantics></math></p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">risk-free allocation</mtext><mo>=</mo><mtext mathvariant="normal">portfolio value</mtext><mo>−</mo><mtext mathvariant="normal">risky allocation</mtext></mrow><annotation encoding="application/x-tex">
-\text{risk-free allocation} = \text{portfolio value} - \text{risky allocation}
-</annotation></semantics></math></p>
+$$</span></p>
+<p><span class="math display">risky
+allocation = multiplier × cushion</span></p>
+<p><span class="math display">risk-free allocation = portfolio
+value − risky allocation</span></p>
 <p>As the portfolio rises, risky allocation normally rises; as it falls,
 the manager sells risky assets and moves into the risk-free asset. The
 floor may increase over time and the risky allocation may be capped at
@@ -1754,8 +1568,8 @@ formulae and sometimes derivatives or swaps. CPPI preserves a floor only
 subject to path and issuer/fund risks. ETFs trade intraday but have NAV,
 tracking, market, liquidity, FX and counterparty exposures. Governance,
 custody, disclosure and suitability are part of the product.</p>
-<h1 id="chapter-10--contracts-for-differences-cfds">Chapter 10 —
-Contracts for Differences (CFDs)</h1>
+<h1 id="contracts-for-differences-cfds">Contracts for Differences
+(CFDs)</h1>
 <h2 id="101-history">10.1 History</h2>
 <p>CFDs emerged in the UK in the 1990s from equity-swap-style products
 and reached retail markets in the late 1990s; they were
@@ -1834,8 +1648,7 @@ distinct paid service.</p>
 <p><strong>Worked example.</strong> Buy 10,000 shares at $2, sell after
 10 days at $2.20, with 0.4% commission, 8% GST on commission and 5%
 annual financing. Buy commission/GST = $86.40; sell = $95.04; ten-day
-financing = $27.78; total expense =
-<math display="inline" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>209.22</mn><mo>;</mo><mi>n</mi><mi>e</mi><mi>t</mi><mi>p</mi><mi>r</mi><mi>o</mi><mi>f</mi><mi>i</mi><mi>t</mi><mo>=</mo><mi>*</mi><mo>*</mo></mrow><annotation encoding="application/x-tex">209.22; net profit = **</annotation></semantics></math>1,790.78**.</p>
+financing = $27.78; total expense = <span class="math inline">209.22; <em>n</em><em>e</em><em>t</em><em>p</em><em>r</em><em>o</em><em>f</em><em>i</em><em>t</em> = **</span>1,790.78**.</p>
 <p>Short example: sell 10,000 at $3.30, cover at $3.10, 0.4% commission,
 8% GST, 20% margin and 6% financing for five days. Total expense =
 $303.98; net profit = $1,696.02; capital posted = $6,600; ROI ≈25.70%.
@@ -1881,8 +1694,8 @@ flexibility hides financing, margin, liquidation, counterparty,
 liquidity, currency, corporate-action and short-sale risks. Learn the
 provider model, order mechanics, total cost and worst-case
 liability.</p>
-<h1 id="chapter-11--key-products-and-investment-risks">Chapter 11 — Key
-Products and Investment Risks</h1>
+<h1 id="key-products-and-investment-risks">Key Products and Investment
+Risks</h1>
 <h2 id="111-investment-risks-for-derivatives">11.1 Investment risks for
 derivatives</h2>
 <h3 id="futures">Futures</h3>
@@ -1898,7 +1711,7 @@ offsetting.</li>
 margin; a call may force liquidation and a shortfall remains
 payable.</li>
 </ul>
-<h3 id="options">Options</h3>
+<h3 id="options-1">Options</h3>
 <p>Holders can lose the entire premium, especially when OTM and near
 expiry; European options may be difficult to monetise before expiry, and
 OTC exercise provisions may be unusual. Naked writers can face
@@ -1987,10 +1800,10 @@ scenarios.</li>
 </ul>
 <p>For fixed income: 1 bp = 0.01%; DV01/PVBP is dollar price change per
 1 bp; duration is a weighted cash-flow time measure; modified duration
-measures price sensitivity:
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac><mrow><mi mathvariant="normal">Δ</mi><mi>P</mi></mrow><mi>P</mi></mfrac><mo>≈</mo><mi>−</mi><mtext mathvariant="normal">modified duration</mtext><mo>×</mo><mi mathvariant="normal">Δ</mi><mi>Y</mi><mi>T</mi><mi>M</mi></mrow><annotation encoding="application/x-tex">\frac{\Delta P}{P} \approx -\text{modified duration} \times \Delta YTM</annotation></semantics></math>.
-A modified duration of 2 and a 100 bp yield rise implies about a 2%
-price fall. If price $980 has PVBP $1, a 5 bp yield rise reduces it to
+measures price sensitivity: <span class="math display">$$\frac{\Delta
+P}{P} \approx -\text{modified duration} \times \Delta YTM$$</span>. A
+modified duration of 2 and a 100 bp yield rise implies about a 2% price
+fall. If price $980 has PVBP $1, a 5 bp yield rise reduces it to
 $975.</p>
 <p>VaR combines volatility/correlation into a loss threshold. A 1-day
 95% VaR of SGD1m means a 5% probability that loss exceeds SGD1m over one
@@ -2019,7 +1832,7 @@ futures; premium/exercise/volatility/Greek risk for options;
 issuer/gearing for warrants; margin/financing/provider risk for CFDs;
 and layered market, credit, liquidity, legal, structure, correlation, FX
 and reinvestment risk for structured products.</p>
-<h1 id="chapter-12--case-studies">Chapter 12 — Case Studies</h1>
+<h1 id="case-studies">Case Studies</h1>
 <p>These cases are decision exercises, not product endorsements. A
 representative should establish suitability, knowledge, risk
 willingness, financial capacity, external exposure, internal limits,
@@ -2091,8 +1904,7 @@ Singapore futures. The futures hedge is imperfect because the three
 stocks represent only about 31% of the index. Futures have immediate
 daily MTM obligations; a long put has a right, not an obligation; a
 share loan earns a fee.</p>
-<h2
-id="124-eln-yield-and-discounted-blue-chip-purchase--mr-sunjoyo">12.4
+<h2 id="124-eln-yield-and-discounted-blue-chip-purchase--mr-sunjoyo">12.4
 ELN yield and discounted blue-chip purchase — Mr Sunjoyo</h2>
 <p>OCBC spot = SGD13.30; ELN purchase = SGD975,000; notional = SGD1m;
 strike = SGD12.50; 80,000 shares; three months; annualised headline
@@ -2111,9 +1923,9 @@ stock goes to zero.</p>
 Robert</h2>
 <p>AUD/USD range = 0.7600–0.8200, maturity three months, maximum yield
 6%, minimum 1%, MMR 2.75%. If inside for two months and outside for one,
-annualised payout is
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>6</mn><mi>%</mi><mo>×</mo><mstyle displaystyle="false"><mfrac><mn>2</mn><mn>3</mn></mfrac></mstyle><mo>+</mo><mn>1</mn><mi>%</mi><mo>×</mo><mstyle displaystyle="false"><mfrac><mn>1</mn><mn>3</mn></mfrac></mstyle><mo>=</mo><mn>4.33</mn><mi>%</mi></mrow><annotation encoding="application/x-tex">6\% \times \tfrac{2}{3} + 1\% \times \tfrac{1}{3} = 4.33\%</annotation></semantics></math>
-(the answer text displays approximately 4.32% due to rounding).</p>
+annualised payout is <span class="math display">$$6\% \times
+\tfrac{2}{3} + 1\% \times \tfrac{1}{3} = 4.33\%$$</span> (the answer
+text displays approximately 4.32% due to rounding).</p>
 <p>To make the digital spread cheaper or raise maximum yield: narrow the
 range, skew it so spot is nearer a barrier, extend maturity, or lower
 the minimum yield. Widening the range makes inside outcomes more likely
@@ -2194,9 +2006,8 @@ end to profit from short rates rising faster than long rates.</li>
 </ul>
 <h1 id="appendix-a--cppi-strategy-worked-examples">Appendix A — CPPI
 strategy worked examples</h1>
-<p>Parameters: initial $100; crash size 20%; multiplier
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>1</mn><mi>/</mi><mn>20</mn><mi>%</mi><mo>=</mo><mn>5</mn></mrow><annotation encoding="application/x-tex">1/20\% = 5</annotation></semantics></math>;
-risky asset S&amp;P index fund; five-year tenor.</p>
+<p>Parameters: initial $100; crash size 20%; multiplier <span class="math display">1/20% = 5</span>; risky asset S&amp;P index fund;
+five-year tenor.</p>
 <ul>
 <li>Day 1 floor 85%: cushion 15; risky = 5×15 = $75; risk-free =
 $25.</li>
@@ -2205,13 +2016,11 @@ risk-free = $30.</li>
 <li>Portfolio at $86 after risky asset falls 20%: risky falls $70→$56;
 plus $30 risk-free = $86; liquidate all risky into risk-free, so later
 equity appreciation is missed.</li>
-<li>Portfolio at $96: risky value $66, required risky allocation
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>5</mn><mo>×</mo><mo stretchy="false" form="prefix">(</mo><mn>96</mn><mo>−</mo><mn>86</mn><mo stretchy="false" form="postfix">)</mo><mi>%</mi><mo>=</mo><mtext mathvariant="normal">$</mtext><mn>50</mn></mrow><annotation encoding="application/x-tex">5 \times (96 - 86)\% = \text{\$}50</annotation></semantics></math>;
-sell $16 risky and hold $46 risk-free.</li>
-<li>Portfolio at $110: required allocation
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>5</mn><mo>×</mo><mo stretchy="false" form="prefix">(</mo><mn>110</mn><mo>−</mo><mn>86</mn><mo stretchy="false" form="postfix">)</mo><mi>%</mi><mo>=</mo><mtext mathvariant="normal">$</mtext><mn>120</mn></mrow><annotation encoding="application/x-tex">5 \times (110 - 86)\% = \text{\$}120</annotation></semantics></math>;
-if capped, put all $110 in risky; if leverage permitted, borrow $10 and
-hold $120 risky.</li>
+<li>Portfolio at $96: risky value $66, required risky allocation <span class="math display">5 × (96 − 86)% = $50</span>; sell $16 risky and
+hold $46 risk-free.</li>
+<li>Portfolio at $110: required allocation <span class="math display">5 × (110 − 86)% = $120</span>; if capped, put all
+$110 in risky; if leverage permitted, borrow $10 and hold $120
+risky.</li>
 <li>If leveraged risky value falls 20% from $120 to $96, repay $10 and
 move remaining $86 to risk-free. The crash has again locked the
 floor.</li>
@@ -2305,55 +2114,68 @@ calculating.</p>
 <h1 id="appendix-d--formulae-sheet-consolidated">Appendix D — Formulae
 sheet (consolidated)</h1>
 <h2 id="futures-1">Futures</h2>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>F</mi><mrow><mn>0</mn><mo>,</mo><mi>t</mi></mrow></msub><mo>=</mo><msub><mi>S</mi><mn>0</mn></msub><mo stretchy="false" form="prefix">(</mo><mn>1</mn><mo>+</mo><msub><mi>C</mi><mrow><mn>0</mn><mo>,</mo><mi>t</mi></mrow></msub><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">F_{0,t} = S_0(1 + C_{0,t})</annotation></semantics></math></p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>P</mi><mo>=</mo><mn>100</mn><mo stretchy="false" form="prefix">(</mo><mn>1</mn><mo>−</mo><mi>R</mi><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">P = 100(1 - R)</annotation></semantics></math>
+<p><span class="math display"><em>F</em><sub>0, <em>t</em></sub> = <em>S</em><sub>0</sub>(1 + <em>C</em><sub>0, <em>t</em></sub>)</span></p>
+<p><span class="math display"><em>P</em> = 100(1 − <em>R</em>)</span>
 for short-rate futures.</p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mrow><mo stretchy="true" form="prefix">(</mo><mn>1</mn><mo>+</mo><mfrac><mrow><msub><mi>d</mi><mn>1</mn></msub><msub><mi>r</mi><mn>1</mn></msub></mrow><mn>360</mn></mfrac><mo stretchy="true" form="postfix">)</mo></mrow><mrow><mo stretchy="true" form="prefix">(</mo><mn>1</mn><mo>+</mo><mfrac><mrow><msub><mi>d</mi><mn>2</mn></msub><msub><mi>r</mi><mn>2</mn></msub></mrow><mn>360</mn></mfrac><mo stretchy="true" form="postfix">)</mo></mrow><mo>=</mo><mrow><mo stretchy="true" form="prefix">(</mo><mn>1</mn><mo>+</mo><mfrac><mrow><mi>D</mi><mi>R</mi></mrow><mn>360</mn></mfrac><mo stretchy="true" form="postfix">)</mo></mrow></mrow><annotation encoding="application/x-tex">\left(1 + \frac{d_1 r_1}{360}\right)\left(1 + \frac{d_2 r_2}{360}\right) = \left(1 + \frac{DR}{360}\right)</annotation></semantics></math>
-for long-rate futures.</p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>F</mi><mo>=</mo><mi>S</mi><mo>×</mo><mfrac><mrow><mn>1</mn><mo>+</mo><msub><mi>R</mi><mi>c</mi></msub><mo stretchy="false" form="prefix">(</mo><mi>n</mi><mi>/</mi><mn>360</mn><mo stretchy="false" form="postfix">)</mo></mrow><mrow><mn>1</mn><mo>+</mo><msub><mi>R</mi><mi>b</mi></msub><mo stretchy="false" form="prefix">(</mo><mi>n</mi><mi>/</mi><mn>360</mn><mo stretchy="false" form="postfix">)</mo></mrow></mfrac></mrow><annotation encoding="application/x-tex">F = S \times \frac{1 + R_c(n/360)}{1 + R_b(n/360)}</annotation></semantics></math>
-for interest-rate parity.</p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>F</mi><mo>=</mo><mi>S</mi><mrow><mo stretchy="true" form="prefix">[</mo><mn>1</mn><mo>+</mo><mi>r</mi><mo stretchy="false" form="prefix">(</mo><mi>t</mi><mi>/</mi><mn>360</mn><mo stretchy="false" form="postfix">)</mo><mo stretchy="true" form="postfix">]</mo></mrow><mo>−</mo><mi>D</mi></mrow><annotation encoding="application/x-tex">F = S\left[1 + r(t/360)\right] - D</annotation></semantics></math>
+<p><span class="math display">$$\left(1 + \frac{d_1
+r_1}{360}\right)\left(1 + \frac{d_2 r_2}{360}\right) = \left(1 +
+\frac{DR}{360}\right)$$</span> for long-rate futures.</p>
+<p><span class="math display">$$F = S \times \frac{1 + R_c(n/360)}{1 +
+R_b(n/360)}$$</span> for interest-rate parity.</p>
+<p><span class="math display"><em>F</em> = <em>S</em>[1 + <em>r</em>(<em>t</em>/360)] − <em>D</em></span>
 for equity-index futures.</p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">target hedge rate</mtext><mo>=</mo><mtext mathvariant="normal">futures rate</mtext><mo>+</mo><mtext mathvariant="normal">target-rate basis</mtext></mrow><annotation encoding="application/x-tex">\text{target hedge rate} = \text{futures rate} + \text{target-rate basis}</annotation></semantics></math></p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msub><mi>V</mi><mi>t</mi></msub><mo>=</mo><msub><mi>S</mi><mi>t</mi></msub><mo>+</mo><mo stretchy="false" form="prefix">(</mo><mi>F</mi><mo>−</mo><msub><mi>F</mi><mi>t</mi></msub><mo stretchy="false" form="postfix">)</mo><mo>=</mo><mi>F</mi><mo>+</mo><mo stretchy="false" form="prefix">(</mo><msub><mi>S</mi><mi>t</mi></msub><mo>−</mo><msub><mi>F</mi><mi>t</mi></msub><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">V_t = S_t + (F - F_t) = F + (S_t - F_t)</annotation></semantics></math></p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">bond hedge ratio</mtext><mo>=</mo><mfrac><mtext mathvariant="normal">PVBP(hedged security)</mtext><mtext mathvariant="normal">PVBP(CTD)</mtext></mfrac><mo>×</mo><mtext mathvariant="normal">conversion factor</mtext></mrow><annotation encoding="application/x-tex">\text{bond hedge ratio} = \frac{\text{PVBP(hedged security)}}{\text{PVBP(CTD)}} \times \text{conversion factor}</annotation></semantics></math></p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>h</mi><mo>=</mo><mfrac><mrow><mi mathvariant="normal">Δ</mi><mi>S</mi></mrow><mrow><mi mathvariant="normal">Δ</mi><mi>F</mi></mrow></mfrac></mrow><annotation encoding="application/x-tex">h = \frac{\Delta S}{\Delta F}</annotation></semantics></math>;
-contracts for a delta-neutral loan
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>=</mo><mfrac><mrow><mi>−</mi><mi>h</mi><mo>×</mo><mtext mathvariant="normal">loan value</mtext></mrow><mtext mathvariant="normal">contract size</mtext></mfrac></mrow><annotation encoding="application/x-tex">= \frac{-h \times \text{loan value}}{\text{contract size}}</annotation></semantics></math></p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>N</mi><mo>=</mo><mfrac><mrow><mi>V</mi><mi>P</mi></mrow><mrow><mi>F</mi><mo>×</mo><mi>T</mi></mrow></mfrac><mo>×</mo><mi>β</mi></mrow><annotation encoding="application/x-tex">N = \frac{VP}{F \times T} \times \beta</annotation></semantics></math>
-for equity futures hedging.</p>
-<h2 id="options-1">Options</h2>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">option price</mtext><mo>=</mo><mtext mathvariant="normal">intrinsic value</mtext><mo>+</mo><mtext mathvariant="normal">time value</mtext></mrow><annotation encoding="application/x-tex">\text{option price} = \text{intrinsic value} + \text{time value}</annotation></semantics></math></p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">call IV</mtext><mo>=</mo><mrow><mi mathvariant="normal">max</mi><mo>&#8289;</mo></mrow><mo stretchy="false" form="prefix">(</mo><mn>0</mn><mo>,</mo><mi>S</mi><mo>−</mo><mi>X</mi><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">\text{call IV} = \max(0, S - X)</annotation></semantics></math>;
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">put IV</mtext><mo>=</mo><mrow><mi mathvariant="normal">max</mi><mo>&#8289;</mo></mrow><mo stretchy="false" form="prefix">(</mo><mn>0</mn><mo>,</mo><mi>X</mi><mo>−</mo><mi>S</mi><mo stretchy="false" form="postfix">)</mo></mrow><annotation encoding="application/x-tex">\text{put IV} = \max(0, X - S)</annotation></semantics></math></p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>C</mi><mo>+</mo><mtext mathvariant="normal">PV</mtext><mo stretchy="false" form="prefix">(</mo><mi>X</mi><mo stretchy="false" form="postfix">)</mo><mo>=</mo><mi>P</mi><mo>+</mo><mi>S</mi></mrow><annotation encoding="application/x-tex">C + \text{PV}(X) = P + S</annotation></semantics></math></p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">delta</mtext><mo>=</mo><mfrac><mtext mathvariant="normal">change in option price</mtext><mtext mathvariant="normal">change in underlying</mtext></mfrac></mrow><annotation encoding="application/x-tex">\text{delta} = \frac{\text{change in option price}}{\text{change in underlying}}</annotation></semantics></math>;
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">gamma</mtext><mo>=</mo><mfrac><mtext mathvariant="normal">change in delta</mtext><mtext mathvariant="normal">change in underlying</mtext></mfrac></mrow><annotation encoding="application/x-tex">\text{gamma} = \frac{\text{change in delta}}{\text{change in underlying}}</annotation></semantics></math></p>
+<p><span class="math display">target hedge rate = futures
+rate + target-rate basis</span></p>
+<p><span class="math display"><em>V</em><sub><em>t</em></sub> = <em>S</em><sub><em>t</em></sub> + (<em>F</em> − <em>F</em><sub><em>t</em></sub>) = <em>F</em> + (<em>S</em><sub><em>t</em></sub> − <em>F</em><sub><em>t</em></sub>)</span></p>
+<p><span class="math display">$$\text{bond hedge ratio} =
+\frac{\text{PVBP(hedged security)}}{\text{PVBP(CTD)}} \times
+\text{conversion factor}$$</span></p>
+<p><span class="math display">$$h = \frac{\Delta S}{\Delta F}$$</span>;
+contracts for a delta-neutral loan <span class="math display">$$=
+\frac{-h \times \text{loan value}}{\text{contract size}}$$</span></p>
+<p><span class="math display">$$N = \frac{VP}{F \times T} \times
+\beta$$</span> for equity futures hedging.</p>
+<h2 id="options-2">Options</h2>
+<p><span class="math display">option price = intrinsic value + time
+value</span></p>
+<p><span class="math display">call
+IV = max (0, <em>S</em> − <em>X</em>)</span>; <span class="math display">put
+IV = max (0, <em>X</em> − <em>S</em>)</span></p>
+<p><span class="math display"><em>C</em> + PV(<em>X</em>) = <em>P</em> + <em>S</em></span></p>
+<p><span class="math display">$$\text{delta} = \frac{\text{change in
+option price}}{\text{change in underlying}}$$</span>; <span class="math display">$$\text{gamma} = \frac{\text{change in
+delta}}{\text{change in underlying}}$$</span></p>
 <h2 id="warrants-and-cbbcs">Warrants and CBBCs</h2>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">gearing</mtext><mo>=</mo><mfrac><mtext mathvariant="normal">share price</mtext><mrow><mtext mathvariant="normal">warrant price</mtext><mo>×</mo><mi>n</mi></mrow></mfrac></mrow><annotation encoding="application/x-tex">\text{gearing} = \frac{\text{share price}}{\text{warrant price} \times n}</annotation></semantics></math>;
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">effective gearing</mtext><mo>=</mo><mtext mathvariant="normal">delta</mtext><mo>×</mo><mtext mathvariant="normal">gearing</mtext></mrow><annotation encoding="application/x-tex">\text{effective gearing} = \text{delta} \times \text{gearing}</annotation></semantics></math></p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">call IV</mtext><mo>=</mo><mrow><mi mathvariant="normal">max</mi><mo>&#8289;</mo></mrow><mo stretchy="false" form="prefix">[</mo><mn>0</mn><mo>,</mo><mo stretchy="false" form="prefix">(</mo><mi>S</mi><mo>−</mo><mi>X</mi><mo stretchy="false" form="postfix">)</mo><mi>/</mi><mi>n</mi><mo stretchy="false" form="postfix">]</mo></mrow><annotation encoding="application/x-tex">\text{call IV} = \max[0, (S - X)/n]</annotation></semantics></math>;
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">put IV</mtext><mo>=</mo><mrow><mi mathvariant="normal">max</mi><mo>&#8289;</mo></mrow><mo stretchy="false" form="prefix">[</mo><mn>0</mn><mo>,</mo><mo stretchy="false" form="prefix">(</mo><mi>X</mi><mo>−</mo><mi>S</mi><mo stretchy="false" form="postfix">)</mo><mi>/</mi><mi>n</mi><mo stretchy="false" form="postfix">]</mo></mrow><annotation encoding="application/x-tex">\text{put IV} = \max[0, (X - S)/n]</annotation></semantics></math></p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">call conversion price</mtext><mo>=</mo><mi>X</mi><mo>+</mo><mi>n</mi><mi>W</mi><mi>P</mi></mrow><annotation encoding="application/x-tex">\text{call conversion price} = X + nWP</annotation></semantics></math>;
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">put conversion price</mtext><mo>=</mo><mi>X</mi><mo>−</mo><mi>n</mi><mi>W</mi><mi>P</mi></mrow><annotation encoding="application/x-tex">\text{put conversion price} = X - nWP</annotation></semantics></math></p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">call cash settlement</mtext><mo>=</mo><mo stretchy="false" form="prefix">(</mo><mi>S</mi><mo>−</mo><mi>X</mi><mo stretchy="false" form="postfix">)</mo><mi>/</mi><mi>n</mi></mrow><annotation encoding="application/x-tex">\text{call cash settlement} = (S - X)/n</annotation></semantics></math>;
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">put cash settlement</mtext><mo>=</mo><mo stretchy="false" form="prefix">(</mo><mi>X</mi><mo>−</mo><mi>S</mi><mo stretchy="false" form="postfix">)</mo><mi>/</mi><mi>n</mi></mrow><annotation encoding="application/x-tex">\text{put cash settlement} = (X - S)/n</annotation></semantics></math></p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">bull CBBC</mtext><mo>=</mo><mfrac><mrow><mo stretchy="false" form="prefix">(</mo><mtext mathvariant="normal">underlying</mtext><mo>−</mo><mtext mathvariant="normal">strike</mtext><mo stretchy="false" form="postfix">)</mo><mo>+</mo><mtext mathvariant="normal">financial cost</mtext></mrow><mtext mathvariant="normal">conversion ratio</mtext></mfrac></mrow><annotation encoding="application/x-tex">\text{bull CBBC} = \frac{(\text{underlying} - \text{strike}) + \text{financial cost}}{\text{conversion ratio}}</annotation></semantics></math></p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">bear CBBC</mtext><mo>=</mo><mfrac><mrow><mo stretchy="false" form="prefix">(</mo><mtext mathvariant="normal">strike</mtext><mo>−</mo><mtext mathvariant="normal">underlying</mtext><mo stretchy="false" form="postfix">)</mo><mo>+</mo><mtext mathvariant="normal">financial cost</mtext></mrow><mtext mathvariant="normal">conversion ratio</mtext></mfrac></mrow><annotation encoding="application/x-tex">\text{bear CBBC} = \frac{(\text{strike} - \text{underlying}) + \text{financial cost}}{\text{conversion ratio}}</annotation></semantics></math></p>
-<p>R-CBBC residual: bull
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="false" form="prefix">(</mo><mtext mathvariant="normal">settlement</mtext><mo>−</mo><mtext mathvariant="normal">strike</mtext><mo stretchy="false" form="postfix">)</mo><mi>/</mi><mi>n</mi></mrow><annotation encoding="application/x-tex">(\text{settlement} - \text{strike})/n</annotation></semantics></math>;
-bear
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo stretchy="false" form="prefix">(</mo><mtext mathvariant="normal">strike</mtext><mo>−</mo><mtext mathvariant="normal">settlement</mtext><mo stretchy="false" form="postfix">)</mo><mi>/</mi><mi>n</mi></mrow><annotation encoding="application/x-tex">(\text{strike} - \text{settlement})/n</annotation></semantics></math>;
-N-CBBC residual is zero at MCE.</p>
+<p><span class="math display">$$\text{gearing} = \frac{\text{share
+price}}{\text{warrant price} \times n}$$</span>; <span class="math display">effective gearing = delta × gearing</span></p>
+<p><span class="math display">call
+IV = max [0, (<em>S</em> − <em>X</em>)/<em>n</em>]</span>; <span class="math display">put
+IV = max [0, (<em>X</em> − <em>S</em>)/<em>n</em>]</span></p>
+<p><span class="math display">call conversion
+price = <em>X</em> + <em>n</em><em>W</em><em>P</em></span>; <span class="math display">put conversion
+price = <em>X</em> − <em>n</em><em>W</em><em>P</em></span></p>
+<p><span class="math display">call cash
+settlement = (<em>S</em> − <em>X</em>)/<em>n</em></span>; <span class="math display">put cash
+settlement = (<em>X</em> − <em>S</em>)/<em>n</em></span></p>
+<p><span class="math display">$$\text{bull CBBC} =
+\frac{(\text{underlying} - \text{strike}) + \text{financial
+cost}}{\text{conversion ratio}}$$</span></p>
+<p><span class="math display">$$\text{bear CBBC} = \frac{(\text{strike}
+- \text{underlying}) + \text{financial cost}}{\text{conversion
+ratio}}$$</span></p>
+<p>R-CBBC residual: bull <span class="math display">(settlement − strike)/<em>n</em></span>; bear <span class="math display">(strike − settlement)/<em>n</em></span>; N-CBBC
+residual is zero at MCE.</p>
 <h2 id="structured-products">Structured products</h2>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">CPPI cushion</mtext><mo>=</mo><mtext mathvariant="normal">portfolio</mtext><mo>−</mo><mtext mathvariant="normal">floor</mtext></mrow><annotation encoding="application/x-tex">\text{CPPI cushion} = \text{portfolio} - \text{floor}</annotation></semantics></math>;
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">multiplier</mtext><mo>=</mo><mn>1</mn><mi>/</mi><mtext mathvariant="normal">crash size</mtext></mrow><annotation encoding="application/x-tex">\text{multiplier} = 1/\text{crash size}</annotation></semantics></math>;
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">risky</mtext><mo>=</mo><mi>M</mi><mo>×</mo><mtext mathvariant="normal">cushion</mtext></mrow><annotation encoding="application/x-tex">\text{risky} = M \times \text{cushion}</annotation></semantics></math>;
-<math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">risk-free</mtext><mo>=</mo><mtext mathvariant="normal">portfolio</mtext><mo>−</mo><mtext mathvariant="normal">risky</mtext></mrow><annotation encoding="application/x-tex">\text{risk-free} = \text{portfolio} - \text{risky}</annotation></semantics></math></p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">RAN payout</mtext><mo>=</mo><msub><mi>P</mi><mn>1</mn></msub><mfrac><mi>n</mi><mi>N</mi></mfrac><mo>+</mo><msub><mi>P</mi><mn>2</mn></msub><mfrac><mrow><mi>N</mi><mo>−</mo><mi>n</mi></mrow><mi>N</mi></mfrac></mrow><annotation encoding="application/x-tex">\text{RAN payout} = P_1\frac{n}{N} + P_2\frac{N - n}{N}</annotation></semantics></math></p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">inverse floater coupon</mtext><mo>=</mo><mrow><mi mathvariant="normal">max</mi><mo>&#8289;</mo></mrow><mrow><mo stretchy="true" form="prefix">[</mo><mi>X</mi><mi>%</mi><mo>−</mo><mtext mathvariant="normal">leverage</mtext><mo>×</mo><mtext mathvariant="normal">floating index</mtext><mo>,</mo><mspace width="0.222em"></mspace><mtext mathvariant="normal">minimum coupon</mtext><mo stretchy="true" form="postfix">]</mo></mrow></mrow><annotation encoding="application/x-tex">\text{inverse floater coupon} = \max\left[X\% - \text{leverage} \times \text{floating index},\ \text{minimum coupon}\right]</annotation></semantics></math></p>
-<p><math display="block" xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext mathvariant="normal">participation rate</mtext><mo>=</mo><mfrac><mtext mathvariant="normal">discount sum</mtext><mtext mathvariant="normal">call premium</mtext></mfrac></mrow><annotation encoding="application/x-tex">\text{participation rate} = \frac{\text{discount sum}}{\text{call premium}}</annotation></semantics></math>
-under the structured-product convention.</p>
+<p><span class="math display">CPPI cushion = portfolio − floor</span>;
+<span class="math display">multiplier = 1/crash size</span>; <span class="math display">risky = <em>M</em> × cushion</span>; <span class="math display">risk-free = portfolio − risky</span></p>
+<p><span class="math display">$$\text{RAN payout} = P_1\frac{n}{N} +
+P_2\frac{N - n}{N}$$</span></p>
+<p><span class="math display">inverse floater
+coupon = max [<em>X</em>% − leverage × floating index, minimum
+coupon]</span></p>
+<p><span class="math display">$$\text{participation rate} =
+\frac{\text{discount sum}}{\text{call premium}}$$</span> under the
+structured-product convention.</p>
 <h1 id="appendix-e--review-questions-what-they-test">Appendix E — Review
 Questions: what they test</h1>
 <p>Appendix E is for familiarisation with exam scope and format, not a
