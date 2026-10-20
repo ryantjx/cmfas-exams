@@ -16,7 +16,7 @@ The market map: what the markets do, who participates, which institutions regula
 
 The candidate should be able to:
 
-- Identify the markets the Guide covers and the products within scope.
+- Identify the markets within scope and the products covered.
 - Distinguish the roles of the institutions that intermediate the wholesale markets.
 - Explain the powers of MAS and the statutory framework it administers.
 - Distinguish the professional bodies from the statutory regulator and state what each contributes.

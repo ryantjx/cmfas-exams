@@ -287,7 +287,7 @@ $$ \text{price} = \frac{(12.00 - 10.00) + \text{financial cost}}{10} = \$0.30 $$
 | 2 — MCE at **$10.50** | Residual $$(10.50 - 10.00)/10 = \$0.05$$ | **$0.05** | A loss of **$0.25**, or **−83.33%** |
 | 3 — at maturity the underlying is **$15.00** | $$(15.00 - 10.00)/10$$ | **$0.50** | **+66.67%** |
 
-Note the size of scenario 2's loss. The underlying fell only 12.5% from 12.00 to 10.50, but the CBBC lost 83% of its value — that is the leverage, and the MCE removed any chance of recovery. The source's own worked text computes the scenario-2 percentage against a different base; recompute against the **purchase price of $0.30** and state your base.
+The size of scenario 2's loss is the point. The underlying fell only 12.5% from 12.00 to 10.50, but the CBBC lost 83% of its value — that is the leverage, and the MCE removed any chance of recovery. Recompute the percentage against the **purchase price of $0.30** and state your base.
 
 **Category R bear.** Strike **$11.00**, call price **$10.00**, conversion ratio **1:1**, spot **$9.00**.
 

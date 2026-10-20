@@ -245,7 +245,7 @@ Delta is about **0.5** at the money, approaching **1** deep in the money. The DB
 
 $$ \text{effective gearing} = \delta \times \text{gearing} $$
 
-For the DBS call, $$0.95 \times 7 = 6.65\times$$. For the GS put, $$-0.4533 \times 16.92 = -7.67\times$$; the source's own statistics box prints −7.58×, so treat the two figures as the same magnitude with a rounding or basis difference, and quote whichever the question supplies.
+For the DBS call, $$0.95 \times 7 = 6.65\times$$. For the GS put, $$-0.4533 \times 16.92 = -7.67\times$$; the statistics box alongside the same example prints −7.58×, so treat the two as the same magnitude with a rounding or basis difference and quote whichever figure a question supplies.
 
 ### 5.5.6 Implied Volatility
 
