@@ -1,0 +1,38 @@
+Restore full content to CM-SIP chapter 2
+
+Chapter 2 grows from 1,243 to 7,899 words and now covers all 61 official
+sections. Adds previously absent material:
+
+- Table 2.1 global futures exchanges, with CME at 3bn contracts / ~USD 1
+  quadrillion, ICE's CDS clearing origin and its SMX acquisition into IFSG,
+  APEX's 2018 MAS approval, Eurex/Euronext/B3/HKEX-LME and the Chinese venues
+- Table 2.1.1 futures versus forwards, including no guarantee of an active
+  secondary market and CCP-cleared forwards
+- 2.1.2.1-2.1.2.3 price discovery, risk management and augmenting volatility
+- notional arithmetic for E-mini S&P, Nasdaq, SGX A50 and EUR/USD
+- the Nikkei margin worked example in full: JPY 11,250,000 notional, 6.5%
+  giving JPY 731,250, a 7% rally giving JPY 787,500 and more than 100% return
+  on margin, and a 160-point fall losing JPY 80,000 against a JPY 562,500
+  maintenance level
+- Table 2.2.3(a) contract-specification terms and the SiMSCI term sheet
+- the short-rate formula example at 96.50, and the 45/135/90-day implied
+  forward rate solving to 2.00%
+- US Treasury arithmetic: USD 100,000 face but USD 200,000 for 2- and
+  3-year; a USD 12,450 profit over 159.36 ticks; an USD 11,250 loss over
+  -72 ticks
+- FX futures grouping (majors, EME, crosses, E-Micro at 1/10 size; SGX's seven
+  Asian NDF currencies) and the 1972 CME origin
+- SSF advantages and the short-selling disadvantage
+- commodity detail: gold safe-haven episodes, the 2016 +660% ETF demand, the
+  five SGX iron ore and steel contracts, crude's 155/48/100/29.60 path, and
+  electricity futures with Singapore more than 90% gas-fired
+- 2.4.3 five SGX-DT listing categories including dividend indices, 2.4.4's
+  three intraday margin cycles and five settlement items, CME mutual offset
+  since 1984, and SGX-DC's CFTC designation and ESMA recognition
+- both arbitrage directions: the USD 131.25 cash-and-carry profit and the
+  reverse case's -USD 393.75 (-0.306%) once gold borrowing is counted
+- the expectancy model; basis factors in full; the IRS, FX, currency,
+  commodity, equity and credit default swaps with the four-period equity swap
+  table and the 160bp on USD 20m CDS premium arithmetic
+
+Chapter 2 is 61/61 sections. Guide defects remain zero.
