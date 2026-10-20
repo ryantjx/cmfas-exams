@@ -30,7 +30,8 @@ const MODES: { mode: QuizMode; label: string; blurb: string }[] = [
   {
     mode: 'daily',
     label: 'Daily quiz',
-    blurb: '30 questions from across the whole bank — a fresh set on every visit.',
+    blurb:
+      "30 questions from across the whole bank. The set is fixed for the day and the answer appears as soon as you choose.",
   },
   {
     mode: 'mock',
@@ -192,7 +193,7 @@ export default function PracticePicker({ base, examId: deepLinkExamId }: Practic
       return (
         <div>
           {nav}
-          <QuizRunner bankUrl={bankUrl} mode="daily" size={exam.dailySize} />
+          <QuizRunner bankUrl={bankUrl} mode="daily" size={exam.dailySize} instantFeedback />
         </div>
       );
     }

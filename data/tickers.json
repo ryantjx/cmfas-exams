@@ -1,0 +1,1397 @@
+{
+  "version": 1,
+  "generated": "2026-10-20",
+  "source": "Yahoo Finance quote search (query1.finance.yahoo.com/v1/finance/search), verified 2026-10-20",
+  "note": "Tickers use exchange-suffix form: JT Tokyo, SI Singapore, HK Hong Kong, US United States, LN London.",
+  "tickers": [
+    {
+      "ticker": "D05 SI",
+      "yahooSymbol": "D05.SI",
+      "name": "DBS Group Holdings Ltd",
+      "shortName": "DBS",
+      "exchange": "Singapore Exchange",
+      "country": "Singapore",
+      "sector": "Financial Services",
+      "industry": "Banks—Regional",
+      "accept": [
+        "dbs",
+        "dbs group",
+        "dbs bank",
+        "development bank of singapore"
+      ]
+    },
+    {
+      "ticker": "O39 SI",
+      "yahooSymbol": "O39.SI",
+      "name": "Oversea-Chinese Banking Corporation Limited",
+      "shortName": "OCBC",
+      "exchange": "Singapore Exchange",
+      "country": "Singapore",
+      "sector": "Financial Services",
+      "industry": "Banks—Regional",
+      "accept": [
+        "ocbc",
+        "oversea chinese banking"
+      ]
+    },
+    {
+      "ticker": "U11 SI",
+      "yahooSymbol": "U11.SI",
+      "name": "United Overseas Bank Limited",
+      "shortName": "UOB",
+      "exchange": "Singapore Exchange",
+      "country": "Singapore",
+      "sector": "Financial Services",
+      "industry": "Banks—Regional",
+      "accept": [
+        "uob",
+        "united overseas bank"
+      ]
+    },
+    {
+      "ticker": "Z74 SI",
+      "yahooSymbol": "Z74.SI",
+      "name": "Singapore Telecommunications Limited",
+      "shortName": "Singtel",
+      "exchange": "Singapore Exchange",
+      "country": "Singapore",
+      "sector": "Communication Services",
+      "industry": "Telecom Services",
+      "accept": [
+        "singtel",
+        "singapore telecommunications"
+      ]
+    },
+    {
+      "ticker": "C6L SI",
+      "yahooSymbol": "C6L.SI",
+      "name": "Singapore Airlines Limited",
+      "shortName": "Singapore Airlines",
+      "exchange": "Singapore Exchange",
+      "country": "Singapore",
+      "sector": "Industrials",
+      "industry": "Airlines",
+      "accept": [
+        "singapore airlines",
+        "sia"
+      ]
+    },
+    {
+      "ticker": "S68 SI",
+      "yahooSymbol": "S68.SI",
+      "name": "Singapore Exchange Limited",
+      "shortName": "SGX",
+      "exchange": "Singapore Exchange",
+      "country": "Singapore",
+      "sector": "Financial Services",
+      "industry": "Financial Data & Stock Exchanges",
+      "accept": [
+        "sgx",
+        "singapore exchange"
+      ]
+    },
+    {
+      "ticker": "BN4 SI",
+      "yahooSymbol": "BN4.SI",
+      "name": "Keppel Ltd.",
+      "shortName": "Keppel",
+      "exchange": "Singapore Exchange",
+      "country": "Singapore",
+      "sector": "Industrials",
+      "industry": "Conglomerates",
+      "accept": [
+        "keppel"
+      ]
+    },
+    {
+      "ticker": "S63 SI",
+      "yahooSymbol": "S63.SI",
+      "name": "Singapore Technologies Engineering Ltd",
+      "shortName": "ST Engineering",
+      "exchange": "Singapore Exchange",
+      "country": "Singapore",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "accept": [
+        "st engineering",
+        "singapore technologies engineering"
+      ]
+    },
+    {
+      "ticker": "9CI SI",
+      "yahooSymbol": "9CI.SI",
+      "name": "CapitaLand Investment Limited",
+      "shortName": "CapitaLand Investment",
+      "exchange": "Singapore Exchange",
+      "country": "Singapore",
+      "sector": "Real Estate",
+      "industry": "Real Estate Services",
+      "accept": [
+        "capitaland investment",
+        "capitaland"
+      ]
+    },
+    {
+      "ticker": "C09 SI",
+      "yahooSymbol": "C09.SI",
+      "name": "City Developments Limited",
+      "shortName": "City Developments",
+      "exchange": "Singapore Exchange",
+      "country": "Singapore",
+      "sector": "Real Estate",
+      "industry": "Real Estate—Development",
+      "accept": [
+        "city developments",
+        "cdl"
+      ]
+    },
+    {
+      "ticker": "F34 SI",
+      "yahooSymbol": "F34.SI",
+      "name": "Wilmar International Limited",
+      "shortName": "Wilmar",
+      "exchange": "Singapore Exchange",
+      "country": "Singapore",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "accept": [
+        "wilmar",
+        "wilmar international"
+      ]
+    },
+    {
+      "ticker": "G13 SI",
+      "yahooSymbol": "G13.SI",
+      "name": "Genting Singapore Limited",
+      "shortName": "Genting Singapore",
+      "exchange": "Singapore Exchange",
+      "country": "Singapore",
+      "sector": "Consumer Cyclical",
+      "industry": "Resorts & Casinos",
+      "accept": [
+        "genting singapore",
+        "genting"
+      ]
+    },
+    {
+      "ticker": "Y92 SI",
+      "yahooSymbol": "Y92.SI",
+      "name": "Thai Beverage Public Company Limited",
+      "shortName": "Thai Beverage",
+      "exchange": "Singapore Exchange",
+      "country": "Singapore",
+      "sector": "Consumer Defensive",
+      "industry": "Beverages—Wineries & Distilleries",
+      "accept": [
+        "thai beverage",
+        "thai beverage public",
+        "thaibev"
+      ]
+    },
+    {
+      "ticker": "C52 SI",
+      "yahooSymbol": "C52.SI",
+      "name": "ComfortDelGro Corporation Limited",
+      "shortName": "ComfortDelGro",
+      "exchange": "Singapore Exchange",
+      "country": "Singapore",
+      "sector": "Industrials",
+      "industry": "Railroads",
+      "accept": [
+        "comfortdelgro",
+        "comfort del gro"
+      ]
+    },
+    {
+      "ticker": "S58 SI",
+      "yahooSymbol": "S58.SI",
+      "name": "SATS Ltd.",
+      "shortName": "SATS",
+      "exchange": "Singapore Exchange",
+      "country": "Singapore",
+      "sector": "Industrials",
+      "industry": "Airports & Air Services",
+      "accept": [
+        "sats"
+      ]
+    },
+    {
+      "ticker": "U96 SI",
+      "yahooSymbol": "U96.SI",
+      "name": "Sembcorp Industries Ltd",
+      "shortName": "Sembcorp Industries",
+      "exchange": "Singapore Exchange",
+      "country": "Singapore",
+      "sector": "Utilities",
+      "industry": "Utilities—Diversified",
+      "accept": [
+        "sembcorp industries",
+        "sembcorp"
+      ]
+    },
+    {
+      "ticker": "V03 SI",
+      "yahooSymbol": "V03.SI",
+      "name": "Venture Corporation Limited",
+      "shortName": "Venture Corp",
+      "exchange": "Singapore Exchange",
+      "country": "Singapore",
+      "sector": "Technology",
+      "industry": "Electronic Components",
+      "accept": [
+        "venture"
+      ]
+    },
+    {
+      "ticker": "H78 SI",
+      "yahooSymbol": "H78.SI",
+      "name": "Hongkong Land Holdings Limited",
+      "shortName": "Hongkong Land",
+      "exchange": "Singapore Exchange",
+      "country": "Singapore",
+      "sector": "Real Estate",
+      "industry": "Real Estate—Development",
+      "accept": [
+        "hongkong land",
+        "hong kong land"
+      ]
+    },
+    {
+      "ticker": "BS6 SI",
+      "yahooSymbol": "BS6.SI",
+      "name": "Yangzijiang Shipbuilding (Holdings) Ltd.",
+      "shortName": "Yangzijiang Shipbuilding",
+      "exchange": "Singapore Exchange",
+      "country": "Singapore",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "accept": [
+        "yangzijiang shipbuilding",
+        "yangzijiang"
+      ]
+    },
+    {
+      "ticker": "U14 SI",
+      "yahooSymbol": "U14.SI",
+      "name": "UOL Group Limited",
+      "shortName": "UOL Group",
+      "exchange": "Singapore Exchange",
+      "country": "Singapore",
+      "sector": "Real Estate",
+      "industry": "Real Estate—Development",
+      "accept": [
+        "uol group",
+        "uol"
+      ]
+    },
+    {
+      "ticker": "C38U SI",
+      "yahooSymbol": "C38U.SI",
+      "name": "CapitaLand Integrated Commercial Trust",
+      "shortName": "CapitaLand Integrated Commercial Trust",
+      "exchange": "Singapore Exchange",
+      "country": "Singapore",
+      "sector": "Real Estate",
+      "industry": "REIT—Retail",
+      "accept": [
+        "capitaland integrated commercial trust",
+        "cict",
+        "capitaland mall trust"
+      ]
+    },
+    {
+      "ticker": "0700 HK",
+      "yahooSymbol": "0700.HK",
+      "name": "Tencent Holdings Limited",
+      "shortName": "Tencent",
+      "exchange": "Hong Kong Stock Exchange",
+      "country": "Hong Kong",
+      "sector": "Communication Services",
+      "industry": "Internet Content & Information",
+      "accept": [
+        "tencent"
+      ]
+    },
+    {
+      "ticker": "9988 HK",
+      "yahooSymbol": "9988.HK",
+      "name": "Alibaba Group Holding Limited",
+      "shortName": "Alibaba",
+      "exchange": "Hong Kong Stock Exchange",
+      "country": "Hong Kong",
+      "sector": "Consumer Cyclical",
+      "industry": "Internet Retail",
+      "accept": [
+        "alibaba",
+        "alibaba group"
+      ]
+    },
+    {
+      "ticker": "0941 HK",
+      "yahooSymbol": "0941.HK",
+      "name": "China Mobile Limited",
+      "shortName": "China Mobile",
+      "exchange": "Hong Kong Stock Exchange",
+      "country": "Hong Kong",
+      "sector": "Communication Services",
+      "industry": "Telecom Services",
+      "accept": [
+        "china mobile"
+      ]
+    },
+    {
+      "ticker": "1299 HK",
+      "yahooSymbol": "1299.HK",
+      "name": "AIA Group Limited",
+      "shortName": "AIA",
+      "exchange": "Hong Kong Stock Exchange",
+      "country": "Hong Kong",
+      "sector": "Financial Services",
+      "industry": "Insurance—Life",
+      "accept": [
+        "aia",
+        "aia group"
+      ]
+    },
+    {
+      "ticker": "0005 HK",
+      "yahooSymbol": "0005.HK",
+      "name": "HSBC Holdings plc",
+      "shortName": "HSBC",
+      "exchange": "Hong Kong Stock Exchange",
+      "country": "Hong Kong",
+      "sector": "Financial Services",
+      "industry": "Banks—Diversified",
+      "accept": [
+        "hsbc",
+        "hongkong and shanghai banking"
+      ]
+    },
+    {
+      "ticker": "0388 HK",
+      "yahooSymbol": "0388.HK",
+      "name": "Hong Kong Exchanges and Clearing Limited",
+      "shortName": "HKEX",
+      "exchange": "Hong Kong Stock Exchange",
+      "country": "Hong Kong",
+      "sector": "Financial Services",
+      "industry": "Financial Data & Stock Exchanges",
+      "accept": [
+        "hkex",
+        "hong kong exchanges and clearing"
+      ]
+    },
+    {
+      "ticker": "3690 HK",
+      "yahooSymbol": "3690.HK",
+      "name": "Meituan",
+      "shortName": "Meituan",
+      "exchange": "Hong Kong Stock Exchange",
+      "country": "Hong Kong",
+      "sector": "Consumer Cyclical",
+      "industry": "Internet Retail",
+      "accept": [
+        "meituan"
+      ]
+    },
+    {
+      "ticker": "1810 HK",
+      "yahooSymbol": "1810.HK",
+      "name": "Xiaomi Corporation",
+      "shortName": "Xiaomi",
+      "exchange": "Hong Kong Stock Exchange",
+      "country": "Hong Kong",
+      "sector": "Technology",
+      "industry": "Consumer Electronics",
+      "accept": [
+        "xiaomi"
+      ]
+    },
+    {
+      "ticker": "2318 HK",
+      "yahooSymbol": "2318.HK",
+      "name": "Ping An Insurance (Group) Company of China, Ltd.",
+      "shortName": "Ping An Insurance",
+      "exchange": "Hong Kong Stock Exchange",
+      "country": "Hong Kong",
+      "sector": "Financial Services",
+      "industry": "Insurance—Life",
+      "accept": [
+        "ping an insurance",
+        "ping an insurance group of china",
+        "ping an"
+      ]
+    },
+    {
+      "ticker": "0939 HK",
+      "yahooSymbol": "0939.HK",
+      "name": "China Construction Bank Corporation",
+      "shortName": "China Construction Bank",
+      "exchange": "Hong Kong Stock Exchange",
+      "country": "Hong Kong",
+      "sector": "Financial Services",
+      "industry": "Banks—Diversified",
+      "accept": [
+        "china construction bank",
+        "ccb"
+      ]
+    },
+    {
+      "ticker": "1398 HK",
+      "yahooSymbol": "1398.HK",
+      "name": "Industrial and Commercial Bank of China Limited",
+      "shortName": "ICBC",
+      "exchange": "Hong Kong Stock Exchange",
+      "country": "Hong Kong",
+      "sector": "Financial Services",
+      "industry": "Banks—Diversified",
+      "accept": [
+        "icbc",
+        "industrial and commercial bank of china"
+      ]
+    },
+    {
+      "ticker": "3988 HK",
+      "yahooSymbol": "3988.HK",
+      "name": "Bank of China Limited",
+      "shortName": "Bank of China",
+      "exchange": "Hong Kong Stock Exchange",
+      "country": "Hong Kong",
+      "sector": "Financial Services",
+      "industry": "Banks—Diversified",
+      "accept": [
+        "bank of china"
+      ]
+    },
+    {
+      "ticker": "0883 HK",
+      "yahooSymbol": "0883.HK",
+      "name": "CNOOC Limited",
+      "shortName": "CNOOC",
+      "exchange": "Hong Kong Stock Exchange",
+      "country": "Hong Kong",
+      "sector": "Energy",
+      "industry": "Oil & Gas E&P",
+      "accept": [
+        "cnooc",
+        "china national offshore oil"
+      ]
+    },
+    {
+      "ticker": "0857 HK",
+      "yahooSymbol": "0857.HK",
+      "name": "PetroChina Company Limited",
+      "shortName": "PetroChina",
+      "exchange": "Hong Kong Stock Exchange",
+      "country": "Hong Kong",
+      "sector": "Energy",
+      "industry": "Oil & Gas Integrated",
+      "accept": [
+        "petrochina"
+      ]
+    },
+    {
+      "ticker": "0688 HK",
+      "yahooSymbol": "0688.HK",
+      "name": "China Overseas Land & Investment Limited",
+      "shortName": "China Overseas Land",
+      "exchange": "Hong Kong Stock Exchange",
+      "country": "Hong Kong",
+      "sector": "Real Estate",
+      "industry": "Real Estate—Development",
+      "accept": [
+        "china overseas land",
+        "china overseas land and investment",
+        "coli"
+      ]
+    },
+    {
+      "ticker": "0027 HK",
+      "yahooSymbol": "0027.HK",
+      "name": "Galaxy Entertainment Group Limited",
+      "shortName": "Galaxy Entertainment",
+      "exchange": "Hong Kong Stock Exchange",
+      "country": "Hong Kong",
+      "sector": "Consumer Cyclical",
+      "industry": "Resorts & Casinos",
+      "accept": [
+        "galaxy entertainment",
+        "galaxy entertainment group"
+      ]
+    },
+    {
+      "ticker": "2020 HK",
+      "yahooSymbol": "2020.HK",
+      "name": "ANTA Sports Products Limited",
+      "shortName": "Anta Sports",
+      "exchange": "Hong Kong Stock Exchange",
+      "country": "Hong Kong",
+      "sector": "Consumer Cyclical",
+      "industry": "Leisure",
+      "accept": [
+        "anta sports",
+        "anta sports products",
+        "anta"
+      ]
+    },
+    {
+      "ticker": "1211 HK",
+      "yahooSymbol": "1211.HK",
+      "name": "BYD Company Limited",
+      "shortName": "BYD",
+      "exchange": "Hong Kong Stock Exchange",
+      "country": "Hong Kong",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "accept": [
+        "byd"
+      ]
+    },
+    {
+      "ticker": "0288 HK",
+      "yahooSymbol": "0288.HK",
+      "name": "WH Group Limited",
+      "shortName": "WH Group",
+      "exchange": "Hong Kong Stock Exchange",
+      "country": "Hong Kong",
+      "sector": "Consumer Defensive",
+      "industry": "Packaged Foods",
+      "accept": [
+        "wh group"
+      ]
+    },
+    {
+      "ticker": "0016 HK",
+      "yahooSymbol": "0016.HK",
+      "name": "Sun Hung Kai Properties Limited",
+      "shortName": "Sun Hung Kai Properties",
+      "exchange": "Hong Kong Stock Exchange",
+      "country": "Hong Kong",
+      "sector": "Real Estate",
+      "industry": "Real Estate—Development",
+      "accept": [
+        "sun hung kai properties",
+        "shk properties",
+        "shkp"
+      ]
+    },
+    {
+      "ticker": "9984 JT",
+      "yahooSymbol": "9984.T",
+      "name": "SoftBank Group Corp.",
+      "shortName": "SoftBank Group",
+      "exchange": "Tokyo Stock Exchange",
+      "country": "Japan",
+      "sector": "Communication Services",
+      "industry": "Telecom Services",
+      "accept": [
+        "softbank group",
+        "softbank"
+      ]
+    },
+    {
+      "ticker": "7203 JT",
+      "yahooSymbol": "7203.T",
+      "name": "Toyota Motor Corporation",
+      "shortName": "Toyota",
+      "exchange": "Tokyo Stock Exchange",
+      "country": "Japan",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "accept": [
+        "toyota",
+        "toyota motor"
+      ]
+    },
+    {
+      "ticker": "6758 JT",
+      "yahooSymbol": "6758.T",
+      "name": "Sony Group Corporation",
+      "shortName": "Sony Group",
+      "exchange": "Tokyo Stock Exchange",
+      "country": "Japan",
+      "sector": "Technology",
+      "industry": "Consumer Electronics",
+      "accept": [
+        "sony group",
+        "sony"
+      ]
+    },
+    {
+      "ticker": "6861 JT",
+      "yahooSymbol": "6861.T",
+      "name": "Keyence Corporation",
+      "shortName": "Keyence",
+      "exchange": "Tokyo Stock Exchange",
+      "country": "Japan",
+      "sector": "Technology",
+      "industry": "Scientific & Technical Instruments",
+      "accept": [
+        "keyence"
+      ]
+    },
+    {
+      "ticker": "8306 JT",
+      "yahooSymbol": "8306.T",
+      "name": "Mitsubishi UFJ Financial Group, Inc.",
+      "shortName": "Mitsubishi UFJ",
+      "exchange": "Tokyo Stock Exchange",
+      "country": "Japan",
+      "sector": "Financial Services",
+      "industry": "Banks—Diversified",
+      "accept": [
+        "mitsubishi ufj",
+        "mitsubishi ufj financial group",
+        "mufg"
+      ]
+    },
+    {
+      "ticker": "9432 JT",
+      "yahooSymbol": "9432.T",
+      "name": "NTT, Inc.",
+      "shortName": "NTT",
+      "exchange": "Tokyo Stock Exchange",
+      "country": "Japan",
+      "sector": "Communication Services",
+      "industry": "Telecom Services",
+      "accept": [
+        "ntt",
+        "nippon telegraph and telephone"
+      ]
+    },
+    {
+      "ticker": "6098 JT",
+      "yahooSymbol": "6098.T",
+      "name": "Recruit Holdings Co., Ltd.",
+      "shortName": "Recruit Holdings",
+      "exchange": "Tokyo Stock Exchange",
+      "country": "Japan",
+      "sector": "Communication Services",
+      "industry": "Internet Content & Information",
+      "accept": [
+        "recruit"
+      ]
+    },
+    {
+      "ticker": "4063 JT",
+      "yahooSymbol": "4063.T",
+      "name": "Shin-Etsu Chemical Co., Ltd.",
+      "shortName": "Shin-Etsu Chemical",
+      "exchange": "Tokyo Stock Exchange",
+      "country": "Japan",
+      "sector": "Basic Materials",
+      "industry": "Chemicals",
+      "accept": [
+        "shin etsu chemical",
+        "shin etsu"
+      ]
+    },
+    {
+      "ticker": "8035 JT",
+      "yahooSymbol": "8035.T",
+      "name": "Tokyo Electron Limited",
+      "shortName": "Tokyo Electron",
+      "exchange": "Tokyo Stock Exchange",
+      "country": "Japan",
+      "sector": "Technology",
+      "industry": "Semiconductor Equipment & Materials",
+      "accept": [
+        "tokyo electron"
+      ]
+    },
+    {
+      "ticker": "7974 JT",
+      "yahooSymbol": "7974.T",
+      "name": "Nintendo Co., Ltd.",
+      "shortName": "Nintendo",
+      "exchange": "Tokyo Stock Exchange",
+      "country": "Japan",
+      "sector": "Communication Services",
+      "industry": "Electronic Gaming & Multimedia",
+      "accept": [
+        "nintendo"
+      ]
+    },
+    {
+      "ticker": "6902 JT",
+      "yahooSymbol": "6902.T",
+      "name": "DENSO Corporation",
+      "shortName": "Denso",
+      "exchange": "Tokyo Stock Exchange",
+      "country": "Japan",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Parts",
+      "accept": [
+        "denso"
+      ]
+    },
+    {
+      "ticker": "7267 JT",
+      "yahooSymbol": "7267.T",
+      "name": "Honda Motor Co., Ltd.",
+      "shortName": "Honda",
+      "exchange": "Tokyo Stock Exchange",
+      "country": "Japan",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "accept": [
+        "honda",
+        "honda motor"
+      ]
+    },
+    {
+      "ticker": "4502 JT",
+      "yahooSymbol": "4502.T",
+      "name": "Takeda Pharmaceutical Company Limited",
+      "shortName": "Takeda Pharmaceutical",
+      "exchange": "Tokyo Stock Exchange",
+      "country": "Japan",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers—Specialty & Generic",
+      "accept": [
+        "takeda pharmaceutical",
+        "takeda"
+      ]
+    },
+    {
+      "ticker": "9433 JT",
+      "yahooSymbol": "9433.T",
+      "name": "KDDI Corporation",
+      "shortName": "KDDI",
+      "exchange": "Tokyo Stock Exchange",
+      "country": "Japan",
+      "sector": "Communication Services",
+      "industry": "Telecom Services",
+      "accept": [
+        "kddi"
+      ]
+    },
+    {
+      "ticker": "8058 JT",
+      "yahooSymbol": "8058.T",
+      "name": "Mitsubishi Corporation",
+      "shortName": "Mitsubishi Corporation",
+      "exchange": "Tokyo Stock Exchange",
+      "country": "Japan",
+      "sector": "Industrials",
+      "industry": "Conglomerates",
+      "accept": [
+        "mitsubishi"
+      ]
+    },
+    {
+      "ticker": "8001 JT",
+      "yahooSymbol": "8001.T",
+      "name": "ITOCHU Corporation",
+      "shortName": "Itochu",
+      "exchange": "Tokyo Stock Exchange",
+      "country": "Japan",
+      "sector": "Industrials",
+      "industry": "Conglomerates",
+      "accept": [
+        "itochu"
+      ]
+    },
+    {
+      "ticker": "6367 JT",
+      "yahooSymbol": "6367.T",
+      "name": "Daikin Industries,Ltd.",
+      "shortName": "Daikin",
+      "exchange": "Tokyo Stock Exchange",
+      "country": "Japan",
+      "sector": "Industrials",
+      "industry": "Building Products & Equipment",
+      "accept": [
+        "daikin",
+        "daikin industries"
+      ]
+    },
+    {
+      "ticker": "6501 JT",
+      "yahooSymbol": "6501.T",
+      "name": "Hitachi, Ltd.",
+      "shortName": "Hitachi",
+      "exchange": "Tokyo Stock Exchange",
+      "country": "Japan",
+      "sector": "Industrials",
+      "industry": "Conglomerates",
+      "accept": [
+        "hitachi"
+      ]
+    },
+    {
+      "ticker": "9434 JT",
+      "yahooSymbol": "9434.T",
+      "name": "SoftBank Corp.",
+      "shortName": "SoftBank Corp",
+      "exchange": "Tokyo Stock Exchange",
+      "country": "Japan",
+      "sector": "Communication Services",
+      "industry": "Telecom Services",
+      "accept": [
+        "softbank"
+      ]
+    },
+    {
+      "ticker": "6273 JT",
+      "yahooSymbol": "6273.T",
+      "name": "SMC Corporation",
+      "shortName": "SMC",
+      "exchange": "Tokyo Stock Exchange",
+      "country": "Japan",
+      "sector": "Industrials",
+      "industry": "Specialty Industrial Machinery",
+      "accept": [
+        "smc"
+      ]
+    },
+    {
+      "ticker": "AAPL US",
+      "yahooSymbol": "AAPL",
+      "name": "Apple Inc.",
+      "shortName": "Apple",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "sector": "Technology",
+      "industry": "Consumer Electronics",
+      "accept": [
+        "apple"
+      ]
+    },
+    {
+      "ticker": "MSFT US",
+      "yahooSymbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "shortName": "Microsoft",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "sector": "Technology",
+      "industry": "Software—Infrastructure",
+      "accept": [
+        "microsoft"
+      ]
+    },
+    {
+      "ticker": "NVDA US",
+      "yahooSymbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "shortName": "NVIDIA",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "accept": [
+        "nvidia"
+      ]
+    },
+    {
+      "ticker": "AMZN US",
+      "yahooSymbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "shortName": "Amazon",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "sector": "Consumer Cyclical",
+      "industry": "Internet Retail",
+      "accept": [
+        "amazon",
+        "amazon com"
+      ]
+    },
+    {
+      "ticker": "GOOGL US",
+      "yahooSymbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "shortName": "Alphabet",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "sector": "Communication Services",
+      "industry": "Internet Content & Information",
+      "accept": [
+        "alphabet",
+        "google"
+      ]
+    },
+    {
+      "ticker": "META US",
+      "yahooSymbol": "META",
+      "name": "Meta Platforms, Inc.",
+      "shortName": "Meta Platforms",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "sector": "Communication Services",
+      "industry": "Internet Content & Information",
+      "accept": [
+        "meta platforms",
+        "meta",
+        "facebook"
+      ]
+    },
+    {
+      "ticker": "TSLA US",
+      "yahooSymbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "shortName": "Tesla",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "sector": "Consumer Cyclical",
+      "industry": "Auto Manufacturers",
+      "accept": [
+        "tesla"
+      ]
+    },
+    {
+      "ticker": "BRK.B US",
+      "yahooSymbol": "BRK-B",
+      "name": "Berkshire Hathaway Inc.",
+      "shortName": "Berkshire Hathaway",
+      "exchange": "NYSE",
+      "country": "United States",
+      "sector": "Financial Services",
+      "industry": "Insurance—Diversified",
+      "accept": [
+        "berkshire hathaway"
+      ]
+    },
+    {
+      "ticker": "JPM US",
+      "yahooSymbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "shortName": "JPMorgan Chase",
+      "exchange": "NYSE",
+      "country": "United States",
+      "sector": "Financial Services",
+      "industry": "Banks—Diversified",
+      "accept": [
+        "jpmorgan chase",
+        "jpmorgan chase and",
+        "j p morgan",
+        "jp morgan"
+      ]
+    },
+    {
+      "ticker": "V US",
+      "yahooSymbol": "V",
+      "name": "Visa Inc.",
+      "shortName": "Visa",
+      "exchange": "NYSE",
+      "country": "United States",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "accept": [
+        "visa"
+      ]
+    },
+    {
+      "ticker": "UNH US",
+      "yahooSymbol": "UNH",
+      "name": "UnitedHealth Group Incorporated",
+      "shortName": "UnitedHealth",
+      "exchange": "NYSE",
+      "country": "United States",
+      "sector": "Healthcare",
+      "industry": "Healthcare Plans",
+      "accept": [
+        "unitedhealth",
+        "unitedhealth group"
+      ]
+    },
+    {
+      "ticker": "XOM US",
+      "yahooSymbol": "XOM",
+      "name": "ExxonMobil Holdings Corporation",
+      "shortName": "ExxonMobil",
+      "exchange": "NYSE",
+      "country": "United States",
+      "sector": "Energy",
+      "industry": "Oil & Gas Integrated",
+      "accept": [
+        "exxonmobil",
+        "exxon mobil"
+      ]
+    },
+    {
+      "ticker": "JNJ US",
+      "yahooSymbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "shortName": "Johnson & Johnson",
+      "exchange": "NYSE",
+      "country": "United States",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers—General",
+      "accept": [
+        "johnson and johnson"
+      ]
+    },
+    {
+      "ticker": "WMT US",
+      "yahooSymbol": "WMT",
+      "name": "Walmart Inc.",
+      "shortName": "Walmart",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "sector": "Consumer Defensive",
+      "industry": "Discount Stores",
+      "accept": [
+        "walmart",
+        "wal mart"
+      ]
+    },
+    {
+      "ticker": "PG US",
+      "yahooSymbol": "PG",
+      "name": "The Procter & Gamble Company",
+      "shortName": "Procter & Gamble",
+      "exchange": "NYSE",
+      "country": "United States",
+      "sector": "Consumer Defensive",
+      "industry": "Household & Personal Products",
+      "accept": [
+        "procter and gamble",
+        "the procter and gamble",
+        "p and g"
+      ]
+    },
+    {
+      "ticker": "MA US",
+      "yahooSymbol": "MA",
+      "name": "Mastercard Incorporated",
+      "shortName": "Mastercard",
+      "exchange": "NYSE",
+      "country": "United States",
+      "sector": "Financial Services",
+      "industry": "Credit Services",
+      "accept": [
+        "mastercard"
+      ]
+    },
+    {
+      "ticker": "HD US",
+      "yahooSymbol": "HD",
+      "name": "The Home Depot, Inc.",
+      "shortName": "Home Depot",
+      "exchange": "NYSE",
+      "country": "United States",
+      "sector": "Consumer Cyclical",
+      "industry": "Home Improvement Retail",
+      "accept": [
+        "home depot",
+        "the home depot"
+      ]
+    },
+    {
+      "ticker": "COST US",
+      "yahooSymbol": "COST",
+      "name": "Costco Wholesale Corporation",
+      "shortName": "Costco",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "sector": "Consumer Defensive",
+      "industry": "Discount Stores",
+      "accept": [
+        "costco",
+        "costco wholesale"
+      ]
+    },
+    {
+      "ticker": "AVGO US",
+      "yahooSymbol": "AVGO",
+      "name": "Broadcom Inc.",
+      "shortName": "Broadcom",
+      "exchange": "NASDAQ",
+      "country": "United States",
+      "sector": "Technology",
+      "industry": "Semiconductors",
+      "accept": [
+        "broadcom"
+      ]
+    },
+    {
+      "ticker": "LLY US",
+      "yahooSymbol": "LLY",
+      "name": "Eli Lilly and Company",
+      "shortName": "Eli Lilly",
+      "exchange": "NYSE",
+      "country": "United States",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers—General",
+      "accept": [
+        "eli lilly",
+        "eli lilly and",
+        "lilly"
+      ]
+    },
+    {
+      "ticker": "SHEL LN",
+      "yahooSymbol": "SHEL.L",
+      "name": "Shell plc",
+      "shortName": "Shell",
+      "exchange": "London Stock Exchange",
+      "country": "United Kingdom",
+      "sector": "Energy",
+      "industry": "Oil & Gas Integrated",
+      "accept": [
+        "shell"
+      ]
+    },
+    {
+      "ticker": "AZN LN",
+      "yahooSymbol": "AZN.L",
+      "name": "AstraZeneca PLC",
+      "shortName": "AstraZeneca",
+      "exchange": "London Stock Exchange",
+      "country": "United Kingdom",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers—General",
+      "accept": [
+        "astrazeneca"
+      ]
+    },
+    {
+      "ticker": "ULVR LN",
+      "yahooSymbol": "ULVR.L",
+      "name": "Unilever PLC",
+      "shortName": "Unilever",
+      "exchange": "London Stock Exchange",
+      "country": "United Kingdom",
+      "sector": "Consumer Defensive",
+      "industry": "Household & Personal Products",
+      "accept": [
+        "unilever"
+      ]
+    },
+    {
+      "ticker": "BP LN",
+      "yahooSymbol": "BP.L",
+      "name": "BP p.l.c.",
+      "shortName": "BP",
+      "exchange": "London Stock Exchange",
+      "country": "United Kingdom",
+      "sector": "Energy",
+      "industry": "Oil & Gas Integrated",
+      "accept": [
+        "bp",
+        "bp p l c",
+        "british petroleum"
+      ]
+    },
+    {
+      "ticker": "GSK LN",
+      "yahooSymbol": "GSK.L",
+      "name": "GSK plc",
+      "shortName": "GSK",
+      "exchange": "London Stock Exchange",
+      "country": "United Kingdom",
+      "sector": "Healthcare",
+      "industry": "Drug Manufacturers—General",
+      "accept": [
+        "gsk",
+        "glaxosmithkline"
+      ]
+    },
+    {
+      "ticker": "REL LN",
+      "yahooSymbol": "REL.L",
+      "name": "RELX PLC",
+      "shortName": "RELX",
+      "exchange": "London Stock Exchange",
+      "country": "United Kingdom",
+      "sector": "Industrials",
+      "industry": "Specialty Business Services",
+      "accept": [
+        "relx"
+      ]
+    },
+    {
+      "ticker": "RIO LN",
+      "yahooSymbol": "RIO.L",
+      "name": "Rio Tinto Group",
+      "shortName": "Rio Tinto",
+      "exchange": "London Stock Exchange",
+      "country": "United Kingdom",
+      "sector": "Basic Materials",
+      "industry": "Other Industrial Metals & Mining",
+      "accept": [
+        "rio tinto",
+        "rio tinto group"
+      ]
+    },
+    {
+      "ticker": "BATS LN",
+      "yahooSymbol": "BATS.L",
+      "name": "British American Tobacco p.l.c.",
+      "shortName": "British American Tobacco",
+      "exchange": "London Stock Exchange",
+      "country": "United Kingdom",
+      "sector": "Consumer Defensive",
+      "industry": "Tobacco",
+      "accept": [
+        "british american tobacco",
+        "british american tobacco p l c",
+        "bat"
+      ]
+    },
+    {
+      "ticker": "LSEG LN",
+      "yahooSymbol": "LSEG.L",
+      "name": "London Stock Exchange Group plc",
+      "shortName": "London Stock Exchange Group",
+      "exchange": "London Stock Exchange",
+      "country": "United Kingdom",
+      "sector": "Financial Services",
+      "industry": "Financial Data & Stock Exchanges",
+      "accept": [
+        "london stock exchange group",
+        "lseg"
+      ]
+    },
+    {
+      "ticker": "DGE LN",
+      "yahooSymbol": "DGE.L",
+      "name": "Diageo plc",
+      "shortName": "Diageo",
+      "exchange": "London Stock Exchange",
+      "country": "United Kingdom",
+      "sector": "Consumer Defensive",
+      "industry": "Beverages—Wineries & Distilleries",
+      "accept": [
+        "diageo"
+      ]
+    },
+    {
+      "ticker": "GLEN LN",
+      "yahooSymbol": "GLEN.L",
+      "name": "Glencore plc",
+      "shortName": "Glencore",
+      "exchange": "London Stock Exchange",
+      "country": "United Kingdom",
+      "sector": "Basic Materials",
+      "industry": "Other Industrial Metals & Mining",
+      "accept": [
+        "glencore"
+      ]
+    },
+    {
+      "ticker": "BARC LN",
+      "yahooSymbol": "BARC.L",
+      "name": "Barclays PLC",
+      "shortName": "Barclays",
+      "exchange": "London Stock Exchange",
+      "country": "United Kingdom",
+      "sector": "Financial Services",
+      "industry": "Banks—Diversified",
+      "accept": [
+        "barclays"
+      ]
+    },
+    {
+      "ticker": "LLOY LN",
+      "yahooSymbol": "LLOY.L",
+      "name": "Lloyds Banking Group plc",
+      "shortName": "Lloyds Banking Group",
+      "exchange": "London Stock Exchange",
+      "country": "United Kingdom",
+      "sector": "Financial Services",
+      "industry": "Banks—Regional",
+      "accept": [
+        "lloyds banking group",
+        "lloyds"
+      ]
+    },
+    {
+      "ticker": "NWG LN",
+      "yahooSymbol": "NWG.L",
+      "name": "NatWest Group plc",
+      "shortName": "NatWest",
+      "exchange": "London Stock Exchange",
+      "country": "United Kingdom",
+      "sector": "Financial Services",
+      "industry": "Banks—Regional",
+      "accept": [
+        "natwest",
+        "natwest group",
+        "national westminster bank",
+        "royal bank of scotland"
+      ]
+    },
+    {
+      "ticker": "VOD LN",
+      "yahooSymbol": "VOD.L",
+      "name": "Vodafone Group Public Limited Company",
+      "shortName": "Vodafone",
+      "exchange": "London Stock Exchange",
+      "country": "United Kingdom",
+      "sector": "Communication Services",
+      "industry": "Telecom Services",
+      "accept": [
+        "vodafone",
+        "vodafone group public"
+      ]
+    },
+    {
+      "ticker": "TSCO LN",
+      "yahooSymbol": "TSCO.L",
+      "name": "Tesco PLC",
+      "shortName": "Tesco",
+      "exchange": "London Stock Exchange",
+      "country": "United Kingdom",
+      "sector": "Consumer Defensive",
+      "industry": "Grocery Stores",
+      "accept": [
+        "tesco"
+      ]
+    },
+    {
+      "ticker": "PRU LN",
+      "yahooSymbol": "PRU.L",
+      "name": "Prudential plc",
+      "shortName": "Prudential",
+      "exchange": "London Stock Exchange",
+      "country": "United Kingdom",
+      "sector": "Financial Services",
+      "industry": "Insurance—Life",
+      "accept": [
+        "prudential"
+      ]
+    },
+    {
+      "ticker": "ANTO LN",
+      "yahooSymbol": "ANTO.L",
+      "name": "Antofagasta plc",
+      "shortName": "Antofagasta",
+      "exchange": "London Stock Exchange",
+      "country": "United Kingdom",
+      "sector": "Basic Materials",
+      "industry": "Copper",
+      "accept": [
+        "antofagasta"
+      ]
+    },
+    {
+      "ticker": "AAL LN",
+      "yahooSymbol": "AAL.L",
+      "name": "Anglo American plc",
+      "shortName": "Anglo American",
+      "exchange": "London Stock Exchange",
+      "country": "United Kingdom",
+      "sector": "Basic Materials",
+      "industry": "Other Industrial Metals & Mining",
+      "accept": [
+        "anglo american"
+      ]
+    },
+    {
+      "ticker": "RR LN",
+      "yahooSymbol": "RR.L",
+      "name": "Rolls-Royce Holdings plc",
+      "shortName": "Rolls-Royce",
+      "exchange": "London Stock Exchange",
+      "country": "United Kingdom",
+      "sector": "Industrials",
+      "industry": "Aerospace & Defense",
+      "accept": [
+        "rolls royce"
+      ]
+    }
+  ]
+}

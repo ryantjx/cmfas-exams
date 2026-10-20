@@ -507,8 +507,15 @@
   font-size: var(--sl-text-sm);
 }
 
+/* The correct option is highlighted, not just tinted text: a green rule and a
+   background wash survive colour-blind readers better than colour alone. */
 .quiz-review-options li.is-answer {
   color: var(--quiz-good);
+  font-weight: 600;
+  background: color-mix(in srgb, var(--quiz-good) 12%, transparent);
+  border-left: 2px solid var(--quiz-good);
+  border-radius: 0.25rem;
+  padding: 0.2rem 0.5rem;
 }
 
 .quiz-review-options li.is-chosen:not(.is-answer) {
@@ -623,4 +630,133 @@
   display: block;
   font-size: var(--sl-text-sm);
   color: var(--quiz-muted);
+}
+
+/* ------------------------------------------------------------ ticker drill */
+
+.ticker-modes {
+  display: inline-flex;
+  border: 1px solid var(--quiz-border);
+  border-radius: 0.4rem;
+  overflow: hidden;
+}
+
+.ticker-mode-button {
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-size: var(--sl-text-sm);
+  padding: 0.35rem 0.75rem;
+  cursor: pointer;
+}
+
+.ticker-mode-button + .ticker-mode-button {
+  border-left: 1px solid var(--quiz-border);
+}
+
+.ticker-mode-button.is-active {
+  background: var(--quiz-accent);
+  color: var(--sl-color-white, #fff);
+}
+
+.ticker-symbol {
+  margin: 0 0 0.25rem;
+  font-family: var(--sl-font-mono, ui-monospace, SFMono-Regular, Menlo, monospace);
+  font-size: clamp(2rem, 7vw, 3.25rem);
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  line-height: 1.1;
+}
+
+/* Buttons reuse the radio-option look: letter, name, verdict marker. */
+.ticker-option {
+  width: 100%;
+  grid-template-columns: auto 1fr auto;
+  text-align: left;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+}
+
+.ticker-option:disabled {
+  cursor: default;
+}
+
+.ticker-option:disabled:hover {
+  border-color: var(--quiz-border);
+}
+
+.ticker-option.is-answer:disabled:hover {
+  border-color: var(--quiz-good);
+}
+
+.ticker-option.is-wrong-answer:disabled:hover {
+  border-color: var(--quiz-bad);
+}
+
+.ticker-answer-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.ticker-input {
+  flex: 1 1 16rem;
+  border: 1px solid var(--quiz-border);
+  border-radius: 0.4rem;
+  padding: 0.5rem 0.75rem;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+}
+
+.ticker-input:focus {
+  outline: 2px solid var(--quiz-accent);
+  outline-offset: 1px;
+  border-color: var(--quiz-accent);
+}
+
+.ticker-review-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 0.35rem;
+}
+
+.ticker-review-list li {
+  display: grid;
+  grid-template-columns: 6rem 1fr auto;
+  gap: 0.75rem;
+  align-items: baseline;
+  border-left: 3px solid var(--quiz-border);
+  padding: 0.35rem 0 0.35rem 0.75rem;
+  font-size: var(--sl-text-sm);
+}
+
+.ticker-review-list li.is-right {
+  border-left-color: var(--quiz-good);
+}
+
+.ticker-review-list li.is-wrong {
+  border-left-color: var(--quiz-bad);
+}
+
+.ticker-review-symbol {
+  font-family: var(--sl-font-mono, ui-monospace, SFMono-Regular, Menlo, monospace);
+  font-weight: 600;
+}
+
+.ticker-review-mark {
+  font-weight: 700;
+}
+
+.ticker-review-list li.is-right .ticker-review-mark {
+  color: var(--quiz-good);
+}
+
+.ticker-review-list li.is-wrong .ticker-review-mark {
+  color: var(--quiz-bad);
 }

@@ -41,11 +41,55 @@ export type ChapterScoreRow = {
   total: number;
 };
 
-/** Fisher–Yates shuffle on a copy. */
-export function shuffle<T>(list: readonly T[]): T[] {
+/** A pseudo-random source: returns a float in [0, 1). */
+export type Rng = () => number;
+
+/**
+ * 32-bit FNV-1a hash, used only to turn a date string into a PRNG seed.
+ * Stable across reloads and browsers, which is what makes the daily set fixed.
+ */
+function hashSeed(text: string): number {
+  let hash = 0x811c9dc5;
+  for (let index = 0; index < text.length; index += 1) {
+    hash ^= text.charCodeAt(index);
+    hash = Math.imul(hash, 0x01000193);
+  }
+  return hash >>> 0;
+}
+
+/** Mulberry32 PRNG — small, fast, and good enough to shuffle a question bank. */
+export function createRng(seed: number): Rng {
+  let state = seed >>> 0;
+  return () => {
+    state = (state + 0x6d2b79f5) >>> 0;
+    let value = state;
+    value = Math.imul(value ^ (value >>> 15), value | 1);
+    value ^= value + Math.imul(value ^ (value >>> 7), value | 61);
+    return ((value ^ (value >>> 14)) >>> 0) / 4294967296;
+  };
+}
+
+/** Local calendar day as `YYYY-MM-DD`. The daily set rolls at local midnight. */
+export function dayKey(date: Date = new Date()): string {
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, '0');
+  const day = String(date.getDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
+}
+
+/**
+ * Seed for one exam's daily set. Same exam and same day → same questions in the
+ * same order; a new day → a new set. Every visitor sees the same set that day.
+ */
+export function dailySeed(examId: string, date: Date = new Date()): number {
+  return hashSeed(`${examId}:${dayKey(date)}`);
+}
+
+/** Fisher–Yates shuffle on a copy, optionally driven by a seeded PRNG. */
+export function shuffle<T>(list: readonly T[], rng: Rng = Math.random): T[] {
   const out = [...list];
   for (let i = out.length - 1; i > 0; i -= 1) {
-    const j = Math.floor(Math.random() * (i + 1));
+    const j = Math.floor(rng() * (i + 1));
     [out[i], out[j]] = [out[j], out[i]];
   }
   return out;
@@ -56,9 +100,9 @@ export function shuffle<T>(list: readonly T[]): T[] {
  * Option labels stay a/b/c/d in presentation order — only the text moves — so
  * the answer key is remapped to the new position.
  */
-export function shuffleOptions(question: QuizQuestion): QuizQuestion {
+export function shuffleOptions(question: QuizQuestion, rng: Rng = Math.random): QuizQuestion {
   const correct = new Set(question.answerKeys);
-  const options = shuffle(question.options).map((option, index) => ({
+  const options = shuffle(question.options, rng).map((option, index) => ({
     key: 'abcd'[index],
     text: option.text,
     correct: correct.has(option.key),
@@ -73,9 +117,9 @@ export function shuffleOptions(question: QuizQuestion): QuizQuestion {
 /** Prepare a question for display: annotate the answer, optionally shuffle. */
 export function prepareQuestion(
   question: QuizQuestion,
-  { shuffleAnswers = false }: { shuffleAnswers?: boolean } = {},
+  { shuffleAnswers = false, rng = Math.random }: { shuffleAnswers?: boolean; rng?: Rng } = {},
 ): QuizQuestion {
-  if (shuffleAnswers) return shuffleOptions(question);
+  if (shuffleAnswers) return shuffleOptions(question, rng);
   return {
     ...question,
     options: question.options.map((option) => ({
@@ -89,11 +133,11 @@ export function prepareQuestion(
 export function sampleQuestions(
   questions: readonly QuizQuestion[],
   size: number,
-  { shuffleQuestions = true }: { shuffleQuestions?: boolean } = {},
+  { shuffleQuestions = true, rng = Math.random }: { shuffleQuestions?: boolean; rng?: Rng } = {},
 ): QuizQuestion[] {
-  const pool = shuffleQuestions ? shuffle(questions) : [...questions];
-  if (size >= pool.length) return shuffle(pool);
-  return shuffle(pool).slice(0, size);
+  const pool = shuffleQuestions ? shuffle(questions, rng) : [...questions];
+  if (size >= pool.length) return shuffle(pool, rng);
+  return shuffle(pool, rng).slice(0, size);
 }
 
 /**
@@ -103,6 +147,7 @@ export function sampleQuestions(
 export function sampleByChapter(
   questions: readonly QuizQuestion[],
   size: number,
+  rng: Rng = Math.random,
 ): QuizQuestion[] {
   const byChapter = new Map<string, QuizQuestion[]>();
   for (const question of questions) {
@@ -112,7 +157,10 @@ export function sampleByChapter(
     else byChapter.set(key, [question]);
   }
 
-  const buckets = shuffle([...byChapter.values()].map((list) => shuffle(list)));
+  const buckets = shuffle(
+    [...byChapter.values()].map((list) => shuffle(list, rng)),
+    rng,
+  );
   const picked: QuizQuestion[] = [];
   let exhausted = false;
 
@@ -128,7 +176,7 @@ export function sampleByChapter(
     }
   }
 
-  return picked.length >= size ? shuffle(picked) : sampleQuestions(questions, size);
+  return picked.length >= size ? shuffle(picked, rng) : sampleQuestions(questions, size, { rng });
 }
 
 /** Is the given selection correct for the question? */

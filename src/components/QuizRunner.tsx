@@ -1,6 +1,9 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 
 import {
+  createRng,
+  dailySeed,
+  dayKey,
   formatClock,
   isCorrect,
   sampleByChapter,
@@ -114,21 +117,25 @@ export default function QuizRunner({
     // position lets repeat practice train position memory ("it's always B")
     // instead of the material, so chapter and daily sets shuffle too.
     const shuffleAnswers = true;
+    // The daily set is seeded from the exam id and the calendar day: the same 30
+    // questions come back all day, in the same order, and a new set appears at
+    // local midnight. Chapter and mock sets stay random on every visit.
+    const rng = mode === 'daily' ? createRng(dailySeed(bank.examId)) : Math.random;
     let chosen: QuizQuestion[];
 
     if (mode === 'chapter') {
       const inChapter = bank.questions.filter((q) => q.chapterId === chapterId);
       chosen =
         size && size < inChapter.length
-          ? sampleQuestions(inChapter, size, { shuffleQuestions: true })
-          : shuffle(inChapter);
+          ? sampleQuestions(inChapter, size, { rng })
+          : shuffle(inChapter, rng);
     } else if (mode === 'daily') {
-      chosen = sampleByChapter(bank.questions, size ?? bank.dailySize);
+      chosen = sampleByChapter(bank.questions, size ?? bank.dailySize, rng);
     } else {
-      chosen = sampleQuestions(bank.questions, size ?? bank.realExam.questions);
+      chosen = sampleQuestions(bank.questions, size ?? bank.realExam.questions, { rng });
     }
 
-    setQuestions(chosen.map((q) => prepareQuestion(q, { shuffleAnswers })));
+    setQuestions(chosen.map((q) => prepareQuestion(q, { shuffleAnswers, rng })));
     setAnswers({});
     setFlags({});
     setRevealed({});
@@ -191,7 +198,20 @@ export default function QuizRunner({
   }, [question]);
 
   const submit = useCallback(() => setSubmitted(true), []);
-  const restart = useCallback(() => setSeed((value) => value + 1), []);
+  // Today's daily set is fixed, so "restart" clears the answers instead of drawing
+  // new questions. Chapter and mock sets redraw on every restart.
+  const restart = useCallback(() => {
+    if (mode === 'daily') {
+      setAnswers({});
+      setFlags({});
+      setRevealed({});
+      setCurrent(0);
+      setSubmitted(false);
+      setRemaining(timed ? timeLimitSec ?? null : null);
+      return;
+    }
+    setSeed((value) => value + 1);
+  }, [mode, timed, timeLimitSec]);
 
   /* ---- load / error states ---- */
   if (error) {
@@ -334,7 +354,7 @@ export default function QuizRunner({
                     />
                     <span className="quiz-option-letter">{letterFor(index)}</span>
                     <span className="quiz-option-text">{option.text}</span>
-                    {isAnswer && <span className="quiz-tick">✓ correct</span>}
+                    {isAnswer && <span className="quiz-tick">✓ correct answer</span>}
                     {isWrongPick && <span className="quiz-cross">✗ your answer</span>}
                     {isRevealed && checked && isAnswer && question.isMulti && (
                       <span className="quiz-pick">your answer</span>
@@ -438,9 +458,16 @@ export default function QuizRunner({
             </p>
           )}
 
-          <p className="quiz-note">
-            No answers are stored — reloading this page discards the set and draws a new one.
-          </p>
+          {mode === 'daily' ? (
+            <p className="quiz-note">
+              Today&apos;s set ({dayKey()}) is the same all day, for everyone. A new set appears
+              at local midnight. Nothing is stored.
+            </p>
+          ) : (
+            <p className="quiz-note">
+              No answers are stored — reloading this page discards the set and draws a new one.
+            </p>
+          )}
         </div>
 
         <aside
@@ -622,7 +649,7 @@ function ReviewScreen({
                     >
                       <span className="quiz-option-letter">{letterFor(optionIndex)}</span>
                       <span>{option.text}</span>
-                      {isAnswer && <span className="quiz-tick">✓ correct</span>}
+                      {isAnswer && <span className="quiz-tick">✓ correct answer</span>}
                       {chose && !isAnswer && <span className="quiz-cross">✗ your answer</span>}
                     </li>
                   );
@@ -641,9 +668,15 @@ function ReviewScreen({
 
       <p className="quiz-submit-row">
         <button type="button" className="quiz-button quiz-button-primary" onClick={onRestart}>
-          Start a new set
+          {mode === 'daily' ? "Retry today's set" : 'Start a new set'}
         </button>
       </p>
+      {mode === 'daily' && (
+        <p className="quiz-note">
+          Today&apos;s set is fixed for everyone until local midnight. Come back tomorrow for a
+          new set.
+        </p>
+      )}
     </div>
   );
 }
