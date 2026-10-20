@@ -1,39 +1,25 @@
-Complete FMRP section coverage to 100%
+Document the per-chapter guide structure
 
-FMRP moves from 87% to 212/212 official sections with zero defects.
-Chapter 1 grows from 826 to 3,400 words and chapter 3 from 543 to 1,100.
+The README and notes/STYLE.md still described the old monolith-plus-splitter
+arrangement. Both now document what the build actually reads.
 
-Chapter 1 restores all 24 missing subsections:
-- 1.2.2.1-1.2.2.5 the five market types separately: FX as the largest
-  financial market; money markets at one year or shorter, with their
-  instrument list; capital markets with the medium-term definition and the
-  equity/credit distinction; securities markets and what "listed" means; and
-  derivatives markets split into exchange-traded and OTC
-- the four features a market needs to function, including that dealing is on
-  a "best deal" basis rather than personal relationships
-- 1.3.1.1 commercial banks, including the branch network and the point that
-  permitted activity is set by licence type and varies by jurisdiction
-- 1.3.1.2 investment banks with all four activities: underwriting, M&A,
-  sales and trading flow business, and proprietary trading
-- 1.3.1.3 private banks as a separate entity or a division, serving
-  high-net-worth individuals
-- 1.3.2 IDBs: money-broker approval under the MAS Act, the prohibition on
-  acting as principal, and the Bond Dealing Exemption
-- 1.3.3-1.3.9 finance companies (no demand deposits, term deposits only),
-  insurers under s.8 of the Insurance Act, capital markets intermediaries,
-  financial advisers under the FAA Second Schedule, insurance brokers, trust
-  companies under the First Schedule, and money-changing and remittance
-  businesses including the duty to display exchange rates
-- 1.4.3.1-1.4.3.2 the FX and money-market dealer register under MAS 911, and
-  Primary Dealers under the Government Securities Act with sections 30 and
-  24A, MAS 761, the SGS market rules and the SGS Repo Code
-- 1.5.1-1.5.5 each professional body restored, including SFEMC's five
-  objectives, the Blue Book/FX Global Code relationship (the Global Code
-  covers FX only), the ACI Model Code, ABS as the banks' representative, and
-  IBF with its ~200 members and IBF Standards
+README:
+- the source-of-truth tree shows guide/*.md instead of *_AI.md
+- the frontmatter contract is documented, with the reason the id, slug and
+  order fields are pinned rather than derived from the title
+- adds npm run audit and npm run pdf to the command list
+- the layout block lists guide.mjs, syllabus.mjs, audit-guides.mjs and
+  build-pdfs.mjs
 
-Chapter 3 restores 3.2.1.1 trading information, 3.2.1.2 designated
-confidential information, 3.4.3.1 electronic trading system logs and
-3.4.3.2 telephone recordings.
+STYLE.md:
+- applies to notes/<exam>/guide/, one file per chapter, appendix and closing
+  section
+- documents the full frontmatter contract and the filename convention
+- the build contract now states what must not change: num, id and slug, plus
+  the RES 12B part prefix and the deliberately shared 2B-7
+- replaces the old heading-pattern rules with the audit workflow, and adds the
+  requirement to restore every number, threshold, date and worked example,
+  since a section heading without its content is still a coverage gap
 
-37/37 parser checks pass; 0 errors, 0 warnings.
+Also drops an unused import in build-pdfs.mjs. Regenerates all 13 printable
+artefacts. npm run verify: 37/37 checks, 0 errors, 0 warnings, 0 hints.

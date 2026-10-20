@@ -25,7 +25,7 @@ import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from 'node
 import path from 'node:path';
 
 import { EXAMS } from './lib/exams.mjs';
-import { guideDirOf, listGuideFiles, readGuideFile } from './lib/guide.mjs';
+import { listGuideFiles, readGuideFile } from './lib/guide.mjs';
 import { REPO_ROOT } from './lib/util.mjs';
 
 function have(cmd) {

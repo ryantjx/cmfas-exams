@@ -10,7 +10,7 @@ A static study site for the Singapore capital markets exams — **RES 12B**,
 
 | | |
 | --- | --- |
-| **Study guides** | One page per chapter, split automatically from the repo's `*_AI.md` teaching guides. |
+| **Study guides** | One page per chapter and per appendix, split automatically from the repo's per-chapter teaching-guide markdown. |
 | **Chapter quiz** | Every question in a chosen chapter, untimed, with the answer and explanation revealed as you answer. |
 | **Daily quiz** | 30 questions drawn at random from the whole bank, re-rolled on every load. |
 | **Mock exam** | The real paper's length, timing and pass mark: strict timer, auto-submit, no feedback until the end, question navigator, flag-for-review, shuffled questions and options, and a score report with a per-chapter breakdown. |
@@ -30,14 +30,36 @@ The markdown under `notes/` is **never modified** by the build:
 ```
 notes/
   121026_EXAMS.md            study plan
-  cmsip/    CMSIP.md   CMSIP_AI.md   CMSIP_QUESTIONS.md
-  fmrp/     FMRP.md    FMRP_AI.md    FMRP_QUESTIONS.md
-  res12b/   RES12B.md  RES12B_AI.md  RES12B_QUESTIONS.md
+  cmsip/    CMSIP.md   CMSIP_QUESTIONS.md   guide/*.md
+  fmrp/     FMRP.md    FMRP_QUESTIONS.md    guide/*.md
+  res12b/   RES12B.md  RES12B_QUESTIONS.md  guide/*.md
 ```
 
-Each exam folder also holds the official provider PDF, the pre-generated
-`output/html` and `output/pdf` artefacts, and the `*_AI.md` teaching guide that
-the site splits into one page per chapter.
+Each exam's teaching guide is **one markdown file per chapter, appendix and
+closing section** under `notes/<exam>/guide/`, with YAML frontmatter as the
+build contract:
+
+```yaml
+---
+id: '1B-3'                        # stable chapter id; the question bank keys off this
+kind: 'chapter'                   # chapter | appendix | appendix-group | section | intro
+num: 3                            # syllabus chapter number, or null
+part: '1B'                        # '1B' | '2B' | null
+title: 'Market Conduct'
+order: 1003                       # reading order and sidebar position
+slug: 'chapter-1b-3-market-conduct'
+---
+```
+
+`id`, `slug` and `order` are **pinned rather than derived from the title**, so
+correcting a chapter title to the official syllabus wording cannot move a URL or
+orphan its questions. Splitting the guides this way is what lets a single chapter
+be rewritten without touching a 1,200-line file; `scripts/split-guides.mjs`
+performed the one-off migration and asserted that every page still rendered
+identically afterwards.
+
+Each exam folder also holds the official provider PDF and the pre-generated
+`output/html` and `output/pdf` artefacts.
 
 Everything under `src/content/docs/`, `src/data/`, `public/banks/` and
 `public/downloads/` is **generated** and gitignored. Edit the markdown above, not
@@ -49,11 +71,13 @@ the generated output.
 npm install
 npm run dev        # generate + dev server (regenerates content first)
 npm run gen        # parse banks and regenerate the content tree
+npm run audit      # syllabus coverage + markdown defect check (--strict to fail)
 npm run test:parser  # assert bank invariants (counts, answer keys, chapters)
 npm run lint:notes   # audit the three teaching guides (advisory; --strict to fail)
 npm run check      # Astro/TypeScript diagnostics
 npm run build      # generate + static build into dist/
 npm run verify     # test:parser + check + build
+npm run pdf        # regenerate the printable HTML/PDF artefacts (needs pandoc)
 npm run preview    # serve dist/ locally
 ```
 
@@ -64,10 +88,14 @@ Locally the site is served under the base path:
 
 ```
 scripts/lib/exams.mjs       exam config, real-exam facts, PDF sources
-scripts/lib/questions.mjs   the three question-bank parsers + guide splitter
+scripts/lib/guide.mjs       per-chapter guide loader + frontmatter contract
+scripts/lib/syllabus.mjs    canonical official section manifest (coverage baseline)
+scripts/lib/questions.mjs   the three question-bank parsers
 scripts/lib/util.mjs        filesystem and slug helpers
 scripts/build-banks.mjs     markdown → normalised question JSON
 scripts/build-content.mjs   markdown → Starlight pages, sidebar and PDF copies
+scripts/audit-guides.mjs    coverage vs the syllabus manifest + defect scan
+scripts/build-pdfs.mjs      pandoc/XeLaTeX build of the printable artefacts
 src/components/             QuizRunner (the quiz engine), PracticePicker, ThemeToggle
 src/lib/quiz.ts             sampling, shuffling, scoring, timers
 src/styles/custom.css       quiz UI
