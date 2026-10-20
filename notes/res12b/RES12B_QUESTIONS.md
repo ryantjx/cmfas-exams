@@ -30,15 +30,15 @@ d. The guide describes three routes: a profit test involving at least S$30 milli
 
 ### 2. **[Single choice]** [RES 1B §1.1] Distinguish exchange trading from over-the-counter trading.
 
-a. A SPAC is a listed shell formed to raise funds and later acquire an operating business.
-b. Catalist is a sponsor-supervised market and does not use the same quantitative entry tests as Mainboard.
-c. Admission is not the end of the issuer’s obligations.
-d. Exchange trading takes place through a regulated venue with standardised products, published rules and organised matching.
+a. Admission is not the end of the issuer’s obligations.
+b. Exchange trading takes place through a regulated venue with standardised products, published rules and organised matching.
+c. A SPAC is a listed shell formed to raise funds and later acquire an operating business.
+d. Catalist is a sponsor-supervised market and does not use the same quantitative entry tests as Mainboard.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. Exchange trading takes place through a regulated venue with standardised products, published rules and organised matching.
+**Answer:** B. Exchange trading takes place through a regulated venue with standardised products, published rules and organised matching.
 
 **Rationale:** Exchange trading takes place through a regulated venue with standardised products, published rules and organised matching. OTC trading is negotiated bilaterally or through a dealer network, allowing more flexible terms but creating greater counterparty, documentation, valuation and liquidity considerations.
 
@@ -46,15 +46,15 @@ d. Exchange trading takes place through a regulated venue with standardised prod
 
 ### 3. **[Single choice]** [RES 1B §1.2] What are the principal functions of banks, securities dealers, fund managers and other institutional participants?
 
-a. Banks provide financing, deposit-taking and payment services; securities dealers arrange or execute trades and may act as agent or principal; fund managers manage pooled or discretionary portfolios; and other participants such as insurers, pension funds, corporations and government-linked entities supply or demand capital and investment products.
-b. In a primary market, an issuer raises new capital by issuing securities to investors.
-c. Exchange trading takes place through a regulated venue with standardised products, published rules and organised matching.
-d. A CMS licence holder conducts regulated activities such as dealing in capital markets products, fund management or advising, subject to the scope of its licence, financial resources, representatives, systems and continuing obligations.
+a. Exchange trading takes place through a regulated venue with standardised products, published rules and organised matching.
+b. A CMS licence holder conducts regulated activities such as dealing in capital markets products, fund management or advising, subject to the scope of its licence, financial resources, representatives, systems and continuing obligations.
+c. Banks provide financing, deposit-taking and payment services; securities dealers arrange or execute trades and may act as agent or principal; fund managers manage pooled or discretionary portfolios; and other participants such as insurers, pension funds, corporations and government-linked entities supply or demand capital and investment products.
+d. In a primary market, an issuer raises new capital by issuing securities to investors.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Banks provide financing, deposit-taking and payment services; securities dealers arrange or execute trades and may act as agent or principal; fund managers manage pooled or discretionary portfolios; and other participants such as insurers, pension funds, corporations and government-linked entities supply or demand capital and investment products.
+**Answer:** C. Banks provide financing, deposit-taking and payment services; securities dealers arrange or execute trades and may act as agent or principal; fund managers manage pooled or discretionary portfolios; and other participants such as insurers, pension funds, corporations and government-linked entities supply or demand capital and investment products.
 
 **Rationale:** Banks provide financing, deposit-taking and payment services; securities dealers arrange or execute trades and may act as agent or principal; fund managers manage pooled or discretionary portfolios; and other participants such as insurers, pension funds, corporations and government-linked entities supply or demand capital and investment products.
 
@@ -62,15 +62,15 @@ d. A CMS licence holder conducts regulated activities such as dealing in capital
 
 ### 4. **[Single choice]** [RES 1B §1.2] What is the role of a CMS licence holder in the capital markets?
 
-a. MAS is Singapore’s central bank and financial regulator.
-b. A CMS licence holder conducts regulated activities such as dealing in capital markets products, fund management or advising, subject to the scope of its licence, financial resources, representatives, systems and continuing obligations.
-c. Legislation and MAS regulations establish statutory obligations and offences, while exchange and clearing rules govern trading, membership, settlement and market operations.
-d. The guide describes three routes: a profit test involving at least S$30 million of aggregate pre-tax profit over the latest three years with minimum profit in the latest year.
+a. Legislation and MAS regulations establish statutory obligations and offences, while exchange and clearing rules govern trading, membership, settlement and market operations.
+b. The guide describes three routes: a profit test involving at least S$30 million of aggregate pre-tax profit over the latest three years with minimum profit in the latest year.
+c. MAS is Singapore’s central bank and financial regulator.
+d. A CMS licence holder conducts regulated activities such as dealing in capital markets products, fund management or advising, subject to the scope of its licence, financial resources, representatives, systems and continuing obligations.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. A CMS licence holder conducts regulated activities such as dealing in capital markets products, fund management or advising, subject to the scope of its licence, financial resources, representatives, systems and continuing obligations.
+**Answer:** D. A CMS licence holder conducts regulated activities such as dealing in capital markets products, fund management or advising, subject to the scope of its licence, financial resources, representatives, systems and continuing obligations.
 
 **Rationale:** A CMS licence holder conducts regulated activities such as dealing in capital markets products, fund management or advising, subject to the scope of its licence, financial resources, representatives, systems and continuing obligations. It must protect customers, maintain proper records and comply with applicable conduct and prudential requirements.
 
@@ -78,15 +78,15 @@ d. The guide describes three routes: a profit test involving at least S$30 milli
 
 ### 5. **[Single choice]** [RES 1B §1.3] Differentiate MAS, SGX, SGX RegCo, SGX-ST and CDP.
 
-a. Admission is not the end of the issuer’s obligations.
-b. Catalist is a sponsor-supervised market and does not use the same quantitative entry tests as Mainboard.
-c. MAS is Singapore’s central bank and financial regulator.
-d. A SPAC is a listed shell formed to raise funds and later acquire an operating business.
+a. Catalist is a sponsor-supervised market and does not use the same quantitative entry tests as Mainboard.
+b. MAS is Singapore’s central bank and financial regulator.
+c. A SPAC is a listed shell formed to raise funds and later acquire an operating business.
+d. Admission is not the end of the issuer’s obligations.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. MAS is Singapore’s central bank and financial regulator.
+**Answer:** B. MAS is Singapore’s central bank and financial regulator.
 
 **Rationale:** MAS is Singapore’s central bank and financial regulator. SGX operates the exchange group; SGX RegCo performs frontline regulatory functions; SGX-ST operates the securities trading market; and CDP provides central depository and clearing-related services for securities. Their exact responsibilities should be read with the applicable legislation and rules.
 
@@ -94,15 +94,15 @@ d. A SPAC is a listed shell formed to raise funds and later acquire an operating
 
 ### 6. **[Single choice]** [RES 1B §1.3] Why must a representative understand both legislation and exchange rules?
 
-a. Banks provide financing, deposit-taking and payment services; securities dealers arrange or execute trades and may act as agent or principal; fund managers manage pooled or discretionary portfolios; and other participants such as insurers, pension funds, corporations and government-linked entities supply or demand capital and investment products.
-b. In a primary market, an issuer raises new capital by issuing securities to investors.
-c. Exchange trading takes place through a regulated venue with standardised products, published rules and organised matching.
-d. Legislation and MAS regulations establish statutory obligations and offences, while exchange and clearing rules govern trading, membership, settlement and market operations.
+a. In a primary market, an issuer raises new capital by issuing securities to investors.
+b. Exchange trading takes place through a regulated venue with standardised products, published rules and organised matching.
+c. Legislation and MAS regulations establish statutory obligations and offences, while exchange and clearing rules govern trading, membership, settlement and market operations.
+d. Banks provide financing, deposit-taking and payment services; securities dealers arrange or execute trades and may act as agent or principal; fund managers manage pooled or discretionary portfolios; and other participants such as insurers, pension funds, corporations and government-linked entities supply or demand capital and investment products.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. Legislation and MAS regulations establish statutory obligations and offences, while exchange and clearing rules govern trading, membership, settlement and market operations.
+**Answer:** C. Legislation and MAS regulations establish statutory obligations and offences, while exchange and clearing rules govern trading, membership, settlement and market operations.
 
 **Rationale:** Legislation and MAS regulations establish statutory obligations and offences, while exchange and clearing rules govern trading, membership, settlement and market operations. A transaction can comply with one layer and still breach another, so representatives must apply the full rule framework.
 
@@ -110,15 +110,15 @@ d. Legislation and MAS regulations establish statutory obligations and offences,
 
 ### 7. **[Single choice]** [RES 1B §1.4] What are the main quantitative entry routes for a Mainboard listing described in the guide?
 
-a. The guide describes three routes: a profit test involving at least S$30 million of aggregate pre-tax profit over the latest three years with minimum profit in the latest year.
-b. A CMS licence holder conducts regulated activities such as dealing in capital markets products, fund management or advising, subject to the scope of its licence, financial resources, representatives, systems and continuing obligations.
-c. MAS is Singapore’s central bank and financial regulator.
-d. Legislation and MAS regulations establish statutory obligations and offences, while exchange and clearing rules govern trading, membership, settlement and market operations.
+a. A CMS licence holder conducts regulated activities such as dealing in capital markets products, fund management or advising, subject to the scope of its licence, financial resources, representatives, systems and continuing obligations.
+b. MAS is Singapore’s central bank and financial regulator.
+c. Legislation and MAS regulations establish statutory obligations and offences, while exchange and clearing rules govern trading, membership, settlement and market operations.
+d. The guide describes three routes: a profit test involving at least S$30 million of aggregate pre-tax profit over the latest three years with minimum profit in the latest year.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. The guide describes three routes: a profit test involving at least S$30 million of aggregate pre-tax profit over the latest three years with minimum profit in the latest year.
+**Answer:** D. The guide describes three routes: a profit test involving at least S$30 million of aggregate pre-tax profit over the latest three years with minimum profit in the latest year.
 
 **Rationale:** The guide describes three routes: a profit test involving at least S$30 million of aggregate pre-tax profit over the latest three years with minimum profit in the latest year; a profit-and-market-capitalisation route involving profit over three years and at least S$150 million market capitalisation; and a revenue-and-market-capitalisation route involving revenue in the latest completed financial year and at least S$300 million market capitalisation. Exact eligibility must be checked against the current listing rules.
 
@@ -174,15 +174,15 @@ d. A SPAC is a listed shell formed to raise funds and later acquire an operating
 
 ### 11. **[Single choice]** [RES 1B §2.1–2.2] What is the purpose of a CMS licence and why is the activity scope important?
 
-a. A CMS licence authorises a legal entity to conduct specified regulated activities.
-b. The guide describes a board with at least two directors, including a Singapore-resident director, a Singapore-resident chief executive officer, and at least two full-time representatives for each regulated activity, subject to the applicable requirements.
-c. Changes to key persons, business activities, ownership, representatives, offices, financial condition or other prescribed particulars may require notification or approval.
-d. Registration identifies an individual authorised to act for a principal in specified regulated activities.
+a. Registration identifies an individual authorised to act for a principal in specified regulated activities.
+b. A CMS licence authorises a legal entity to conduct specified regulated activities.
+c. The guide describes a board with at least two directors, including a Singapore-resident director, a Singapore-resident chief executive officer, and at least two full-time representatives for each regulated activity, subject to the applicable requirements.
+d. Changes to key persons, business activities, ownership, representatives, offices, financial condition or other prescribed particulars may require notification or approval.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. A CMS licence authorises a legal entity to conduct specified regulated activities.
+**Answer:** B. A CMS licence authorises a legal entity to conduct specified regulated activities.
 
 **Rationale:** A CMS licence authorises a legal entity to conduct specified regulated activities. The holder may conduct only the activities and deal in the products permitted by its licence, and must satisfy requirements on management, representatives, financial resources, systems, controls and customer protection.
 
@@ -190,15 +190,15 @@ d. Registration identifies an individual authorised to act for a principal in sp
 
 ### 12. **[Single choice]** [RES 1B §2.2] State the base-capital amounts highlighted for a securities dealer under the guide’s BCR table.
 
-a. The representative and principal must make the prescribed notifications, including cessation and changes in particulars, within the applicable time periods; the guide highlights seven- and 14-day requirements for different changes.
-b. The guide’s table highlights S$5 million for a clearing member, S$1 million for a trading member or non-member, S$500,000 for an introducing broker and S$50,000 for other relevant categories.
-c. It must be clear, fair, balanced and not misleading.
-d. For retail customers trading SIPs, the firm uses a CAR for listed SIPs and a CKA for unlisted SIPs, unless an applicable exemption or alternative rule applies.
+a. For retail customers trading SIPs, the firm uses a CAR for listed SIPs and a CKA for unlisted SIPs, unless an applicable exemption or alternative rule applies.
+b. The representative and principal must make the prescribed notifications, including cessation and changes in particulars, within the applicable time periods; the guide highlights seven- and 14-day requirements for different changes.
+c. The guide’s table highlights S$5 million for a clearing member, S$1 million for a trading member or non-member, S$500,000 for an introducing broker and S$50,000 for other relevant categories.
+d. It must be clear, fair, balanced and not misleading.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. The guide’s table highlights S$5 million for a clearing member, S$1 million for a trading member or non-member, S$500,000 for an introducing broker and S$50,000 for other relevant categories.
+**Answer:** C. The guide’s table highlights S$5 million for a clearing member, S$1 million for a trading member or non-member, S$500,000 for an introducing broker and S$50,000 for other relevant categories.
 
 **Rationale:** The guide’s table highlights S$5 million for a clearing member, S$1 million for a trading member or non-member, S$500,000 for an introducing broker and S$50,000 for other relevant categories. These are study-guide figures and must be checked against the current regulations before operational use.
 
@@ -206,15 +206,15 @@ d. For retail customers trading SIPs, the firm uses a CAR for listed SIPs and a 
 
 ### 13. **[Single choice]** [RES 1B §2.2] What management and staffing features are relevant to a CMS licence application?
 
-a. For a listed SIP, the guide allows a negative CAR outcome to be followed only by the prescribed senior-management approval, written outcome and warnings, customer confirmation and responsibility acknowledgement.
-b. The guide states that CAR is valid for three years and CKA for one year, subject to the relevant transaction, change-of-circumstance and reassessment rules.
-c. The guide describes a board with at least two directors, including a Singapore-resident director, a Singapore-resident chief executive officer, and at least two full-time representatives for each regulated activity, subject to the applicable requirements.
-d. The classification determines whether additional knowledge or experience safeguards apply.
+a. The classification determines whether additional knowledge or experience safeguards apply.
+b. For a listed SIP, the guide allows a negative CAR outcome to be followed only by the prescribed senior-management approval, written outcome and warnings, customer confirmation and responsibility acknowledgement.
+c. The guide states that CAR is valid for three years and CKA for one year, subject to the relevant transaction, change-of-circumstance and reassessment rules.
+d. The guide describes a board with at least two directors, including a Singapore-resident director, a Singapore-resident chief executive officer, and at least two full-time representatives for each regulated activity, subject to the applicable requirements.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. The guide describes a board with at least two directors, including a Singapore-resident director, a Singapore-resident chief executive officer, and at least two full-time representatives for each regulated activity, subject to the applicable requirements.
+**Answer:** D. The guide describes a board with at least two directors, including a Singapore-resident director, a Singapore-resident chief executive officer, and at least two full-time representatives for each regulated activity, subject to the applicable requirements.
 
 **Rationale:** The guide describes a board with at least two directors, including a Singapore-resident director, a Singapore-resident chief executive officer, and at least two full-time representatives for each regulated activity, subject to the applicable requirements. MAS also assesses fitness, propriety, competence, financial resources, compliance arrangements and internal controls.
 
@@ -222,15 +222,15 @@ d. The classification determines whether additional knowledge or experience safe
 
 ### 14. **[Single choice]** [RES 1B §2.2] What kinds of changes must a CMS licence holder notify to MAS, and why?
 
-a. The guide highlights contract notes by the next business day and periodic statements, including monthly or quarterly statements where prescribed.
-b. Customer information must be collected, used, disclosed and retained only for proper purposes and in accordance with the Banking Act secrecy framework, PDPA obligations, applicable Do-Not-Call rules and permitted exceptions.
-c. The firm should establish and verify customer identity, authority, risk profile, account terms, trading permissions, beneficial ownership and relevant declarations.
-d. Changes to key persons, business activities, ownership, representatives, offices, financial condition or other prescribed particulars may require notification or approval.
+a. The firm should establish and verify customer identity, authority, risk profile, account terms, trading permissions, beneficial ownership and relevant declarations.
+b. Changes to key persons, business activities, ownership, representatives, offices, financial condition or other prescribed particulars may require notification or approval.
+c. The guide highlights contract notes by the next business day and periodic statements, including monthly or quarterly statements where prescribed.
+d. Customer information must be collected, used, disclosed and retained only for proper purposes and in accordance with the Banking Act secrecy framework, PDPA obligations, applicable Do-Not-Call rules and permitted exceptions.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. Changes to key persons, business activities, ownership, representatives, offices, financial condition or other prescribed particulars may require notification or approval.
+**Answer:** B. Changes to key persons, business activities, ownership, representatives, offices, financial condition or other prescribed particulars may require notification or approval.
 
 **Rationale:** Changes to key persons, business activities, ownership, representatives, offices, financial condition or other prescribed particulars may require notification or approval. The purpose is to let MAS assess whether the licence holder continues to meet the conditions under which it was authorised; the guide highlights a 14-day period for specified changes.
 
@@ -238,15 +238,15 @@ d. Changes to key persons, business activities, ownership, representatives, offi
 
 ### 15. **[Single choice]** [RES 1B §2.3] What does registration of a representative achieve?
 
-a. Registration identifies an individual authorised to act for a principal in specified regulated activities.
-b. Books and audit trails let the firm reconstruct orders, decisions, communications, approvals, allocations, money movements and compliance reviews.
-c. Customer money is cash received or held for the customer, while customer assets include securities and other property held for or belonging to the customer.
-d. Deposit or hold them only with permitted institutions or custodians, maintain trust or custody arrangements and accurate ledgers, complete reconciliations, make permitted withdrawals or investments, give required disclosures, and ensure lending, pledging or use of assets is authorised and documented.
+a. Customer money is cash received or held for the customer, while customer assets include securities and other property held for or belonging to the customer.
+b. Deposit or hold them only with permitted institutions or custodians, maintain trust or custody arrangements and accurate ledgers, complete reconciliations, make permitted withdrawals or investments, give required disclosures, and ensure lending, pledging or use of assets is authorised and documented.
+c. Registration identifies an individual authorised to act for a principal in specified regulated activities.
+d. Books and audit trails let the firm reconstruct orders, decisions, communications, approvals, allocations, money movements and compliance reviews.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Registration identifies an individual authorised to act for a principal in specified regulated activities.
+**Answer:** C. Registration identifies an individual authorised to act for a principal in specified regulated activities.
 
 **Rationale:** Registration identifies an individual authorised to act for a principal in specified regulated activities. The representative must meet competence and fit-and-proper requirements, act for only one principal at a time, remain properly supervised and comply with continuing professional-development and notification obligations.
 
@@ -254,15 +254,15 @@ d. Deposit or hold them only with permitted institutions or custodians, maintain
 
 ### 16. **[Single choice]** [RES 1B §2.3] What are the representative’s obligations when changing particulars or ceasing to act for a principal?
 
-a. A CMS licence authorises a legal entity to conduct specified regulated activities.
-b. The representative and principal must make the prescribed notifications, including cessation and changes in particulars, within the applicable time periods; the guide highlights seven- and 14-day requirements for different changes.
-c. The guide’s table highlights S$5 million for a clearing member, S$1 million for a trading member or non-member, S$500,000 for an introducing broker and S$50,000 for other relevant categories.
-d. The guide describes a board with at least two directors, including a Singapore-resident director, a Singapore-resident chief executive officer, and at least two full-time representatives for each regulated activity, subject to the applicable requirements.
+a. The guide’s table highlights S$5 million for a clearing member, S$1 million for a trading member or non-member, S$500,000 for an introducing broker and S$50,000 for other relevant categories.
+b. The guide describes a board with at least two directors, including a Singapore-resident director, a Singapore-resident chief executive officer, and at least two full-time representatives for each regulated activity, subject to the applicable requirements.
+c. A CMS licence authorises a legal entity to conduct specified regulated activities.
+d. The representative and principal must make the prescribed notifications, including cessation and changes in particulars, within the applicable time periods; the guide highlights seven- and 14-day requirements for different changes.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. The representative and principal must make the prescribed notifications, including cessation and changes in particulars, within the applicable time periods; the guide highlights seven- and 14-day requirements for different changes.
+**Answer:** D. The representative and principal must make the prescribed notifications, including cessation and changes in particulars, within the applicable time periods; the guide highlights seven- and 14-day requirements for different changes.
 
 **Rationale:** The representative and principal must make the prescribed notifications, including cessation and changes in particulars, within the applicable time periods; the guide highlights seven- and 14-day requirements for different changes. The representative must not continue holding out as authorised after cessation.
 
@@ -270,15 +270,15 @@ d. The guide describes a board with at least two directors, including a Singapor
 
 ### 17. **[Single choice]** [RES 1B §2.4] What must a compliant advertisement for a capital-markets product or service avoid?
 
-a. Registration identifies an individual authorised to act for a principal in specified regulated activities.
-b. Changes to key persons, business activities, ownership, representatives, offices, financial condition or other prescribed particulars may require notification or approval.
-c. It must be clear, fair, balanced and not misleading.
-d. The representative and principal must make the prescribed notifications, including cessation and changes in particulars, within the applicable time periods; the guide highlights seven- and 14-day requirements for different changes.
+a. It must be clear, fair, balanced and not misleading.
+b. The representative and principal must make the prescribed notifications, including cessation and changes in particulars, within the applicable time periods; the guide highlights seven- and 14-day requirements for different changes.
+c. Registration identifies an individual authorised to act for a principal in specified regulated activities.
+d. Changes to key persons, business activities, ownership, representatives, offices, financial condition or other prescribed particulars may require notification or approval.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. It must be clear, fair, balanced and not misleading.
+**Answer:** A. It must be clear, fair, balanced and not misleading.
 
 **Rationale:** It must be clear, fair, balanced and not misleading. It should identify material risks and limitations, avoid false or unsubstantiated claims, avoid presenting past performance as a promise, state relevant fees or conditions, and comply with the firm’s approval and record-keeping procedures.
 
@@ -286,15 +286,15 @@ d. The representative and principal must make the prescribed notifications, incl
 
 ### 18. **[Single choice]** [RES 1B §2.5] When are a Customer Account Review and Customer Knowledge Assessment relevant?
 
-a. For a listed SIP, the guide allows a negative CAR outcome to be followed only by the prescribed senior-management approval, written outcome and warnings, customer confirmation and responsibility acknowledgement.
-b. It must be clear, fair, balanced and not misleading.
-c. The guide states that CAR is valid for three years and CKA for one year, subject to the relevant transaction, change-of-circumstance and reassessment rules.
-d. For retail customers trading SIPs, the firm uses a CAR for listed SIPs and a CKA for unlisted SIPs, unless an applicable exemption or alternative rule applies.
+a. The guide states that CAR is valid for three years and CKA for one year, subject to the relevant transaction, change-of-circumstance and reassessment rules.
+b. For retail customers trading SIPs, the firm uses a CAR for listed SIPs and a CKA for unlisted SIPs, unless an applicable exemption or alternative rule applies.
+c. For a listed SIP, the guide allows a negative CAR outcome to be followed only by the prescribed senior-management approval, written outcome and warnings, customer confirmation and responsibility acknowledgement.
+d. It must be clear, fair, balanced and not misleading.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. For retail customers trading SIPs, the firm uses a CAR for listed SIPs and a CKA for unlisted SIPs, unless an applicable exemption or alternative rule applies.
+**Answer:** B. For retail customers trading SIPs, the firm uses a CAR for listed SIPs and a CKA for unlisted SIPs, unless an applicable exemption or alternative rule applies.
 
 **Rationale:** For retail customers trading SIPs, the firm uses a CAR for listed SIPs and a CKA for unlisted SIPs, unless an applicable exemption or alternative rule applies. The purpose is to assess knowledge and experience, not to guarantee suitability or eliminate investment risk.
 
@@ -302,15 +302,15 @@ d. For retail customers trading SIPs, the firm uses a CAR for listed SIPs and a 
 
 ### 19. **[Single choice]** [RES 1B §2.5] Compare the validity periods of CAR and CKA in the guide.
 
-a. The guide states that CAR is valid for three years and CKA for one year, subject to the relevant transaction, change-of-circumstance and reassessment rules.
-b. The classification determines whether additional knowledge or experience safeguards apply.
-c. Customer information must be collected, used, disclosed and retained only for proper purposes and in accordance with the Banking Act secrecy framework, PDPA obligations, applicable Do-Not-Call rules and permitted exceptions.
-d. The firm should establish and verify customer identity, authority, risk profile, account terms, trading permissions, beneficial ownership and relevant declarations.
+a. Customer information must be collected, used, disclosed and retained only for proper purposes and in accordance with the Banking Act secrecy framework, PDPA obligations, applicable Do-Not-Call rules and permitted exceptions.
+b. The firm should establish and verify customer identity, authority, risk profile, account terms, trading permissions, beneficial ownership and relevant declarations.
+c. The guide states that CAR is valid for three years and CKA for one year, subject to the relevant transaction, change-of-circumstance and reassessment rules.
+d. The classification determines whether additional knowledge or experience safeguards apply.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. The guide states that CAR is valid for three years and CKA for one year, subject to the relevant transaction, change-of-circumstance and reassessment rules.
+**Answer:** C. The guide states that CAR is valid for three years and CKA for one year, subject to the relevant transaction, change-of-circumstance and reassessment rules.
 
 **Rationale:** The guide states that CAR is valid for three years and CKA for one year, subject to the relevant transaction, change-of-circumstance and reassessment rules. Firms must keep evidence of the assessment, result, explanations and customer communications.
 
@@ -318,15 +318,15 @@ d. The firm should establish and verify customer identity, authority, risk profi
 
 ### 20. **[Single choice]** [RES 1B §2.5] What should happen when a customer fails a knowledge or experience assessment?
 
-a. The guide highlights contract notes by the next business day and periodic statements, including monthly or quarterly statements where prescribed.
-b. For a listed SIP, the guide allows a negative CAR outcome to be followed only by the prescribed senior-management approval, written outcome and warnings, customer confirmation and responsibility acknowledgement.
-c. Books and audit trails let the firm reconstruct orders, decisions, communications, approvals, allocations, money movements and compliance reviews.
-d. Customer money is cash received or held for the customer, while customer assets include securities and other property held for or belonging to the customer.
+a. Books and audit trails let the firm reconstruct orders, decisions, communications, approvals, allocations, money movements and compliance reviews.
+b. Customer money is cash received or held for the customer, while customer assets include securities and other property held for or belonging to the customer.
+c. The guide highlights contract notes by the next business day and periodic statements, including monthly or quarterly statements where prescribed.
+d. For a listed SIP, the guide allows a negative CAR outcome to be followed only by the prescribed senior-management approval, written outcome and warnings, customer confirmation and responsibility acknowledgement.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. For a listed SIP, the guide allows a negative CAR outcome to be followed only by the prescribed senior-management approval, written outcome and warnings, customer confirmation and responsibility acknowledgement.
+**Answer:** D. For a listed SIP, the guide allows a negative CAR outcome to be followed only by the prescribed senior-management approval, written outcome and warnings, customer confirmation and responsibility acknowledgement.
 
 **Rationale:** For a listed SIP, the guide allows a negative CAR outcome to be followed only by the prescribed senior-management approval, written outcome and warnings, customer confirmation and responsibility acknowledgement. A negative CKA generally prevents the customer from dealing in an unlisted SIP unless a stated exemption applies. The customer must not be pressured into proceeding.
 
@@ -334,15 +334,15 @@ d. Customer money is cash received or held for the customer, while customer asse
 
 ### 21. **[Single choice]** [RES 1B §2.5] Why is the EIP/SIP classification important?
 
-a. A CMS licence authorises a legal entity to conduct specified regulated activities.
-b. Deposit or hold them only with permitted institutions or custodians, maintain trust or custody arrangements and accurate ledgers, complete reconciliations, make permitted withdrawals or investments, give required disclosures, and ensure lending, pledging or use of assets is authorised and documented.
-c. The classification determines whether additional knowledge or experience safeguards apply.
-d. The guide’s table highlights S$5 million for a clearing member, S$1 million for a trading member or non-member, S$500,000 for an introducing broker and S$50,000 for other relevant categories.
+a. The classification determines whether additional knowledge or experience safeguards apply.
+b. The guide’s table highlights S$5 million for a clearing member, S$1 million for a trading member or non-member, S$500,000 for an introducing broker and S$50,000 for other relevant categories.
+c. A CMS licence authorises a legal entity to conduct specified regulated activities.
+d. Deposit or hold them only with permitted institutions or custodians, maintain trust or custody arrangements and accurate ledgers, complete reconciliations, make permitted withdrawals or investments, give required disclosures, and ensure lending, pledging or use of assets is authorised and documented.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. The classification determines whether additional knowledge or experience safeguards apply.
+**Answer:** A. The classification determines whether additional knowledge or experience safeguards apply.
 
 **Rationale:** The classification determines whether additional knowledge or experience safeguards apply. If a product is not an EIP or if the firm cannot properly classify it, it may have to treat it as a SIP and perform the relevant assessment. Outsourcing classification does not remove the CMS holder’s responsibility.
 
@@ -350,15 +350,15 @@ d. The guide’s table highlights S$5 million for a clearing member, S$1 million
 
 ### 22. **[Single choice]** [RES 1B §2.6] What confidentiality principles apply to customer information?
 
-a. Registration identifies an individual authorised to act for a principal in specified regulated activities.
-b. The guide describes a board with at least two directors, including a Singapore-resident director, a Singapore-resident chief executive officer, and at least two full-time representatives for each regulated activity, subject to the applicable requirements.
-c. Changes to key persons, business activities, ownership, representatives, offices, financial condition or other prescribed particulars may require notification or approval.
-d. Customer information must be collected, used, disclosed and retained only for proper purposes and in accordance with the Banking Act secrecy framework, PDPA obligations, applicable Do-Not-Call rules and permitted exceptions.
+a. Changes to key persons, business activities, ownership, representatives, offices, financial condition or other prescribed particulars may require notification or approval.
+b. Customer information must be collected, used, disclosed and retained only for proper purposes and in accordance with the Banking Act secrecy framework, PDPA obligations, applicable Do-Not-Call rules and permitted exceptions.
+c. Registration identifies an individual authorised to act for a principal in specified regulated activities.
+d. The guide describes a board with at least two directors, including a Singapore-resident director, a Singapore-resident chief executive officer, and at least two full-time representatives for each regulated activity, subject to the applicable requirements.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. Customer information must be collected, used, disclosed and retained only for proper purposes and in accordance with the Banking Act secrecy framework, PDPA obligations, applicable Do-Not-Call rules and permitted exceptions.
+**Answer:** B. Customer information must be collected, used, disclosed and retained only for proper purposes and in accordance with the Banking Act secrecy framework, PDPA obligations, applicable Do-Not-Call rules and permitted exceptions.
 
 **Rationale:** Customer information must be collected, used, disclosed and retained only for proper purposes and in accordance with the Banking Act secrecy framework, PDPA obligations, applicable Do-Not-Call rules and permitted exceptions. Access should be limited to those with a legitimate need, with controls against unauthorised disclosure.
 
@@ -366,15 +366,15 @@ d. Customer information must be collected, used, disclosed and retained only for
 
 ### 23. **[Single choice]** [RES 1B §2.7] What documents and controls should exist for a customer trading account?
 
-a. The firm should establish and verify customer identity, authority, risk profile, account terms, trading permissions, beneficial ownership and relevant declarations.
-b. The representative and principal must make the prescribed notifications, including cessation and changes in particulars, within the applicable time periods; the guide highlights seven- and 14-day requirements for different changes.
-c. It must be clear, fair, balanced and not misleading.
-d. For retail customers trading SIPs, the firm uses a CAR for listed SIPs and a CKA for unlisted SIPs, unless an applicable exemption or alternative rule applies.
+a. It must be clear, fair, balanced and not misleading.
+b. For retail customers trading SIPs, the firm uses a CAR for listed SIPs and a CKA for unlisted SIPs, unless an applicable exemption or alternative rule applies.
+c. The firm should establish and verify customer identity, authority, risk profile, account terms, trading permissions, beneficial ownership and relevant declarations.
+d. The representative and principal must make the prescribed notifications, including cessation and changes in particulars, within the applicable time periods; the guide highlights seven- and 14-day requirements for different changes.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. The firm should establish and verify customer identity, authority, risk profile, account terms, trading permissions, beneficial ownership and relevant declarations.
+**Answer:** C. The firm should establish and verify customer identity, authority, risk profile, account terms, trading permissions, beneficial ownership and relevant declarations.
 
 **Rationale:** The firm should establish and verify customer identity, authority, risk profile, account terms, trading permissions, beneficial ownership and relevant declarations. It should record instructions, confirmations, statements, communications, limits, approvals and changes, and monitor the account for unauthorised activity, conflicts and unusual conduct.
 
@@ -382,15 +382,15 @@ d. For retail customers trading SIPs, the firm uses a CAR for listed SIPs and a 
 
 ### 24. **[Single choice]** [RES 1B §2.7] When should a securities contract note and customer statement be provided?
 
-a. The guide states that CAR is valid for three years and CKA for one year, subject to the relevant transaction, change-of-circumstance and reassessment rules.
-b. The guide highlights contract notes by the next business day and periodic statements, including monthly or quarterly statements where prescribed.
-c. For a listed SIP, the guide allows a negative CAR outcome to be followed only by the prescribed senior-management approval, written outcome and warnings, customer confirmation and responsibility acknowledgement.
-d. The classification determines whether additional knowledge or experience safeguards apply.
+a. For a listed SIP, the guide allows a negative CAR outcome to be followed only by the prescribed senior-management approval, written outcome and warnings, customer confirmation and responsibility acknowledgement.
+b. The classification determines whether additional knowledge or experience safeguards apply.
+c. The guide states that CAR is valid for three years and CKA for one year, subject to the relevant transaction, change-of-circumstance and reassessment rules.
+d. The guide highlights contract notes by the next business day and periodic statements, including monthly or quarterly statements where prescribed.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. The guide highlights contract notes by the next business day and periodic statements, including monthly or quarterly statements where prescribed.
+**Answer:** D. The guide highlights contract notes by the next business day and periodic statements, including monthly or quarterly statements where prescribed.
 
 **Rationale:** The guide highlights contract notes by the next business day and periodic statements, including monthly or quarterly statements where prescribed. The documents should accurately identify the transaction, price, quantity, charges, capacity and settlement information.
 
@@ -398,15 +398,15 @@ d. The classification determines whether additional knowledge or experience safe
 
 ### 25. **[Single choice]** [RES 1B §2.8] Why are books and audit trails important, and what retention period is highlighted?
 
-a. The firm should establish and verify customer identity, authority, risk profile, account terms, trading permissions, beneficial ownership and relevant declarations.
-b. Customer information must be collected, used, disclosed and retained only for proper purposes and in accordance with the Banking Act secrecy framework, PDPA obligations, applicable Do-Not-Call rules and permitted exceptions.
-c. Books and audit trails let the firm reconstruct orders, decisions, communications, approvals, allocations, money movements and compliance reviews.
-d. The guide highlights contract notes by the next business day and periodic statements, including monthly or quarterly statements where prescribed.
+a. Books and audit trails let the firm reconstruct orders, decisions, communications, approvals, allocations, money movements and compliance reviews.
+b. The guide highlights contract notes by the next business day and periodic statements, including monthly or quarterly statements where prescribed.
+c. The firm should establish and verify customer identity, authority, risk profile, account terms, trading permissions, beneficial ownership and relevant declarations.
+d. Customer information must be collected, used, disclosed and retained only for proper purposes and in accordance with the Banking Act secrecy framework, PDPA obligations, applicable Do-Not-Call rules and permitted exceptions.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. Books and audit trails let the firm reconstruct orders, decisions, communications, approvals, allocations, money movements and compliance reviews.
+**Answer:** A. Books and audit trails let the firm reconstruct orders, decisions, communications, approvals, allocations, money movements and compliance reviews.
 
 **Rationale:** Books and audit trails let the firm reconstruct orders, decisions, communications, approvals, allocations, money movements and compliance reviews. The guide highlights retaining relevant records for five years, together with annual accounts within five months and auditor reporting requirements.
 
@@ -414,15 +414,15 @@ d. The guide highlights contract notes by the next business day and periodic sta
 
 ### 26. **[Single choice]** [RES 1B §2.9] What is the difference between customer money and customer assets?
 
-a. A CMS licence authorises a legal entity to conduct specified regulated activities.
-b. Books and audit trails let the firm reconstruct orders, decisions, communications, approvals, allocations, money movements and compliance reviews.
-c. Deposit or hold them only with permitted institutions or custodians, maintain trust or custody arrangements and accurate ledgers, complete reconciliations, make permitted withdrawals or investments, give required disclosures, and ensure lending, pledging or use of assets is authorised and documented.
-d. Customer money is cash received or held for the customer, while customer assets include securities and other property held for or belonging to the customer.
+a. Deposit or hold them only with permitted institutions or custodians, maintain trust or custody arrangements and accurate ledgers, complete reconciliations, make permitted withdrawals or investments, give required disclosures, and ensure lending, pledging or use of assets is authorised and documented.
+b. Customer money is cash received or held for the customer, while customer assets include securities and other property held for or belonging to the customer.
+c. A CMS licence authorises a legal entity to conduct specified regulated activities.
+d. Books and audit trails let the firm reconstruct orders, decisions, communications, approvals, allocations, money movements and compliance reviews.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. Customer money is cash received or held for the customer, while customer assets include securities and other property held for or belonging to the customer.
+**Answer:** B. Customer money is cash received or held for the customer, while customer assets include securities and other property held for or belonging to the customer.
 
 **Rationale:** Customer money is cash received or held for the customer, while customer assets include securities and other property held for or belonging to the customer. Both require segregation, proper records, permitted account or custody arrangements, reconciliations and controls against misuse.
 
@@ -430,15 +430,15 @@ d. Customer money is cash received or held for the customer, while customer asse
 
 ### 27. **[Single choice]** [RES 1B §2.9] What are the key controls for handling customer money and assets?
 
-a. Deposit or hold them only with permitted institutions or custodians, maintain trust or custody arrangements and accurate ledgers, complete reconciliations, make permitted withdrawals or investments, give required disclosures, and ensure lending, pledging or use of assets is authorised and documented.
-b. The guide’s table highlights S$5 million for a clearing member, S$1 million for a trading member or non-member, S$500,000 for an introducing broker and S$50,000 for other relevant categories.
-c. The guide describes a board with at least two directors, including a Singapore-resident director, a Singapore-resident chief executive officer, and at least two full-time representatives for each regulated activity, subject to the applicable requirements.
-d. Changes to key persons, business activities, ownership, representatives, offices, financial condition or other prescribed particulars may require notification or approval.
+a. The guide describes a board with at least two directors, including a Singapore-resident director, a Singapore-resident chief executive officer, and at least two full-time representatives for each regulated activity, subject to the applicable requirements.
+b. Changes to key persons, business activities, ownership, representatives, offices, financial condition or other prescribed particulars may require notification or approval.
+c. Deposit or hold them only with permitted institutions or custodians, maintain trust or custody arrangements and accurate ledgers, complete reconciliations, make permitted withdrawals or investments, give required disclosures, and ensure lending, pledging or use of assets is authorised and documented.
+d. The guide’s table highlights S$5 million for a clearing member, S$1 million for a trading member or non-member, S$500,000 for an introducing broker and S$50,000 for other relevant categories.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Deposit or hold them only with permitted institutions or custodians, maintain trust or custody arrangements and accurate ledgers, complete reconciliations, make permitted withdrawals or investments, give required disclosures, and ensure lending, pledging or use of assets is authorised and documented.
+**Answer:** C. Deposit or hold them only with permitted institutions or custodians, maintain trust or custody arrangements and accurate ledgers, complete reconciliations, make permitted withdrawals or investments, give required disclosures, and ensure lending, pledging or use of assets is authorised and documented.
 
 **Rationale:** Deposit or hold them only with permitted institutions or custodians, maintain trust or custody arrangements and accurate ledgers, complete reconciliations, make permitted withdrawals or investments, give required disclosures, and ensure lending, pledging or use of assets is authorised and documented. The guide highlights next-business-day handling requirements for relevant receipts.
 
@@ -446,15 +446,15 @@ d. Changes to key persons, business activities, ownership, representatives, offi
 
 ### 28. **[Single choice]** [RES 1B §3.1–3.2] Why can market-conduct provisions have extraterritorial reach?
 
-a. It is conduct that creates or maintains a false or misleading appearance of active trading or market activity, or affects the price of a capital-markets product through artificial transactions.
-b. Conduct outside Singapore can affect Singapore markets, investors or listed products.
-c. Deliberately pushing a market price toward known stop orders to trigger them, without legitimate trading purpose and with an intention to create an artificial price or profit from the triggered orders, may amount to manipulation or false trading.
-d. It is conduct intended or likely to create an artificial price, maintain a price at an artificial level, or otherwise manipulate the market for securities.
+a. Deliberately pushing a market price toward known stop orders to trigger them, without legitimate trading purpose and with an intention to create an artificial price or profit from the triggered orders, may amount to manipulation or false trading.
+b. It is conduct intended or likely to create an artificial price, maintain a price at an artificial level, or otherwise manipulate the market for securities.
+c. It is conduct that creates or maintains a false or misleading appearance of active trading or market activity, or affects the price of a capital-markets product through artificial transactions.
+d. Conduct outside Singapore can affect Singapore markets, investors or listed products.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. Conduct outside Singapore can affect Singapore markets, investors or listed products.
+**Answer:** D. Conduct outside Singapore can affect Singapore markets, investors or listed products.
 
 **Rationale:** Conduct outside Singapore can affect Singapore markets, investors or listed products. The SFA provisions may therefore apply where the conduct has the required Singapore connection or market impact; a representative cannot assume that offshore execution removes Singapore obligations.
 
@@ -462,15 +462,15 @@ d. It is conduct intended or likely to create an artificial price, maintain a pr
 
 ### 29. **[Single choice]** [RES 1B §3.3] What is false trading or market rigging?
 
-a. It involves using deception, concealment or other fraudulent conduct to induce another person to enter into or refrain from entering into a transaction.
-b. Investors may trade on the information and the market may be distorted.
-c. It is conduct that creates or maintains a false or misleading appearance of active trading or market activity, or affects the price of a capital-markets product through artificial transactions.
-d. A scheme can be deceptive because of the overall method, timing, order pattern or concealment, even when no individual statement is obviously false.
+a. It is conduct that creates or maintains a false or misleading appearance of active trading or market activity, or affects the price of a capital-markets product through artificial transactions.
+b. A scheme can be deceptive because of the overall method, timing, order pattern or concealment, even when no individual statement is obviously false.
+c. It involves using deception, concealment or other fraudulent conduct to induce another person to enter into or refrain from entering into a transaction.
+d. Investors may trade on the information and the market may be distorted.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. It is conduct that creates or maintains a false or misleading appearance of active trading or market activity, or affects the price of a capital-markets product through artificial transactions.
+**Answer:** A. It is conduct that creates or maintains a false or misleading appearance of active trading or market activity, or affects the price of a capital-markets product through artificial transactions.
 
 **Rationale:** It is conduct that creates or maintains a false or misleading appearance of active trading or market activity, or affects the price of a capital-markets product through artificial transactions. Examples include wash trades, matched orders or trades lacking genuine change of beneficial ownership.
 
@@ -478,15 +478,15 @@ d. A scheme can be deceptive because of the overall method, timing, order patter
 
 ### 30. **[Single choice]** [RES 1B §3.3] How can “hunting stops” become market misconduct?
 
-a. It is specific information that is not generally available and would be material to an investor’s decision or likely to affect price or value.
-b. Repeating or distributing information about an illegal transaction can encourage further trading, amplify the artificial price or help the wrongdoer profit.
-c. The person possesses information that is not generally available and that would be likely to materially affect the price or value of the product, and deals or communicates the information in circumstances prohibited by the SFA.
-d. Deliberately pushing a market price toward known stop orders to trigger them, without legitimate trading purpose and with an intention to create an artificial price or profit from the triggered orders, may amount to manipulation or false trading.
+a. The person possesses information that is not generally available and that would be likely to materially affect the price or value of the product, and deals or communicates the information in circumstances prohibited by the SFA.
+b. Deliberately pushing a market price toward known stop orders to trigger them, without legitimate trading purpose and with an intention to create an artificial price or profit from the triggered orders, may amount to manipulation or false trading.
+c. It is specific information that is not generally available and would be material to an investor’s decision or likely to affect price or value.
+d. Repeating or distributing information about an illegal transaction can encourage further trading, amplify the artificial price or help the wrongdoer profit.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. Deliberately pushing a market price toward known stop orders to trigger them, without legitimate trading purpose and with an intention to create an artificial price or profit from the triggered orders, may amount to manipulation or false trading.
+**Answer:** B. Deliberately pushing a market price toward known stop orders to trigger them, without legitimate trading purpose and with an intention to create an artificial price or profit from the triggered orders, may amount to manipulation or false trading.
 
 **Rationale:** Deliberately pushing a market price toward known stop orders to trigger them, without legitimate trading purpose and with an intention to create an artificial price or profit from the triggered orders, may amount to manipulation or false trading. The focus is on purpose, conduct, effect and the surrounding facts.
 
@@ -494,15 +494,15 @@ d. Deliberately pushing a market price toward known stop orders to trigger them,
 
 ### 31. **[Single choice]** [RES 1B §3.4] What is securities-market manipulation?
 
-a. It is conduct intended or likely to create an artificial price, maintain a price at an artificial level, or otherwise manipulate the market for securities.
-b. Securities hawking is the prohibited solicitation or offering of securities in circumstances covered by the SFA’s hawking provisions.
-c. A seller must identify and mark a sale correctly, comply with short-position reporting requirements where applicable, and not misrepresent ownership or availability.
-d. Candidates should understand that market misconduct can lead to criminal, civil, regulatory, disciplinary, reputational and financial consequences, and that different offences have different consequences.
+a. A seller must identify and mark a sale correctly, comply with short-position reporting requirements where applicable, and not misrepresent ownership or availability.
+b. Candidates should understand that market misconduct can lead to criminal, civil, regulatory, disciplinary, reputational and financial consequences, and that different offences have different consequences.
+c. It is conduct intended or likely to create an artificial price, maintain a price at an artificial level, or otherwise manipulate the market for securities.
+d. Securities hawking is the prohibited solicitation or offering of securities in circumstances covered by the SFA’s hawking provisions.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. It is conduct intended or likely to create an artificial price, maintain a price at an artificial level, or otherwise manipulate the market for securities.
+**Answer:** C. It is conduct intended or likely to create an artificial price, maintain a price at an artificial level, or otherwise manipulate the market for securities.
 
 **Rationale:** It is conduct intended or likely to create an artificial price, maintain a price at an artificial level, or otherwise manipulate the market for securities. The analysis considers the transaction pattern, orders, information, intent and whether the activity distorts genuine supply and demand.
 
@@ -510,15 +510,15 @@ d. Candidates should understand that market misconduct can lead to criminal, civ
 
 ### 32. **[Single choice]** [RES 1B §3.5] Why are false or misleading statements and information prohibited?
 
-a. Conduct outside Singapore can affect Singapore markets, investors or listed products.
-b. Investors may trade on the information and the market may be distorted.
-c. It is conduct that creates or maintains a false or misleading appearance of active trading or market activity, or affects the price of a capital-markets product through artificial transactions.
-d. Deliberately pushing a market price toward known stop orders to trigger them, without legitimate trading purpose and with an intention to create an artificial price or profit from the triggered orders, may amount to manipulation or false trading.
+a. It is conduct that creates or maintains a false or misleading appearance of active trading or market activity, or affects the price of a capital-markets product through artificial transactions.
+b. Deliberately pushing a market price toward known stop orders to trigger them, without legitimate trading purpose and with an intention to create an artificial price or profit from the triggered orders, may amount to manipulation or false trading.
+c. Conduct outside Singapore can affect Singapore markets, investors or listed products.
+d. Investors may trade on the information and the market may be distorted.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. Investors may trade on the information and the market may be distorted.
+**Answer:** D. Investors may trade on the information and the market may be distorted.
 
 **Rationale:** Investors may trade on the information and the market may be distorted. The prohibition covers publishing or communicating materially false or misleading information, including information likely to affect price, where the relevant mental element and market connection are present.
 
@@ -526,15 +526,15 @@ d. Deliberately pushing a market price toward known stop orders to trigger them,
 
 ### 33. **[Single choice]** [RES 1B §3.6] What is fraudulent inducement to deal in capital-markets products?
 
-a. Investors may trade on the information and the market may be distorted.
-b. It is conduct intended or likely to create an artificial price, maintain a price at an artificial level, or otherwise manipulate the market for securities.
-c. It involves using deception, concealment or other fraudulent conduct to induce another person to enter into or refrain from entering into a transaction.
-d. A scheme can be deceptive because of the overall method, timing, order pattern or concealment, even when no individual statement is obviously false.
+a. It involves using deception, concealment or other fraudulent conduct to induce another person to enter into or refrain from entering into a transaction.
+b. A scheme can be deceptive because of the overall method, timing, order pattern or concealment, even when no individual statement is obviously false.
+c. Investors may trade on the information and the market may be distorted.
+d. It is conduct intended or likely to create an artificial price, maintain a price at an artificial level, or otherwise manipulate the market for securities.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. It involves using deception, concealment or other fraudulent conduct to induce another person to enter into or refrain from entering into a transaction.
+**Answer:** A. It involves using deception, concealment or other fraudulent conduct to induce another person to enter into or refrain from entering into a transaction.
 
 **Rationale:** It involves using deception, concealment or other fraudulent conduct to induce another person to enter into or refrain from entering into a transaction. A representative must not make misleading claims, omit material facts or exploit a customer’s reliance to obtain a trade.
 
@@ -542,15 +542,15 @@ d. A scheme can be deceptive because of the overall method, timing, order patter
 
 ### 34. **[Single choice]** [RES 1B §3.7] What is the risk of using manipulative or deceptive devices even if no single false statement is made?
 
-a. It is specific information that is not generally available and would be material to an investor’s decision or likely to affect price or value.
-b. Repeating or distributing information about an illegal transaction can encourage further trading, amplify the artificial price or help the wrongdoer profit.
-c. The person possesses information that is not generally available and that would be likely to materially affect the price or value of the product, and deals or communicates the information in circumstances prohibited by the SFA.
-d. A scheme can be deceptive because of the overall method, timing, order pattern or concealment, even when no individual statement is obviously false.
+a. The person possesses information that is not generally available and that would be likely to materially affect the price or value of the product, and deals or communicates the information in circumstances prohibited by the SFA.
+b. A scheme can be deceptive because of the overall method, timing, order pattern or concealment, even when no individual statement is obviously false.
+c. It is specific information that is not generally available and would be material to an investor’s decision or likely to affect price or value.
+d. Repeating or distributing information about an illegal transaction can encourage further trading, amplify the artificial price or help the wrongdoer profit.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. A scheme can be deceptive because of the overall method, timing, order pattern or concealment, even when no individual statement is obviously false.
+**Answer:** B. A scheme can be deceptive because of the overall method, timing, order pattern or concealment, even when no individual statement is obviously false.
 
 **Rationale:** A scheme can be deceptive because of the overall method, timing, order pattern or concealment, even when no individual statement is obviously false. The rule captures conduct designed to defraud, deceive or manipulate and requires representatives to assess the substance and purpose of a strategy.
 
@@ -558,15 +558,15 @@ d. A scheme can be deceptive because of the overall method, timing, order patter
 
 ### 35. **[Single choice]** [RES 1B §3.8] Why is disseminating information about illegal transactions prohibited?
 
-a. Repeating or distributing information about an illegal transaction can encourage further trading, amplify the artificial price or help the wrongdoer profit.
-b. Securities hawking is the prohibited solicitation or offering of securities in circumstances covered by the SFA’s hawking provisions.
-c. A seller must identify and mark a sale correctly, comply with short-position reporting requirements where applicable, and not misrepresent ownership or availability.
-d. Candidates should understand that market misconduct can lead to criminal, civil, regulatory, disciplinary, reputational and financial consequences, and that different offences have different consequences.
+a. A seller must identify and mark a sale correctly, comply with short-position reporting requirements where applicable, and not misrepresent ownership or availability.
+b. Candidates should understand that market misconduct can lead to criminal, civil, regulatory, disciplinary, reputational and financial consequences, and that different offences have different consequences.
+c. Repeating or distributing information about an illegal transaction can encourage further trading, amplify the artificial price or help the wrongdoer profit.
+d. Securities hawking is the prohibited solicitation or offering of securities in circumstances covered by the SFA’s hawking provisions.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Repeating or distributing information about an illegal transaction can encourage further trading, amplify the artificial price or help the wrongdoer profit.
+**Answer:** C. Repeating or distributing information about an illegal transaction can encourage further trading, amplify the artificial price or help the wrongdoer profit.
 
 **Rationale:** Repeating or distributing information about an illegal transaction can encourage further trading, amplify the artificial price or help the wrongdoer profit. A person should not communicate or publish information that promotes or supports prohibited conduct.
 
@@ -574,15 +574,15 @@ d. Candidates should understand that market misconduct can lead to criminal, civ
 
 ### 36. **[Single choice]** [RES 1B §3.9] What are the core elements of insider trading?
 
-a. Conduct outside Singapore can affect Singapore markets, investors or listed products.
-b. The person possesses information that is not generally available and that would be likely to materially affect the price or value of the product, and deals or communicates the information in circumstances prohibited by the SFA.
-c. It is conduct that creates or maintains a false or misleading appearance of active trading or market activity, or affects the price of a capital-markets product through artificial transactions.
-d. Deliberately pushing a market price toward known stop orders to trigger them, without legitimate trading purpose and with an intention to create an artificial price or profit from the triggered orders, may amount to manipulation or false trading.
+a. It is conduct that creates or maintains a false or misleading appearance of active trading or market activity, or affects the price of a capital-markets product through artificial transactions.
+b. Deliberately pushing a market price toward known stop orders to trigger them, without legitimate trading purpose and with an intention to create an artificial price or profit from the triggered orders, may amount to manipulation or false trading.
+c. Conduct outside Singapore can affect Singapore markets, investors or listed products.
+d. The person possesses information that is not generally available and that would be likely to materially affect the price or value of the product, and deals or communicates the information in circumstances prohibited by the SFA.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. The person possesses information that is not generally available and that would be likely to materially affect the price or value of the product, and deals or communicates the information in circumstances prohibited by the SFA.
+**Answer:** D. The person possesses information that is not generally available and that would be likely to materially affect the price or value of the product, and deals or communicates the information in circumstances prohibited by the SFA.
 
 **Rationale:** The person possesses information that is not generally available and that would be likely to materially affect the price or value of the product, and deals or communicates the information in circumstances prohibited by the SFA. The guide distinguishes connected and non-connected persons and explains statutory exceptions or defences.
 
@@ -590,15 +590,15 @@ d. Deliberately pushing a market price toward known stop orders to trigger them,
 
 ### 37. **[Single choice]** [RES 1B §3.9] What is “inside information” in practical terms?
 
-a. Investors may trade on the information and the market may be distorted.
-b. It is conduct intended or likely to create an artificial price, maintain a price at an artificial level, or otherwise manipulate the market for securities.
-c. It is specific information that is not generally available and would be material to an investor’s decision or likely to affect price or value.
-d. It involves using deception, concealment or other fraudulent conduct to induce another person to enter into or refrain from entering into a transaction.
+a. It is specific information that is not generally available and would be material to an investor’s decision or likely to affect price or value.
+b. It involves using deception, concealment or other fraudulent conduct to induce another person to enter into or refrain from entering into a transaction.
+c. Investors may trade on the information and the market may be distorted.
+d. It is conduct intended or likely to create an artificial price, maintain a price at an artificial level, or otherwise manipulate the market for securities.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. It is specific information that is not generally available and would be material to an investor’s decision or likely to affect price or value.
+**Answer:** A. It is specific information that is not generally available and would be material to an investor’s decision or likely to affect price or value.
 
 **Rationale:** It is specific information that is not generally available and would be material to an investor’s decision or likely to affect price or value. Rumour, incomplete information or information held inside a firm is not automatically safe to use; the representative must consider whether it is public, precise and material.
 
@@ -606,15 +606,15 @@ d. It involves using deception, concealment or other fraudulent conduct to induc
 
 ### 38. **[Single choice]** [RES 1B §3.10] What is securities hawking?
 
-a. The person possesses information that is not generally available and that would be likely to materially affect the price or value of the product, and deals or communicates the information in circumstances prohibited by the SFA.
-b. A scheme can be deceptive because of the overall method, timing, order pattern or concealment, even when no individual statement is obviously false.
-c. Repeating or distributing information about an illegal transaction can encourage further trading, amplify the artificial price or help the wrongdoer profit.
-d. Securities hawking is the prohibited solicitation or offering of securities in circumstances covered by the SFA’s hawking provisions.
+a. Repeating or distributing information about an illegal transaction can encourage further trading, amplify the artificial price or help the wrongdoer profit.
+b. Securities hawking is the prohibited solicitation or offering of securities in circumstances covered by the SFA’s hawking provisions.
+c. The person possesses information that is not generally available and that would be likely to materially affect the price or value of the product, and deals or communicates the information in circumstances prohibited by the SFA.
+d. A scheme can be deceptive because of the overall method, timing, order pattern or concealment, even when no individual statement is obviously false.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. Securities hawking is the prohibited solicitation or offering of securities in circumstances covered by the SFA’s hawking provisions.
+**Answer:** B. Securities hawking is the prohibited solicitation or offering of securities in circumstances covered by the SFA’s hawking provisions.
 
 **Rationale:** Securities hawking is the prohibited solicitation or offering of securities in circumstances covered by the SFA’s hawking provisions. Representatives should use approved channels and materials, respect customer contact rules and avoid unsolicited pressure or misleading sales tactics.
 
@@ -622,15 +622,15 @@ d. Securities hawking is the prohibited solicitation or offering of securities i
 
 ### 39. **[Single choice]** [RES 1B §3.11] What are short-selling controls highlighted in the guide?
 
-a. A seller must identify and mark a sale correctly, comply with short-position reporting requirements where applicable, and not misrepresent ownership or availability.
-b. It is specific information that is not generally available and would be material to an investor’s decision or likely to affect price or value.
-c. Securities hawking is the prohibited solicitation or offering of securities in circumstances covered by the SFA’s hawking provisions.
-d. Candidates should understand that market misconduct can lead to criminal, civil, regulatory, disciplinary, reputational and financial consequences, and that different offences have different consequences.
+a. Securities hawking is the prohibited solicitation or offering of securities in circumstances covered by the SFA’s hawking provisions.
+b. Candidates should understand that market misconduct can lead to criminal, civil, regulatory, disciplinary, reputational and financial consequences, and that different offences have different consequences.
+c. A seller must identify and mark a sale correctly, comply with short-position reporting requirements where applicable, and not misrepresent ownership or availability.
+d. It is specific information that is not generally available and would be material to an investor’s decision or likely to affect price or value.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. A seller must identify and mark a sale correctly, comply with short-position reporting requirements where applicable, and not misrepresent ownership or availability.
+**Answer:** C. A seller must identify and mark a sale correctly, comply with short-position reporting requirements where applicable, and not misrepresent ownership or availability.
 
 **Rationale:** A seller must identify and mark a sale correctly, comply with short-position reporting requirements where applicable, and not misrepresent ownership or availability. Borrowing or lending arrangements should meet applicable requirements, including the guide’s reference to full collateralisation for relevant securities-lending arrangements.
 
@@ -638,15 +638,15 @@ d. Candidates should understand that market misconduct can lead to criminal, civ
 
 ### 40. **[Single choice]** [RES 1B §3.12] What is the exam relevance of penalties when the amount is not tested?
 
-a. Conduct outside Singapore can affect Singapore markets, investors or listed products.
-b. Candidates should understand that market misconduct can lead to criminal, civil, regulatory, disciplinary, reputational and financial consequences, and that different offences have different consequences.
-c. It is conduct that creates or maintains a false or misleading appearance of active trading or market activity, or affects the price of a capital-markets product through artificial transactions.
-d. Deliberately pushing a market price toward known stop orders to trigger them, without legitimate trading purpose and with an intention to create an artificial price or profit from the triggered orders, may amount to manipulation or false trading.
+a. It is conduct that creates or maintains a false or misleading appearance of active trading or market activity, or affects the price of a capital-markets product through artificial transactions.
+b. Deliberately pushing a market price toward known stop orders to trigger them, without legitimate trading purpose and with an intention to create an artificial price or profit from the triggered orders, may amount to manipulation or false trading.
+c. Conduct outside Singapore can affect Singapore markets, investors or listed products.
+d. Candidates should understand that market misconduct can lead to criminal, civil, regulatory, disciplinary, reputational and financial consequences, and that different offences have different consequences.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. Candidates should understand that market misconduct can lead to criminal, civil, regulatory, disciplinary, reputational and financial consequences, and that different offences have different consequences.
+**Answer:** D. Candidates should understand that market misconduct can lead to criminal, civil, regulatory, disciplinary, reputational and financial consequences, and that different offences have different consequences.
 
 **Rationale:** Candidates should understand that market misconduct can lead to criminal, civil, regulatory, disciplinary, reputational and financial consequences, and that different offences have different consequences. The guide says the amount of penalties is not tested, so focus on the prohibited conduct and consequence categories rather than memorising figures.
 
@@ -670,15 +670,15 @@ d. Identify the facts and dilemma; identify stakeholders and duties; generate re
 
 ### 42. **[Single choice]** [RES 1B §4.3] What makes an ethical dilemma difficult?
 
-a. Do not misrepresent qualifications, services, products, risks, returns, guarantees or historical performance.
-b. Law sets minimum enforceable standards; ethics also asks what is fair, honest, prudent and appropriate when a rule does not give a complete answer.
-c. A representative must maintain the knowledge and skills needed for the service, understand the product and risks, conduct reasonable investigation, use reliable information, keep appropriate records and act promptly and carefully.
-d. It involves competing duties, incentives, interests or values, such as customer loyalty versus revenue pressure, confidentiality versus reporting, or speed versus adequate diligence.
+a. It involves competing duties, incentives, interests or values, such as customer loyalty versus revenue pressure, confidentiality versus reporting, or speed versus adequate diligence.
+b. Do not misrepresent qualifications, services, products, risks, returns, guarantees or historical performance.
+c. Law sets minimum enforceable standards; ethics also asks what is fair, honest, prudent and appropriate when a rule does not give a complete answer.
+d. A representative must maintain the knowledge and skills needed for the service, understand the product and risks, conduct reasonable investigation, use reliable information, keep appropriate records and act promptly and carefully.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. It involves competing duties, incentives, interests or values, such as customer loyalty versus revenue pressure, confidentiality versus reporting, or speed versus adequate diligence.
+**Answer:** A. It involves competing duties, incentives, interests or values, such as customer loyalty versus revenue pressure, confidentiality versus reporting, or speed versus adequate diligence.
 
 **Rationale:** It involves competing duties, incentives, interests or values, such as customer loyalty versus revenue pressure, confidentiality versus reporting, or speed versus adequate diligence. The representative should identify the facts, stakeholders, duties, conflicts and consequences rather than choosing based only on convenience.
 
@@ -686,15 +686,15 @@ d. It involves competing duties, incentives, interests or values, such as custom
 
 ### 43. **[Single choice]** [RES 1B §4.4] What do the professional standards require regarding competence and diligence?
 
-a. A representative must maintain the knowledge and skills needed for the service, understand the product and risks, conduct reasonable investigation, use reliable information, keep appropriate records and act promptly and carefully.
-b. Do not trade, recommend or communicate it improperly.
-c. Treat customers fairly and consistently, allocate opportunities and orders using legitimate criteria, do not favour one customer improperly, and communicate material information honestly.
-d. Understand the customer’s objectives, finances, knowledge, experience, risk tolerance and constraints before making a recommendation.
+a. Understand the customer’s objectives, finances, knowledge, experience, risk tolerance and constraints before making a recommendation.
+b. A representative must maintain the knowledge and skills needed for the service, understand the product and risks, conduct reasonable investigation, use reliable information, keep appropriate records and act promptly and carefully.
+c. Do not trade, recommend or communicate it improperly.
+d. Treat customers fairly and consistently, allocate opportunities and orders using legitimate criteria, do not favour one customer improperly, and communicate material information honestly.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. A representative must maintain the knowledge and skills needed for the service, understand the product and risks, conduct reasonable investigation, use reliable information, keep appropriate records and act promptly and carefully.
+**Answer:** B. A representative must maintain the knowledge and skills needed for the service, understand the product and risks, conduct reasonable investigation, use reliable information, keep appropriate records and act promptly and carefully.
 
 **Rationale:** A representative must maintain the knowledge and skills needed for the service, understand the product and risks, conduct reasonable investigation, use reliable information, keep appropriate records and act promptly and carefully. Lack of knowledge is a reason to escalate or decline, not to improvise.
 
@@ -766,15 +766,15 @@ d. Identify the facts and dilemma; identify stakeholders and duties; generate re
 
 ### 48. **[Single choice]** [RES 1B §4.4] How should conflicts, gifts, referral fees and outside interests be managed?
 
-a. Law sets minimum enforceable standards; ethics also asks what is fair, honest, prudent and appropriate when a rule does not give a complete answer.
-b. Identify conflicts early, disclose material conflicts where appropriate, obtain approvals, segregate duties or decline to act when controls are insufficient.
-c. It involves competing duties, incentives, interests or values, such as customer loyalty versus revenue pressure, confidentiality versus reporting, or speed versus adequate diligence.
-d. A representative must maintain the knowledge and skills needed for the service, understand the product and risks, conduct reasonable investigation, use reliable information, keep appropriate records and act promptly and carefully.
+a. Identify conflicts early, disclose material conflicts where appropriate, obtain approvals, segregate duties or decline to act when controls are insufficient.
+b. It involves competing duties, incentives, interests or values, such as customer loyalty versus revenue pressure, confidentiality versus reporting, or speed versus adequate diligence.
+c. A representative must maintain the knowledge and skills needed for the service, understand the product and risks, conduct reasonable investigation, use reliable information, keep appropriate records and act promptly and carefully.
+d. Law sets minimum enforceable standards; ethics also asks what is fair, honest, prudent and appropriate when a rule does not give a complete answer.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. Identify conflicts early, disclose material conflicts where appropriate, obtain approvals, segregate duties or decline to act when controls are insufficient.
+**Answer:** A. Identify conflicts early, disclose material conflicts where appropriate, obtain approvals, segregate duties or decline to act when controls are insufficient.
 
 **Rationale:** Identify conflicts early, disclose material conflicts where appropriate, obtain approvals, segregate duties or decline to act when controls are insufficient. Benefits or referral fees must not distort advice, order priority, product selection or customer treatment.
 
@@ -782,15 +782,15 @@ d. A representative must maintain the knowledge and skills needed for the servic
 
 ### 49. **[Single choice]** [RES 1B §4.4] What is the representative’s duty to the employer and to the profession?
 
-a. Do not trade, recommend or communicate it improperly.
-b. Do not misrepresent qualifications, services, products, risks, returns, guarantees or historical performance.
-c. Follow lawful firm procedures, protect confidential information and assets, supervise or escalate appropriately, cooperate with compliance and avoid conduct that damages market integrity.
-d. Treat customers fairly and consistently, allocate opportunities and orders using legitimate criteria, do not favour one customer improperly, and communicate material information honestly.
+a. Do not misrepresent qualifications, services, products, risks, returns, guarantees or historical performance.
+b. Follow lawful firm procedures, protect confidential information and assets, supervise or escalate appropriately, cooperate with compliance and avoid conduct that damages market integrity.
+c. Treat customers fairly and consistently, allocate opportunities and orders using legitimate criteria, do not favour one customer improperly, and communicate material information honestly.
+d. Do not trade, recommend or communicate it improperly.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. Follow lawful firm procedures, protect confidential information and assets, supervise or escalate appropriately, cooperate with compliance and avoid conduct that damages market integrity.
+**Answer:** B. Follow lawful firm procedures, protect confidential information and assets, supervise or escalate appropriately, cooperate with compliance and avoid conduct that damages market integrity.
 
 **Rationale:** Follow lawful firm procedures, protect confidential information and assets, supervise or escalate appropriately, cooperate with compliance and avoid conduct that damages market integrity. The duty to the employer does not justify breaking the law or harming customers.
 
@@ -814,15 +814,15 @@ d. Identify the facts and dilemma; identify stakeholders and duties; generate re
 
 ### 51. **[Single choice]** [RES 1B §5.1–5.2] What should a representative accomplish during client onboarding?
 
-a. Establish and verify identity, authority, beneficial ownership, objectives, financial circumstances, experience, knowledge, risk appetite, constraints and expected activity; explain the service, products, fees, risks and conflicts; obtain required documents and approvals; and set suitable account permissions and monitoring.
-b. The guide discusses account structures such as cash, margin, discretionary or managed arrangements, joint, trust, corporate and custody-related accounts.
-c. Through accurate and timely communication, reliability, confidentiality, fair dealing, transparency about fees and conflicts, consistent follow-up, prompt correction of errors and conduct aligned with the customer’s objectives.
-d. It is the risk that a customer, counterparty, issuer, broker or other obligor fails to perform a payment or delivery obligation.
+a. Through accurate and timely communication, reliability, confidentiality, fair dealing, transparency about fees and conflicts, consistent follow-up, prompt correction of errors and conduct aligned with the customer’s objectives.
+b. It is the risk that a customer, counterparty, issuer, broker or other obligor fails to perform a payment or delivery obligation.
+c. Establish and verify identity, authority, beneficial ownership, objectives, financial circumstances, experience, knowledge, risk appetite, constraints and expected activity; explain the service, products, fees, risks and conflicts; obtain required documents and approvals; and set suitable account permissions and monitoring.
+d. The guide discusses account structures such as cash, margin, discretionary or managed arrangements, joint, trust, corporate and custody-related accounts.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Establish and verify identity, authority, beneficial ownership, objectives, financial circumstances, experience, knowledge, risk appetite, constraints and expected activity; explain the service, products, fees, risks and conflicts; obtain required documents and approvals; and set suitable account permissions and monitoring.
+**Answer:** C. Establish and verify identity, authority, beneficial ownership, objectives, financial circumstances, experience, knowledge, risk appetite, constraints and expected activity; explain the service, products, fees, risks and conflicts; obtain required documents and approvals; and set suitable account permissions and monitoring.
 
 **Rationale:** Establish and verify identity, authority, beneficial ownership, objectives, financial circumstances, experience, knowledge, risk appetite, constraints and expected activity; explain the service, products, fees, risks and conflicts; obtain required documents and approvals; and set suitable account permissions and monitoring.
 
@@ -830,15 +830,15 @@ d. It is the risk that a customer, counterparty, issuer, broker or other obligor
 
 ### 52. **[Single choice]** [RES 1B §5.2] Distinguish AI, II, EI and retail customers.
 
-a. Establish and verify identity, authority, beneficial ownership, objectives, financial circumstances, experience, knowledge, risk appetite, constraints and expected activity; explain the service, products, fees, risks and conflicts; obtain required documents and approvals; and set suitable account permissions and monitoring.
-b. Accredited, institutional and expert investors meet different regulatory criteria and may receive different protections or be eligible for different products and processes.
-c. Risk profiling considers capacity for loss, objectives, time horizon, liquidity needs, knowledge, experience, investment constraints and behavioural tolerance.
-d. The representative should connect the customer’s objectives and constraints to an understandable thesis, asset or product selection, position size, time horizon, risks, costs, exit conditions and monitoring plan.
+a. Risk profiling considers capacity for loss, objectives, time horizon, liquidity needs, knowledge, experience, investment constraints and behavioural tolerance.
+b. The representative should connect the customer’s objectives and constraints to an understandable thesis, asset or product selection, position size, time horizon, risks, costs, exit conditions and monitoring plan.
+c. Establish and verify identity, authority, beneficial ownership, objectives, financial circumstances, experience, knowledge, risk appetite, constraints and expected activity; explain the service, products, fees, risks and conflicts; obtain required documents and approvals; and set suitable account permissions and monitoring.
+d. Accredited, institutional and expert investors meet different regulatory criteria and may receive different protections or be eligible for different products and processes.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. Accredited, institutional and expert investors meet different regulatory criteria and may receive different protections or be eligible for different products and processes.
+**Answer:** D. Accredited, institutional and expert investors meet different regulatory criteria and may receive different protections or be eligible for different products and processes.
 
 **Rationale:** Accredited, institutional and expert investors meet different regulatory criteria and may receive different protections or be eligible for different products and processes. Retail customers generally receive the fullest set of conduct and knowledge safeguards. A label is not enough: the firm must verify status, obtain required consent or declarations and apply the correct rules.
 
@@ -846,15 +846,15 @@ d. The representative should connect the customer’s objectives and constraints
 
 ### 53. **[Single choice]** [RES 1B §5.2] Why is risk profiling not the same as asking a customer whether the customer is willing to lose money?
 
-a. Consider price, costs, speed, likelihood of execution and settlement, size, nature of the order, liquidity, venue and the customer’s instructions.
-b. Explain the product and strategy, material risks, possible loss, liquidity and valuation issues, fees and charges, conflicts, assumptions, relevant tax or currency considerations and the limits of any forecast or disclaimer.
-c. Risk profiling considers capacity for loss, objectives, time horizon, liquidity needs, knowledge, experience, investment constraints and behavioural tolerance.
-d. A payment or benefit for routing orders can create a conflict between the customer’s best interests and the firm’s revenue.
+a. Risk profiling considers capacity for loss, objectives, time horizon, liquidity needs, knowledge, experience, investment constraints and behavioural tolerance.
+b. A payment or benefit for routing orders can create a conflict between the customer’s best interests and the firm’s revenue.
+c. Consider price, costs, speed, likelihood of execution and settlement, size, nature of the order, liquidity, venue and the customer’s instructions.
+d. Explain the product and strategy, material risks, possible loss, liquidity and valuation issues, fees and charges, conflicts, assumptions, relevant tax or currency considerations and the limits of any forecast or disclaimer.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. Risk profiling considers capacity for loss, objectives, time horizon, liquidity needs, knowledge, experience, investment constraints and behavioural tolerance.
+**Answer:** A. Risk profiling considers capacity for loss, objectives, time horizon, liquidity needs, knowledge, experience, investment constraints and behavioural tolerance.
 
 **Rationale:** Risk profiling considers capacity for loss, objectives, time horizon, liquidity needs, knowledge, experience, investment constraints and behavioural tolerance. A customer’s informal answer does not replace a documented, evidence-based assessment or the representative’s duty to explain product-specific risks.
 
@@ -862,15 +862,15 @@ d. A payment or benefit for routing orders can create a conflict between the cus
 
 ### 54. **[Single choice]** [RES 1B §5.3] What is meant by presenting a coherent investment or trading strategy?
 
-a. They prevent and detect unauthorised trading, errors, fraud, conflicts, unsuitable recommendations, misuse of customer money or assets, data leakage and failures in settlement or reporting.
-b. A cross trade can disadvantage one customer or conceal a conflict if price, allocation, consent and priority are not fair and documented.
-c. It should recognise that the best result may require staged execution, different venues, limit orders, careful information handling and a balance between price, market impact, speed and certainty.
-d. The representative should connect the customer’s objectives and constraints to an understandable thesis, asset or product selection, position size, time horizon, risks, costs, exit conditions and monitoring plan.
+a. It should recognise that the best result may require staged execution, different venues, limit orders, careful information handling and a balance between price, market impact, speed and certainty.
+b. The representative should connect the customer’s objectives and constraints to an understandable thesis, asset or product selection, position size, time horizon, risks, costs, exit conditions and monitoring plan.
+c. They prevent and detect unauthorised trading, errors, fraud, conflicts, unsuitable recommendations, misuse of customer money or assets, data leakage and failures in settlement or reporting.
+d. A cross trade can disadvantage one customer or conceal a conflict if price, allocation, consent and priority are not fair and documented.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. The representative should connect the customer’s objectives and constraints to an understandable thesis, asset or product selection, position size, time horizon, risks, costs, exit conditions and monitoring plan.
+**Answer:** B. The representative should connect the customer’s objectives and constraints to an understandable thesis, asset or product selection, position size, time horizon, risks, costs, exit conditions and monitoring plan.
 
 **Rationale:** The representative should connect the customer’s objectives and constraints to an understandable thesis, asset or product selection, position size, time horizon, risks, costs, exit conditions and monitoring plan. The recommendation should be internally consistent rather than a collection of disconnected trades.
 
@@ -878,15 +878,15 @@ d. The representative should connect the customer’s objectives and constraints
 
 ### 55. **[Single choice]** [RES 1B §5.3] What disclosures should accompany a recommendation?
 
-a. Explain the product and strategy, material risks, possible loss, liquidity and valuation issues, fees and charges, conflicts, assumptions, relevant tax or currency considerations and the limits of any forecast or disclaimer.
-b. The guide discusses account structures such as cash, margin, discretionary or managed arrangements, joint, trust, corporate and custody-related accounts.
-c. Through accurate and timely communication, reliability, confidentiality, fair dealing, transparency about fees and conflicts, consistent follow-up, prompt correction of errors and conduct aligned with the customer’s objectives.
-d. It is the risk that a customer, counterparty, issuer, broker or other obligor fails to perform a payment or delivery obligation.
+a. Through accurate and timely communication, reliability, confidentiality, fair dealing, transparency about fees and conflicts, consistent follow-up, prompt correction of errors and conduct aligned with the customer’s objectives.
+b. It is the risk that a customer, counterparty, issuer, broker or other obligor fails to perform a payment or delivery obligation.
+c. Explain the product and strategy, material risks, possible loss, liquidity and valuation issues, fees and charges, conflicts, assumptions, relevant tax or currency considerations and the limits of any forecast or disclaimer.
+d. The guide discusses account structures such as cash, margin, discretionary or managed arrangements, joint, trust, corporate and custody-related accounts.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Explain the product and strategy, material risks, possible loss, liquidity and valuation issues, fees and charges, conflicts, assumptions, relevant tax or currency considerations and the limits of any forecast or disclaimer.
+**Answer:** C. Explain the product and strategy, material risks, possible loss, liquidity and valuation issues, fees and charges, conflicts, assumptions, relevant tax or currency considerations and the limits of any forecast or disclaimer.
 
 **Rationale:** Explain the product and strategy, material risks, possible loss, liquidity and valuation issues, fees and charges, conflicts, assumptions, relevant tax or currency considerations and the limits of any forecast or disclaimer. Communications and the customer’s decision should be recorded.
 
@@ -894,15 +894,15 @@ d. It is the risk that a customer, counterparty, issuer, broker or other obligor
 
 ### 56. **[Single choice]** [RES 1B §5.4] What are the principal elements of best execution?
 
-a. Establish and verify identity, authority, beneficial ownership, objectives, financial circumstances, experience, knowledge, risk appetite, constraints and expected activity; explain the service, products, fees, risks and conflicts; obtain required documents and approvals; and set suitable account permissions and monitoring.
-b. Consider price, costs, speed, likelihood of execution and settlement, size, nature of the order, liquidity, venue and the customer’s instructions.
-c. Accredited, institutional and expert investors meet different regulatory criteria and may receive different protections or be eligible for different products and processes.
-d. Risk profiling considers capacity for loss, objectives, time horizon, liquidity needs, knowledge, experience, investment constraints and behavioural tolerance.
+a. Accredited, institutional and expert investors meet different regulatory criteria and may receive different protections or be eligible for different products and processes.
+b. Risk profiling considers capacity for loss, objectives, time horizon, liquidity needs, knowledge, experience, investment constraints and behavioural tolerance.
+c. Establish and verify identity, authority, beneficial ownership, objectives, financial circumstances, experience, knowledge, risk appetite, constraints and expected activity; explain the service, products, fees, risks and conflicts; obtain required documents and approvals; and set suitable account permissions and monitoring.
+d. Consider price, costs, speed, likelihood of execution and settlement, size, nature of the order, liquidity, venue and the customer’s instructions.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. Consider price, costs, speed, likelihood of execution and settlement, size, nature of the order, liquidity, venue and the customer’s instructions.
+**Answer:** D. Consider price, costs, speed, likelihood of execution and settlement, size, nature of the order, liquidity, venue and the customer’s instructions.
 
 **Rationale:** Consider price, costs, speed, likelihood of execution and settlement, size, nature of the order, liquidity, venue and the customer’s instructions. The firm needs an execution policy, monitoring and review process, and evidence that the outcome was reasonably designed to achieve the best result for the customer.
 
@@ -910,15 +910,15 @@ d. Risk profiling considers capacity for loss, objectives, time horizon, liquidi
 
 ### 57. **[Single choice]** [RES 1B §5.4] Why is payment for order flow a concern?
 
-a. Explain the product and strategy, material risks, possible loss, liquidity and valuation issues, fees and charges, conflicts, assumptions, relevant tax or currency considerations and the limits of any forecast or disclaimer.
-b. The representative should connect the customer’s objectives and constraints to an understandable thesis, asset or product selection, position size, time horizon, risks, costs, exit conditions and monitoring plan.
-c. A payment or benefit for routing orders can create a conflict between the customer’s best interests and the firm’s revenue.
-d. Consider price, costs, speed, likelihood of execution and settlement, size, nature of the order, liquidity, venue and the customer’s instructions.
+a. A payment or benefit for routing orders can create a conflict between the customer’s best interests and the firm’s revenue.
+b. Consider price, costs, speed, likelihood of execution and settlement, size, nature of the order, liquidity, venue and the customer’s instructions.
+c. Explain the product and strategy, material risks, possible loss, liquidity and valuation issues, fees and charges, conflicts, assumptions, relevant tax or currency considerations and the limits of any forecast or disclaimer.
+d. The representative should connect the customer’s objectives and constraints to an understandable thesis, asset or product selection, position size, time horizon, risks, costs, exit conditions and monitoring plan.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. A payment or benefit for routing orders can create a conflict between the customer’s best interests and the firm’s revenue.
+**Answer:** A. A payment or benefit for routing orders can create a conflict between the customer’s best interests and the firm’s revenue.
 
 **Rationale:** A payment or benefit for routing orders can create a conflict between the customer’s best interests and the firm’s revenue. The guide highlights prohibition or strict treatment of payment for order flow; routing must not be selected because it produces an inducement at the expense of execution quality.
 
@@ -926,15 +926,15 @@ d. Consider price, costs, speed, likelihood of execution and settlement, size, n
 
 ### 58. **[Single choice]** [RES 1B §5.4] What are the risks in cross trades and late trading?
 
-a. They prevent and detect unauthorised trading, errors, fraud, conflicts, unsuitable recommendations, misuse of customer money or assets, data leakage and failures in settlement or reporting.
-b. A payment or benefit for routing orders can create a conflict between the customer’s best interests and the firm’s revenue.
-c. It should recognise that the best result may require staged execution, different venues, limit orders, careful information handling and a balance between price, market impact, speed and certainty.
-d. A cross trade can disadvantage one customer or conceal a conflict if price, allocation, consent and priority are not fair and documented.
+a. It should recognise that the best result may require staged execution, different venues, limit orders, careful information handling and a balance between price, market impact, speed and certainty.
+b. A cross trade can disadvantage one customer or conceal a conflict if price, allocation, consent and priority are not fair and documented.
+c. They prevent and detect unauthorised trading, errors, fraud, conflicts, unsuitable recommendations, misuse of customer money or assets, data leakage and failures in settlement or reporting.
+d. A payment or benefit for routing orders can create a conflict between the customer’s best interests and the firm’s revenue.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. A cross trade can disadvantage one customer or conceal a conflict if price, allocation, consent and priority are not fair and documented.
+**Answer:** B. A cross trade can disadvantage one customer or conceal a conflict if price, allocation, consent and priority are not fair and documented.
 
 **Rationale:** A cross trade can disadvantage one customer or conceal a conflict if price, allocation, consent and priority are not fair and documented. Late trading can give a customer an improper advantage by accepting orders after a valuation or market cut-off; both require strict controls and supervision.
 
@@ -942,15 +942,15 @@ d. A cross trade can disadvantage one customer or conceal a conflict if price, a
 
 ### 59. **[Single choice]** [RES 1B §5.4] How should an execution policy treat large or illiquid orders?
 
-a. It should recognise that the best result may require staged execution, different venues, limit orders, careful information handling and a balance between price, market impact, speed and certainty.
-b. The guide discusses account structures such as cash, margin, discretionary or managed arrangements, joint, trust, corporate and custody-related accounts.
-c. Through accurate and timely communication, reliability, confidentiality, fair dealing, transparency about fees and conflicts, consistent follow-up, prompt correction of errors and conduct aligned with the customer’s objectives.
-d. It is the risk that a customer, counterparty, issuer, broker or other obligor fails to perform a payment or delivery obligation.
+a. Through accurate and timely communication, reliability, confidentiality, fair dealing, transparency about fees and conflicts, consistent follow-up, prompt correction of errors and conduct aligned with the customer’s objectives.
+b. It is the risk that a customer, counterparty, issuer, broker or other obligor fails to perform a payment or delivery obligation.
+c. It should recognise that the best result may require staged execution, different venues, limit orders, careful information handling and a balance between price, market impact, speed and certainty.
+d. The guide discusses account structures such as cash, margin, discretionary or managed arrangements, joint, trust, corporate and custody-related accounts.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. It should recognise that the best result may require staged execution, different venues, limit orders, careful information handling and a balance between price, market impact, speed and certainty.
+**Answer:** C. It should recognise that the best result may require staged execution, different venues, limit orders, careful information handling and a balance between price, market impact, speed and certainty.
 
 **Rationale:** It should recognise that the best result may require staged execution, different venues, limit orders, careful information handling and a balance between price, market impact, speed and certainty. A policy designed only for small liquid orders is not adequate for large, bespoke or illiquid orders.
 
@@ -958,15 +958,15 @@ d. It is the risk that a customer, counterparty, issuer, broker or other obligor
 
 ### 60. **[Single choice]** [RES 1B §5.5] What are internal controls intended to prevent?
 
-a. Establish and verify identity, authority, beneficial ownership, objectives, financial circumstances, experience, knowledge, risk appetite, constraints and expected activity; explain the service, products, fees, risks and conflicts; obtain required documents and approvals; and set suitable account permissions and monitoring.
-b. They prevent and detect unauthorised trading, errors, fraud, conflicts, unsuitable recommendations, misuse of customer money or assets, data leakage and failures in settlement or reporting.
-c. Accredited, institutional and expert investors meet different regulatory criteria and may receive different protections or be eligible for different products and processes.
-d. Risk profiling considers capacity for loss, objectives, time horizon, liquidity needs, knowledge, experience, investment constraints and behavioural tolerance.
+a. Accredited, institutional and expert investors meet different regulatory criteria and may receive different protections or be eligible for different products and processes.
+b. Risk profiling considers capacity for loss, objectives, time horizon, liquidity needs, knowledge, experience, investment constraints and behavioural tolerance.
+c. Establish and verify identity, authority, beneficial ownership, objectives, financial circumstances, experience, knowledge, risk appetite, constraints and expected activity; explain the service, products, fees, risks and conflicts; obtain required documents and approvals; and set suitable account permissions and monitoring.
+d. They prevent and detect unauthorised trading, errors, fraud, conflicts, unsuitable recommendations, misuse of customer money or assets, data leakage and failures in settlement or reporting.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. They prevent and detect unauthorised trading, errors, fraud, conflicts, unsuitable recommendations, misuse of customer money or assets, data leakage and failures in settlement or reporting.
+**Answer:** D. They prevent and detect unauthorised trading, errors, fraud, conflicts, unsuitable recommendations, misuse of customer money or assets, data leakage and failures in settlement or reporting.
 
 **Rationale:** They prevent and detect unauthorised trading, errors, fraud, conflicts, unsuitable recommendations, misuse of customer money or assets, data leakage and failures in settlement or reporting. Controls include segregation of duties, approvals, limits, reconciliations, surveillance, exception reporting, access controls and escalation.
 
@@ -974,15 +974,15 @@ d. Risk profiling considers capacity for loss, objectives, time horizon, liquidi
 
 ### 61. **[Single choice]** [RES 1B §5.6] What account types should a representative be able to distinguish?
 
-a. Explain the product and strategy, material risks, possible loss, liquidity and valuation issues, fees and charges, conflicts, assumptions, relevant tax or currency considerations and the limits of any forecast or disclaimer.
-b. The representative should connect the customer’s objectives and constraints to an understandable thesis, asset or product selection, position size, time horizon, risks, costs, exit conditions and monitoring plan.
-c. The guide discusses account structures such as cash, margin, discretionary or managed arrangements, joint, trust, corporate and custody-related accounts.
-d. Consider price, costs, speed, likelihood of execution and settlement, size, nature of the order, liquidity, venue and the customer’s instructions.
+a. The guide discusses account structures such as cash, margin, discretionary or managed arrangements, joint, trust, corporate and custody-related accounts.
+b. Consider price, costs, speed, likelihood of execution and settlement, size, nature of the order, liquidity, venue and the customer’s instructions.
+c. Explain the product and strategy, material risks, possible loss, liquidity and valuation issues, fees and charges, conflicts, assumptions, relevant tax or currency considerations and the limits of any forecast or disclaimer.
+d. The representative should connect the customer’s objectives and constraints to an understandable thesis, asset or product selection, position size, time horizon, risks, costs, exit conditions and monitoring plan.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. The guide discusses account structures such as cash, margin, discretionary or managed arrangements, joint, trust, corporate and custody-related accounts.
+**Answer:** A. The guide discusses account structures such as cash, margin, discretionary or managed arrangements, joint, trust, corporate and custody-related accounts.
 
 **Rationale:** The guide discusses account structures such as cash, margin, discretionary or managed arrangements, joint, trust, corporate and custody-related accounts. Each has different authority, documentation, liability, suitability, money-handling and conflict implications; the representative must not treat all accounts as ordinary individual cash accounts.
 
@@ -990,15 +990,15 @@ d. Consider price, costs, speed, likelihood of execution and settlement, size, n
 
 ### 62. **[Single choice]** [RES 1B §5.7] How is a strong client relationship built on trust?
 
-a. It should recognise that the best result may require staged execution, different venues, limit orders, careful information handling and a balance between price, market impact, speed and certainty.
-b. A payment or benefit for routing orders can create a conflict between the customer’s best interests and the firm’s revenue.
-c. A cross trade can disadvantage one customer or conceal a conflict if price, allocation, consent and priority are not fair and documented.
-d. Through accurate and timely communication, reliability, confidentiality, fair dealing, transparency about fees and conflicts, consistent follow-up, prompt correction of errors and conduct aligned with the customer’s objectives.
+a. A cross trade can disadvantage one customer or conceal a conflict if price, allocation, consent and priority are not fair and documented.
+b. Through accurate and timely communication, reliability, confidentiality, fair dealing, transparency about fees and conflicts, consistent follow-up, prompt correction of errors and conduct aligned with the customer’s objectives.
+c. It should recognise that the best result may require staged execution, different venues, limit orders, careful information handling and a balance between price, market impact, speed and certainty.
+d. A payment or benefit for routing orders can create a conflict between the customer’s best interests and the firm’s revenue.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. Through accurate and timely communication, reliability, confidentiality, fair dealing, transparency about fees and conflicts, consistent follow-up, prompt correction of errors and conduct aligned with the customer’s objectives.
+**Answer:** B. Through accurate and timely communication, reliability, confidentiality, fair dealing, transparency about fees and conflicts, consistent follow-up, prompt correction of errors and conduct aligned with the customer’s objectives.
 
 **Rationale:** Through accurate and timely communication, reliability, confidentiality, fair dealing, transparency about fees and conflicts, consistent follow-up, prompt correction of errors and conduct aligned with the customer’s objectives. Trust is a control outcome as well as a commercial relationship: it reduces pressure to conceal problems or oversell products.
 
@@ -1006,15 +1006,15 @@ d. Through accurate and timely communication, reliability, confidentiality, fair
 
 ### 63. **[Single choice]** [RES 1B §5.8] What is credit risk in securities dealing?
 
-a. It is the risk that a customer, counterparty, issuer, broker or other obligor fails to perform a payment or delivery obligation.
-b. They prevent and detect unauthorised trading, errors, fraud, conflicts, unsuitable recommendations, misuse of customer money or assets, data leakage and failures in settlement or reporting.
-c. The guide discusses account structures such as cash, margin, discretionary or managed arrangements, joint, trust, corporate and custody-related accounts.
-d. Through accurate and timely communication, reliability, confidentiality, fair dealing, transparency about fees and conflicts, consistent follow-up, prompt correction of errors and conduct aligned with the customer’s objectives.
+a. The guide discusses account structures such as cash, margin, discretionary or managed arrangements, joint, trust, corporate and custody-related accounts.
+b. Through accurate and timely communication, reliability, confidentiality, fair dealing, transparency about fees and conflicts, consistent follow-up, prompt correction of errors and conduct aligned with the customer’s objectives.
+c. It is the risk that a customer, counterparty, issuer, broker or other obligor fails to perform a payment or delivery obligation.
+d. They prevent and detect unauthorised trading, errors, fraud, conflicts, unsuitable recommendations, misuse of customer money or assets, data leakage and failures in settlement or reporting.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. It is the risk that a customer, counterparty, issuer, broker or other obligor fails to perform a payment or delivery obligation.
+**Answer:** C. It is the risk that a customer, counterparty, issuer, broker or other obligor fails to perform a payment or delivery obligation.
 
 **Rationale:** It is the risk that a customer, counterparty, issuer, broker or other obligor fails to perform a payment or delivery obligation. Manage it through due diligence, limits, margin or collateral, settlement controls, concentration monitoring, escalation and timely action when exposures deteriorate.
 
@@ -1022,15 +1022,15 @@ d. Through accurate and timely communication, reliability, confidentiality, fair
 
 ### 64. **[Single choice]** [RES 1B §6.1–6.2] What are CPFIS-OA and CPFIS-SA, and why is the distinction important?
 
-a. A CPF investment account is the account through which eligible CPF monies are used for permitted CPFIS investments.
-b. CPFIS-OA permits specified investments from the Ordinary Account, while CPFIS-SA relates to the Special Account and has more restricted investment possibilities and retirement-purpose safeguards.
-c. The member must meet the applicable age, CPF balance, account and product requirements, complete the prescribed self-awareness or risk-assessment process where required, and open the relevant investment account.
-d. Confirm eligibility and product inclusion, ensure the CPF investment account and agent-bank process are in place, submit an authorised instruction, execute through the permitted provider, settle using the correct CPF channel and record the transaction.
+a. The member must meet the applicable age, CPF balance, account and product requirements, complete the prescribed self-awareness or risk-assessment process where required, and open the relevant investment account.
+b. Confirm eligibility and product inclusion, ensure the CPF investment account and agent-bank process are in place, submit an authorised instruction, execute through the permitted provider, settle using the correct CPF channel and record the transaction.
+c. A CPF investment account is the account through which eligible CPF monies are used for permitted CPFIS investments.
+d. CPFIS-OA permits specified investments from the Ordinary Account, while CPFIS-SA relates to the Special Account and has more restricted investment possibilities and retirement-purpose safeguards.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. CPFIS-OA permits specified investments from the Ordinary Account, while CPFIS-SA relates to the Special Account and has more restricted investment possibilities and retirement-purpose safeguards.
+**Answer:** D. CPFIS-OA permits specified investments from the Ordinary Account, while CPFIS-SA relates to the Special Account and has more restricted investment possibilities and retirement-purpose safeguards.
 
 **Rationale:** CPFIS-OA permits specified investments from the Ordinary Account, while CPFIS-SA relates to the Special Account and has more restricted investment possibilities and retirement-purpose safeguards. The available products, limits, service providers and withdrawal treatment differ, so a representative must identify the source account before discussing an investment.
 
@@ -1038,15 +1038,15 @@ d. Confirm eligibility and product inclusion, ensure the CPF investment account 
 
 ### 65. **[Single choice]** [RES 1B §6.3] What is the role of a CPF investment account?
 
-a. Transfers into the CPF Ordinary Account and transfers between CPF and investment channels are subject to prescribed procedures and limits.
-b. Approved agent banks, investment administrators, brokers and other service providers provide the infrastructure and controls for CPF transactions.
-c. A CPF investment account is the account through which eligible CPF monies are used for permitted CPFIS investments.
-d. Release is governed by CPF rules, including the relevant age and retirement-sum framework, and is not simply an ordinary brokerage withdrawal.
+a. A CPF investment account is the account through which eligible CPF monies are used for permitted CPFIS investments.
+b. Release is governed by CPF rules, including the relevant age and retirement-sum framework, and is not simply an ordinary brokerage withdrawal.
+c. Transfers into the CPF Ordinary Account and transfers between CPF and investment channels are subject to prescribed procedures and limits.
+d. Approved agent banks, investment administrators, brokers and other service providers provide the infrastructure and controls for CPF transactions.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. A CPF investment account is the account through which eligible CPF monies are used for permitted CPFIS investments.
+**Answer:** A. A CPF investment account is the account through which eligible CPF monies are used for permitted CPFIS investments.
 
 **Rationale:** A CPF investment account is the account through which eligible CPF monies are used for permitted CPFIS investments. The member must open it with an approved agent bank, meet eligibility and assessment requirements, and ensure that transactions, dividends, proceeds and charges are handled according to CPF rules.
 
@@ -1054,15 +1054,15 @@ d. Release is governed by CPF rules, including the relevant age and retirement-s
 
 ### 66. **[Single choice]** [RES 1B §6.4–6.5] What eligibility checks and learning requirements apply before a member invests?
 
-a. Confirm eligibility and product inclusion, ensure the CPF investment account and agent-bank process are in place, submit an authorised instruction, execute through the permitted provider, settle using the correct CPF channel and record the transaction.
-b. CPFIS-OA permits specified investments from the Ordinary Account, while CPFIS-SA relates to the Special Account and has more restricted investment possibilities and retirement-purpose safeguards.
-c. A CPF investment account is the account through which eligible CPF monies are used for permitted CPFIS investments.
-d. The member must meet the applicable age, CPF balance, account and product requirements, complete the prescribed self-awareness or risk-assessment process where required, and open the relevant investment account.
+a. A CPF investment account is the account through which eligible CPF monies are used for permitted CPFIS investments.
+b. The member must meet the applicable age, CPF balance, account and product requirements, complete the prescribed self-awareness or risk-assessment process where required, and open the relevant investment account.
+c. Confirm eligibility and product inclusion, ensure the CPF investment account and agent-bank process are in place, submit an authorised instruction, execute through the permitted provider, settle using the correct CPF channel and record the transaction.
+d. CPFIS-OA permits specified investments from the Ordinary Account, while CPFIS-SA relates to the Special Account and has more restricted investment possibilities and retirement-purpose safeguards.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. The member must meet the applicable age, CPF balance, account and product requirements, complete the prescribed self-awareness or risk-assessment process where required, and open the relevant investment account.
+**Answer:** B. The member must meet the applicable age, CPF balance, account and product requirements, complete the prescribed self-awareness or risk-assessment process where required, and open the relevant investment account.
 
 **Rationale:** The member must meet the applicable age, CPF balance, account and product requirements, complete the prescribed self-awareness or risk-assessment process where required, and open the relevant investment account. Eligibility is not a guarantee that a particular product is suitable or available.
 
@@ -1070,15 +1070,15 @@ d. The member must meet the applicable age, CPF balance, account and product req
 
 ### 67. **[Single choice]** [RES 1B §6.6] Summarise the CPFIS purchase and sale process.
 
-a. Confirm eligibility and product inclusion, ensure the CPF investment account and agent-bank process are in place, submit an authorised instruction, execute through the permitted provider, settle using the correct CPF channel and record the transaction.
-b. Approved agent banks, investment administrators, brokers and other service providers provide the infrastructure and controls for CPF transactions.
-c. Transfers into the CPF Ordinary Account and transfers between CPF and investment channels are subject to prescribed procedures and limits.
-d. Release is governed by CPF rules, including the relevant age and retirement-sum framework, and is not simply an ordinary brokerage withdrawal.
+a. Transfers into the CPF Ordinary Account and transfers between CPF and investment channels are subject to prescribed procedures and limits.
+b. Release is governed by CPF rules, including the relevant age and retirement-sum framework, and is not simply an ordinary brokerage withdrawal.
+c. Confirm eligibility and product inclusion, ensure the CPF investment account and agent-bank process are in place, submit an authorised instruction, execute through the permitted provider, settle using the correct CPF channel and record the transaction.
+d. Approved agent banks, investment administrators, brokers and other service providers provide the infrastructure and controls for CPF transactions.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Confirm eligibility and product inclusion, ensure the CPF investment account and agent-bank process are in place, submit an authorised instruction, execute through the permitted provider, settle using the correct CPF channel and record the transaction.
+**Answer:** C. Confirm eligibility and product inclusion, ensure the CPF investment account and agent-bank process are in place, submit an authorised instruction, execute through the permitted provider, settle using the correct CPF channel and record the transaction.
 
 **Rationale:** Confirm eligibility and product inclusion, ensure the CPF investment account and agent-bank process are in place, submit an authorised instruction, execute through the permitted provider, settle using the correct CPF channel and record the transaction. On sale, proceeds and dividends must be credited or applied as the CPF rules require rather than paid out as ordinary cash.
 
@@ -1086,15 +1086,15 @@ d. Release is governed by CPF rules, including the relevant age and retirement-s
 
 ### 68. **[Single choice]** [RES 1B §6.7–6.8] What are service providers and product-inclusion criteria intended to achieve?
 
-a. CPFIS-OA permits specified investments from the Ordinary Account, while CPFIS-SA relates to the Special Account and has more restricted investment possibilities and retirement-purpose safeguards.
-b. Approved agent banks, investment administrators, brokers and other service providers provide the infrastructure and controls for CPF transactions.
-c. A CPF investment account is the account through which eligible CPF monies are used for permitted CPFIS investments.
-d. The member must meet the applicable age, CPF balance, account and product requirements, complete the prescribed self-awareness or risk-assessment process where required, and open the relevant investment account.
+a. A CPF investment account is the account through which eligible CPF monies are used for permitted CPFIS investments.
+b. The member must meet the applicable age, CPF balance, account and product requirements, complete the prescribed self-awareness or risk-assessment process where required, and open the relevant investment account.
+c. CPFIS-OA permits specified investments from the Ordinary Account, while CPFIS-SA relates to the Special Account and has more restricted investment possibilities and retirement-purpose safeguards.
+d. Approved agent banks, investment administrators, brokers and other service providers provide the infrastructure and controls for CPF transactions.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. Approved agent banks, investment administrators, brokers and other service providers provide the infrastructure and controls for CPF transactions.
+**Answer:** D. Approved agent banks, investment administrators, brokers and other service providers provide the infrastructure and controls for CPF transactions.
 
 **Rationale:** Approved agent banks, investment administrators, brokers and other service providers provide the infrastructure and controls for CPF transactions. Product-inclusion criteria limit investments to products and markets that meet prescribed eligibility, disclosure, liquidity, rating, listing or other safeguards.
 
@@ -1102,15 +1102,15 @@ d. The member must meet the applicable age, CPF balance, account and product req
 
 ### 69. **[Single choice]** [RES 1B §6.9–6.11] How are transfers, dividends and charges treated under CPFIS?
 
-a. Approved agent banks, investment administrators, brokers and other service providers provide the infrastructure and controls for CPF transactions.
-b. Confirm eligibility and product inclusion, ensure the CPF investment account and agent-bank process are in place, submit an authorised instruction, execute through the permitted provider, settle using the correct CPF channel and record the transaction.
-c. Transfers into the CPF Ordinary Account and transfers between CPF and investment channels are subject to prescribed procedures and limits.
-d. Release is governed by CPF rules, including the relevant age and retirement-sum framework, and is not simply an ordinary brokerage withdrawal.
+a. Transfers into the CPF Ordinary Account and transfers between CPF and investment channels are subject to prescribed procedures and limits.
+b. Release is governed by CPF rules, including the relevant age and retirement-sum framework, and is not simply an ordinary brokerage withdrawal.
+c. Approved agent banks, investment administrators, brokers and other service providers provide the infrastructure and controls for CPF transactions.
+d. Confirm eligibility and product inclusion, ensure the CPF investment account and agent-bank process are in place, submit an authorised instruction, execute through the permitted provider, settle using the correct CPF channel and record the transaction.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. Transfers into the CPF Ordinary Account and transfers between CPF and investment channels are subject to prescribed procedures and limits.
+**Answer:** A. Transfers into the CPF Ordinary Account and transfers between CPF and investment channels are subject to prescribed procedures and limits.
 
 **Rationale:** Transfers into the CPF Ordinary Account and transfers between CPF and investment channels are subject to prescribed procedures and limits. Dividends, interest and profits generally return through the required CPF route, while agent-bank, brokerage, platform, transaction and other permitted charges reduce the investment amount or proceeds as disclosed.
 
@@ -1118,15 +1118,15 @@ d. Release is governed by CPF rules, including the relevant age and retirement-s
 
 ### 70. **[Single choice]** [RES 1B §6.12–6.14] What happens to CPFIS holdings on release, bankruptcy or death?
 
-a. The member must meet the applicable age, CPF balance, account and product requirements, complete the prescribed self-awareness or risk-assessment process where required, and open the relevant investment account.
-b. CPFIS-OA permits specified investments from the Ordinary Account, while CPFIS-SA relates to the Special Account and has more restricted investment possibilities and retirement-purpose safeguards.
-c. A CPF investment account is the account through which eligible CPF monies are used for permitted CPFIS investments.
-d. Release is governed by CPF rules, including the relevant age and retirement-sum framework, and is not simply an ordinary brokerage withdrawal.
+a. A CPF investment account is the account through which eligible CPF monies are used for permitted CPFIS investments.
+b. Release is governed by CPF rules, including the relevant age and retirement-sum framework, and is not simply an ordinary brokerage withdrawal.
+c. The member must meet the applicable age, CPF balance, account and product requirements, complete the prescribed self-awareness or risk-assessment process where required, and open the relevant investment account.
+d. CPFIS-OA permits specified investments from the Ordinary Account, while CPFIS-SA relates to the Special Account and has more restricted investment possibilities and retirement-purpose safeguards.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. Release is governed by CPF rules, including the relevant age and retirement-sum framework, and is not simply an ordinary brokerage withdrawal.
+**Answer:** B. Release is governed by CPF rules, including the relevant age and retirement-sum framework, and is not simply an ordinary brokerage withdrawal.
 
 **Rationale:** Release is governed by CPF rules, including the relevant age and retirement-sum framework, and is not simply an ordinary brokerage withdrawal. Bankruptcy and death trigger special statutory, estate, nomination and administrative treatment; the representative should not promise immediate access and should refer the member to CPF, the agent bank and the proper estate or insolvency process.
 
@@ -1134,15 +1134,15 @@ d. Release is governed by CPF rules, including the relevant age and retirement-s
 
 ### 71. **[Single choice]** [RES 1B §7.1] Distinguish money laundering, terrorism financing, sanctions evasion and fraud.
 
-a. Money laundering disguises the origin or ownership of criminal proceeds; terrorism financing provides or moves funds for terrorist purposes and may involve legitimate funds; sanctions evasion circumvents restrictions imposed on designated persons, countries or activities; and fraud obtains value through deception.
-b. The guide highlights transaction-monitoring attention around the S$20,000 threshold, a 30-day review period for relevant circumstances, a 120-day period for specified follow-up or review situations, STR filing within 15 business days after forming the required suspicion, and retention of records for five years.
-c. Tipping off is improperly alerting a customer or another person that a suspicious transaction report, investigation or law-enforcement action is being considered or made.
-d. It tests whether governance, risk assessment, CDD, screening, monitoring, investigation, reporting, record keeping and training actually identify and mitigate risk.
+a. Tipping off is improperly alerting a customer or another person that a suspicious transaction report, investigation or law-enforcement action is being considered or made.
+b. It tests whether governance, risk assessment, CDD, screening, monitoring, investigation, reporting, record keeping and training actually identify and mitigate risk.
+c. Money laundering disguises the origin or ownership of criminal proceeds; terrorism financing provides or moves funds for terrorist purposes and may involve legitimate funds; sanctions evasion circumvents restrictions imposed on designated persons, countries or activities; and fraud obtains value through deception.
+d. The guide highlights transaction-monitoring attention around the S$20,000 threshold, a 30-day review period for relevant circumstances, a 120-day period for specified follow-up or review situations, STR filing within 15 business days after forming the required suspicion, and retention of records for five years.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Money laundering disguises the origin or ownership of criminal proceeds; terrorism financing provides or moves funds for terrorist purposes and may involve legitimate funds; sanctions evasion circumvents restrictions imposed on designated persons, countries or activities; and fraud obtains value through deception.
+**Answer:** C. Money laundering disguises the origin or ownership of criminal proceeds; terrorism financing provides or moves funds for terrorist purposes and may involve legitimate funds; sanctions evasion circumvents restrictions imposed on designated persons, countries or activities; and fraud obtains value through deception.
 
 **Rationale:** Money laundering disguises the origin or ownership of criminal proceeds; terrorism financing provides or moves funds for terrorist purposes and may involve legitimate funds; sanctions evasion circumvents restrictions imposed on designated persons, countries or activities; and fraud obtains value through deception. One transaction can involve more than one risk.
 
@@ -1150,15 +1150,15 @@ d. It tests whether governance, risk assessment, CDD, screening, monitoring, inv
 
 ### 72. **[Single choice]** [RES 1B §7.2–7.4] What is the purpose of Singapore’s AML/CFT regime and MAS notices?
 
-a. Money laundering disguises the origin or ownership of criminal proceeds; terrorism financing provides or moves funds for terrorist purposes and may involve legitimate funds; sanctions evasion circumvents restrictions imposed on designated persons, countries or activities; and fraud obtains value through deception.
-b. The regime requires financial institutions to identify and understand customers and beneficial owners, assess risk, monitor relationships and transactions, maintain controls, file reports and avoid tipping off.
-c. The guide refers to the SFA and related regulations, the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the Terrorism (Suppression of Financing) Act, the MAS Act and applicable tax legislation, together with MAS notices and regulations.
-d. They restrict dealings with designated persons, entities, countries, assets or activities, including terrorist financing and proliferation-related targets.
+a. The guide refers to the SFA and related regulations, the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the Terrorism (Suppression of Financing) Act, the MAS Act and applicable tax legislation, together with MAS notices and regulations.
+b. They restrict dealings with designated persons, entities, countries, assets or activities, including terrorist financing and proliferation-related targets.
+c. Money laundering disguises the origin or ownership of criminal proceeds; terrorism financing provides or moves funds for terrorist purposes and may involve legitimate funds; sanctions evasion circumvents restrictions imposed on designated persons, countries or activities; and fraud obtains value through deception.
+d. The regime requires financial institutions to identify and understand customers and beneficial owners, assess risk, monitor relationships and transactions, maintain controls, file reports and avoid tipping off.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. The regime requires financial institutions to identify and understand customers and beneficial owners, assess risk, monitor relationships and transactions, maintain controls, file reports and avoid tipping off.
+**Answer:** D. The regime requires financial institutions to identify and understand customers and beneficial owners, assess risk, monitor relationships and transactions, maintain controls, file reports and avoid tipping off.
 
 **Rationale:** The regime requires financial institutions to identify and understand customers and beneficial owners, assess risk, monitor relationships and transactions, maintain controls, file reports and avoid tipping off. MAS notices and guidelines translate statutory duties into sector-specific control expectations.
 
@@ -1166,15 +1166,15 @@ d. They restrict dealings with designated persons, entities, countries, assets o
 
 ### 73. **[Single choice]** [RES 1B §7.3] Name the main laws that the guide associates with financial-crime controls.
 
-a. The first line is the business and front office, which owns customer and transaction risk; the second line is compliance or risk management, which sets standards, advises, monitors and challenges; and the third line is internal audit, which independently tests governance and controls.
-b. Certain tax offences can be predicate offences that generate criminal proceeds.
-c. The guide refers to the SFA and related regulations, the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the Terrorism (Suppression of Financing) Act, the MAS Act and applicable tax legislation, together with MAS notices and regulations.
-d. Obtain and verify identity, address, occupation or business, purpose and intended nature of the relationship, source of funds and wealth where relevant, beneficial ownership, ownership and control structure, expected activity and connected parties.
+a. The guide refers to the SFA and related regulations, the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the Terrorism (Suppression of Financing) Act, the MAS Act and applicable tax legislation, together with MAS notices and regulations.
+b. Obtain and verify identity, address, occupation or business, purpose and intended nature of the relationship, source of funds and wealth where relevant, beneficial ownership, ownership and control structure, expected activity and connected parties.
+c. The first line is the business and front office, which owns customer and transaction risk; the second line is compliance or risk management, which sets standards, advises, monitors and challenges; and the third line is internal audit, which independently tests governance and controls.
+d. Certain tax offences can be predicate offences that generate criminal proceeds.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. The guide refers to the SFA and related regulations, the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the Terrorism (Suppression of Financing) Act, the MAS Act and applicable tax legislation, together with MAS notices and regulations.
+**Answer:** A. The guide refers to the SFA and related regulations, the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the Terrorism (Suppression of Financing) Act, the MAS Act and applicable tax legislation, together with MAS notices and regulations.
 
 **Rationale:** The guide refers to the SFA and related regulations, the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the Terrorism (Suppression of Financing) Act, the MAS Act and applicable tax legislation, together with MAS notices and regulations. The exact scope must be read with current law.
 
@@ -1182,15 +1182,15 @@ d. Obtain and verify identity, address, occupation or business, purpose and inte
 
 ### 74. **[Single choice]** [RES 1B §7.5] What are targeted financial sanctions?
 
-a. Controls include customer and transaction screening, ongoing monitoring, unusual-activity alerts, risk-based review, approval and escalation, staff access controls, reliable records, independent testing, vendor oversight and management information.
-b. PEP relationships require risk-sensitive senior approval, source-of-wealth or source-of-funds measures and enhanced ongoing monitoring.
-c. It identifies and assesses the firm’s ML, TF and sanctions risks across customers, countries, products, services, delivery channels, technologies and transactions, then links the risk rating to controls and resources.
-d. They restrict dealings with designated persons, entities, countries, assets or activities, including terrorist financing and proliferation-related targets.
+a. It identifies and assesses the firm’s ML, TF and sanctions risks across customers, countries, products, services, delivery channels, technologies and transactions, then links the risk rating to controls and resources.
+b. They restrict dealings with designated persons, entities, countries, assets or activities, including terrorist financing and proliferation-related targets.
+c. Controls include customer and transaction screening, ongoing monitoring, unusual-activity alerts, risk-based review, approval and escalation, staff access controls, reliable records, independent testing, vendor oversight and management information.
+d. PEP relationships require risk-sensitive senior approval, source-of-wealth or source-of-funds measures and enhanced ongoing monitoring.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. They restrict dealings with designated persons, entities, countries, assets or activities, including terrorist financing and proliferation-related targets.
+**Answer:** B. They restrict dealings with designated persons, entities, countries, assets or activities, including terrorist financing and proliferation-related targets.
 
 **Rationale:** They restrict dealings with designated persons, entities, countries, assets or activities, including terrorist financing and proliferation-related targets. Firms need screening, escalation, asset-freezing or non-dealing procedures as applicable, and must not help a customer evade a sanction or alert the customer improperly.
 
@@ -1198,15 +1198,15 @@ d. They restrict dealings with designated persons, entities, countries, assets o
 
 ### 75. **[Single choice]** [RES 1B §7.6] Why are tax crimes relevant to AML controls?
 
-a. Certain tax offences can be predicate offences that generate criminal proceeds.
-b. The guide highlights transaction-monitoring attention around the S$20,000 threshold, a 30-day review period for relevant circumstances, a 120-day period for specified follow-up or review situations, STR filing within 15 business days after forming the required suspicion, and retention of records for five years.
-c. Tipping off is improperly alerting a customer or another person that a suspicious transaction report, investigation or law-enforcement action is being considered or made.
-d. It tests whether governance, risk assessment, CDD, screening, monitoring, investigation, reporting, record keeping and training actually identify and mitigate risk.
+a. Tipping off is improperly alerting a customer or another person that a suspicious transaction report, investigation or law-enforcement action is being considered or made.
+b. It tests whether governance, risk assessment, CDD, screening, monitoring, investigation, reporting, record keeping and training actually identify and mitigate risk.
+c. Certain tax offences can be predicate offences that generate criminal proceeds.
+d. The guide highlights transaction-monitoring attention around the S$20,000 threshold, a 30-day review period for relevant circumstances, a 120-day period for specified follow-up or review situations, STR filing within 15 business days after forming the required suspicion, and retention of records for five years.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Certain tax offences can be predicate offences that generate criminal proceeds.
+**Answer:** C. Certain tax offences can be predicate offences that generate criminal proceeds.
 
 **Rationale:** Certain tax offences can be predicate offences that generate criminal proceeds. A tax-related transaction may therefore require the same source-of-wealth, source-of-funds, transaction-monitoring, escalation and reporting analysis as other suspected criminal proceeds.
 
@@ -1214,15 +1214,15 @@ d. It tests whether governance, risk assessment, CDD, screening, monitoring, inv
 
 ### 76. **[Single choice]** [RES 1B §7.7–7.8] Explain the three lines of defence.
 
-a. Money laundering disguises the origin or ownership of criminal proceeds; terrorism financing provides or moves funds for terrorist purposes and may involve legitimate funds; sanctions evasion circumvents restrictions imposed on designated persons, countries or activities; and fraud obtains value through deception.
-b. The first line is the business and front office, which owns customer and transaction risk; the second line is compliance or risk management, which sets standards, advises, monitors and challenges; and the third line is internal audit, which independently tests governance and controls.
-c. The regime requires financial institutions to identify and understand customers and beneficial owners, assess risk, monitor relationships and transactions, maintain controls, file reports and avoid tipping off.
-d. The guide refers to the SFA and related regulations, the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the Terrorism (Suppression of Financing) Act, the MAS Act and applicable tax legislation, together with MAS notices and regulations.
+a. The regime requires financial institutions to identify and understand customers and beneficial owners, assess risk, monitor relationships and transactions, maintain controls, file reports and avoid tipping off.
+b. The guide refers to the SFA and related regulations, the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the Terrorism (Suppression of Financing) Act, the MAS Act and applicable tax legislation, together with MAS notices and regulations.
+c. Money laundering disguises the origin or ownership of criminal proceeds; terrorism financing provides or moves funds for terrorist purposes and may involve legitimate funds; sanctions evasion circumvents restrictions imposed on designated persons, countries or activities; and fraud obtains value through deception.
+d. The first line is the business and front office, which owns customer and transaction risk; the second line is compliance or risk management, which sets standards, advises, monitors and challenges; and the third line is internal audit, which independently tests governance and controls.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. The first line is the business and front office, which owns customer and transaction risk; the second line is compliance or risk management, which sets standards, advises, monitors and challenges; and the third line is internal audit, which independently tests governance and controls.
+**Answer:** D. The first line is the business and front office, which owns customer and transaction risk; the second line is compliance or risk management, which sets standards, advises, monitors and challenges; and the third line is internal audit, which independently tests governance and controls.
 
 **Rationale:** The first line is the business and front office, which owns customer and transaction risk; the second line is compliance or risk management, which sets standards, advises, monitors and challenges; and the third line is internal audit, which independently tests governance and controls. The board and senior management provide governance and accountability across the lines.
 
@@ -1230,15 +1230,15 @@ d. The guide refers to the SFA and related regulations, the Corruption, Drug Tra
 
 ### 77. **[Single choice]** [RES 1B §7.9] What information should be obtained during AML/CFT onboarding?
 
-a. Certain tax offences can be predicate offences that generate criminal proceeds.
-b. They restrict dealings with designated persons, entities, countries, assets or activities, including terrorist financing and proliferation-related targets.
-c. Obtain and verify identity, address, occupation or business, purpose and intended nature of the relationship, source of funds and wealth where relevant, beneficial ownership, ownership and control structure, expected activity and connected parties.
-d. The first line is the business and front office, which owns customer and transaction risk; the second line is compliance or risk management, which sets standards, advises, monitors and challenges; and the third line is internal audit, which independently tests governance and controls.
+a. Obtain and verify identity, address, occupation or business, purpose and intended nature of the relationship, source of funds and wealth where relevant, beneficial ownership, ownership and control structure, expected activity and connected parties.
+b. The first line is the business and front office, which owns customer and transaction risk; the second line is compliance or risk management, which sets standards, advises, monitors and challenges; and the third line is internal audit, which independently tests governance and controls.
+c. Certain tax offences can be predicate offences that generate criminal proceeds.
+d. They restrict dealings with designated persons, entities, countries, assets or activities, including terrorist financing and proliferation-related targets.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. Obtain and verify identity, address, occupation or business, purpose and intended nature of the relationship, source of funds and wealth where relevant, beneficial ownership, ownership and control structure, expected activity and connected parties.
+**Answer:** A. Obtain and verify identity, address, occupation or business, purpose and intended nature of the relationship, source of funds and wealth where relevant, beneficial ownership, ownership and control structure, expected activity and connected parties.
 
 **Rationale:** Obtain and verify identity, address, occupation or business, purpose and intended nature of the relationship, source of funds and wealth where relevant, beneficial ownership, ownership and control structure, expected activity and connected parties. For a legal person, determine who ultimately owns or controls it, including the guide’s 25% beneficial-ownership threshold where applicable.
 
@@ -1246,15 +1246,15 @@ d. The first line is the business and front office, which owns customer and tran
 
 ### 78. **[Single choice]** [RES 1B §7.9] What are PEP, simplified CDD and enhanced CDD controls?
 
-a. Controls include customer and transaction screening, ongoing monitoring, unusual-activity alerts, risk-based review, approval and escalation, staff access controls, reliable records, independent testing, vendor oversight and management information.
-b. Obtain and verify identity, address, occupation or business, purpose and intended nature of the relationship, source of funds and wealth where relevant, beneficial ownership, ownership and control structure, expected activity and connected parties.
-c. It identifies and assesses the firm’s ML, TF and sanctions risks across customers, countries, products, services, delivery channels, technologies and transactions, then links the risk rating to controls and resources.
-d. PEP relationships require risk-sensitive senior approval, source-of-wealth or source-of-funds measures and enhanced ongoing monitoring.
+a. It identifies and assesses the firm’s ML, TF and sanctions risks across customers, countries, products, services, delivery channels, technologies and transactions, then links the risk rating to controls and resources.
+b. PEP relationships require risk-sensitive senior approval, source-of-wealth or source-of-funds measures and enhanced ongoing monitoring.
+c. Controls include customer and transaction screening, ongoing monitoring, unusual-activity alerts, risk-based review, approval and escalation, staff access controls, reliable records, independent testing, vendor oversight and management information.
+d. Obtain and verify identity, address, occupation or business, purpose and intended nature of the relationship, source of funds and wealth where relevant, beneficial ownership, ownership and control structure, expected activity and connected parties.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. PEP relationships require risk-sensitive senior approval, source-of-wealth or source-of-funds measures and enhanced ongoing monitoring.
+**Answer:** B. PEP relationships require risk-sensitive senior approval, source-of-wealth or source-of-funds measures and enhanced ongoing monitoring.
 
 **Rationale:** PEP relationships require risk-sensitive senior approval, source-of-wealth or source-of-funds measures and enhanced ongoing monitoring. Simplified CDD may be used only where the risk and applicable rules permit; enhanced CDD applies to higher-risk cases, such as complex ownership, high-risk jurisdictions, unusual activity or sanctions and PEP concerns.
 
@@ -1262,15 +1262,15 @@ d. PEP relationships require risk-sensitive senior approval, source-of-wealth or
 
 ### 79. **[Single choice]** [RES 1B §7.10–7.11] What is an enterprise-wide risk assessment?
 
-a. It identifies and assesses the firm’s ML, TF and sanctions risks across customers, countries, products, services, delivery channels, technologies and transactions, then links the risk rating to controls and resources.
-b. The guide highlights transaction-monitoring attention around the S$20,000 threshold, a 30-day review period for relevant circumstances, a 120-day period for specified follow-up or review situations, STR filing within 15 business days after forming the required suspicion, and retention of records for five years.
-c. Tipping off is improperly alerting a customer or another person that a suspicious transaction report, investigation or law-enforcement action is being considered or made.
-d. It tests whether governance, risk assessment, CDD, screening, monitoring, investigation, reporting, record keeping and training actually identify and mitigate risk.
+a. Tipping off is improperly alerting a customer or another person that a suspicious transaction report, investigation or law-enforcement action is being considered or made.
+b. It tests whether governance, risk assessment, CDD, screening, monitoring, investigation, reporting, record keeping and training actually identify and mitigate risk.
+c. It identifies and assesses the firm’s ML, TF and sanctions risks across customers, countries, products, services, delivery channels, technologies and transactions, then links the risk rating to controls and resources.
+d. The guide highlights transaction-monitoring attention around the S$20,000 threshold, a 30-day review period for relevant circumstances, a 120-day period for specified follow-up or review situations, STR filing within 15 business days after forming the required suspicion, and retention of records for five years.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. It identifies and assesses the firm’s ML, TF and sanctions risks across customers, countries, products, services, delivery channels, technologies and transactions, then links the risk rating to controls and resources.
+**Answer:** C. It identifies and assesses the firm’s ML, TF and sanctions risks across customers, countries, products, services, delivery channels, technologies and transactions, then links the risk rating to controls and resources.
 
 **Rationale:** It identifies and assesses the firm’s ML, TF and sanctions risks across customers, countries, products, services, delivery channels, technologies and transactions, then links the risk rating to controls and resources. The guide highlights reviewing it at least every two years and reassessing new products, practices and technologies before launch.
 
@@ -1278,15 +1278,15 @@ d. It tests whether governance, risk assessment, CDD, screening, monitoring, inv
 
 ### 80. **[Single choice]** [RES 1B §7.12] What operational controls support an effective AML/CFT programme?
 
-a. Money laundering disguises the origin or ownership of criminal proceeds; terrorism financing provides or moves funds for terrorist purposes and may involve legitimate funds; sanctions evasion circumvents restrictions imposed on designated persons, countries or activities; and fraud obtains value through deception.
-b. Controls include customer and transaction screening, ongoing monitoring, unusual-activity alerts, risk-based review, approval and escalation, staff access controls, reliable records, independent testing, vendor oversight and management information.
-c. The regime requires financial institutions to identify and understand customers and beneficial owners, assess risk, monitor relationships and transactions, maintain controls, file reports and avoid tipping off.
-d. The guide refers to the SFA and related regulations, the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the Terrorism (Suppression of Financing) Act, the MAS Act and applicable tax legislation, together with MAS notices and regulations.
+a. The regime requires financial institutions to identify and understand customers and beneficial owners, assess risk, monitor relationships and transactions, maintain controls, file reports and avoid tipping off.
+b. The guide refers to the SFA and related regulations, the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the Terrorism (Suppression of Financing) Act, the MAS Act and applicable tax legislation, together with MAS notices and regulations.
+c. Money laundering disguises the origin or ownership of criminal proceeds; terrorism financing provides or moves funds for terrorist purposes and may involve legitimate funds; sanctions evasion circumvents restrictions imposed on designated persons, countries or activities; and fraud obtains value through deception.
+d. Controls include customer and transaction screening, ongoing monitoring, unusual-activity alerts, risk-based review, approval and escalation, staff access controls, reliable records, independent testing, vendor oversight and management information.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. Controls include customer and transaction screening, ongoing monitoring, unusual-activity alerts, risk-based review, approval and escalation, staff access controls, reliable records, independent testing, vendor oversight and management information.
+**Answer:** D. Controls include customer and transaction screening, ongoing monitoring, unusual-activity alerts, risk-based review, approval and escalation, staff access controls, reliable records, independent testing, vendor oversight and management information.
 
 **Rationale:** Controls include customer and transaction screening, ongoing monitoring, unusual-activity alerts, risk-based review, approval and escalation, staff access controls, reliable records, independent testing, vendor oversight and management information. Controls should be calibrated to risk rather than treated as a purely mechanical checklist.
 
@@ -1294,15 +1294,15 @@ d. The guide refers to the SFA and related regulations, the Corruption, Drug Tra
 
 ### 81. **[Single choice]** [RES 1B §7.13] What reporting timelines and thresholds are highlighted in the guide?
 
-a. Certain tax offences can be predicate offences that generate criminal proceeds.
-b. They restrict dealings with designated persons, entities, countries, assets or activities, including terrorist financing and proliferation-related targets.
-c. The guide highlights transaction-monitoring attention around the S$20,000 threshold, a 30-day review period for relevant circumstances, a 120-day period for specified follow-up or review situations, STR filing within 15 business days after forming the required suspicion, and retention of records for five years.
-d. The first line is the business and front office, which owns customer and transaction risk; the second line is compliance or risk management, which sets standards, advises, monitors and challenges; and the third line is internal audit, which independently tests governance and controls.
+a. The guide highlights transaction-monitoring attention around the S$20,000 threshold, a 30-day review period for relevant circumstances, a 120-day period for specified follow-up or review situations, STR filing within 15 business days after forming the required suspicion, and retention of records for five years.
+b. The first line is the business and front office, which owns customer and transaction risk; the second line is compliance or risk management, which sets standards, advises, monitors and challenges; and the third line is internal audit, which independently tests governance and controls.
+c. Certain tax offences can be predicate offences that generate criminal proceeds.
+d. They restrict dealings with designated persons, entities, countries, assets or activities, including terrorist financing and proliferation-related targets.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. The guide highlights transaction-monitoring attention around the S$20,000 threshold, a 30-day review period for relevant circumstances, a 120-day period for specified follow-up or review situations, STR filing within 15 business days after forming the required suspicion, and retention of records for five years.
+**Answer:** A. The guide highlights transaction-monitoring attention around the S$20,000 threshold, a 30-day review period for relevant circumstances, a 120-day period for specified follow-up or review situations, STR filing within 15 business days after forming the required suspicion, and retention of records for five years.
 
 **Rationale:** The guide highlights transaction-monitoring attention around the S$20,000 threshold, a 30-day review period for relevant circumstances, a 120-day period for specified follow-up or review situations, STR filing within 15 business days after forming the required suspicion, and retention of records for five years. These are exam-study references and should be verified against current notices.
 
@@ -1310,15 +1310,15 @@ d. The first line is the business and front office, which owns customer and tran
 
 ### 82. **[Single choice]** [RES 1B §7.13–7.14] What is tipping off and why is it dangerous?
 
-a. It identifies and assesses the firm’s ML, TF and sanctions risks across customers, countries, products, services, delivery channels, technologies and transactions, then links the risk rating to controls and resources.
-b. Obtain and verify identity, address, occupation or business, purpose and intended nature of the relationship, source of funds and wealth where relevant, beneficial ownership, ownership and control structure, expected activity and connected parties.
-c. PEP relationships require risk-sensitive senior approval, source-of-wealth or source-of-funds measures and enhanced ongoing monitoring.
-d. Tipping off is improperly alerting a customer or another person that a suspicious transaction report, investigation or law-enforcement action is being considered or made.
+a. PEP relationships require risk-sensitive senior approval, source-of-wealth or source-of-funds measures and enhanced ongoing monitoring.
+b. Tipping off is improperly alerting a customer or another person that a suspicious transaction report, investigation or law-enforcement action is being considered or made.
+c. It identifies and assesses the firm’s ML, TF and sanctions risks across customers, countries, products, services, delivery channels, technologies and transactions, then links the risk rating to controls and resources.
+d. Obtain and verify identity, address, occupation or business, purpose and intended nature of the relationship, source of funds and wealth where relevant, beneficial ownership, ownership and control structure, expected activity and connected parties.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. Tipping off is improperly alerting a customer or another person that a suspicious transaction report, investigation or law-enforcement action is being considered or made.
+**Answer:** B. Tipping off is improperly alerting a customer or another person that a suspicious transaction report, investigation or law-enforcement action is being considered or made.
 
 **Rationale:** Tipping off is improperly alerting a customer or another person that a suspicious transaction report, investigation or law-enforcement action is being considered or made. It can frustrate investigations, enable asset movement and expose the firm and staff to legal and regulatory consequences.
 
@@ -1326,15 +1326,15 @@ d. Tipping off is improperly alerting a customer or another person that a suspic
 
 ### 83. **[Single choice]** [RES 1B §7.14–7.16] How does a firm assess AML/CFT effectiveness?
 
-a. It tests whether governance, risk assessment, CDD, screening, monitoring, investigation, reporting, record keeping and training actually identify and mitigate risk.
-b. Controls include customer and transaction screening, ongoing monitoring, unusual-activity alerts, risk-based review, approval and escalation, staff access controls, reliable records, independent testing, vendor oversight and management information.
-c. The guide highlights transaction-monitoring attention around the S$20,000 threshold, a 30-day review period for relevant circumstances, a 120-day period for specified follow-up or review situations, STR filing within 15 business days after forming the required suspicion, and retention of records for five years.
-d. Tipping off is improperly alerting a customer or another person that a suspicious transaction report, investigation or law-enforcement action is being considered or made.
+a. The guide highlights transaction-monitoring attention around the S$20,000 threshold, a 30-day review period for relevant circumstances, a 120-day period for specified follow-up or review situations, STR filing within 15 business days after forming the required suspicion, and retention of records for five years.
+b. Tipping off is improperly alerting a customer or another person that a suspicious transaction report, investigation or law-enforcement action is being considered or made.
+c. It tests whether governance, risk assessment, CDD, screening, monitoring, investigation, reporting, record keeping and training actually identify and mitigate risk.
+d. Controls include customer and transaction screening, ongoing monitoring, unusual-activity alerts, risk-based review, approval and escalation, staff access controls, reliable records, independent testing, vendor oversight and management information.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. It tests whether governance, risk assessment, CDD, screening, monitoring, investigation, reporting, record keeping and training actually identify and mitigate risk.
+**Answer:** C. It tests whether governance, risk assessment, CDD, screening, monitoring, investigation, reporting, record keeping and training actually identify and mitigate risk.
 
 **Rationale:** It tests whether governance, risk assessment, CDD, screening, monitoring, investigation, reporting, record keeping and training actually identify and mitigate risk. Use independent audit, thematic reviews, sample testing, quality indicators, root-cause analysis, remediation tracking and senior-management reporting; effectiveness is more than having written policies.
 
@@ -1342,15 +1342,15 @@ d. Tipping off is improperly alerting a customer or another person that a suspic
 
 ### 84. **[Single choice]** [RES 1B Appendix A] What are the three broad fit-and-proper dimensions?
 
-a. Registration identifies an individual authorised to act for a principal in specified regulated activities.
-b. Honesty, integrity and reputation; competence and capability; and financial soundness.
-c. The representative and principal must make the prescribed notifications, including cessation and changes in particulars, within the applicable time periods; the guide highlights seven- and 14-day requirements for different changes.
-d. It must be clear, fair, balanced and not misleading.
+a. The representative and principal must make the prescribed notifications, including cessation and changes in particulars, within the applicable time periods; the guide highlights seven- and 14-day requirements for different changes.
+b. It must be clear, fair, balanced and not misleading.
+c. Registration identifies an individual authorised to act for a principal in specified regulated activities.
+d. Honesty, integrity and reputation; competence and capability; and financial soundness.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. Honesty, integrity and reputation; competence and capability; and financial soundness.
+**Answer:** D. Honesty, integrity and reputation; competence and capability; and financial soundness.
 
 **Rationale:** Honesty, integrity and reputation; competence and capability; and financial soundness. The assessment considers seriousness, relevance, recency, repetition, remediation and the person’s role, not just whether there has been a formal conviction.
 
@@ -1358,15 +1358,15 @@ d. It must be clear, fair, balanced and not misleading.
 
 ### 85. **[Single choice]** [RES 1B Appendix B] What routes can satisfy the CAR knowledge and experience criteria?
 
-a. The guide states that CAR is valid for three years and CKA for one year, subject to the relevant transaction, change-of-circumstance and reassessment rules.
-b. For retail customers trading SIPs, the firm uses a CAR for listed SIPs and a CKA for unlisted SIPs, unless an applicable exemption or alternative rule applies.
-c. The guide highlights an appropriate diploma or professional qualification, six transactions in listed SIPs during the preceding three years, or at least three consecutive years of relevant experience in the preceding ten years, subject to the prescribed evidence and assessment rules.
-d. For a listed SIP, the guide allows a negative CAR outcome to be followed only by the prescribed senior-management approval, written outcome and warnings, customer confirmation and responsibility acknowledgement.
+a. The guide highlights an appropriate diploma or professional qualification, six transactions in listed SIPs during the preceding three years, or at least three consecutive years of relevant experience in the preceding ten years, subject to the prescribed evidence and assessment rules.
+b. For a listed SIP, the guide allows a negative CAR outcome to be followed only by the prescribed senior-management approval, written outcome and warnings, customer confirmation and responsibility acknowledgement.
+c. The guide states that CAR is valid for three years and CKA for one year, subject to the relevant transaction, change-of-circumstance and reassessment rules.
+d. For retail customers trading SIPs, the firm uses a CAR for listed SIPs and a CKA for unlisted SIPs, unless an applicable exemption or alternative rule applies.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. The guide highlights an appropriate diploma or professional qualification, six transactions in listed SIPs during the preceding three years, or at least three consecutive years of relevant experience in the preceding ten years, subject to the prescribed evidence and assessment rules.
+**Answer:** A. The guide highlights an appropriate diploma or professional qualification, six transactions in listed SIPs during the preceding three years, or at least three consecutive years of relevant experience in the preceding ten years, subject to the prescribed evidence and assessment rules.
 
 **Rationale:** The guide highlights an appropriate diploma or professional qualification, six transactions in listed SIPs during the preceding three years, or at least three consecutive years of relevant experience in the preceding ten years, subject to the prescribed evidence and assessment rules.
 
@@ -1374,15 +1374,15 @@ d. For a listed SIP, the guide allows a negative CAR outcome to be followed only
 
 ### 86. **[Single choice]** [RES 1B Appendix C] How does CKA differ from CAR?
 
-a. The firm should establish and verify customer identity, authority, risk profile, account terms, trading permissions, beneficial ownership and relevant declarations.
-b. The classification determines whether additional knowledge or experience safeguards apply.
-c. Customer information must be collected, used, disclosed and retained only for proper purposes and in accordance with the Banking Act secrecy framework, PDPA obligations, applicable Do-Not-Call rules and permitted exceptions.
-d. CKA is directed to unlisted SIPs and uses product-relevant knowledge and experience, including unlisted products, CIS or ILP treatment as applicable.
+a. Customer information must be collected, used, disclosed and retained only for proper purposes and in accordance with the Banking Act secrecy framework, PDPA obligations, applicable Do-Not-Call rules and permitted exceptions.
+b. CKA is directed to unlisted SIPs and uses product-relevant knowledge and experience, including unlisted products, CIS or ILP treatment as applicable.
+c. The firm should establish and verify customer identity, authority, risk profile, account terms, trading permissions, beneficial ownership and relevant declarations.
+d. The classification determines whether additional knowledge or experience safeguards apply.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. CKA is directed to unlisted SIPs and uses product-relevant knowledge and experience, including unlisted products, CIS or ILP treatment as applicable.
+**Answer:** B. CKA is directed to unlisted SIPs and uses product-relevant knowledge and experience, including unlisted products, CIS or ILP treatment as applicable.
 
 **Rationale:** CKA is directed to unlisted SIPs and uses product-relevant knowledge and experience, including unlisted products, CIS or ILP treatment as applicable. CAR is directed to listed SIPs. Both require evidence, a recorded outcome and the firm’s prescribed controls.
 
@@ -1390,15 +1390,15 @@ d. CKA is directed to unlisted SIPs and uses product-relevant knowledge and expe
 
 ### 87. **[Single choice]** [RES 1B Appendix D] What categories of risk appear in the overseas-listed product warning?
 
-a. Regulatory and legal risk, disclosure and information risk, tax and currency risk, transaction and custody costs, counterparty and settlement risk, liquidity and valuation risk, and political, economic and social risk.
-b. The guide highlights contract notes by the next business day and periodic statements, including monthly or quarterly statements where prescribed.
-c. Books and audit trails let the firm reconstruct orders, decisions, communications, approvals, allocations, money movements and compliance reviews.
-d. Customer money is cash received or held for the customer, while customer assets include securities and other property held for or belonging to the customer.
+a. Books and audit trails let the firm reconstruct orders, decisions, communications, approvals, allocations, money movements and compliance reviews.
+b. Customer money is cash received or held for the customer, while customer assets include securities and other property held for or belonging to the customer.
+c. Regulatory and legal risk, disclosure and information risk, tax and currency risk, transaction and custody costs, counterparty and settlement risk, liquidity and valuation risk, and political, economic and social risk.
+d. The guide highlights contract notes by the next business day and periodic statements, including monthly or quarterly statements where prescribed.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Regulatory and legal risk, disclosure and information risk, tax and currency risk, transaction and custody costs, counterparty and settlement risk, liquidity and valuation risk, and political, economic and social risk.
+**Answer:** C. Regulatory and legal risk, disclosure and information risk, tax and currency risk, transaction and custody costs, counterparty and settlement risk, liquidity and valuation risk, and political, economic and social risk.
 
 **Rationale:** Regulatory and legal risk, disclosure and information risk, tax and currency risk, transaction and custody costs, counterparty and settlement risk, liquidity and valuation risk, and political, economic and social risk. The customer should receive and acknowledge the warning where required.
 
@@ -1406,15 +1406,15 @@ d. Customer money is cash received or held for the customer, while customer asse
 
 ### 88. **[Single choice]** [RES 1B Appendix E] What is the practical meaning of an excluded investment product?
 
-a. Deposit or hold them only with permitted institutions or custodians, maintain trust or custody arrangements and accurate ledgers, complete reconciliations, make permitted withdrawals or investments, give required disclosures, and ensure lending, pledging or use of assets is authorised and documented.
-b. It is a product excluded from the relevant simplified treatment or classified outside the EIP category under the applicable regulations.
-c. Conduct outside Singapore can affect Singapore markets, investors or listed products.
-d. It is conduct that creates or maintains a false or misleading appearance of active trading or market activity, or affects the price of a capital-markets product through artificial transactions.
+a. Conduct outside Singapore can affect Singapore markets, investors or listed products.
+b. It is conduct that creates or maintains a false or misleading appearance of active trading or market activity, or affects the price of a capital-markets product through artificial transactions.
+c. Deposit or hold them only with permitted institutions or custodians, maintain trust or custody arrangements and accurate ledgers, complete reconciliations, make permitted withdrawals or investments, give required disclosures, and ensure lending, pledging or use of assets is authorised and documented.
+d. It is a product excluded from the relevant simplified treatment or classified outside the EIP category under the applicable regulations.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. It is a product excluded from the relevant simplified treatment or classified outside the EIP category under the applicable regulations.
+**Answer:** D. It is a product excluded from the relevant simplified treatment or classified outside the EIP category under the applicable regulations.
 
 **Rationale:** It is a product excluded from the relevant simplified treatment or classified outside the EIP category under the applicable regulations. The firm must classify it accurately; if it is a SIP, apply the relevant CAR or CKA process and customer safeguards.
 
@@ -1422,15 +1422,15 @@ d. It is conduct that creates or maintains a false or misleading appearance of a
 
 ### 89. **[Single choice]** [RES 1B Appendix F] Give four categories of suspicious transaction examples.
 
-a. It is conduct intended or likely to create an artificial price, maintain a price at an artificial level, or otherwise manipulate the market for securities.
-b. Deliberately pushing a market price toward known stop orders to trigger them, without legitimate trading purpose and with an intention to create an artificial price or profit from the triggered orders, may amount to manipulation or false trading.
-c. Examples include transactions with no apparent economic purpose, unexplained cash or third-party payments, rapid or complex transfers between jurisdictions, accounts using false or inconsistent identity information, unexplained changes in tax or wealth profile, and activity linked to terrorism, sanctions or high-risk persons.
-d. Investors may trade on the information and the market may be distorted.
+a. Examples include transactions with no apparent economic purpose, unexplained cash or third-party payments, rapid or complex transfers between jurisdictions, accounts using false or inconsistent identity information, unexplained changes in tax or wealth profile, and activity linked to terrorism, sanctions or high-risk persons.
+b. Investors may trade on the information and the market may be distorted.
+c. It is conduct intended or likely to create an artificial price, maintain a price at an artificial level, or otherwise manipulate the market for securities.
+d. Deliberately pushing a market price toward known stop orders to trigger them, without legitimate trading purpose and with an intention to create an artificial price or profit from the triggered orders, may amount to manipulation or false trading.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. Examples include transactions with no apparent economic purpose, unexplained cash or third-party payments, rapid or complex transfers between jurisdictions, accounts using false or inconsistent identity information, unexplained changes in tax or wealth profile, and activity linked to terrorism, sanctions or high-risk persons.
+**Answer:** A. Examples include transactions with no apparent economic purpose, unexplained cash or third-party payments, rapid or complex transfers between jurisdictions, accounts using false or inconsistent identity information, unexplained changes in tax or wealth profile, and activity linked to terrorism, sanctions or high-risk persons.
 
 **Rationale:** Examples include transactions with no apparent economic purpose, unexplained cash or third-party payments, rapid or complex transfers between jurisdictions, accounts using false or inconsistent identity information, unexplained changes in tax or wealth profile, and activity linked to terrorism, sanctions or high-risk persons. A red flag is not proof; it requires risk-based investigation and escalation.
 
@@ -1438,15 +1438,15 @@ d. Investors may trade on the information and the market may be distorted.
 
 ### 90. **[Single choice]** [RES 1B Appendix G–H] How should the review questions and essential readings be used?
 
-a. Obtain the customer’s signed acknowledgement that the prescribed Risk Warning Statement highlighting the key risks has been received.
-b. Changes such as the firm’s name and principal place of business for the licensed activity are prescribed notification matters.
-c. Inability to meet financial obligations is relevant to financial soundness.
-d. The review questions should be attempted after studying each chapter and then used to identify gaps; the essential readings identify the SFA, regulations, PDPA, CDSA, MACMA, TSOFA, tax legislation, MAS notices and SGX rules that underpin the guide.
+a. Inability to meet financial obligations is relevant to financial soundness.
+b. The review questions should be attempted after studying each chapter and then used to identify gaps; the essential readings identify the SFA, regulations, PDPA, CDSA, MACMA, TSOFA, tax legislation, MAS notices and SGX rules that underpin the guide.
+c. Obtain the customer’s signed acknowledgement that the prescribed Risk Warning Statement highlighting the key risks has been received.
+d. Changes such as the firm’s name and principal place of business for the licensed activity are prescribed notification matters.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. The review questions should be attempted after studying each chapter and then used to identify gaps; the essential readings identify the SFA, regulations, PDPA, CDSA, MACMA, TSOFA, tax legislation, MAS notices and SGX rules that underpin the guide.
+**Answer:** B. The review questions should be attempted after studying each chapter and then used to identify gaps; the essential readings identify the SFA, regulations, PDPA, CDSA, MACMA, TSOFA, tax legislation, MAS notices and SGX rules that underpin the guide.
 
 **Rationale:** The review questions should be attempted after studying each chapter and then used to identify gaps; the essential readings identify the SFA, regulations, PDPA, CDSA, MACMA, TSOFA, tax legislation, MAS notices and SGX rules that underpin the guide. They are a navigation and revision tool, not permission to rely on outdated text.
 
@@ -1454,15 +1454,15 @@ d. The review questions should be attempted after studying each chapter and then
 
 ### 91. **[Single choice]** [RES 1B Appendix G, source Q1] Which changes to a CMS licence holder’s records typically require notification to MAS?
 
-a. The source’s 35% limit applies to specified higher-risk CPFIS-OA investment categories such as stocks or shares and corporate bonds, subject to the CPF rules.
-b. Use sound due-diligence and execution policies, execute with appropriate speed, and apply considerations specific to the order type.
-c. Communicate risk disclosures, give customer orders appropriate priority, distinguish whether the firm acts as agent or principal, and maintain professional product and process knowledge.
-d. Changes such as the firm’s name and principal place of business for the licensed activity are prescribed notification matters.
+a. Use sound due-diligence and execution policies, execute with appropriate speed, and apply considerations specific to the order type.
+b. Communicate risk disclosures, give customer orders appropriate priority, distinguish whether the firm acts as agent or principal, and maintain professional product and process knowledge.
+c. Changes such as the firm’s name and principal place of business for the licensed activity are prescribed notification matters.
+d. The source’s 35% limit applies to specified higher-risk CPFIS-OA investment categories such as stocks or shares and corporate bonds, subject to the CPF rules.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. Changes such as the firm’s name and principal place of business for the licensed activity are prescribed notification matters.
+**Answer:** C. Changes such as the firm’s name and principal place of business for the licensed activity are prescribed notification matters.
 
 **Rationale:** Changes such as the firm’s name and principal place of business for the licensed activity are prescribed notification matters. Client-pool contact numbers and back-office arrangements are not a substitute for the prescribed record changes.
 
@@ -1470,15 +1470,15 @@ d. Changes such as the firm’s name and principal place of business for the lic
 
 ### 92. **[Single choice]** [RES 1B Appendix G, source Q2] Which fit-and-proper concern is directly relevant to a representative’s eligibility?
 
-a. Inability to meet financial obligations is relevant to financial soundness.
-b. OCBC Bank is one of the agent banks identified in the source; the guide also discusses DBS and UOB.
-c. No.
-d. The ETF should not be on the SGX-ST watch-list and must comply with CPF Investment Guidelines.
+a. OCBC Bank is one of the agent banks identified in the source; the guide also discusses DBS and UOB.
+b. No.
+c. The ETF should not be on the SGX-ST watch-list and must comply with CPF Investment Guidelines.
+d. Inability to meet financial obligations is relevant to financial soundness.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Inability to meet financial obligations is relevant to financial soundness.
+**Answer:** D. Inability to meet financial obligations is relevant to financial soundness.
 
 **Rationale:** Inability to meet financial obligations is relevant to financial soundness. Fit and propriety also cover honesty, integrity, reputation, competence and capability, including serious or relevant past conduct.
 
@@ -1486,15 +1486,15 @@ d. The ETF should not be on the SGX-ST watch-list and must comply with CPF Inves
 
 ### 93. **[Single choice]** [RES 1B Appendix G, source Q3] What acknowledgement is required before accepting relevant overseas-listed investment-product transactions from a retail investor?
 
-a. A Grant of Probate is the relevant document where there is a will and probate is required; letters of administration or other estate documents may apply in other circumstances.
-b. Obtain the customer’s signed acknowledgement that the prescribed Risk Warning Statement highlighting the key risks has been received.
-c. It most closely illustrates layering because the proceeds are moved through transactions or accounts to make tracing more difficult.
-d. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act is the principal statute highlighted.
+a. Obtain the customer’s signed acknowledgement that the prescribed Risk Warning Statement highlighting the key risks has been received.
+b. It most closely illustrates layering because the proceeds are moved through transactions or accounts to make tracing more difficult.
+c. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act is the principal statute highlighted.
+d. A Grant of Probate is the relevant document where there is a will and probate is required; letters of administration or other estate documents may apply in other circumstances.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. Obtain the customer’s signed acknowledgement that the prescribed Risk Warning Statement highlighting the key risks has been received.
+**Answer:** A. Obtain the customer’s signed acknowledgement that the prescribed Risk Warning Statement highlighting the key risks has been received.
 
 **Rationale:** Obtain the customer’s signed acknowledgement that the prescribed Risk Warning Statement highlighting the key risks has been received. A verbal explanation alone or an undocumented mailing is not the required substitute.
 
@@ -1502,15 +1502,15 @@ d. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Be
 
 ### 94. **[Single choice]** [RES 1B Appendix G, source Q4] What is the purpose of periodic customer statements, and what is not enough to waive them?
 
-a. Identify and verify the customer, understand the source of funds and determine the customer’s business activity or purpose.
-b. The guide highlights at least five years, subject to the applicable notice, investigation, litigation or firm policy requirements.
-c. Statements give customers a regular record of holdings, transactions, balances and charges.
-d. Follow the sanctions process, including immediately preventing or freezing prohibited dealings where required and reporting or escalating to the authorities and compliance.
+a. The guide highlights at least five years, subject to the applicable notice, investigation, litigation or firm policy requirements.
+b. Statements give customers a regular record of holdings, transactions, balances and charges.
+c. Follow the sanctions process, including immediately preventing or freezing prohibited dealings where required and reporting or escalating to the authorities and compliance.
+d. Identify and verify the customer, understand the source of funds and determine the customer’s business activity or purpose.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. Statements give customers a regular record of holdings, transactions, balances and charges.
+**Answer:** B. Statements give customers a regular record of holdings, transactions, balances and charges.
 
 **Rationale:** Statements give customers a regular record of holdings, transactions, balances and charges. A verbal request, no change in the account or information sent separately by CDP does not by itself satisfy the prescribed conditions for not sending a statement; use the applicable written-consent and regulatory process.
 
@@ -1518,15 +1518,15 @@ d. Follow the sanctions process, including immediately preventing or freezing pr
 
 ### 95. **[Single choice]** [RES 1B Appendix G, source Q5] In what general circumstance may a CMS holder advance its own money to a customer trust account?
 
-a. Inability to meet financial obligations is relevant to financial soundness.
-b. The review questions should be attempted after studying each chapter and then used to identify gaps; the essential readings identify the SFA, regulations, PDPA, CDSA, MACMA, TSOFA, tax legislation, MAS notices and SGX rules that underpin the guide.
-c. Changes such as the firm’s name and principal place of business for the licensed activity are prescribed notification matters.
-d. Only for a permitted purpose connected with facilitating positions or transactions in capital-markets products, or another purpose expressly allowed by the rules.
+a. The review questions should be attempted after studying each chapter and then used to identify gaps; the essential readings identify the SFA, regulations, PDPA, CDSA, MACMA, TSOFA, tax legislation, MAS notices and SGX rules that underpin the guide.
+b. Changes such as the firm’s name and principal place of business for the licensed activity are prescribed notification matters.
+c. Only for a permitted purpose connected with facilitating positions or transactions in capital-markets products, or another purpose expressly allowed by the rules.
+d. Inability to meet financial obligations is relevant to financial soundness.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. Only for a permitted purpose connected with facilitating positions or transactions in capital-markets products, or another purpose expressly allowed by the rules.
+**Answer:** C. Only for a permitted purpose connected with facilitating positions or transactions in capital-markets products, or another purpose expressly allowed by the rules.
 
 **Rationale:** Only for a permitted purpose connected with facilitating positions or transactions in capital-markets products, or another purpose expressly allowed by the rules. It must not be an unauthorised way to conceal an under-funded trust account.
 
@@ -1534,15 +1534,15 @@ d. Only for a permitted purpose connected with facilitating positions or transac
 
 ### 96. **[Single choice]** [RES 1B Appendix G, source Q6] Does executing a trade outside Singapore necessarily avoid SFA insider-trading rules?
 
-a. No.
-b. Obtain the customer’s signed acknowledgement that the prescribed Risk Warning Statement highlighting the key risks has been received.
-c. Statements give customers a regular record of holdings, transactions, balances and charges.
-d. Only for a permitted purpose connected with facilitating positions or transactions in capital-markets products, or another purpose expressly allowed by the rules.
+a. Obtain the customer’s signed acknowledgement that the prescribed Risk Warning Statement highlighting the key risks has been received.
+b. Statements give customers a regular record of holdings, transactions, balances and charges.
+c. Only for a permitted purpose connected with facilitating positions or transactions in capital-markets products, or another purpose expressly allowed by the rules.
+d. No.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. No.
+**Answer:** D. No.
 
 **Rationale:** No. The SFA can apply extraterritorially where the required Singapore connection or market effect exists. Use of a foreign broker, foreign venue or foreign currency does not by itself remove the market-conduct obligation.
 
@@ -1550,15 +1550,15 @@ d. Only for a permitted purpose connected with facilitating positions or transac
 
 ### 97. **[Single choice]** [RES 1B Appendix G, source Q7] What are typical channels for circulating false or misleading information?
 
-a. No.
-b. Electronic media, rumours, word-of-mouth “hot tips” and unverified claims can all be used.
-c. The connection may create access to generally unavailable material information, a conflict or an artificial appearance of trading.
-d. Record whether the dealer acts as agent or principal, follow procedures for returning borrowed products, and maintain collateral at the required level—highlighted in the source as 100% of market value for the relevant arrangement.
+a. Electronic media, rumours, word-of-mouth “hot tips” and unverified claims can all be used.
+b. The connection may create access to generally unavailable material information, a conflict or an artificial appearance of trading.
+c. Record whether the dealer acts as agent or principal, follow procedures for returning borrowed products, and maintain collateral at the required level—highlighted in the source as 100% of market value for the relevant arrangement.
+d. No.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. Electronic media, rumours, word-of-mouth “hot tips” and unverified claims can all be used.
+**Answer:** A. Electronic media, rumours, word-of-mouth “hot tips” and unverified claims can all be used.
 
 **Rationale:** Electronic media, rumours, word-of-mouth “hot tips” and unverified claims can all be used. Circulating an accurate audited account is not automatically a false-information technique, though a person can still misrepresent or selectively present it.
 
@@ -1566,15 +1566,15 @@ d. Record whether the dealer acts as agent or principal, follow procedures for r
 
 ### 98. **[Single choice]** [RES 1B Appendix G, source Q8] Why can a transaction between connected persons raise a market-conduct concern?
 
-a. Authority figures are an external influence.
-b. Civil penalties or sanctions and criminal penalties may apply, together with regulatory, disciplinary, financial and reputational consequences. “Restraint sanctions” is not a substitute category to memorise.
-c. The connection may create access to generally unavailable material information, a conflict or an artificial appearance of trading.
-d. It is a self-interest threat.
+a. Civil penalties or sanctions and criminal penalties may apply, together with regulatory, disciplinary, financial and reputational consequences. “Restraint sanctions” is not a substitute category to memorise.
+b. The connection may create access to generally unavailable material information, a conflict or an artificial appearance of trading.
+c. It is a self-interest threat.
+d. Authority figures are an external influence.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. The connection may create access to generally unavailable material information, a conflict or an artificial appearance of trading.
+**Answer:** B. The connection may create access to generally unavailable material information, a conflict or an artificial appearance of trading.
 
 **Rationale:** The connection may create access to generally unavailable material information, a conflict or an artificial appearance of trading. The representative must assess beneficial ownership, information barriers, approvals, disclosure and whether the transaction has a genuine economic purpose.
 
@@ -1582,15 +1582,15 @@ d. It is a self-interest threat.
 
 ### 99. **[Single choice]** [RES 1B Appendix G, source Q9] What securities-lending conditions should a dealer remember?
 
-a. Consider the ethical issues and relevant duties without allowing bias to control the decision, then execute the chosen course and track its progress.
-b. It misrepresents the certainty of performance and may mislead the prospective customer about risk, methodology and track record.
-c. Trading personally ahead of a customer order, receiving undisclosed extra compensation from a company being analysed, using a former employer’s research as one’s own, or engaging in outside activities that impair duties may all require conflict management.
-d. Record whether the dealer acts as agent or principal, follow procedures for returning borrowed products, and maintain collateral at the required level—highlighted in the source as 100% of market value for the relevant arrangement.
+a. It misrepresents the certainty of performance and may mislead the prospective customer about risk, methodology and track record.
+b. Trading personally ahead of a customer order, receiving undisclosed extra compensation from a company being analysed, using a former employer’s research as one’s own, or engaging in outside activities that impair duties may all require conflict management.
+c. Record whether the dealer acts as agent or principal, follow procedures for returning borrowed products, and maintain collateral at the required level—highlighted in the source as 100% of market value for the relevant arrangement.
+d. Consider the ethical issues and relevant duties without allowing bias to control the decision, then execute the chosen course and track its progress.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. Record whether the dealer acts as agent or principal, follow procedures for returning borrowed products, and maintain collateral at the required level—highlighted in the source as 100% of market value for the relevant arrangement.
+**Answer:** C. Record whether the dealer acts as agent or principal, follow procedures for returning borrowed products, and maintain collateral at the required level—highlighted in the source as 100% of market value for the relevant arrangement.
 
 **Rationale:** Record whether the dealer acts as agent or principal, follow procedures for returning borrowed products, and maintain collateral at the required level—highlighted in the source as 100% of market value for the relevant arrangement. The arrangement must also be properly documented and monitored.
 
@@ -1598,15 +1598,15 @@ d. Record whether the dealer acts as agent or principal, follow procedures for r
 
 ### 100. **[Single choice]** [RES 1B Appendix G, source Q10] What consequence categories can follow SFA market misconduct?
 
-a. Civil penalties or sanctions and criminal penalties may apply, together with regulatory, disciplinary, financial and reputational consequences. “Restraint sanctions” is not a substitute category to memorise.
-b. A second appropriately authorised person independently reviews or approves the risk profile or related decision.
-c. The guide’s fact pattern is directed to the accredited investor category, subject to the exact statutory criteria and required verification.
-d. Obtain relevant customer information, including objectives, financial situation, knowledge, experience, constraints and risk profile, before making or executing recommendations that require it.
+a. A second appropriately authorised person independently reviews or approves the risk profile or related decision.
+b. The guide’s fact pattern is directed to the accredited investor category, subject to the exact statutory criteria and required verification.
+c. Obtain relevant customer information, including objectives, financial situation, knowledge, experience, constraints and risk profile, before making or executing recommendations that require it.
+d. Civil penalties or sanctions and criminal penalties may apply, together with regulatory, disciplinary, financial and reputational consequences. “Restraint sanctions” is not a substitute category to memorise.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Civil penalties or sanctions and criminal penalties may apply, together with regulatory, disciplinary, financial and reputational consequences. “Restraint sanctions” is not a substitute category to memorise.
+**Answer:** D. Civil penalties or sanctions and criminal penalties may apply, together with regulatory, disciplinary, financial and reputational consequences. “Restraint sanctions” is not a substitute category to memorise.
 
 **Rationale:** Civil penalties or sanctions and criminal penalties may apply, together with regulatory, disciplinary, financial and reputational consequences. “Restraint sanctions” is not a substitute category to memorise.
 
@@ -1614,15 +1614,15 @@ d. Obtain relevant customer information, including objectives, financial situati
 
 ### 101. **[Single choice]** [RES 1B Appendix G, source Q11] Which is an external influence on ethical judgement: authority figures or moral values?
 
-a. Use sound due-diligence and execution policies, execute with appropriate speed, and apply considerations specific to the order type.
-b. Authority figures are an external influence.
-c. Communicate risk disclosures, give customer orders appropriate priority, distinguish whether the firm acts as agent or principal, and maintain professional product and process knowledge.
-d. The source’s 35% limit applies to specified higher-risk CPFIS-OA investment categories such as stocks or shares and corporate bonds, subject to the CPF rules.
+a. Authority figures are an external influence.
+b. Communicate risk disclosures, give customer orders appropriate priority, distinguish whether the firm acts as agent or principal, and maintain professional product and process knowledge.
+c. The source’s 35% limit applies to specified higher-risk CPFIS-OA investment categories such as stocks or shares and corporate bonds, subject to the CPF rules.
+d. Use sound due-diligence and execution policies, execute with appropriate speed, and apply considerations specific to the order type.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. Authority figures are an external influence.
+**Answer:** A. Authority figures are an external influence.
 
 **Rationale:** Authority figures are an external influence. Moral values are internal; overconfidence and rationalisation are internal psychological or cognitive influences.
 
@@ -1630,15 +1630,15 @@ d. The source’s 35% limit applies to specified higher-risk CPFIS-OA investment
 
 ### 102. **[Single choice]** [RES 1B Appendix G, source Q12] What ethical threat arises when a representative changes a portfolio mainly to protect personal commission income?
 
-a. No.
-b. OCBC Bank is one of the agent banks identified in the source; the guide also discusses DBS and UOB.
-c. It is a self-interest threat.
-d. The ETF should not be on the SGX-ST watch-list and must comply with CPF Investment Guidelines.
+a. OCBC Bank is one of the agent banks identified in the source; the guide also discusses DBS and UOB.
+b. It is a self-interest threat.
+c. The ETF should not be on the SGX-ST watch-list and must comply with CPF Investment Guidelines.
+d. No.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. It is a self-interest threat.
+**Answer:** B. It is a self-interest threat.
 
 **Rationale:** It is a self-interest threat. The representative puts personal financial benefit ahead of the customer’s mandate and must identify, disclose, control or remove the conflict.
 
@@ -1646,15 +1646,15 @@ d. The ETF should not be on the SGX-ST watch-list and must comply with CPF Inves
 
 ### 103. **[Single choice]** [RES 1B Appendix G, source Q13] Why is promising a guaranteed 20% return usually a professional-standards breach?
 
-a. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act is the principal statute highlighted.
-b. A Grant of Probate is the relevant document where there is a will and probate is required; letters of administration or other estate documents may apply in other circumstances.
-c. It most closely illustrates layering because the proceeds are moved through transactions or accounts to make tracing more difficult.
-d. It misrepresents the certainty of performance and may mislead the prospective customer about risk, methodology and track record.
+a. A Grant of Probate is the relevant document where there is a will and probate is required; letters of administration or other estate documents may apply in other circumstances.
+b. It most closely illustrates layering because the proceeds are moved through transactions or accounts to make tracing more difficult.
+c. It misrepresents the certainty of performance and may mislead the prospective customer about risk, methodology and track record.
+d. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act is the principal statute highlighted.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. It misrepresents the certainty of performance and may mislead the prospective customer about risk, methodology and track record.
+**Answer:** C. It misrepresents the certainty of performance and may mislead the prospective customer about risk, methodology and track record.
 
 **Rationale:** It misrepresents the certainty of performance and may mislead the prospective customer about risk, methodology and track record. The conduct is misrepresentation even if the representative has a long history or a popular model.
 
@@ -1662,15 +1662,15 @@ d. It misrepresents the certainty of performance and may mislead the prospective
 
 ### 104. **[Single choice]** [RES 1B Appendix G, source Q14] Give examples of conflicts that should be disclosed or controlled.
 
-a. Trading personally ahead of a customer order, receiving undisclosed extra compensation from a company being analysed, using a former employer’s research as one’s own, or engaging in outside activities that impair duties may all require conflict management.
-b. The guide highlights at least five years, subject to the applicable notice, investigation, litigation or firm policy requirements.
-c. Identify and verify the customer, understand the source of funds and determine the customer’s business activity or purpose.
-d. Follow the sanctions process, including immediately preventing or freezing prohibited dealings where required and reporting or escalating to the authorities and compliance.
+a. The guide highlights at least five years, subject to the applicable notice, investigation, litigation or firm policy requirements.
+b. Identify and verify the customer, understand the source of funds and determine the customer’s business activity or purpose.
+c. Follow the sanctions process, including immediately preventing or freezing prohibited dealings where required and reporting or escalating to the authorities and compliance.
+d. Trading personally ahead of a customer order, receiving undisclosed extra compensation from a company being analysed, using a former employer’s research as one’s own, or engaging in outside activities that impair duties may all require conflict management.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Trading personally ahead of a customer order, receiving undisclosed extra compensation from a company being analysed, using a former employer’s research as one’s own, or engaging in outside activities that impair duties may all require conflict management.
+**Answer:** D. Trading personally ahead of a customer order, receiving undisclosed extra compensation from a company being analysed, using a former employer’s research as one’s own, or engaging in outside activities that impair duties may all require conflict management.
 
 **Rationale:** Trading personally ahead of a customer order, receiving undisclosed extra compensation from a company being analysed, using a former employer’s research as one’s own, or engaging in outside activities that impair duties may all require conflict management. The response depends on the facts and firm policy, but concealment is not acceptable.
 
@@ -1678,15 +1678,15 @@ d. Follow the sanctions process, including immediately preventing or freezing pr
 
 ### 105. **[Single choice]** [RES 1B Appendix G, source Q15] What two actions are central to applying an ethical framework?
 
-a. The review questions should be attempted after studying each chapter and then used to identify gaps; the essential readings identify the SFA, regulations, PDPA, CDSA, MACMA, TSOFA, tax legislation, MAS notices and SGX rules that underpin the guide.
-b. Consider the ethical issues and relevant duties without allowing bias to control the decision, then execute the chosen course and track its progress.
-c. Changes such as the firm’s name and principal place of business for the licensed activity are prescribed notification matters.
-d. Inability to meet financial obligations is relevant to financial soundness.
+a. Consider the ethical issues and relevant duties without allowing bias to control the decision, then execute the chosen course and track its progress.
+b. Changes such as the firm’s name and principal place of business for the licensed activity are prescribed notification matters.
+c. Inability to meet financial obligations is relevant to financial soundness.
+d. The review questions should be attempted after studying each chapter and then used to identify gaps; the essential readings identify the SFA, regulations, PDPA, CDSA, MACMA, TSOFA, tax legislation, MAS notices and SGX rules that underpin the guide.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. Consider the ethical issues and relevant duties without allowing bias to control the decision, then execute the chosen course and track its progress.
+**Answer:** A. Consider the ethical issues and relevant duties without allowing bias to control the decision, then execute the chosen course and track its progress.
 
 **Rationale:** Consider the ethical issues and relevant duties without allowing bias to control the decision, then execute the chosen course and track its progress. Identifying “enemies” is not a substitute for stakeholder and consequence analysis.
 
@@ -1694,15 +1694,15 @@ d. Inability to meet financial obligations is relevant to financial soundness.
 
 ### 106. **[Single choice]** [RES 1B Appendix G, source Q16] What is the four-eyes principle in client risk profiling?
 
-a. Statements give customers a regular record of holdings, transactions, balances and charges.
-b. Obtain the customer’s signed acknowledgement that the prescribed Risk Warning Statement highlighting the key risks has been received.
-c. A second appropriately authorised person independently reviews or approves the risk profile or related decision.
-d. Only for a permitted purpose connected with facilitating positions or transactions in capital-markets products, or another purpose expressly allowed by the rules.
+a. Obtain the customer’s signed acknowledgement that the prescribed Risk Warning Statement highlighting the key risks has been received.
+b. A second appropriately authorised person independently reviews or approves the risk profile or related decision.
+c. Only for a permitted purpose connected with facilitating positions or transactions in capital-markets products, or another purpose expressly allowed by the rules.
+d. Statements give customers a regular record of holdings, transactions, balances and charges.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. A second appropriately authorised person independently reviews or approves the risk profile or related decision.
+**Answer:** B. A second appropriately authorised person independently reviews or approves the risk profile or related decision.
 
 **Rationale:** A second appropriately authorised person independently reviews or approves the risk profile or related decision. It improves objectivity and reduces the chance that sales pressure, bias or a single person’s error determines the customer’s risk classification.
 
@@ -1710,15 +1710,15 @@ d. Only for a permitted purpose connected with facilitating positions or transac
 
 ### 107. **[Single choice]** [RES 1B Appendix G, source Q17] A designated market maker with S$50 million net assets owned by three corporations may meet which investor category?
 
-a. The connection may create access to generally unavailable material information, a conflict or an artificial appearance of trading.
-b. No.
-c. Electronic media, rumours, word-of-mouth “hot tips” and unverified claims can all be used.
-d. The guide’s fact pattern is directed to the accredited investor category, subject to the exact statutory criteria and required verification.
+a. No.
+b. Electronic media, rumours, word-of-mouth “hot tips” and unverified claims can all be used.
+c. The guide’s fact pattern is directed to the accredited investor category, subject to the exact statutory criteria and required verification.
+d. The connection may create access to generally unavailable material information, a conflict or an artificial appearance of trading.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. The guide’s fact pattern is directed to the accredited investor category, subject to the exact statutory criteria and required verification.
+**Answer:** C. The guide’s fact pattern is directed to the accredited investor category, subject to the exact statutory criteria and required verification.
 
 **Rationale:** The guide’s fact pattern is directed to the **accredited investor** category, subject to the exact statutory criteria and required verification. Investor status should never be inferred from a label alone.
 
@@ -1726,15 +1726,15 @@ d. The guide’s fact pattern is directed to the accredited investor category, s
 
 ### 108. **[Single choice]** [RES 1B Appendix G, source Q18] What information must be obtained when establishing a client relationship?
 
-a. Obtain relevant customer information, including objectives, financial situation, knowledge, experience, constraints and risk profile, before making or executing recommendations that require it.
-b. Record whether the dealer acts as agent or principal, follow procedures for returning borrowed products, and maintain collateral at the required level—highlighted in the source as 100% of market value for the relevant arrangement.
-c. Civil penalties or sanctions and criminal penalties may apply, together with regulatory, disciplinary, financial and reputational consequences. “Restraint sanctions” is not a substitute category to memorise.
-d. Authority figures are an external influence.
+a. Record whether the dealer acts as agent or principal, follow procedures for returning borrowed products, and maintain collateral at the required level—highlighted in the source as 100% of market value for the relevant arrangement.
+b. Civil penalties or sanctions and criminal penalties may apply, together with regulatory, disciplinary, financial and reputational consequences. “Restraint sanctions” is not a substitute category to memorise.
+c. Authority figures are an external influence.
+d. Obtain relevant customer information, including objectives, financial situation, knowledge, experience, constraints and risk profile, before making or executing recommendations that require it.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Obtain relevant customer information, including objectives, financial situation, knowledge, experience, constraints and risk profile, before making or executing recommendations that require it.
+**Answer:** D. Obtain relevant customer information, including objectives, financial situation, knowledge, experience, constraints and risk profile, before making or executing recommendations that require it.
 
 **Rationale:** Obtain relevant customer information, including objectives, financial situation, knowledge, experience, constraints and risk profile, before making or executing recommendations that require it. The customer cannot be left with the entire responsibility for suitability.
 
@@ -1742,15 +1742,15 @@ d. Authority figures are an external influence.
 
 ### 109. **[Single choice]** [RES 1B Appendix G, source Q19] Which best-execution practices should a securities dealer apply?
 
-a. It is a self-interest threat.
-b. Use sound due-diligence and execution policies, execute with appropriate speed, and apply considerations specific to the order type.
-c. It misrepresents the certainty of performance and may mislead the prospective customer about risk, methodology and track record.
-d. Trading personally ahead of a customer order, receiving undisclosed extra compensation from a company being analysed, using a former employer’s research as one’s own, or engaging in outside activities that impair duties may all require conflict management.
+a. Use sound due-diligence and execution policies, execute with appropriate speed, and apply considerations specific to the order type.
+b. It misrepresents the certainty of performance and may mislead the prospective customer about risk, methodology and track record.
+c. Trading personally ahead of a customer order, receiving undisclosed extra compensation from a company being analysed, using a former employer’s research as one’s own, or engaging in outside activities that impair duties may all require conflict management.
+d. It is a self-interest threat.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. Use sound due-diligence and execution policies, execute with appropriate speed, and apply considerations specific to the order type.
+**Answer:** A. Use sound due-diligence and execution policies, execute with appropriate speed, and apply considerations specific to the order type.
 
 **Rationale:** Use sound due-diligence and execution policies, execute with appropriate speed, and apply considerations specific to the order type. Best execution is not limited to a customer’s written consent or to one factor such as price.
 
@@ -1758,15 +1758,15 @@ d. Trading personally ahead of a customer order, receiving undisclosed extra com
 
 ### 110. **[Single choice]** [RES 1B Appendix G, source Q20] Name three practices that strengthen the client–representative relationship.
 
-a. A second appropriately authorised person independently reviews or approves the risk profile or related decision.
-b. Consider the ethical issues and relevant duties without allowing bias to control the decision, then execute the chosen course and track its progress.
-c. Communicate risk disclosures, give customer orders appropriate priority, distinguish whether the firm acts as agent or principal, and maintain professional product and process knowledge.
-d. The guide’s fact pattern is directed to the accredited investor category, subject to the exact statutory criteria and required verification.
+a. Consider the ethical issues and relevant duties without allowing bias to control the decision, then execute the chosen course and track its progress.
+b. Communicate risk disclosures, give customer orders appropriate priority, distinguish whether the firm acts as agent or principal, and maintain professional product and process knowledge.
+c. The guide’s fact pattern is directed to the accredited investor category, subject to the exact statutory criteria and required verification.
+d. A second appropriately authorised person independently reviews or approves the risk profile or related decision.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. Communicate risk disclosures, give customer orders appropriate priority, distinguish whether the firm acts as agent or principal, and maintain professional product and process knowledge.
+**Answer:** B. Communicate risk disclosures, give customer orders appropriate priority, distinguish whether the firm acts as agent or principal, and maintain professional product and process knowledge.
 
 **Rationale:** Communicate risk disclosures, give customer orders appropriate priority, distinguish whether the firm acts as agent or principal, and maintain professional product and process knowledge. These practices support informed decisions and trust.
 
@@ -1774,15 +1774,15 @@ d. The guide’s fact pattern is directed to the accredited investor category, s
 
 ### 111. **[Single choice]** [RES 1B Appendix G, source Q21] What type of CPFIS-OA investment is subject to the highlighted 35% limit?
 
-a. Communicate risk disclosures, give customer orders appropriate priority, distinguish whether the firm acts as agent or principal, and maintain professional product and process knowledge.
-b. Obtain relevant customer information, including objectives, financial situation, knowledge, experience, constraints and risk profile, before making or executing recommendations that require it.
-c. Use sound due-diligence and execution policies, execute with appropriate speed, and apply considerations specific to the order type.
-d. The source’s 35% limit applies to specified higher-risk CPFIS-OA investment categories such as stocks or shares and corporate bonds, subject to the CPF rules.
+a. Obtain relevant customer information, including objectives, financial situation, knowledge, experience, constraints and risk profile, before making or executing recommendations that require it.
+b. Use sound due-diligence and execution policies, execute with appropriate speed, and apply considerations specific to the order type.
+c. The source’s 35% limit applies to specified higher-risk CPFIS-OA investment categories such as stocks or shares and corporate bonds, subject to the CPF rules.
+d. Communicate risk disclosures, give customer orders appropriate priority, distinguish whether the firm acts as agent or principal, and maintain professional product and process knowledge.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. The source’s 35% limit applies to specified higher-risk CPFIS-OA investment categories such as stocks or shares and corporate bonds, subject to the CPF rules.
+**Answer:** C. The source’s 35% limit applies to specified higher-risk CPFIS-OA investment categories such as stocks or shares and corporate bonds, subject to the CPF rules.
 
 **Rationale:** The source’s 35% limit applies to specified higher-risk CPFIS-OA investment categories such as stocks or shares and corporate bonds, subject to the CPF rules. It is not a blanket 35% limit on every CPFIS product.
 
@@ -1790,15 +1790,15 @@ d. The source’s 35% limit applies to specified higher-risk CPFIS-OA investment
 
 ### 112. **[Single choice]** [RES 1B Appendix G, source Q22] Name an agent bank included under CPFIS in the source.
 
-a. OCBC Bank is one of the agent banks identified in the source; the guide also discusses DBS and UOB.
-b. The source’s 35% limit applies to specified higher-risk CPFIS-OA investment categories such as stocks or shares and corporate bonds, subject to the CPF rules.
-c. No.
-d. The ETF should not be on the SGX-ST watch-list and must comply with CPF Investment Guidelines.
+a. The source’s 35% limit applies to specified higher-risk CPFIS-OA investment categories such as stocks or shares and corporate bonds, subject to the CPF rules.
+b. No.
+c. The ETF should not be on the SGX-ST watch-list and must comply with CPF Investment Guidelines.
+d. OCBC Bank is one of the agent banks identified in the source; the guide also discusses DBS and UOB.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. OCBC Bank is one of the agent banks identified in the source; the guide also discusses DBS and UOB.
+**Answer:** D. OCBC Bank is one of the agent banks identified in the source; the guide also discusses DBS and UOB.
 
 **Rationale:** OCBC Bank is one of the agent banks identified in the source; the guide also discusses DBS and UOB. Current approved-provider lists should be checked before use.
 
@@ -1806,15 +1806,15 @@ d. The ETF should not be on the SGX-ST watch-list and must comply with CPF Inves
 
 ### 113. **[Single choice]** [RES 1B Appendix G, source Q23] Would a member with S$18,000 in OA and S$20,000 in SA meet the source’s basic CPFIS investment thresholds?
 
-a. A Grant of Probate is the relevant document where there is a will and probate is required; letters of administration or other estate documents may apply in other circumstances.
-b. No.
-c. It most closely illustrates layering because the proceeds are moved through transactions or accounts to make tracing more difficult.
-d. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act is the principal statute highlighted.
+a. No.
+b. It most closely illustrates layering because the proceeds are moved through transactions or accounts to make tracing more difficult.
+c. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act is the principal statute highlighted.
+d. A Grant of Probate is the relevant document where there is a will and probate is required; letters of administration or other estate documents may apply in other circumstances.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. No.
+**Answer:** A. No.
 
 **Rationale:** No. The source highlights minimum balances of S$20,000 in OA and S$40,000 in SA for the relevant eligibility tests; employment status alone is not the decisive issue.
 
@@ -1822,15 +1822,15 @@ d. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Be
 
 ### 114. **[Single choice]** [RES 1B Appendix G, source Q24] What are two important CPFIS ETF inclusion conditions?
 
-a. Identify and verify the customer, understand the source of funds and determine the customer’s business activity or purpose.
-b. The guide highlights at least five years, subject to the applicable notice, investigation, litigation or firm policy requirements.
-c. The ETF should not be on the SGX-ST watch-list and must comply with CPF Investment Guidelines.
-d. Follow the sanctions process, including immediately preventing or freezing prohibited dealings where required and reporting or escalating to the authorities and compliance.
+a. The guide highlights at least five years, subject to the applicable notice, investigation, litigation or firm policy requirements.
+b. The ETF should not be on the SGX-ST watch-list and must comply with CPF Investment Guidelines.
+c. Follow the sanctions process, including immediately preventing or freezing prohibited dealings where required and reporting or escalating to the authorities and compliance.
+d. Identify and verify the customer, understand the source of funds and determine the customer’s business activity or purpose.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. The ETF should not be on the SGX-ST watch-list and must comply with CPF Investment Guidelines.
+**Answer:** B. The ETF should not be on the SGX-ST watch-list and must comply with CPF Investment Guidelines.
 
 **Rationale:** The ETF should not be on the SGX-ST watch-list and must comply with CPF Investment Guidelines. Listing on SGX-ST and Singapore-dollar trading alone do not replace all inclusion criteria.
 
@@ -1838,15 +1838,15 @@ d. Follow the sanctions process, including immediately preventing or freezing pr
 
 ### 115. **[Single choice]** [RES 1B Appendix G, source Q25] Which document generally supports a claim for residual CPFIS investments after a member’s death?
 
-a. Inability to meet financial obligations is relevant to financial soundness.
-b. The review questions should be attempted after studying each chapter and then used to identify gaps; the essential readings identify the SFA, regulations, PDPA, CDSA, MACMA, TSOFA, tax legislation, MAS notices and SGX rules that underpin the guide.
-c. Changes such as the firm’s name and principal place of business for the licensed activity are prescribed notification matters.
-d. A Grant of Probate is the relevant document where there is a will and probate is required; letters of administration or other estate documents may apply in other circumstances.
+a. The review questions should be attempted after studying each chapter and then used to identify gaps; the essential readings identify the SFA, regulations, PDPA, CDSA, MACMA, TSOFA, tax legislation, MAS notices and SGX rules that underpin the guide.
+b. Changes such as the firm’s name and principal place of business for the licensed activity are prescribed notification matters.
+c. A Grant of Probate is the relevant document where there is a will and probate is required; letters of administration or other estate documents may apply in other circumstances.
+d. Inability to meet financial obligations is relevant to financial soundness.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. A Grant of Probate is the relevant document where there is a will and probate is required; letters of administration or other estate documents may apply in other circumstances.
+**Answer:** C. A Grant of Probate is the relevant document where there is a will and probate is required; letters of administration or other estate documents may apply in other circumstances.
 
 **Rationale:** A Grant of Probate is the relevant document where there is a will and probate is required; letters of administration or other estate documents may apply in other circumstances. The representative should refer the claimant to the agent bank and proper estate process.
 
@@ -1854,15 +1854,15 @@ d. A Grant of Probate is the relevant document where there is a will and probate
 
 ### 116. **[Single choice]** [RES 1B Appendix G, source Q26] Reselling luxury goods and depositing the proceeds into multiple accounts illustrates which laundering stage?
 
-a. It most closely illustrates layering because the proceeds are moved through transactions or accounts to make tracing more difficult.
-b. Obtain the customer’s signed acknowledgement that the prescribed Risk Warning Statement highlighting the key risks has been received.
-c. Statements give customers a regular record of holdings, transactions, balances and charges.
-d. Only for a permitted purpose connected with facilitating positions or transactions in capital-markets products, or another purpose expressly allowed by the rules.
+a. Obtain the customer’s signed acknowledgement that the prescribed Risk Warning Statement highlighting the key risks has been received.
+b. Statements give customers a regular record of holdings, transactions, balances and charges.
+c. Only for a permitted purpose connected with facilitating positions or transactions in capital-markets products, or another purpose expressly allowed by the rules.
+d. It most closely illustrates layering because the proceeds are moved through transactions or accounts to make tracing more difficult.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. It most closely illustrates layering because the proceeds are moved through transactions or accounts to make tracing more difficult.
+**Answer:** D. It most closely illustrates layering because the proceeds are moved through transactions or accounts to make tracing more difficult.
 
 **Rationale:** It most closely illustrates layering because the proceeds are moved through transactions or accounts to make tracing more difficult. Placement is the initial entry of proceeds into the financial system; integration is the appearance that laundered proceeds are legitimate wealth.
 
@@ -1870,15 +1870,15 @@ d. Only for a permitted purpose connected with facilitating positions or transac
 
 ### 117. **[Single choice]** [RES 1B Appendix G, source Q27] Which Singapore statute is the principal money-laundering statute highlighted in the review question?
 
-a. No.
-b. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act is the principal statute highlighted.
-c. Electronic media, rumours, word-of-mouth “hot tips” and unverified claims can all be used.
-d. The connection may create access to generally unavailable material information, a conflict or an artificial appearance of trading.
+a. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act is the principal statute highlighted.
+b. Electronic media, rumours, word-of-mouth “hot tips” and unverified claims can all be used.
+c. The connection may create access to generally unavailable material information, a conflict or an artificial appearance of trading.
+d. No.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act is the principal statute highlighted.
+**Answer:** A. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act is the principal statute highlighted.
 
 **Rationale:** The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act is the principal statute highlighted. The SFA, TSOFA and other laws may also be relevant to particular conduct and controls.
 
@@ -1886,15 +1886,15 @@ d. The connection may create access to generally unavailable material informatio
 
 ### 118. **[Single choice]** [RES 1B Appendix G, source Q28] What minimum retention period is highlighted for AML documents?
 
-a. Civil penalties or sanctions and criminal penalties may apply, together with regulatory, disciplinary, financial and reputational consequences. “Restraint sanctions” is not a substitute category to memorise.
-b. Record whether the dealer acts as agent or principal, follow procedures for returning borrowed products, and maintain collateral at the required level—highlighted in the source as 100% of market value for the relevant arrangement.
-c. The guide highlights at least five years, subject to the applicable notice, investigation, litigation or firm policy requirements.
-d. Authority figures are an external influence.
+a. Record whether the dealer acts as agent or principal, follow procedures for returning borrowed products, and maintain collateral at the required level—highlighted in the source as 100% of market value for the relevant arrangement.
+b. The guide highlights at least five years, subject to the applicable notice, investigation, litigation or firm policy requirements.
+c. Authority figures are an external influence.
+d. Civil penalties or sanctions and criminal penalties may apply, together with regulatory, disciplinary, financial and reputational consequences. “Restraint sanctions” is not a substitute category to memorise.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. The guide highlights at least five years, subject to the applicable notice, investigation, litigation or firm policy requirements.
+**Answer:** B. The guide highlights at least five years, subject to the applicable notice, investigation, litigation or firm policy requirements.
 
 **Rationale:** The guide highlights at least five years, subject to the applicable notice, investigation, litigation or firm policy requirements.
 
@@ -1902,15 +1902,15 @@ d. Authority figures are an external influence.
 
 ### 119. **[Single choice]** [RES 1B Appendix G, source Q29] Which information is central to KYC for a new brokerage account?
 
-a. Trading personally ahead of a customer order, receiving undisclosed extra compensation from a company being analysed, using a former employer’s research as one’s own, or engaging in outside activities that impair duties may all require conflict management.
-b. It is a self-interest threat.
-c. It misrepresents the certainty of performance and may mislead the prospective customer about risk, methodology and track record.
-d. Identify and verify the customer, understand the source of funds and determine the customer’s business activity or purpose.
+a. It is a self-interest threat.
+b. It misrepresents the certainty of performance and may mislead the prospective customer about risk, methodology and track record.
+c. Identify and verify the customer, understand the source of funds and determine the customer’s business activity or purpose.
+d. Trading personally ahead of a customer order, receiving undisclosed extra compensation from a company being analysed, using a former employer’s research as one’s own, or engaging in outside activities that impair duties may all require conflict management.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. Identify and verify the customer, understand the source of funds and determine the customer’s business activity or purpose.
+**Answer:** C. Identify and verify the customer, understand the source of funds and determine the customer’s business activity or purpose.
 
 **Rationale:** Identify and verify the customer, understand the source of funds and determine the customer’s business activity or purpose. Marital status is not a general substitute for these AML/KYC requirements.
 
@@ -1918,15 +1918,15 @@ d. Identify and verify the customer, understand the source of funds and determin
 
 ### 120. **[Single choice]** [RES 1B Appendix G, source Q30] What should a representative do after learning that a customer is on a relevant sanctions list?
 
-a. Follow the sanctions process, including immediately preventing or freezing prohibited dealings where required and reporting or escalating to the authorities and compliance.
-b. Consider the ethical issues and relevant duties without allowing bias to control the decision, then execute the chosen course and track its progress.
-c. A second appropriately authorised person independently reviews or approves the risk profile or related decision.
-d. The guide’s fact pattern is directed to the accredited investor category, subject to the exact statutory criteria and required verification.
+a. Consider the ethical issues and relevant duties without allowing bias to control the decision, then execute the chosen course and track its progress.
+b. A second appropriately authorised person independently reviews or approves the risk profile or related decision.
+c. The guide’s fact pattern is directed to the accredited investor category, subject to the exact statutory criteria and required verification.
+d. Follow the sanctions process, including immediately preventing or freezing prohibited dealings where required and reporting or escalating to the authorities and compliance.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Follow the sanctions process, including immediately preventing or freezing prohibited dealings where required and reporting or escalating to the authorities and compliance.
+**Answer:** D. Follow the sanctions process, including immediately preventing or freezing prohibited dealings where required and reporting or escalating to the authorities and compliance.
 
 **Rationale:** Follow the sanctions process, including immediately preventing or freezing prohibited dealings where required and reporting or escalating to the authorities and compliance. Do not delete records, quietly transfer the customer or continue ordinary monitoring as if nothing happened.
 
@@ -1950,15 +1950,15 @@ d. A fund manager rebalances a portfolio using previously issued securities.
 
 ### 122. **[Single choice]** [RES 1B §1.1] Which feature is most characteristic of a secondary market?
 
-a. Investors trade securities that have already been issued.
-b. The issuer receives all sale proceeds from every later trade.
-c. Only new shares may be traded and no investor may exit.
-d. The market exists only before an issuer has raised capital.
+a. The market exists only before an issuer has raised capital.
+b. Investors trade securities that have already been issued.
+c. The issuer receives all sale proceeds from every later trade.
+d. Only new shares may be traded and no investor may exit.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Investors trade securities that have already been issued.
+**Answer:** B. Investors trade securities that have already been issued.
 
 **Rationale:** The secondary market allows investors to trade instruments after the initial capital-raising transaction.
 
@@ -1966,15 +1966,15 @@ d. The market exists only before an issuer has raised capital.
 
 ### 123. **[Single choice]** [RES 1B §1.2] What is a principal reason for using a custodian?
 
-a. To safeguard client assets and support settlement.
-b. To decide whether an issuer satisfies Mainboard admission tests.
-c. To replace MAS as the financial-sector supervisor.
-d. To guarantee that every customer investment makes a profit.
+a. To replace MAS as the financial-sector supervisor.
+b. To guarantee that every customer investment makes a profit.
+c. To safeguard client assets and support settlement.
+d. To decide whether an issuer satisfies Mainboard admission tests.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. To safeguard client assets and support settlement.
+**Answer:** C. To safeguard client assets and support settlement.
 
 **Rationale:** Custodians safeguard client assets and support settlement; they do not replace regulators or guarantee returns.
 
@@ -1982,15 +1982,15 @@ d. To guarantee that every customer investment makes a profit.
 
 ### 124. **[Single choice]** [RES 1B §1.3] Which body is Singapore’s central bank and integrated financial supervisor?
 
-a. The Monetary Authority of Singapore.
-b. The Central Depository.
-c. SGX Securities Trading Limited.
-d. An issue manager appointed by an issuer.
+a. The Central Depository.
+b. SGX Securities Trading Limited.
+c. An issue manager appointed by an issuer.
+d. The Monetary Authority of Singapore.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. The Monetary Authority of Singapore.
+**Answer:** D. The Monetary Authority of Singapore.
 
 **Rationale:** MAS is Singapore’s central bank and integrated financial supervisor.
 
@@ -2037,15 +2037,15 @@ d. A SPAC eliminates dilution, redemption and de-SPAC risks.
 
 ### 127. **[Single choice]** [RES 1B §2.1] Who generally requires a CMS licence to conduct a regulated activity?
 
-a. A corporation, unless an applicable exemption applies.
-b. Every customer who opens a cash account.
-c. Only a foreign issuer listed on SGX-ST.
-d. Only a CDP depositor acting for personal investment.
+a. Only a CDP depositor acting for personal investment.
+b. A corporation, unless an applicable exemption applies.
+c. Every customer who opens a cash account.
+d. Only a foreign issuer listed on SGX-ST.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. A corporation, unless an applicable exemption applies.
+**Answer:** B. A corporation, unless an applicable exemption applies.
 
 **Rationale:** Corporations need a CMS licence for regulated activities unless they fall within an applicable exemption.
 
@@ -2053,15 +2053,15 @@ d. Only a CDP depositor acting for personal investment.
 
 ### 128. **[Single choice]** [RES 1B §2.2] If several base-capital requirements apply to a CMS licence holder, what approach does the guide highlight?
 
-a. Apply the highest applicable requirement.
-b. Apply only the lowest requirement to avoid double counting.
-c. Apply the requirement for an introducing broker in every case.
-d. Ignore exchange requirements because only MAS requirements matter.
+a. Apply the requirement for an introducing broker in every case.
+b. Ignore exchange requirements because only MAS requirements matter.
+c. Apply the highest applicable requirement.
+d. Apply only the lowest requirement to avoid double counting.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Apply the highest applicable requirement.
+**Answer:** C. Apply the highest applicable requirement.
 
 **Rationale:** Where more than one BCR applies, the highest applicable amount is required; an exchange may impose a higher amount.
 
@@ -2069,15 +2069,15 @@ d. Ignore exchange requirements because only MAS requirements matter.
 
 ### 129. **[Single choice]** [RES 1B §2.2] Which staffing arrangement is highlighted for a CMS licence application?
 
-a. At least two full-time representatives for each regulated activity, subject to applicable requirements.
-b. One part-time representative shared by every regulated activity without controls.
-c. No representatives if the firm has a website.
-d. Only overseas representatives with no Singapore office.
+a. One part-time representative shared by every regulated activity without controls.
+b. No representatives if the firm has a website.
+c. Only overseas representatives with no Singapore office.
+d. At least two full-time representatives for each regulated activity, subject to applicable requirements.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. At least two full-time representatives for each regulated activity, subject to applicable requirements.
+**Answer:** D. At least two full-time representatives for each regulated activity, subject to applicable requirements.
 
 **Rationale:** The guide highlights at least two full-time representatives for each regulated activity, subject to applicable requirements.
 
@@ -2124,15 +2124,15 @@ Choose one:
 
 ### 132. **[Single choice]** [RES 1B §2.6] Which practice best supports customer confidentiality?
 
-a. Limit access to staff with a legitimate need and use approved disclosure exceptions.
-b. Share all customer information with every employee to improve efficiency.
-c. Publish customer holdings if the product is traded on an exchange.
-d. Treat verbal requests from any third party as sufficient authority.
+a. Treat verbal requests from any third party as sufficient authority.
+b. Limit access to staff with a legitimate need and use approved disclosure exceptions.
+c. Share all customer information with every employee to improve efficiency.
+d. Publish customer holdings if the product is traded on an exchange.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Limit access to staff with a legitimate need and use approved disclosure exceptions.
+**Answer:** B. Limit access to staff with a legitimate need and use approved disclosure exceptions.
 
 **Rationale:** Customer information should be collected, used, disclosed and retained for proper purposes, with access limited to those who need it.
 
@@ -2140,15 +2140,15 @@ d. Treat verbal requests from any third party as sufficient authority.
 
 ### 133. **[Single choice]** [RES 1B §2.9] Which control is most appropriate for customer money and assets?
 
-a. Segregation, accurate records and regular reconciliations.
-b. Pooling customer assets with the firm’s proprietary assets without records.
-c. Using customer money to fund unrelated firm expenses.
-d. Allowing withdrawals based only on an informal telephone request.
+a. Using customer money to fund unrelated firm expenses.
+b. Allowing withdrawals based only on an informal telephone request.
+c. Segregation, accurate records and regular reconciliations.
+d. Pooling customer assets with the firm’s proprietary assets without records.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Segregation, accurate records and regular reconciliations.
+**Answer:** C. Segregation, accurate records and regular reconciliations.
 
 **Rationale:** Customer money and assets require segregation, permitted custody arrangements, accurate ledgers and reconciliations.
 
@@ -2156,15 +2156,15 @@ d. Allowing withdrawals based only on an informal telephone request.
 
 ### 134. **[Single choice]** [RES 1B §3.1–3.2] What determines whether conduct outside Singapore may still raise SFA market-conduct issues?
 
-a. Its required Singapore connection or effect on Singapore markets, investors or listed products.
-b. Only the currency used to settle the transaction.
-c. Whether the foreign broker is a member of any overseas exchange.
-d. Whether the representative is physically outside Singapore for one day.
+a. Only the currency used to settle the transaction.
+b. Whether the foreign broker is a member of any overseas exchange.
+c. Whether the representative is physically outside Singapore for one day.
+d. Its required Singapore connection or effect on Singapore markets, investors or listed products.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Its required Singapore connection or effect on Singapore markets, investors or listed products.
+**Answer:** D. Its required Singapore connection or effect on Singapore markets, investors or listed products.
 
 **Rationale:** The SFA may apply extraterritorially where the conduct has the required Singapore connection or market impact.
 
@@ -2188,15 +2188,15 @@ d. Transferring securities between two properly documented custody accounts.
 
 ### 136. **[Single choice]** [RES 1B §3.4] What is the central concern in securities-market manipulation?
 
-a. Artificially affecting price or market conditions rather than allowing genuine supply and demand to operate.
-b. Any transaction that produces a customer profit.
-c. Any trade executed through an exchange.
-d. A lawful portfolio rebalance carried out under a mandate.
+a. A lawful portfolio rebalance carried out under a mandate.
+b. Artificially affecting price or market conditions rather than allowing genuine supply and demand to operate.
+c. Any transaction that produces a customer profit.
+d. Any trade executed through an exchange.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Artificially affecting price or market conditions rather than allowing genuine supply and demand to operate.
+**Answer:** B. Artificially affecting price or market conditions rather than allowing genuine supply and demand to operate.
 
 **Rationale:** Manipulation concerns conduct intended or likely to create an artificial price or otherwise distort the market.
 
@@ -2204,15 +2204,15 @@ d. A lawful portfolio rebalance carried out under a mandate.
 
 ### 137. **[Single choice]** [RES 1B §3.5] Why can false or misleading information harm a securities market?
 
-a. Investors may trade on it and the market may be distorted.
-b. It automatically improves price discovery.
-c. It affects only a firm’s internal accounting and never investors.
-d. It is harmless if communicated verbally rather than electronically.
+a. It affects only a firm’s internal accounting and never investors.
+b. It is harmless if communicated verbally rather than electronically.
+c. Investors may trade on it and the market may be distorted.
+d. It automatically improves price discovery.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Investors may trade on it and the market may be distorted.
+**Answer:** C. Investors may trade on it and the market may be distorted.
 
 **Rationale:** False or misleading information can cause investors to trade and can distort prices or market conditions.
 
@@ -2220,15 +2220,15 @@ d. It is harmless if communicated verbally rather than electronically.
 
 ### 138. **[Single choice]** [RES 1B §3.9] Which combination captures the core insider-trading concern?
 
-a. Non-public information that would likely materially affect price or value, together with prohibited dealing or communication.
-b. Any public information used by a professional investor.
-c. A customer order executed through a foreign broker with no material information.
-d. A representative’s use of a published annual report after its release.
+a. Any public information used by a professional investor.
+b. A customer order executed through a foreign broker with no material information.
+c. A representative’s use of a published annual report after its release.
+d. Non-public information that would likely materially affect price or value, together with prohibited dealing or communication.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Non-public information that would likely materially affect price or value, together with prohibited dealing or communication.
+**Answer:** D. Non-public information that would likely materially affect price or value, together with prohibited dealing or communication.
 
 **Rationale:** The core elements are material, non-public information and conduct prohibited by the SFA; statutory exceptions or defences may apply.
 
@@ -2275,15 +2275,15 @@ Choose one:
 
 ### 141. **[Single choice]** [RES 1B §4.1–4.2] Which statement best describes the relationship between law and ethics?
 
-a. Law sets enforceable minimums, while ethics also guides fair, honest and prudent conduct where rules are incomplete.
-b. Ethics is irrelevant whenever conduct is technically legal.
-c. A firm code can authorise conduct prohibited by legislation.
-d. Legal compliance guarantees that every customer outcome is fair.
+a. Legal compliance guarantees that every customer outcome is fair.
+b. Law sets enforceable minimums, while ethics also guides fair, honest and prudent conduct where rules are incomplete.
+c. Ethics is irrelevant whenever conduct is technically legal.
+d. A firm code can authorise conduct prohibited by legislation.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Law sets enforceable minimums, while ethics also guides fair, honest and prudent conduct where rules are incomplete.
+**Answer:** B. Law sets enforceable minimums, while ethics also guides fair, honest and prudent conduct where rules are incomplete.
 
 **Rationale:** Legal compliance is necessary but ethics also asks what is fair, honest, prudent and professionally appropriate.
 
@@ -2291,15 +2291,15 @@ d. Legal compliance guarantees that every customer outcome is fair.
 
 ### 142. **[Single choice]** [RES 1B §4.3] What makes a professional ethical dilemma difficult?
 
-a. It involves competing duties, interests, incentives or values.
-b. It always has one answer that benefits the representative financially.
-c. It can be resolved by ignoring affected stakeholders.
-d. It concerns only technical product features, never conduct.
+a. It can be resolved by ignoring affected stakeholders.
+b. It concerns only technical product features, never conduct.
+c. It involves competing duties, interests, incentives or values.
+d. It always has one answer that benefits the representative financially.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. It involves competing duties, interests, incentives or values.
+**Answer:** C. It involves competing duties, interests, incentives or values.
 
 **Rationale:** Ethical dilemmas involve competing duties, incentives, interests or values and require analysis of stakeholders and consequences.
 
@@ -2307,15 +2307,15 @@ d. It concerns only technical product features, never conduct.
 
 ### 143. **[Single choice]** [RES 1B §4.4] What should a representative do when lacking the knowledge needed to advise on a product?
 
-a. Escalate or decline to act rather than improvise.
-b. Proceed because the customer accepts all responsibility.
-c. Use an unverified internet summary without disclosure.
-d. Describe the product as risk-free until training is completed.
+a. Proceed because the customer accepts all responsibility.
+b. Use an unverified internet summary without disclosure.
+c. Describe the product as risk-free until training is completed.
+d. Escalate or decline to act rather than improvise.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Escalate or decline to act rather than improvise.
+**Answer:** D. Escalate or decline to act rather than improvise.
 
 **Rationale:** Competence and diligence require the representative to obtain reliable knowledge, escalate or decline rather than improvise.
 
@@ -2378,15 +2378,15 @@ d. Avoid recording the decision so it cannot be challenged.
 
 ### 147. **[Single choice]** [RES 1B §5.1–5.2] Which information is most important to establish during client onboarding?
 
-a. Identity, authority, objectives, financial circumstances, experience, risk appetite and expected activity.
-b. Only the customer’s preferred communication colour.
-c. Only the customer’s desired return, without financial information.
-d. The customer’s willingness to sign without explaining fees or risks.
+a. The customer’s willingness to sign without explaining fees or risks.
+b. Identity, authority, objectives, financial circumstances, experience, risk appetite and expected activity.
+c. Only the customer’s preferred communication colour.
+d. Only the customer’s desired return, without financial information.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Identity, authority, objectives, financial circumstances, experience, risk appetite and expected activity.
+**Answer:** B. Identity, authority, objectives, financial circumstances, experience, risk appetite and expected activity.
 
 **Rationale:** Onboarding should establish identity, authority, objectives, financial circumstances, knowledge, experience, constraints and expected activity.
 
@@ -2394,15 +2394,15 @@ d. The customer’s willingness to sign without explaining fees or risks.
 
 ### 148. **[Single choice]** [RES 1B §5.2] Why does investor classification matter?
 
-a. It determines which protections, knowledge safeguards and product processes may apply.
-b. It allows the firm to ignore customer information permanently.
-c. It guarantees that the customer understands every product.
-d. It means a customer may be treated as institutional based only on self-description.
+a. It guarantees that the customer understands every product.
+b. It means a customer may be treated as institutional based only on self-description.
+c. It determines which protections, knowledge safeguards and product processes may apply.
+d. It allows the firm to ignore customer information permanently.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. It determines which protections, knowledge safeguards and product processes may apply.
+**Answer:** C. It determines which protections, knowledge safeguards and product processes may apply.
 
 **Rationale:** Investor classification affects regulatory protections and processes; the firm must verify status and apply the correct rules.
 
@@ -2410,15 +2410,15 @@ d. It means a customer may be treated as institutional based only on self-descri
 
 ### 149. **[Single choice]** [RES 1B §5.3] What makes an investment or trading strategy coherent?
 
-a. It connects objectives and constraints to product selection, size, risks, exit conditions and monitoring.
-b. It consists of unrelated trades selected only by recent price movement.
-c. It omits time horizon and exit conditions to preserve flexibility.
-d. It guarantees a positive return regardless of market conditions.
+a. It consists of unrelated trades selected only by recent price movement.
+b. It omits time horizon and exit conditions to preserve flexibility.
+c. It guarantees a positive return regardless of market conditions.
+d. It connects objectives and constraints to product selection, size, risks, exit conditions and monitoring.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. It connects objectives and constraints to product selection, size, risks, exit conditions and monitoring.
+**Answer:** D. It connects objectives and constraints to product selection, size, risks, exit conditions and monitoring.
 
 **Rationale:** A coherent strategy connects customer objectives and constraints to selection, position size, risk, time horizon, exit and monitoring.
 
@@ -2442,15 +2442,15 @@ d. Maintaining an execution policy and monitoring process.
 
 ### 151. **[Single choice]** [RES 1B §5.5] What is a core purpose of internal controls in securities dealing?
 
-a. Preventing and detecting unauthorised trading, errors, fraud, conflicts and misuse of customer assets.
-b. Removing the need for reconciliations and supervision.
-c. Allowing one person to approve, execute and settle every trade without review.
-d. Ensuring that all customer trades produce the same return.
+a. Ensuring that all customer trades produce the same return.
+b. Preventing and detecting unauthorised trading, errors, fraud, conflicts and misuse of customer assets.
+c. Removing the need for reconciliations and supervision.
+d. Allowing one person to approve, execute and settle every trade without review.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Preventing and detecting unauthorised trading, errors, fraud, conflicts and misuse of customer assets.
+**Answer:** B. Preventing and detecting unauthorised trading, errors, fraud, conflicts and misuse of customer assets.
 
 **Rationale:** Internal controls address unauthorised activity, errors, fraud, conflicts, customer-asset misuse, settlement and reporting failures.
 
@@ -2481,15 +2481,15 @@ Choose one:
 
 ### 153. **[Single choice]** [RES 1B §5.8] Which event illustrates credit risk in securities dealing?
 
-a. The risk that a customer, counterparty, issuer, broker or other obligor fails to perform a payment or delivery obligation.
-b. The risk that a listed security changes colour on a screen.
-c. The risk that every equity market closes temporarily.
-d. The risk that a representative receives too much product training.
+a. The risk that every equity market closes temporarily.
+b. The risk that a representative receives too much product training.
+c. The risk that a customer, counterparty, issuer, broker or other obligor fails to perform a payment or delivery obligation.
+d. The risk that a listed security changes colour on a screen.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. The risk that a customer, counterparty, issuer, broker or other obligor fails to perform a payment or delivery obligation.
+**Answer:** C. The risk that a customer, counterparty, issuer, broker or other obligor fails to perform a payment or delivery obligation.
 
 **Rationale:** Credit risk is the risk of non-performance by a customer, counterparty, issuer, broker or other obligor.
 
@@ -2497,15 +2497,15 @@ d. The risk that a representative receives too much product training.
 
 ### 154. **[Single choice]** [RES 1B §6.1–6.2] Why must CPFIS-OA and CPFIS-SA be distinguished?
 
-a. They are different CPF accounts with different permitted uses and investment conditions.
-b. They are two names for the same cash account with identical rules.
-c. Only SA can ever be used for any investment and OA is never relevant.
-d. The distinction matters only to banks, not CPF members.
+a. They are two names for the same cash account with identical rules.
+b. Only SA can ever be used for any investment and OA is never relevant.
+c. The distinction matters only to banks, not CPF members.
+d. They are different CPF accounts with different permitted uses and investment conditions.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. They are different CPF accounts with different permitted uses and investment conditions.
+**Answer:** D. They are different CPF accounts with different permitted uses and investment conditions.
 
 **Rationale:** CPFIS-OA and CPFIS-SA are distinct accounts and the applicable balance, product and withdrawal rules differ.
 
@@ -2529,15 +2529,15 @@ d. It replaces all eligibility and learning checks.
 
 ### 156. **[Single choice]** [RES 1B §6.4–6.5] Which step should occur before a new CPFIS investor invests?
 
-a. Confirm eligibility and complete the required learning or self-awareness requirements.
-b. Permit any product immediately if the member signs a blank form.
-c. Ignore the member’s CPF balances because CPFIS is unrestricted.
-d. Treat a product name as proof that it is included in CPFIS.
+a. Treat a product name as proof that it is included in CPFIS.
+b. Confirm eligibility and complete the required learning or self-awareness requirements.
+c. Permit any product immediately if the member signs a blank form.
+d. Ignore the member’s CPF balances because CPFIS is unrestricted.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Confirm eligibility and complete the required learning or self-awareness requirements.
+**Answer:** B. Confirm eligibility and complete the required learning or self-awareness requirements.
 
 **Rationale:** Eligibility and learning requirements apply before a member invests, and product inclusion must be checked.
 
@@ -2545,15 +2545,15 @@ d. Treat a product name as proof that it is included in CPFIS.
 
 ### 157. **[Single choice]** [RES 1B §6.6] Which sequence best reflects a CPFIS transaction process?
 
-a. Check eligibility and product inclusion, place the order through the approved process, settle through the relevant provider and maintain records.
-b. Buy first and check eligibility only after selling.
-c. Send CPF funds to any overseas account without an agent bank.
-d. Treat every CPFIS holding as a personal cash withdrawal.
+a. Send CPF funds to any overseas account without an agent bank.
+b. Treat every CPFIS holding as a personal cash withdrawal.
+c. Check eligibility and product inclusion, place the order through the approved process, settle through the relevant provider and maintain records.
+d. Buy first and check eligibility only after selling.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Check eligibility and product inclusion, place the order through the approved process, settle through the relevant provider and maintain records.
+**Answer:** C. Check eligibility and product inclusion, place the order through the approved process, settle through the relevant provider and maintain records.
 
 **Rationale:** The purchase and sale process depends on eligibility, included products, approved providers, settlement and record controls.
 
@@ -2584,15 +2584,15 @@ Choose one:
 
 ### 159. **[Single choice]** [RES 1B §6.12–6.14] What is the appropriate general response when CPFIS holdings remain after a member’s death?
 
-a. Follow the agent bank and proper estate process, using the relevant probate or administration documents.
-b. Transfer the holdings immediately to any person who presents an identity card.
-c. Treat the holdings as abandoned firm property.
-d. Allow the representative to decide the beneficiary without estate documentation.
+a. Transfer the holdings immediately to any person who presents an identity card.
+b. Treat the holdings as abandoned firm property.
+c. Allow the representative to decide the beneficiary without estate documentation.
+d. Follow the agent bank and proper estate process, using the relevant probate or administration documents.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Follow the agent bank and proper estate process, using the relevant probate or administration documents.
+**Answer:** D. Follow the agent bank and proper estate process, using the relevant probate or administration documents.
 
 **Rationale:** Death-related claims should follow the agent bank and estate process; documents such as probate or letters of administration may be relevant.
 
@@ -2632,15 +2632,15 @@ d. Both activities are defined only by the size of the transaction.
 
 ### 162. **[Single choice]** [RES 1B §7.2–7.4] What is the central purpose of AML/CFT controls?
 
-a. To identify, assess and mitigate financial-crime risks and prevent misuse of the financial system.
-b. To guarantee that no customer will ever commit a crime.
-c. To replace all ordinary customer-service controls.
-d. To report every customer transaction automatically as suspicious.
+a. To report every customer transaction automatically as suspicious.
+b. To identify, assess and mitigate financial-crime risks and prevent misuse of the financial system.
+c. To guarantee that no customer will ever commit a crime.
+d. To replace all ordinary customer-service controls.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. To identify, assess and mitigate financial-crime risks and prevent misuse of the financial system.
+**Answer:** B. To identify, assess and mitigate financial-crime risks and prevent misuse of the financial system.
 
 **Rationale:** AML/CFT controls are risk-based measures to identify, assess and mitigate misuse of the financial system.
 
@@ -2648,15 +2648,15 @@ d. To report every customer transaction automatically as suspicious.
 
 ### 163. **[Single choice]** [RES 1B §7.5] What is the practical effect of a targeted financial sanction?
 
-a. It may require prohibited dealings to be prevented or assets to be frozen and the matter escalated or reported.
-b. It permits staff to continue the transaction if the customer promises secrecy.
-c. It applies only to transactions below a reporting threshold.
-d. It replaces the need to identify beneficial owners.
+a. It applies only to transactions below a reporting threshold.
+b. It replaces the need to identify beneficial owners.
+c. It may require prohibited dealings to be prevented or assets to be frozen and the matter escalated or reported.
+d. It permits staff to continue the transaction if the customer promises secrecy.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. It may require prohibited dealings to be prevented or assets to be frozen and the matter escalated or reported.
+**Answer:** C. It may require prohibited dealings to be prevented or assets to be frozen and the matter escalated or reported.
 
 **Rationale:** Sanctions controls may require preventing or freezing prohibited dealings and following reporting and escalation procedures.
 
@@ -2664,15 +2664,15 @@ d. It replaces the need to identify beneficial owners.
 
 ### 164. **[Single choice]** [RES 1B §7.7–7.8] What is the purpose of the three lines of defence?
 
-a. To allocate risk ownership, control oversight and independent assurance across the organisation.
-b. To make compliance solely responsible for every first-line business decision.
-c. To eliminate senior-management accountability.
-d. To divide customers into three investment-risk categories.
+a. To make compliance solely responsible for every first-line business decision.
+b. To eliminate senior-management accountability.
+c. To divide customers into three investment-risk categories.
+d. To allocate risk ownership, control oversight and independent assurance across the organisation.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. To allocate risk ownership, control oversight and independent assurance across the organisation.
+**Answer:** D. To allocate risk ownership, control oversight and independent assurance across the organisation.
 
 **Rationale:** The three lines clarify business ownership, control functions and independent assurance for risk management.
 
@@ -2719,15 +2719,15 @@ Choose one:
 
 ### 167. **[Single choice]** [RES 1B §7.13] What should a firm do when it forms a suspicion that a transaction may involve criminal property?
 
-a. Follow the prescribed STR escalation and filing process, keep the required records and avoid tipping off.
-b. Tell the customer immediately that an STR has been filed.
-c. Delete the customer file after reporting to reduce confidentiality risk.
-d. Wait until the customer completes another transaction before escalating.
+a. Wait until the customer completes another transaction before escalating.
+b. Follow the prescribed STR escalation and filing process, keep the required records and avoid tipping off.
+c. Tell the customer immediately that an STR has been filed.
+d. Delete the customer file after reporting to reduce confidentiality risk.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Follow the prescribed STR escalation and filing process, keep the required records and avoid tipping off.
+**Answer:** B. Follow the prescribed STR escalation and filing process, keep the required records and avoid tipping off.
 
 **Rationale:** The firm should follow the prescribed reporting process, retain evidence and avoid disclosing the suspicion or report in a way that constitutes tipping off.
 
@@ -2735,15 +2735,15 @@ d. Wait until the customer completes another transaction before escalating.
 
 ### 168. **[Single choice]** [RES 1B Appendix H] Which source should supplement the RES 1B review questions when preparing for the examination?
 
-a. As an exam-scope and integration aid after studying the substantive material, not as a complete substitute for the guide or current rules.
-b. As the only material needed because the source guarantees they cover every tested topic.
-c. As permission to ignore current legislation and notices.
-d. As a list of guaranteed examination questions to memorise verbatim.
+a. As permission to ignore current legislation and notices.
+b. As a list of guaranteed examination questions to memorise verbatim.
+c. As an exam-scope and integration aid after studying the substantive material, not as a complete substitute for the guide or current rules.
+d. As the only material needed because the source guarantees they cover every tested topic.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. As an exam-scope and integration aid after studying the substantive material, not as a complete substitute for the guide or current rules.
+**Answer:** C. As an exam-scope and integration aid after studying the substantive material, not as a complete substitute for the guide or current rules.
 
 **Rationale:** The source says review questions familiarise candidates with scope and format and do not cover all examination material; essential readings locate primary sources.
 
@@ -2751,15 +2751,15 @@ d. As a list of guaranteed examination questions to memorise verbatim.
 
 ### 169. **[Single choice]** [RES 1B Appendix D] What is the purpose of the overseas-listed product risk warning?
 
-a. To communicate risks such as regulatory, legal, information, settlement, tax, currency, cost, custody, liquidity and political risks.
-b. To promise that an overseas product is subject to identical Singapore protections.
-c. To replace all product-specific due diligence and suitability work.
-d. To confirm that foreign exchange movements cannot affect returns.
+a. To promise that an overseas product is subject to identical Singapore protections.
+b. To replace all product-specific due diligence and suitability work.
+c. To confirm that foreign exchange movements cannot affect returns.
+d. To communicate risks such as regulatory, legal, information, settlement, tax, currency, cost, custody, liquidity and political risks.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. To communicate risks such as regulatory, legal, information, settlement, tax, currency, cost, custody, liquidity and political risks.
+**Answer:** D. To communicate risks such as regulatory, legal, information, settlement, tax, currency, cost, custody, liquidity and political risks.
 
 **Rationale:** The warning highlights the additional legal, regulatory, information, settlement, tax, currency, custody, liquidity and political risks of overseas products.
 
@@ -2785,15 +2785,15 @@ d. As permission to ignore transactions that fall outside the examples.
 
 ### 171. **[Single choice]** [RES 2B §1.1] What are the main categories of derivatives described in the guide?
 
-a. Derivatives include futures, options, swaps, forwards and other contracts whose value derives from an underlying such as securities, rates, currencies, commodities or indices.
-b. A dealer executes or makes markets and may act as agent or principal; a fund manager uses derivatives for investment or hedging; a bank may provide financing, custody, clearing or dealing; and a remote member accesses a venue from another jurisdiction subject to membership and regulatory arrangements.
-c. They represent trading, clearing, depository or clearing infrastructure for different products and markets.
-d. They come from the SFA and subsidiary legislation, MAS notices and guidelines, SGX and clearing-house rules, the relevant exchange or OTC documentation, and firm policies and procedures.
+a. They come from the SFA and subsidiary legislation, MAS notices and guidelines, SGX and clearing-house rules, the relevant exchange or OTC documentation, and firm policies and procedures.
+b. Derivatives include futures, options, swaps, forwards and other contracts whose value derives from an underlying such as securities, rates, currencies, commodities or indices.
+c. A dealer executes or makes markets and may act as agent or principal; a fund manager uses derivatives for investment or hedging; a bank may provide financing, custody, clearing or dealing; and a remote member accesses a venue from another jurisdiction subject to membership and regulatory arrangements.
+d. They represent trading, clearing, depository or clearing infrastructure for different products and markets.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Derivatives include futures, options, swaps, forwards and other contracts whose value derives from an underlying such as securities, rates, currencies, commodities or indices.
+**Answer:** B. Derivatives include futures, options, swaps, forwards and other contracts whose value derives from an underlying such as securities, rates, currencies, commodities or indices.
 
 **Rationale:** Derivatives include futures, options, swaps, forwards and other contracts whose value derives from an underlying such as securities, rates, currencies, commodities or indices. They may be exchange-traded and standardised or OTC and negotiated.
 
@@ -2801,15 +2801,15 @@ d. They come from the SFA and subsidiary legislation, MAS notices and guidelines
 
 ### 172. **[Single choice]** [RES 2B §1.1–1.2] Why do exchange-traded and OTC derivatives require different control emphases?
 
-a. Derivatives include futures, options, swaps, forwards and other contracts whose value derives from an underlying such as securities, rates, currencies, commodities or indices.
-b. Exchange-traded contracts use standard terms, organised trading, margining and clearing, while OTC contracts allow bespoke terms and may create greater bilateral counterparty, valuation, documentation and collateral risks.
-c. A dealer executes or makes markets and may act as agent or principal; a fund manager uses derivatives for investment or hedging; a bank may provide financing, custody, clearing or dealing; and a remote member accesses a venue from another jurisdiction subject to membership and regulatory arrangements.
-d. They represent trading, clearing, depository or clearing infrastructure for different products and markets.
+a. They represent trading, clearing, depository or clearing infrastructure for different products and markets.
+b. Derivatives include futures, options, swaps, forwards and other contracts whose value derives from an underlying such as securities, rates, currencies, commodities or indices.
+c. Exchange-traded contracts use standard terms, organised trading, margining and clearing, while OTC contracts allow bespoke terms and may create greater bilateral counterparty, valuation, documentation and collateral risks.
+d. A dealer executes or makes markets and may act as agent or principal; a fund manager uses derivatives for investment or hedging; a bank may provide financing, custody, clearing or dealing; and a remote member accesses a venue from another jurisdiction subject to membership and regulatory arrangements.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. Exchange-traded contracts use standard terms, organised trading, margining and clearing, while OTC contracts allow bespoke terms and may create greater bilateral counterparty, valuation, documentation and collateral risks.
+**Answer:** C. Exchange-traded contracts use standard terms, organised trading, margining and clearing, while OTC contracts allow bespoke terms and may create greater bilateral counterparty, valuation, documentation and collateral risks.
 
 **Rationale:** Exchange-traded contracts use standard terms, organised trading, margining and clearing, while OTC contracts allow bespoke terms and may create greater bilateral counterparty, valuation, documentation and collateral risks. The firm must understand the product, venue, settlement and counterparty structure.
 
@@ -2817,15 +2817,15 @@ d. They represent trading, clearing, depository or clearing infrastructure for d
 
 ### 173. **[Single choice]** [RES 2B §1.2] What roles do a derivatives dealer, fund manager, bank and remote member play?
 
-a. Derivatives include futures, options, swaps, forwards and other contracts whose value derives from an underlying such as securities, rates, currencies, commodities or indices.
-b. They come from the SFA and subsidiary legislation, MAS notices and guidelines, SGX and clearing-house rules, the relevant exchange or OTC documentation, and firm policies and procedures.
-c. A dealer executes or makes markets and may act as agent or principal; a fund manager uses derivatives for investment or hedging; a bank may provide financing, custody, clearing or dealing; and a remote member accesses a venue from another jurisdiction subject to membership and regulatory arrangements.
-d. Exchange-traded contracts use standard terms, organised trading, margining and clearing, while OTC contracts allow bespoke terms and may create greater bilateral counterparty, valuation, documentation and collateral risks.
+a. Exchange-traded contracts use standard terms, organised trading, margining and clearing, while OTC contracts allow bespoke terms and may create greater bilateral counterparty, valuation, documentation and collateral risks.
+b. Derivatives include futures, options, swaps, forwards and other contracts whose value derives from an underlying such as securities, rates, currencies, commodities or indices.
+c. They come from the SFA and subsidiary legislation, MAS notices and guidelines, SGX and clearing-house rules, the relevant exchange or OTC documentation, and firm policies and procedures.
+d. A dealer executes or makes markets and may act as agent or principal; a fund manager uses derivatives for investment or hedging; a bank may provide financing, custody, clearing or dealing; and a remote member accesses a venue from another jurisdiction subject to membership and regulatory arrangements.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. A dealer executes or makes markets and may act as agent or principal; a fund manager uses derivatives for investment or hedging; a bank may provide financing, custody, clearing or dealing; and a remote member accesses a venue from another jurisdiction subject to membership and regulatory arrangements.
+**Answer:** D. A dealer executes or makes markets and may act as agent or principal; a fund manager uses derivatives for investment or hedging; a bank may provide financing, custody, clearing or dealing; and a remote member accesses a venue from another jurisdiction subject to membership and regulatory arrangements.
 
 **Rationale:** A dealer executes or makes markets and may act as agent or principal; a fund manager uses derivatives for investment or hedging; a bank may provide financing, custody, clearing or dealing; and a remote member accesses a venue from another jurisdiction subject to membership and regulatory arrangements. Each role has distinct risks and permissions.
 
@@ -2833,15 +2833,15 @@ d. Exchange-traded contracts use standard terms, organised trading, margining an
 
 ### 174. **[Single choice]** [RES 2B §1.3] Identify the significance of SGX-DT, SGX-DC, CDP, ICE Clear Singapore and APEX Clear.
 
-a. Derivatives include futures, options, swaps, forwards and other contracts whose value derives from an underlying such as securities, rates, currencies, commodities or indices.
-b. A dealer executes or makes markets and may act as agent or principal; a fund manager uses derivatives for investment or hedging; a bank may provide financing, custody, clearing or dealing; and a remote member accesses a venue from another jurisdiction subject to membership and regulatory arrangements.
-c. They come from the SFA and subsidiary legislation, MAS notices and guidelines, SGX and clearing-house rules, the relevant exchange or OTC documentation, and firm policies and procedures.
-d. They represent trading, clearing, depository or clearing infrastructure for different products and markets.
+a. They represent trading, clearing, depository or clearing infrastructure for different products and markets.
+b. Derivatives include futures, options, swaps, forwards and other contracts whose value derives from an underlying such as securities, rates, currencies, commodities or indices.
+c. A dealer executes or makes markets and may act as agent or principal; a fund manager uses derivatives for investment or hedging; a bank may provide financing, custody, clearing or dealing; and a remote member accesses a venue from another jurisdiction subject to membership and regulatory arrangements.
+d. They come from the SFA and subsidiary legislation, MAS notices and guidelines, SGX and clearing-house rules, the relevant exchange or OTC documentation, and firm policies and procedures.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. They represent trading, clearing, depository or clearing infrastructure for different products and markets.
+**Answer:** A. They represent trading, clearing, depository or clearing infrastructure for different products and markets.
 
 **Rationale:** They represent trading, clearing, depository or clearing infrastructure for different products and markets. A representative must know whether a contract is traded, cleared, margined and settled through SGX or another venue, because the applicable rulebook, default-management process and customer-asset arrangements differ.
 
@@ -2849,15 +2849,15 @@ d. They represent trading, clearing, depository or clearing infrastructure for d
 
 ### 175. **[Single choice]** [RES 2B §1.3] Where do the rules for derivatives dealing come from?
 
-a. They come from the SFA and subsidiary legislation, MAS notices and guidelines, SGX and clearing-house rules, the relevant exchange or OTC documentation, and firm policies and procedures.
-b. Exchange-traded contracts use standard terms, organised trading, margining and clearing, while OTC contracts allow bespoke terms and may create greater bilateral counterparty, valuation, documentation and collateral risks.
-c. A dealer executes or makes markets and may act as agent or principal; a fund manager uses derivatives for investment or hedging; a bank may provide financing, custody, clearing or dealing; and a remote member accesses a venue from another jurisdiction subject to membership and regulatory arrangements.
-d. They represent trading, clearing, depository or clearing infrastructure for different products and markets.
+a. They represent trading, clearing, depository or clearing infrastructure for different products and markets.
+b. They come from the SFA and subsidiary legislation, MAS notices and guidelines, SGX and clearing-house rules, the relevant exchange or OTC documentation, and firm policies and procedures.
+c. Exchange-traded contracts use standard terms, organised trading, margining and clearing, while OTC contracts allow bespoke terms and may create greater bilateral counterparty, valuation, documentation and collateral risks.
+d. A dealer executes or makes markets and may act as agent or principal; a fund manager uses derivatives for investment or hedging; a bank may provide financing, custody, clearing or dealing; and a remote member accesses a venue from another jurisdiction subject to membership and regulatory arrangements.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. They come from the SFA and subsidiary legislation, MAS notices and guidelines, SGX and clearing-house rules, the relevant exchange or OTC documentation, and firm policies and procedures.
+**Answer:** B. They come from the SFA and subsidiary legislation, MAS notices and guidelines, SGX and clearing-house rules, the relevant exchange or OTC documentation, and firm policies and procedures.
 
 **Rationale:** They come from the SFA and subsidiary legislation, MAS notices and guidelines, SGX and clearing-house rules, the relevant exchange or OTC documentation, and firm policies and procedures. Contractual documents such as an ISDA Master Agreement and collateral annex may also govern the relationship.
 
@@ -2929,15 +2929,15 @@ d. It provides a standard warning about the risks of trading futures, options an
 
 ### 180. **[Single choice]** [RES 2B §2.5] What confidentiality rules apply to derivatives customers?
 
-a. For exchange-traded derivatives, the guide highlights S$5 million for a clearing member, S$1 million for a trading member or non-member, S$500,000 for an introducing broker and S$50,000 for other categories.
-b. Protect identity, positions, orders, collateral, financial information, counterparties and proprietary trading information.
-c. The guide lists S$1 million for a specified-commodity-futures clearing member, S$500,000 for a non-clearing or non-member category, and S$250,000 for an introducing broker or restricted category.
-d. The representative must be registered for the correct activity, meet competency and fit-and-proper standards, act for the proper principal, complete required training and CPD, and be supervised.
+a. Protect identity, positions, orders, collateral, financial information, counterparties and proprietary trading information.
+b. The guide lists S$1 million for a specified-commodity-futures clearing member, S$500,000 for a non-clearing or non-member category, and S$250,000 for an introducing broker or restricted category.
+c. The representative must be registered for the correct activity, meet competency and fit-and-proper standards, act for the proper principal, complete required training and CPD, and be supervised.
+d. For exchange-traded derivatives, the guide highlights S$5 million for a clearing member, S$1 million for a trading member or non-member, S$500,000 for an introducing broker and S$50,000 for other categories.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. Protect identity, positions, orders, collateral, financial information, counterparties and proprietary trading information.
+**Answer:** A. Protect identity, positions, orders, collateral, financial information, counterparties and proprietary trading information.
 
 **Rationale:** Protect identity, positions, orders, collateral, financial information, counterparties and proprietary trading information. Disclosure requires a proper legal, regulatory, contractual or customer-authorised basis, and access should be limited and monitored.
 
@@ -2945,15 +2945,15 @@ d. The representative must be registered for the correct activity, meet competen
 
 ### 181. **[Single choice]** [RES 2B §2.6] What should be established before opening and managing a derivatives account?
 
-a. Protect identity, positions, orders, collateral, financial information, counterparties and proprietary trading information.
-b. It must not understate leverage, margin calls, losses, complexity, liquidity, valuation or counterparty risks.
-c. Establish identity, legal capacity, beneficial ownership, authority, objectives, knowledge, experience, financial resources, risk tolerance, margin capacity, product permissions, trading limits and liquidation terms.
-d. Derivatives create leveraged exposure, so a small underlying-price movement can produce a large gain or loss and a customer may have to post additional funds quickly.
+a. It must not understate leverage, margin calls, losses, complexity, liquidity, valuation or counterparty risks.
+b. Establish identity, legal capacity, beneficial ownership, authority, objectives, knowledge, experience, financial resources, risk tolerance, margin capacity, product permissions, trading limits and liquidation terms.
+c. Derivatives create leveraged exposure, so a small underlying-price movement can produce a large gain or loss and a customer may have to post additional funds quickly.
+d. Protect identity, positions, orders, collateral, financial information, counterparties and proprietary trading information.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. Establish identity, legal capacity, beneficial ownership, authority, objectives, knowledge, experience, financial resources, risk tolerance, margin capacity, product permissions, trading limits and liquidation terms.
+**Answer:** B. Establish identity, legal capacity, beneficial ownership, authority, objectives, knowledge, experience, financial resources, risk tolerance, margin capacity, product permissions, trading limits and liquidation terms.
 
 **Rationale:** Establish identity, legal capacity, beneficial ownership, authority, objectives, knowledge, experience, financial resources, risk tolerance, margin capacity, product permissions, trading limits and liquidation terms. Explain the account agreement, risk disclosure, margin calls, close-out, fees and the firm’s right to act when obligations are not met.
 
@@ -2961,15 +2961,15 @@ d. Derivatives create leveraged exposure, so a small underlying-price movement c
 
 ### 182. **[Single choice]** [RES 2B §2.6] Why are margin and liquidation terms central to customer protection?
 
-a. It records prescribed interests held by relevant officers, employees or connected persons in listed specified products so conflicts and personal dealing can be monitored.
-b. It should reconstruct customer instructions, quotes, orders, amendments, cancellations, execution, allocation, confirmations, margin calls, collateral, valuations, communications, approvals and settlement.
-c. Daily computation, including the guide’s reference to completion before noon, helps determine whether the firm holds enough resources and has correctly accounted for customer obligations.
-d. Derivatives create leveraged exposure, so a small underlying-price movement can produce a large gain or loss and a customer may have to post additional funds quickly.
+a. It should reconstruct customer instructions, quotes, orders, amendments, cancellations, execution, allocation, confirmations, margin calls, collateral, valuations, communications, approvals and settlement.
+b. Daily computation, including the guide’s reference to completion before noon, helps determine whether the firm holds enough resources and has correctly accounted for customer obligations.
+c. Derivatives create leveraged exposure, so a small underlying-price movement can produce a large gain or loss and a customer may have to post additional funds quickly.
+d. It records prescribed interests held by relevant officers, employees or connected persons in listed specified products so conflicts and personal dealing can be monitored.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. Derivatives create leveraged exposure, so a small underlying-price movement can produce a large gain or loss and a customer may have to post additional funds quickly.
+**Answer:** C. Derivatives create leveraged exposure, so a small underlying-price movement can produce a large gain or loss and a customer may have to post additional funds quickly.
 
 **Rationale:** Derivatives create leveraged exposure, so a small underlying-price movement can produce a large gain or loss and a customer may have to post additional funds quickly. Clear margin, top-up, close-out, valuation and deficit provisions reduce disputes and prevent a customer from trading without understanding the financial consequences.
 
@@ -2993,15 +2993,15 @@ d. The guide lists S$1 million for a specified-commodity-futures clearing member
 
 ### 184. **[Single choice]** [RES 2B §2.8] What is the purpose of daily computation and customer-money controls?
 
-a. The representative must be registered for the correct activity, meet competency and fit-and-proper standards, act for the proper principal, complete required training and CPD, and be supervised.
-b. Daily computation, including the guide’s reference to completion before noon, helps determine whether the firm holds enough resources and has correctly accounted for customer obligations.
-c. It must not understate leverage, margin calls, losses, complexity, liquidity, valuation or counterparty risks.
-d. Protect identity, positions, orders, collateral, financial information, counterparties and proprietary trading information.
+a. It must not understate leverage, margin calls, losses, complexity, liquidity, valuation or counterparty risks.
+b. Protect identity, positions, orders, collateral, financial information, counterparties and proprietary trading information.
+c. The representative must be registered for the correct activity, meet competency and fit-and-proper standards, act for the proper principal, complete required training and CPD, and be supervised.
+d. Daily computation, including the guide’s reference to completion before noon, helps determine whether the firm holds enough resources and has correctly accounted for customer obligations.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. Daily computation, including the guide’s reference to completion before noon, helps determine whether the firm holds enough resources and has correctly accounted for customer obligations.
+**Answer:** D. Daily computation, including the guide’s reference to completion before noon, helps determine whether the firm holds enough resources and has correctly accounted for customer obligations.
 
 **Rationale:** Daily computation, including the guide’s reference to completion before noon, helps determine whether the firm holds enough resources and has correctly accounted for customer obligations. Customer money and assets must be segregated, reconciled, safeguarded and used only for permitted purposes.
 
@@ -3009,15 +3009,15 @@ d. Protect identity, positions, orders, collateral, financial information, count
 
 ### 185. **[Single choice]** [RES 2B §2.9] What is a register of interests in listed specified products?
 
-a. Derivatives create leveraged exposure, so a small underlying-price movement can produce a large gain or loss and a customer may have to post additional funds quickly.
-b. Establish identity, legal capacity, beneficial ownership, authority, objectives, knowledge, experience, financial resources, risk tolerance, margin capacity, product permissions, trading limits and liquidation terms.
-c. It records prescribed interests held by relevant officers, employees or connected persons in listed specified products so conflicts and personal dealing can be monitored.
-d. It should reconstruct customer instructions, quotes, orders, amendments, cancellations, execution, allocation, confirmations, margin calls, collateral, valuations, communications, approvals and settlement.
+a. It records prescribed interests held by relevant officers, employees or connected persons in listed specified products so conflicts and personal dealing can be monitored.
+b. It should reconstruct customer instructions, quotes, orders, amendments, cancellations, execution, allocation, confirmations, margin calls, collateral, valuations, communications, approvals and settlement.
+c. Derivatives create leveraged exposure, so a small underlying-price movement can produce a large gain or loss and a customer may have to post additional funds quickly.
+d. Establish identity, legal capacity, beneficial ownership, authority, objectives, knowledge, experience, financial resources, risk tolerance, margin capacity, product permissions, trading limits and liquidation terms.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. It records prescribed interests held by relevant officers, employees or connected persons in listed specified products so conflicts and personal dealing can be monitored.
+**Answer:** A. It records prescribed interests held by relevant officers, employees or connected persons in listed specified products so conflicts and personal dealing can be monitored.
 
 **Rationale:** It records prescribed interests held by relevant officers, employees or connected persons in listed specified products so conflicts and personal dealing can be monitored. The guide highlights updating the register within seven days and retaining it for five years.
 
@@ -3041,15 +3041,15 @@ d. It provides a standard warning about the risks of trading futures, options an
 
 ### 187. **[Single choice]** [RES 2B §3.1–3.2] Why do derivatives market-conduct rules address both the derivative and its underlying?
 
-a. Trading a derivative can affect the price or supply of the underlying, and manipulation of the underlying can distort the derivative.
-b. Learn the categories of regulatory, criminal, civil, disciplinary, financial and reputational consequences, and understand which conduct triggers them.
-c. Wash trades and matched orders that create artificial volume or price are examples.
-d. It is acquiring or controlling a dominant position in the underlying, deliverable supply or relevant contracts so as to distort prices, squeeze counterparties or force artificial settlement outcomes.
+a. It is acquiring or controlling a dominant position in the underlying, deliverable supply or relevant contracts so as to distort prices, squeeze counterparties or force artificial settlement outcomes.
+b. Trading a derivative can affect the price or supply of the underlying, and manipulation of the underlying can distort the derivative.
+c. Learn the categories of regulatory, criminal, civil, disciplinary, financial and reputational consequences, and understand which conduct triggers them.
+d. Wash trades and matched orders that create artificial volume or price are examples.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Trading a derivative can affect the price or supply of the underlying, and manipulation of the underlying can distort the derivative.
+**Answer:** B. Trading a derivative can affect the price or supply of the underlying, and manipulation of the underlying can distort the derivative.
 
 **Rationale:** Trading a derivative can affect the price or supply of the underlying, and manipulation of the underlying can distort the derivative. The rules therefore cover conduct across related instruments and venues where the activity has the prohibited purpose or effect.
 
@@ -3057,15 +3057,15 @@ d. It is acquiring or controlling a dominant position in the underlying, deliver
 
 ### 188. **[Single choice]** [RES 2B §3.3] Give two examples of false trading or market rigging in derivatives.
 
-a. A person can trade or place orders in the derivative, the underlying security or both to create an artificial price, volume or appearance of demand or supply.
-b. Wash trades and matched orders that create artificial volume or price are examples.
-c. A statement, forecast, signal or omission can be misleading if it gives a materially inaccurate impression to the market or is likely to affect the price of a derivative or underlying.
-d. Bucketing occurs when an intermediary accepts a customer’s order but does not execute or transmit it as represented, instead taking the opposite position or otherwise dealing with the order in a way that deprives the customer of the promised execution.
+a. Bucketing occurs when an intermediary accepts a customer’s order but does not execute or transmit it as represented, instead taking the opposite position or otherwise dealing with the order in a way that deprives the customer of the promised execution.
+b. A person can trade or place orders in the derivative, the underlying security or both to create an artificial price, volume or appearance of demand or supply.
+c. Wash trades and matched orders that create artificial volume or price are examples.
+d. A statement, forecast, signal or omission can be misleading if it gives a materially inaccurate impression to the market or is likely to affect the price of a derivative or underlying.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. Wash trades and matched orders that create artificial volume or price are examples.
+**Answer:** C. Wash trades and matched orders that create artificial volume or price are examples.
 
 **Rationale:** Wash trades and matched orders that create artificial volume or price are examples. Entering transactions without genuine trading intent to make the market appear active or to trigger other participants’ orders can also be prohibited.
 
@@ -3073,15 +3073,15 @@ d. Bucketing occurs when an intermediary accepts a customer’s order but does n
 
 ### 189. **[Single choice]** [RES 2B §3.4] What is cornering or manipulation of a derivatives contract?
 
-a. Ask whether the information is specific, not generally available and material to the derivative or underlying; whether the person is connected or otherwise possesses it; whether a trade, recommendation or communication occurred; and whether a statutory exception or defence applies.
-b. Fraudulent inducement focuses on deception used to cause another person to deal or refrain from dealing.
-c. It is acquiring or controlling a dominant position in the underlying, deliverable supply or relevant contracts so as to distort prices, squeeze counterparties or force artificial settlement outcomes.
-d. Communication can facilitate the original offence, attract additional participants, support the artificial price and allow the scheme to continue.
+a. Communication can facilitate the original offence, attract additional participants, support the artificial price and allow the scheme to continue.
+b. Ask whether the information is specific, not generally available and material to the derivative or underlying; whether the person is connected or otherwise possesses it; whether a trade, recommendation or communication occurred; and whether a statutory exception or defence applies.
+c. Fraudulent inducement focuses on deception used to cause another person to deal or refrain from dealing.
+d. It is acquiring or controlling a dominant position in the underlying, deliverable supply or relevant contracts so as to distort prices, squeeze counterparties or force artificial settlement outcomes.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. It is acquiring or controlling a dominant position in the underlying, deliverable supply or relevant contracts so as to distort prices, squeeze counterparties or force artificial settlement outcomes.
+**Answer:** D. It is acquiring or controlling a dominant position in the underlying, deliverable supply or relevant contracts so as to distort prices, squeeze counterparties or force artificial settlement outcomes.
 
 **Rationale:** It is acquiring or controlling a dominant position in the underlying, deliverable supply or relevant contracts so as to distort prices, squeeze counterparties or force artificial settlement outcomes. The assessment includes position size, intent, market conditions, delivery mechanics and the effect on others.
 
@@ -3089,15 +3089,15 @@ d. Communication can facilitate the original offence, attract additional partici
 
 ### 190. **[Single choice]** [RES 2B §3.5] How can securities-based derivatives be manipulated?
 
-a. Ensure the trade is permitted, both sides are treated fairly, the price is reasonable, conflicts are disclosed or controlled, required consent or approvals are obtained, and the allocation and execution are documented.
-b. Do not conceal or fail to disclose an order when disclosure is required, withdraw or withhold an order to manipulate the market, or trade against a customer’s order improperly.
-c. Front running is trading for oneself or another account before executing a known customer order, using the expected price impact to gain an advantage.
-d. A person can trade or place orders in the derivative, the underlying security or both to create an artificial price, volume or appearance of demand or supply.
+a. A person can trade or place orders in the derivative, the underlying security or both to create an artificial price, volume or appearance of demand or supply.
+b. Ensure the trade is permitted, both sides are treated fairly, the price is reasonable, conflicts are disclosed or controlled, required consent or approvals are obtained, and the allocation and execution are documented.
+c. Do not conceal or fail to disclose an order when disclosure is required, withdraw or withhold an order to manipulate the market, or trade against a customer’s order improperly.
+d. Front running is trading for oneself or another account before executing a known customer order, using the expected price impact to gain an advantage.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. A person can trade or place orders in the derivative, the underlying security or both to create an artificial price, volume or appearance of demand or supply.
+**Answer:** A. A person can trade or place orders in the derivative, the underlying security or both to create an artificial price, volume or appearance of demand or supply.
 
 **Rationale:** A person can trade or place orders in the derivative, the underlying security or both to create an artificial price, volume or appearance of demand or supply. The prohibition is not avoided merely because the trade occurred in a different product from the instrument whose price was affected.
 
@@ -3105,15 +3105,15 @@ d. A person can trade or place orders in the derivative, the underlying security
 
 ### 191. **[Single choice]** [RES 2B §3.6] What makes information false or misleading for market-conduct purposes?
 
-a. A statement, forecast, signal or omission can be misleading if it gives a materially inaccurate impression to the market or is likely to affect the price of a derivative or underlying.
-b. Churning generally means excessive trading in a customer account by the representative or firm to generate commissions or other benefits without regard to the customer’s interests.
-c. It is a trade arranged in advance between parties in a way that bypasses genuine market competition or creates an artificial price, volume or appearance of trading.
-d. Learn the categories of regulatory, criminal, civil, disciplinary, financial and reputational consequences, and understand which conduct triggers them.
+a. Learn the categories of regulatory, criminal, civil, disciplinary, financial and reputational consequences, and understand which conduct triggers them.
+b. A statement, forecast, signal or omission can be misleading if it gives a materially inaccurate impression to the market or is likely to affect the price of a derivative or underlying.
+c. Churning generally means excessive trading in a customer account by the representative or firm to generate commissions or other benefits without regard to the customer’s interests.
+d. It is a trade arranged in advance between parties in a way that bypasses genuine market competition or creates an artificial price, volume or appearance of trading.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. A statement, forecast, signal or omission can be misleading if it gives a materially inaccurate impression to the market or is likely to affect the price of a derivative or underlying.
+**Answer:** B. A statement, forecast, signal or omission can be misleading if it gives a materially inaccurate impression to the market or is likely to affect the price of a derivative or underlying.
 
 **Rationale:** A statement, forecast, signal or omission can be misleading if it gives a materially inaccurate impression to the market or is likely to affect the price of a derivative or underlying. The representative must verify sources, distinguish opinion from fact and avoid communicating information intended to move the market artificially.
 
@@ -3121,15 +3121,15 @@ d. Learn the categories of regulatory, criminal, civil, disciplinary, financial 
 
 ### 192. **[Single choice]** [RES 2B §3.7] What is bucketing?
 
-a. Trading a derivative can affect the price or supply of the underlying, and manipulation of the underlying can distort the derivative.
-b. Bucketing occurs when an intermediary accepts a customer’s order but does not execute or transmit it as represented, instead taking the opposite position or otherwise dealing with the order in a way that deprives the customer of the promised execution.
-c. Wash trades and matched orders that create artificial volume or price are examples.
-d. It is acquiring or controlling a dominant position in the underlying, deliverable supply or relevant contracts so as to distort prices, squeeze counterparties or force artificial settlement outcomes.
+a. It is acquiring or controlling a dominant position in the underlying, deliverable supply or relevant contracts so as to distort prices, squeeze counterparties or force artificial settlement outcomes.
+b. Trading a derivative can affect the price or supply of the underlying, and manipulation of the underlying can distort the derivative.
+c. Bucketing occurs when an intermediary accepts a customer’s order but does not execute or transmit it as represented, instead taking the opposite position or otherwise dealing with the order in a way that deprives the customer of the promised execution.
+d. Wash trades and matched orders that create artificial volume or price are examples.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. Bucketing occurs when an intermediary accepts a customer’s order but does not execute or transmit it as represented, instead taking the opposite position or otherwise dealing with the order in a way that deprives the customer of the promised execution.
+**Answer:** C. Bucketing occurs when an intermediary accepts a customer’s order but does not execute or transmit it as represented, instead taking the opposite position or otherwise dealing with the order in a way that deprives the customer of the promised execution.
 
 **Rationale:** Bucketing occurs when an intermediary accepts a customer’s order but does not execute or transmit it as represented, instead taking the opposite position or otherwise dealing with the order in a way that deprives the customer of the promised execution. It is a serious conflict and market-integrity risk.
 
@@ -3137,15 +3137,15 @@ d. It is acquiring or controlling a dominant position in the underlying, deliver
 
 ### 193. **[Single choice]** [RES 2B §3.8–3.9] Distinguish fraudulent inducement from a manipulative or deceptive device.
 
-a. A statement, forecast, signal or omission can be misleading if it gives a materially inaccurate impression to the market or is likely to affect the price of a derivative or underlying.
-b. A person can trade or place orders in the derivative, the underlying security or both to create an artificial price, volume or appearance of demand or supply.
-c. Fraudulent inducement focuses on deception used to cause another person to deal or refrain from dealing.
-d. Bucketing occurs when an intermediary accepts a customer’s order but does not execute or transmit it as represented, instead taking the opposite position or otherwise dealing with the order in a way that deprives the customer of the promised execution.
+a. Bucketing occurs when an intermediary accepts a customer’s order but does not execute or transmit it as represented, instead taking the opposite position or otherwise dealing with the order in a way that deprives the customer of the promised execution.
+b. A statement, forecast, signal or omission can be misleading if it gives a materially inaccurate impression to the market or is likely to affect the price of a derivative or underlying.
+c. A person can trade or place orders in the derivative, the underlying security or both to create an artificial price, volume or appearance of demand or supply.
+d. Fraudulent inducement focuses on deception used to cause another person to deal or refrain from dealing.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. Fraudulent inducement focuses on deception used to cause another person to deal or refrain from dealing.
+**Answer:** D. Fraudulent inducement focuses on deception used to cause another person to deal or refrain from dealing.
 
 **Rationale:** Fraudulent inducement focuses on deception used to cause another person to deal or refrain from dealing. A manipulative or deceptive device covers a broader scheme, method or course of conduct intended to defraud, deceive or distort the market. The same facts may engage both provisions.
 
@@ -3153,15 +3153,15 @@ d. Bucketing occurs when an intermediary accepts a customer’s order but does n
 
 ### 194. **[Single choice]** [RES 2B §3.10] What are the key insider-trading questions for a derivatives representative?
 
-a. Do not conceal or fail to disclose an order when disclosure is required, withdraw or withhold an order to manipulate the market, or trade against a customer’s order improperly.
-b. Fraudulent inducement focuses on deception used to cause another person to deal or refrain from dealing.
-c. Communication can facilitate the original offence, attract additional participants, support the artificial price and allow the scheme to continue.
-d. Ask whether the information is specific, not generally available and material to the derivative or underlying; whether the person is connected or otherwise possesses it; whether a trade, recommendation or communication occurred; and whether a statutory exception or defence applies.
+a. Ask whether the information is specific, not generally available and material to the derivative or underlying; whether the person is connected or otherwise possesses it; whether a trade, recommendation or communication occurred; and whether a statutory exception or defence applies.
+b. Do not conceal or fail to disclose an order when disclosure is required, withdraw or withhold an order to manipulate the market, or trade against a customer’s order improperly.
+c. Fraudulent inducement focuses on deception used to cause another person to deal or refrain from dealing.
+d. Communication can facilitate the original offence, attract additional participants, support the artificial price and allow the scheme to continue.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. Ask whether the information is specific, not generally available and material to the derivative or underlying; whether the person is connected or otherwise possesses it; whether a trade, recommendation or communication occurred; and whether a statutory exception or defence applies.
+**Answer:** A. Ask whether the information is specific, not generally available and material to the derivative or underlying; whether the person is connected or otherwise possesses it; whether a trade, recommendation or communication occurred; and whether a statutory exception or defence applies.
 
 **Rationale:** Ask whether the information is specific, not generally available and material to the derivative or underlying; whether the person is connected or otherwise possesses it; whether a trade, recommendation or communication occurred; and whether a statutory exception or defence applies. When uncertain, stop and escalate to compliance.
 
@@ -3169,15 +3169,15 @@ d. Ask whether the information is specific, not generally available and material
 
 ### 195. **[Single choice]** [RES 2B §3.11] In derivatives dealing, why is forwarding information about an illegal transaction prohibited?
 
-a. Communication can facilitate the original offence, attract additional participants, support the artificial price and allow the scheme to continue.
-b. Front running is trading for oneself or another account before executing a known customer order, using the expected price impact to gain an advantage.
-c. Ensure the trade is permitted, both sides are treated fairly, the price is reasonable, conflicts are disclosed or controlled, required consent or approvals are obtained, and the allocation and execution are documented.
-d. Churning generally means excessive trading in a customer account by the representative or firm to generate commissions or other benefits without regard to the customer’s interests.
+a. Churning generally means excessive trading in a customer account by the representative or firm to generate commissions or other benefits without regard to the customer’s interests.
+b. Communication can facilitate the original offence, attract additional participants, support the artificial price and allow the scheme to continue.
+c. Front running is trading for oneself or another account before executing a known customer order, using the expected price impact to gain an advantage.
+d. Ensure the trade is permitted, both sides are treated fairly, the price is reasonable, conflicts are disclosed or controlled, required consent or approvals are obtained, and the allocation and execution are documented.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Communication can facilitate the original offence, attract additional participants, support the artificial price and allow the scheme to continue.
+**Answer:** B. Communication can facilitate the original offence, attract additional participants, support the artificial price and allow the scheme to continue.
 
 **Rationale:** Communication can facilitate the original offence, attract additional participants, support the artificial price and allow the scheme to continue. A representative must not circulate tips, signals or promotional material that encourages illegal trading.
 
@@ -3185,15 +3185,15 @@ d. Churning generally means excessive trading in a customer account by the repre
 
 ### 196. **[Single choice]** [RES 2B §3.12–3.14] What is prohibited conduct concerning customer orders?
 
-a. It is a trade arranged in advance between parties in a way that bypasses genuine market competition or creates an artificial price, volume or appearance of trading.
-b. Do not conceal or fail to disclose an order when disclosure is required, withdraw or withhold an order to manipulate the market, or trade against a customer’s order improperly.
-c. Learn the categories of regulatory, criminal, civil, disciplinary, financial and reputational consequences, and understand which conduct triggers them.
-d. Trading a derivative can affect the price or supply of the underlying, and manipulation of the underlying can distort the derivative.
+a. Trading a derivative can affect the price or supply of the underlying, and manipulation of the underlying can distort the derivative.
+b. It is a trade arranged in advance between parties in a way that bypasses genuine market competition or creates an artificial price, volume or appearance of trading.
+c. Do not conceal or fail to disclose an order when disclosure is required, withdraw or withhold an order to manipulate the market, or trade against a customer’s order improperly.
+d. Learn the categories of regulatory, criminal, civil, disciplinary, financial and reputational consequences, and understand which conduct triggers them.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. Do not conceal or fail to disclose an order when disclosure is required, withdraw or withhold an order to manipulate the market, or trade against a customer’s order improperly.
+**Answer:** C. Do not conceal or fail to disclose an order when disclosure is required, withdraw or withhold an order to manipulate the market, or trade against a customer’s order improperly.
 
 **Rationale:** Do not conceal or fail to disclose an order when disclosure is required, withdraw or withhold an order to manipulate the market, or trade against a customer’s order improperly. Order handling must follow priority, consent, best-execution, conflict and record-keeping controls.
 
@@ -3201,15 +3201,15 @@ d. Trading a derivative can affect the price or supply of the underlying, and ma
 
 ### 197. **[Single choice]** [RES 2B §3.15] What is front running and why is it unfair?
 
-a. It is acquiring or controlling a dominant position in the underlying, deliverable supply or relevant contracts so as to distort prices, squeeze counterparties or force artificial settlement outcomes.
-b. Wash trades and matched orders that create artificial volume or price are examples.
-c. Front running is trading for oneself or another account before executing a known customer order, using the expected price impact to gain an advantage.
-d. A person can trade or place orders in the derivative, the underlying security or both to create an artificial price, volume or appearance of demand or supply.
+a. A person can trade or place orders in the derivative, the underlying security or both to create an artificial price, volume or appearance of demand or supply.
+b. It is acquiring or controlling a dominant position in the underlying, deliverable supply or relevant contracts so as to distort prices, squeeze counterparties or force artificial settlement outcomes.
+c. Wash trades and matched orders that create artificial volume or price are examples.
+d. Front running is trading for oneself or another account before executing a known customer order, using the expected price impact to gain an advantage.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. Front running is trading for oneself or another account before executing a known customer order, using the expected price impact to gain an advantage.
+**Answer:** D. Front running is trading for oneself or another account before executing a known customer order, using the expected price impact to gain an advantage.
 
 **Rationale:** Front running is trading for oneself or another account before executing a known customer order, using the expected price impact to gain an advantage. It misuses customer information and harms the customer’s execution, so personal trading and order-priority controls are essential.
 
@@ -3217,15 +3217,15 @@ d. A person can trade or place orders in the derivative, the underlying security
 
 ### 198. **[Single choice]** [RES 2B §3.16] What controls are required for cross trades?
 
-a. Fraudulent inducement focuses on deception used to cause another person to deal or refrain from dealing.
-b. A statement, forecast, signal or omission can be misleading if it gives a materially inaccurate impression to the market or is likely to affect the price of a derivative or underlying.
-c. Bucketing occurs when an intermediary accepts a customer’s order but does not execute or transmit it as represented, instead taking the opposite position or otherwise dealing with the order in a way that deprives the customer of the promised execution.
-d. Ensure the trade is permitted, both sides are treated fairly, the price is reasonable, conflicts are disclosed or controlled, required consent or approvals are obtained, and the allocation and execution are documented.
+a. Ensure the trade is permitted, both sides are treated fairly, the price is reasonable, conflicts are disclosed or controlled, required consent or approvals are obtained, and the allocation and execution are documented.
+b. Fraudulent inducement focuses on deception used to cause another person to deal or refrain from dealing.
+c. A statement, forecast, signal or omission can be misleading if it gives a materially inaccurate impression to the market or is likely to affect the price of a derivative or underlying.
+d. Bucketing occurs when an intermediary accepts a customer’s order but does not execute or transmit it as represented, instead taking the opposite position or otherwise dealing with the order in a way that deprives the customer of the promised execution.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. Ensure the trade is permitted, both sides are treated fairly, the price is reasonable, conflicts are disclosed or controlled, required consent or approvals are obtained, and the allocation and execution are documented.
+**Answer:** A. Ensure the trade is permitted, both sides are treated fairly, the price is reasonable, conflicts are disclosed or controlled, required consent or approvals are obtained, and the allocation and execution are documented.
 
 **Rationale:** Ensure the trade is permitted, both sides are treated fairly, the price is reasonable, conflicts are disclosed or controlled, required consent or approvals are obtained, and the allocation and execution are documented. A cross must not be used to favour the firm or a preferred customer.
 
@@ -3233,15 +3233,15 @@ d. Ensure the trade is permitted, both sides are treated fairly, the price is re
 
 ### 199. **[Single choice]** [RES 2B §3.17–3.18] Distinguish churning from overtrading.
 
-a. Churning generally means excessive trading in a customer account by the representative or firm to generate commissions or other benefits without regard to the customer’s interests.
-b. Ask whether the information is specific, not generally available and material to the derivative or underlying; whether the person is connected or otherwise possesses it; whether a trade, recommendation or communication occurred; and whether a statutory exception or defence applies.
-c. Communication can facilitate the original offence, attract additional participants, support the artificial price and allow the scheme to continue.
-d. Do not conceal or fail to disclose an order when disclosure is required, withdraw or withhold an order to manipulate the market, or trade against a customer’s order improperly.
+a. Do not conceal or fail to disclose an order when disclosure is required, withdraw or withhold an order to manipulate the market, or trade against a customer’s order improperly.
+b. Churning generally means excessive trading in a customer account by the representative or firm to generate commissions or other benefits without regard to the customer’s interests.
+c. Ask whether the information is specific, not generally available and material to the derivative or underlying; whether the person is connected or otherwise possesses it; whether a trade, recommendation or communication occurred; and whether a statutory exception or defence applies.
+d. Communication can facilitate the original offence, attract additional participants, support the artificial price and allow the scheme to continue.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Churning generally means excessive trading in a customer account by the representative or firm to generate commissions or other benefits without regard to the customer’s interests.
+**Answer:** B. Churning generally means excessive trading in a customer account by the representative or firm to generate commissions or other benefits without regard to the customer’s interests.
 
 **Rationale:** Churning generally means excessive trading in a customer account by the representative or firm to generate commissions or other benefits without regard to the customer’s interests. Overtrading is excessive or unsuitable trading more broadly, including activity encouraged by leverage or poor controls; both are assessed against objectives, resources, strategy, frequency and costs.
 
@@ -3249,15 +3249,15 @@ d. Do not conceal or fail to disclose an order when disclosure is required, with
 
 ### 200. **[Single choice]** [RES 2B §3.19] What is a pre-arranged trade?
 
-a. Front running is trading for oneself or another account before executing a known customer order, using the expected price impact to gain an advantage.
-b. It is a trade arranged in advance between parties in a way that bypasses genuine market competition or creates an artificial price, volume or appearance of trading.
-c. Ensure the trade is permitted, both sides are treated fairly, the price is reasonable, conflicts are disclosed or controlled, required consent or approvals are obtained, and the allocation and execution are documented.
-d. Churning generally means excessive trading in a customer account by the representative or firm to generate commissions or other benefits without regard to the customer’s interests.
+a. Churning generally means excessive trading in a customer account by the representative or firm to generate commissions or other benefits without regard to the customer’s interests.
+b. Front running is trading for oneself or another account before executing a known customer order, using the expected price impact to gain an advantage.
+c. It is a trade arranged in advance between parties in a way that bypasses genuine market competition or creates an artificial price, volume or appearance of trading.
+d. Ensure the trade is permitted, both sides are treated fairly, the price is reasonable, conflicts are disclosed or controlled, required consent or approvals are obtained, and the allocation and execution are documented.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. It is a trade arranged in advance between parties in a way that bypasses genuine market competition or creates an artificial price, volume or appearance of trading.
+**Answer:** C. It is a trade arranged in advance between parties in a way that bypasses genuine market competition or creates an artificial price, volume or appearance of trading.
 
 **Rationale:** It is a trade arranged in advance between parties in a way that bypasses genuine market competition or creates an artificial price, volume or appearance of trading. Legitimate block or negotiated transactions must still comply with the applicable venue rules, pricing, disclosure and approval requirements.
 
@@ -3265,15 +3265,15 @@ d. Churning generally means excessive trading in a customer account by the repre
 
 ### 201. **[Single choice]** [RES 2B §3.20] How should a candidate study penalties for derivatives misconduct?
 
-a. Trading a derivative can affect the price or supply of the underlying, and manipulation of the underlying can distort the derivative.
-b. It is a trade arranged in advance between parties in a way that bypasses genuine market competition or creates an artificial price, volume or appearance of trading.
-c. Learn the categories of regulatory, criminal, civil, disciplinary, financial and reputational consequences, and understand which conduct triggers them.
-d. Wash trades and matched orders that create artificial volume or price are examples.
+a. Wash trades and matched orders that create artificial volume or price are examples.
+b. Trading a derivative can affect the price or supply of the underlying, and manipulation of the underlying can distort the derivative.
+c. It is a trade arranged in advance between parties in a way that bypasses genuine market competition or creates an artificial price, volume or appearance of trading.
+d. Learn the categories of regulatory, criminal, civil, disciplinary, financial and reputational consequences, and understand which conduct triggers them.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. Learn the categories of regulatory, criminal, civil, disciplinary, financial and reputational consequences, and understand which conduct triggers them.
+**Answer:** D. Learn the categories of regulatory, criminal, civil, disciplinary, financial and reputational consequences, and understand which conduct triggers them.
 
 **Rationale:** Learn the categories of regulatory, criminal, civil, disciplinary, financial and reputational consequences, and understand which conduct triggers them. The source says the amount of penalties is not tested, so do not spend revision time memorising figures.
 
@@ -3281,15 +3281,15 @@ d. Wash trades and matched orders that create artificial volume or price are exa
 
 ### 202. **[Single choice]** [RES 2B §4.1] What is an OTC derivative and what are the principal risks?
 
-a. An IRS exchanges interest-payment streams; an NDIRS exchanges interest amounts without physical delivery of the underlying currency or notional; a CCS exchanges cash flows in different currencies; an FRA fixes or settles an interest-rate exposure for a future period; and a commodity swap exchanges commodity-linked cash flows.
-b. Exchange and CCP processes generally use standard contracts, daily marking-to-market and centralised margin and settlement, while OTC contracts may settle bilaterally on dates and methods negotiated by the parties.
-c. Check the customer’s objective, sophistication, authority, financial resources, suitability, legal capacity, documentation, collateral and liquidity capacity, valuation method, termination rights, counterparty, costs, model assumptions, scenarios, worst-case loss and regulatory status.
-d. It is a privately negotiated derivative whose terms are not necessarily standardised or exchange-matched.
+a. It is a privately negotiated derivative whose terms are not necessarily standardised or exchange-matched.
+b. An IRS exchanges interest-payment streams; an NDIRS exchanges interest amounts without physical delivery of the underlying currency or notional; a CCS exchanges cash flows in different currencies; an FRA fixes or settles an interest-rate exposure for a future period; and a commodity swap exchanges commodity-linked cash flows.
+c. Exchange and CCP processes generally use standard contracts, daily marking-to-market and centralised margin and settlement, while OTC contracts may settle bilaterally on dates and methods negotiated by the parties.
+d. Check the customer’s objective, sophistication, authority, financial resources, suitability, legal capacity, documentation, collateral and liquidity capacity, valuation method, termination rights, counterparty, costs, model assumptions, scenarios, worst-case loss and regulatory status.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. It is a privately negotiated derivative whose terms are not necessarily standardised or exchange-matched.
+**Answer:** A. It is a privately negotiated derivative whose terms are not necessarily standardised or exchange-matched.
 
 **Rationale:** It is a privately negotiated derivative whose terms are not necessarily standardised or exchange-matched. Risks include counterparty default, collateral and margin disputes, valuation uncertainty, liquidity, legal enforceability, settlement, model, operational, market and documentation risk.
 
@@ -3297,583 +3297,7 @@ d. It is a privately negotiated derivative whose terms are not necessarily stand
 
 ### 203. **[Single choice]** [RES 2B §4.1] What are IRS, NDIRS, CCS, FRA and commodity swaps?
 
-a. An IRS exchanges interest-payment streams; an NDIRS exchanges interest amounts without physical delivery of the underlying currency or notional; a CCS exchanges cash flows in different currencies; an FRA fixes or settles an interest-rate exposure for a future period; and a commodity swap exchanges commodity-linked cash flows.
-b. A CCP interposes itself between counterparties, manages margin and default resources, and supports multilateral netting and risk management.
-c. Depending on product and counterparty, requirements may include reporting, central clearing, margin, trade documentation, record keeping, risk disclosure, business-conduct controls and eligible-counterparty or customer protections.
-d. The clearing platform and margin methodology determine how trades are accepted, valued, margined, netted and settled.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** a. An IRS exchanges interest-payment streams; an NDIRS exchanges interest amounts without physical delivery of the underlying currency or notional; a CCS exchanges cash flows in different currencies; an FRA fixes or settles an interest-rate exposure for a future period; and a commodity swap exchanges commodity-linked cash flows.
-
-**Rationale:** An IRS exchanges interest-payment streams; an NDIRS exchanges interest amounts without physical delivery of the underlying currency or notional; a CCS exchanges cash flows in different currencies; an FRA fixes or settles an interest-rate exposure for a future period; and a commodity swap exchanges commodity-linked cash flows. The contract terms determine the exact economics.
-
-</details>
-
-### 204. **[Single choice]** [RES 2B §4.2] What is the role of a central counterparty in OTC derivatives?
-
-a. They provide prescribed information about risks and product features so the customer can make an informed decision.
-b. A CCP interposes itself between counterparties, manages margin and default resources, and supports multilateral netting and risk management.
-c. It standardises the legal framework for OTC transactions, including representations, events of default, termination, netting, payment terms and dispute provisions.
-d. Exchange and CCP processes generally use standard contracts, daily marking-to-market and centralised margin and settlement, while OTC contracts may settle bilaterally on dates and methods negotiated by the parties.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** b. A CCP interposes itself between counterparties, manages margin and default resources, and supports multilateral netting and risk management.
-
-**Rationale:** A CCP interposes itself between counterparties, manages margin and default resources, and supports multilateral netting and risk management. It reduces bilateral counterparty exposure but creates clearing, margin, liquidity, concentration and default-fund obligations.
-
-</details>
-
-### 205. **[Single choice]** [RES 2B §4.2–4.3] What regulatory requirements can apply to OTC derivatives?
-
-a. It is a privately negotiated derivative whose terms are not necessarily standardised or exchange-matched.
-b. Check the customer’s objective, sophistication, authority, financial resources, suitability, legal capacity, documentation, collateral and liquidity capacity, valuation method, termination rights, counterparty, costs, model assumptions, scenarios, worst-case loss and regulatory status.
-c. Depending on product and counterparty, requirements may include reporting, central clearing, margin, trade documentation, record keeping, risk disclosure, business-conduct controls and eligible-counterparty or customer protections.
-d. An IRS exchanges interest-payment streams; an NDIRS exchanges interest amounts without physical delivery of the underlying currency or notional; a CCS exchanges cash flows in different currencies; an FRA fixes or settles an interest-rate exposure for a future period; and a commodity swap exchanges commodity-linked cash flows.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** c. Depending on product and counterparty, requirements may include reporting, central clearing, margin, trade documentation, record keeping, risk disclosure, business-conduct controls and eligible-counterparty or customer protections.
-
-**Rationale:** Depending on product and counterparty, requirements may include reporting, central clearing, margin, trade documentation, record keeping, risk disclosure, business-conduct controls and eligible-counterparty or customer protections. SGX-DC clearing rules apply where contracts are cleared through SGX-DC.
-
-</details>
-
-### 206. **[Single choice]** [RES 2B §4.3] What is the significance of SGX Titan OTC and margin rules?
-
-a. They provide prescribed information about risks and product features so the customer can make an informed decision.
-b. A CCP interposes itself between counterparties, manages margin and default resources, and supports multilateral netting and risk management.
-c. Depending on product and counterparty, requirements may include reporting, central clearing, margin, trade documentation, record keeping, risk disclosure, business-conduct controls and eligible-counterparty or customer protections.
-d. The clearing platform and margin methodology determine how trades are accepted, valued, margined, netted and settled.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** d. The clearing platform and margin methodology determine how trades are accepted, valued, margined, netted and settled.
-
-**Rationale:** The clearing platform and margin methodology determine how trades are accepted, valued, margined, netted and settled. Representatives must understand initial and variation margin, eligible collateral, calls, deadlines and default procedures rather than treating an OTC derivative as an unsecured promise with no liquidity consequence.
-
-</details>
-
-### 207. **[Single choice]** [RES 2B §4.4] What should Form 13 and Form 14 risk disclosures achieve?
-
-a. They provide prescribed information about risks and product features so the customer can make an informed decision.
-b. It standardises the legal framework for OTC transactions, including representations, events of default, termination, netting, payment terms and dispute provisions.
-c. Exchange and CCP processes generally use standard contracts, daily marking-to-market and centralised margin and settlement, while OTC contracts may settle bilaterally on dates and methods negotiated by the parties.
-d. Check the customer’s objective, sophistication, authority, financial resources, suitability, legal capacity, documentation, collateral and liquidity capacity, valuation method, termination rights, counterparty, costs, model assumptions, scenarios, worst-case loss and regulatory status.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** a. They provide prescribed information about risks and product features so the customer can make an informed decision.
-
-**Rationale:** They provide prescribed information about risks and product features so the customer can make an informed decision. The relevant form, delivery, signature, date and supporting records must be completed before or in connection with the transaction as required; a disclosure cannot cure misleading advice.
-
-</details>
-
-### 208. **[Single choice]** [RES 2B §4.5] Why is an ISDA Master Agreement important?
-
-a. It is a privately negotiated derivative whose terms are not necessarily standardised or exchange-matched.
-b. It standardises the legal framework for OTC transactions, including representations, events of default, termination, netting, payment terms and dispute provisions.
-c. An IRS exchanges interest-payment streams; an NDIRS exchanges interest amounts without physical delivery of the underlying currency or notional; a CCS exchanges cash flows in different currencies; an FRA fixes or settles an interest-rate exposure for a future period; and a commodity swap exchanges commodity-linked cash flows.
-d. A CCP interposes itself between counterparties, manages margin and default resources, and supports multilateral netting and risk management.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** b. It standardises the legal framework for OTC transactions, including representations, events of default, termination, netting, payment terms and dispute provisions.
-
-**Rationale:** It standardises the legal framework for OTC transactions, including representations, events of default, termination, netting, payment terms and dispute provisions. A Credit Support Annex may govern collateral. Representatives should ensure the transaction is within the authorised documentation and escalate legal or documentation gaps.
-
-</details>
-
-### 209. **[Single choice]** [RES 2B §4.5] How does OTC settlement differ from exchange settlement?
-
 a. The clearing platform and margin methodology determine how trades are accepted, valued, margined, netted and settled.
-b. Depending on product and counterparty, requirements may include reporting, central clearing, margin, trade documentation, record keeping, risk disclosure, business-conduct controls and eligible-counterparty or customer protections.
-c. Exchange and CCP processes generally use standard contracts, daily marking-to-market and centralised margin and settlement, while OTC contracts may settle bilaterally on dates and methods negotiated by the parties.
-d. They provide prescribed information about risks and product features so the customer can make an informed decision.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** c. Exchange and CCP processes generally use standard contracts, daily marking-to-market and centralised margin and settlement, while OTC contracts may settle bilaterally on dates and methods negotiated by the parties.
-
-**Rationale:** Exchange and CCP processes generally use standard contracts, daily marking-to-market and centralised margin and settlement, while OTC contracts may settle bilaterally on dates and methods negotiated by the parties. Bilateral valuation, payment, confirmation, collateral and dispute controls are therefore critical.
-
-</details>
-
-### 210. **[Single choice]** [RES 2B §4.5] What should a representative check before recommending a bespoke OTC derivative?
-
-a. It is a privately negotiated derivative whose terms are not necessarily standardised or exchange-matched.
-b. It standardises the legal framework for OTC transactions, including representations, events of default, termination, netting, payment terms and dispute provisions.
-c. Exchange and CCP processes generally use standard contracts, daily marking-to-market and centralised margin and settlement, while OTC contracts may settle bilaterally on dates and methods negotiated by the parties.
-d. Check the customer’s objective, sophistication, authority, financial resources, suitability, legal capacity, documentation, collateral and liquidity capacity, valuation method, termination rights, counterparty, costs, model assumptions, scenarios, worst-case loss and regulatory status.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** d. Check the customer’s objective, sophistication, authority, financial resources, suitability, legal capacity, documentation, collateral and liquidity capacity, valuation method, termination rights, counterparty, costs, model assumptions, scenarios, worst-case loss and regulatory status.
-
-**Rationale:** Check the customer’s objective, sophistication, authority, financial resources, suitability, legal capacity, documentation, collateral and liquidity capacity, valuation method, termination rights, counterparty, costs, model assumptions, scenarios, worst-case loss and regulatory status. If the product cannot be explained clearly, it should not be presented as routine.
-
-</details>
-
-### 211. **[Single choice]** [RES 2B §5.1–5.3] Why do leverage and complexity make ethics especially important in derivatives?
-
-a. Leverage can magnify losses, products may be difficult to value, and customers can be exposed to margin calls or obligations exceeding the initial amount.
-b. Identify the facts and affected customer, recognise duties of honesty, suitability and fair dealing, reject the concealment, explain the margin risk, document the issue and escalate to compliance or management.
-c. Disclose and manage the conflict, apply the firm’s execution policy, compare the customer outcome across venues or counterparties, obtain required approval and preserve evidence.
-d. Records make the representative accountable for advice, pricing, conflicts, consent, execution and escalation.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** a. Leverage can magnify losses, products may be difficult to value, and customers can be exposed to margin calls or obligations exceeding the initial amount.
-
-**Rationale:** Leverage can magnify losses, products may be difficult to value, and customers can be exposed to margin calls or obligations exceeding the initial amount. Ethical conduct requires clear explanations, reasonable-basis analysis, fair dealing and resistance to sales incentives that encourage unsuitable risk.
-
-</details>
-
-### 212. **[Single choice]** [RES 2B §5.4] What professional standards apply to market information and market manipulation?
-
-a. Leverage can magnify losses, products may be difficult to value, and customers can be exposed to margin calls or obligations exceeding the initial amount.
-b. Use reliable sources, distinguish fact from opinion, disclose material assumptions and do not create false signals, spread rumours or use customer information for personal benefit.
-c. Acknowledge and escalate complaints promptly through the firm’s independent process, preserve records and avoid retaliation or defensive concealment.
-d. Revealing that a particular customer is behind a trade can expose confidential strategy, create information advantages for others or affect price and negotiation.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** b. Use reliable sources, distinguish fact from opinion, disclose material assumptions and do not create false signals, spread rumours or use customer information for personal benefit.
-
-**Rationale:** Use reliable sources, distinguish fact from opinion, disclose material assumptions and do not create false signals, spread rumours or use customer information for personal benefit. The same professional duty applies whether the information concerns an exchange-traded contract, OTC instrument or underlying market.
-
-</details>
-
-### 213. **[Single choice]** [RES 2B §5.4] How should complaints and performance claims be handled?
-
-a. It is a global set of principles for the wholesale FX market.
-b. Investigate the product, counterparty, market, assumptions and customer circumstances sufficiently to support the recommendation; communicate material risks and uncertainties in a comprehensible way; and retain records that show the basis, approvals, instructions and outcome.
-c. Acknowledge and escalate complaints promptly through the firm’s independent process, preserve records and avoid retaliation or defensive concealment.
-d. Consider price or rate, spread, commission, financing and collateral cost, size, speed, likelihood of execution and settlement, liquidity, counterparty, market impact, product terms and the customer’s instructions.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** c. Acknowledge and escalate complaints promptly through the firm’s independent process, preserve records and avoid retaliation or defensive concealment.
-
-**Rationale:** Acknowledge and escalate complaints promptly through the firm’s independent process, preserve records and avoid retaliation or defensive concealment. Performance claims must be fair, consistent, supported by methodology and balanced for leverage, fees, losses, survivorship, time period and liquidity.
-
-</details>
-
-### 214. **[Single choice]** [RES 2B §5.4] Why can disclosing a customer’s principal identity be a conflict?
-
-a. Records make the representative accountable for advice, pricing, conflicts, consent, execution and escalation.
-b. Identify the facts and affected customer, recognise duties of honesty, suitability and fair dealing, reject the concealment, explain the margin risk, document the issue and escalate to compliance or management.
-c. Disclose and manage the conflict, apply the firm’s execution policy, compare the customer outcome across venues or counterparties, obtain required approval and preserve evidence.
-d. Revealing that a particular customer is behind a trade can expose confidential strategy, create information advantages for others or affect price and negotiation.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** d. Revealing that a particular customer is behind a trade can expose confidential strategy, create information advantages for others or affect price and negotiation.
-
-**Rationale:** Revealing that a particular customer is behind a trade can expose confidential strategy, create information advantages for others or affect price and negotiation. Protect customer identity and order information unless disclosure is authorised or required.
-
-</details>
-
-### 215. **[Single choice]** [RES 2B §5.4] What do diligence, reasonable basis and communication standards require?
-
-a. Investigate the product, counterparty, market, assumptions and customer circumstances sufficiently to support the recommendation; communicate material risks and uncertainties in a comprehensible way; and retain records that show the basis, approvals, instructions and outcome.
-b. Leverage can magnify losses, products may be difficult to value, and customers can be exposed to margin calls or obligations exceeding the initial amount.
-c. Use reliable sources, distinguish fact from opinion, disclose material assumptions and do not create false signals, spread rumours or use customer information for personal benefit.
-d. Acknowledge and escalate complaints promptly through the firm’s independent process, preserve records and avoid retaliation or defensive concealment.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** a. Investigate the product, counterparty, market, assumptions and customer circumstances sufficiently to support the recommendation; communicate material risks and uncertainties in a comprehensible way; and retain records that show the basis, approvals, instructions and outcome.
-
-**Rationale:** Investigate the product, counterparty, market, assumptions and customer circumstances sufficiently to support the recommendation; communicate material risks and uncertainties in a comprehensible way; and retain records that show the basis, approvals, instructions and outcome.
-
-</details>
-
-### 216. **[Single choice]** [RES 2B §5.4] What is the BIS FX Global Code and what themes does the guide associate with it?
-
-a. Revealing that a particular customer is behind a trade can expose confidential strategy, create information advantages for others or affect price and negotiation.
-b. It is a global set of principles for the wholesale FX market.
-c. Investigate the product, counterparty, market, assumptions and customer circumstances sufficiently to support the recommendation; communicate material risks and uncertainties in a comprehensible way; and retain records that show the basis, approvals, instructions and outcome.
-d. Consider price or rate, spread, commission, financing and collateral cost, size, speed, likelihood of execution and settlement, liquidity, counterparty, market impact, product terms and the customer’s instructions.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** b. It is a global set of principles for the wholesale FX market.
-
-**Rationale:** It is a global set of principles for the wholesale FX market. The guide associates it with ethics, governance, execution, information sharing, risk management and confirmation and settlement, and highlights six broad principles requiring transparent, fair, robust and well-controlled conduct.
-
-</details>
-
-### 217. **[Single choice]** [RES 2B §5.5] How is best execution applied to a derivatives transaction?
-
-a. Disclose and manage the conflict, apply the firm’s execution policy, compare the customer outcome across venues or counterparties, obtain required approval and preserve evidence.
-b. Identify the facts and affected customer, recognise duties of honesty, suitability and fair dealing, reject the concealment, explain the margin risk, document the issue and escalate to compliance or management.
-c. Consider price or rate, spread, commission, financing and collateral cost, size, speed, likelihood of execution and settlement, liquidity, counterparty, market impact, product terms and the customer’s instructions.
-d. Records make the representative accountable for advice, pricing, conflicts, consent, execution and escalation.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** c. Consider price or rate, spread, commission, financing and collateral cost, size, speed, likelihood of execution and settlement, liquidity, counterparty, market impact, product terms and the customer’s instructions.
-
-**Rationale:** Consider price or rate, spread, commission, financing and collateral cost, size, speed, likelihood of execution and settlement, liquidity, counterparty, market impact, product terms and the customer’s instructions. For OTC trades, the firm should have a reasonable process for comparing quotes or otherwise demonstrating a fair outcome.
-
-</details>
-
-### 218. **[Single choice]** [RES 2B §5.6] Apply the ethical framework to a salesperson told to hide a large possible margin call.
-
-a. Acknowledge and escalate complaints promptly through the firm’s independent process, preserve records and avoid retaliation or defensive concealment.
-b. Leverage can magnify losses, products may be difficult to value, and customers can be exposed to margin calls or obligations exceeding the initial amount.
-c. Use reliable sources, distinguish fact from opinion, disclose material assumptions and do not create false signals, spread rumours or use customer information for personal benefit.
-d. Identify the facts and affected customer, recognise duties of honesty, suitability and fair dealing, reject the concealment, explain the margin risk, document the issue and escalate to compliance or management.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** d. Identify the facts and affected customer, recognise duties of honesty, suitability and fair dealing, reject the concealment, explain the margin risk, document the issue and escalate to compliance or management.
-
-**Rationale:** Identify the facts and affected customer, recognise duties of honesty, suitability and fair dealing, reject the concealment, explain the margin risk, document the issue and escalate to compliance or management. If the firm will not correct the communication, do not proceed and use the applicable whistleblowing or escalation channel.
-
-</details>
-
-### 219. **[Single choice]** [RES 2B §5.4–5.6] What should a representative do when compensation conflicts with best execution?
-
-a. Disclose and manage the conflict, apply the firm’s execution policy, compare the customer outcome across venues or counterparties, obtain required approval and preserve evidence.
-b. Revealing that a particular customer is behind a trade can expose confidential strategy, create information advantages for others or affect price and negotiation.
-c. Investigate the product, counterparty, market, assumptions and customer circumstances sufficiently to support the recommendation; communicate material risks and uncertainties in a comprehensible way; and retain records that show the basis, approvals, instructions and outcome.
-d. It is a global set of principles for the wholesale FX market.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** a. Disclose and manage the conflict, apply the firm’s execution policy, compare the customer outcome across venues or counterparties, obtain required approval and preserve evidence.
-
-**Rationale:** Disclose and manage the conflict, apply the firm’s execution policy, compare the customer outcome across venues or counterparties, obtain required approval and preserve evidence. Compensation cannot justify a venue, counterparty or product choice that produces an inferior customer result.
-
-</details>
-
-### 220. **[Single choice]** [RES 2B §5.4–5.6] Why are records an ethical control rather than mere administration?
-
-a. Consider price or rate, spread, commission, financing and collateral cost, size, speed, likelihood of execution and settlement, liquidity, counterparty, market impact, product terms and the customer’s instructions.
-b. Records make the representative accountable for advice, pricing, conflicts, consent, execution and escalation.
-c. Identify the facts and affected customer, recognise duties of honesty, suitability and fair dealing, reject the concealment, explain the margin risk, document the issue and escalate to compliance or management.
-d. Disclose and manage the conflict, apply the firm’s execution policy, compare the customer outcome across venues or counterparties, obtain required approval and preserve evidence.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** b. Records make the representative accountable for advice, pricing, conflicts, consent, execution and escalation.
-
-**Rationale:** Records make the representative accountable for advice, pricing, conflicts, consent, execution and escalation. They allow the firm and regulator to test whether conduct matched the customer’s interest and the stated process, and discourage post hoc rationalisation.
-
-</details>
-
-### 221. **[Single choice]** [RES 2B §6.1–6.2] Compare fundamental, technical and global-macro analysis.
-
-a. Confirm authority and limits, use approved venues and counterparties, check orders and margin, apply best execution and allocation controls, record rationale and customer communications, monitor execution, collateral, P&L and exposure, and escalate exceptions, breaches or market disruptions.
-b. Define the objective, expected return, acceptable risk, time horizon, products, underlying exposure, entry and exit rules, leverage, margin and collateral, liquidity, stop-loss or hedge rules, concentration limits, monitoring and contingency actions.
-c. Fundamental analysis evaluates economic, financial and issuer or commodity drivers; technical analysis studies price, volume, trends and patterns; global-macro analysis considers rates, currencies, inflation, policy, growth, geopolitical events and cross-market relationships.
-d. Gaps, illiquidity, limit moves, system outages and counterparty failure may prevent execution at the chosen stop.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** c. Fundamental analysis evaluates economic, financial and issuer or commodity drivers; technical analysis studies price, volume, trends and patterns; global-macro analysis considers rates, currencies, inflation, policy, growth, geopolitical events and cross-market relationships.
-
-**Rationale:** Fundamental analysis evaluates economic, financial and issuer or commodity drivers; technical analysis studies price, volume, trends and patterns; global-macro analysis considers rates, currencies, inflation, policy, growth, geopolitical events and cross-market relationships. A sound process states assumptions and limitations rather than treating any method as certain.
-
-</details>
-
-### 222. **[Single choice]** [RES 2B §6.3] What should a derivatives trading strategy specify?
-
-a. Market risk arises from price, rate, FX or volatility changes; credit risk from counterparty default; liquidity risk from inability to exit or fund margin; gap risk from discontinuous price moves; and operational or technology risk from failed processes or systems.
-b. In addition to identity and objectives, assess experience with leverage and the specific derivative, financial resources, margin capacity, liquidity, loss capacity, authority, hedging purpose, knowledge of close-out and collateral, and whether the customer can understand the product’s payoff and worst-case scenarios.
-c. Apply the relevant CAR or CKA, obtain the required account approval, assess the product and customer, provide disclosures and warnings, document the outcome and monitor the account.
-d. Define the objective, expected return, acceptable risk, time horizon, products, underlying exposure, entry and exit rules, leverage, margin and collateral, liquidity, stop-loss or hedge rules, concentration limits, monitoring and contingency actions.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** d. Define the objective, expected return, acceptable risk, time horizon, products, underlying exposure, entry and exit rules, leverage, margin and collateral, liquidity, stop-loss or hedge rules, concentration limits, monitoring and contingency actions.
-
-**Rationale:** Define the objective, expected return, acceptable risk, time horizon, products, underlying exposure, entry and exit rules, leverage, margin and collateral, liquidity, stop-loss or hedge rules, concentration limits, monitoring and contingency actions. Constraints should be consistent with the customer’s resources and mandate.
-
-</details>
-
-### 223. **[Single choice]** [RES 2B §6.4] What controls are important during strategy implementation?
-
-a. Confirm authority and limits, use approved venues and counterparties, check orders and margin, apply best execution and allocation controls, record rationale and customer communications, monitor execution, collateral, P&L and exposure, and escalate exceptions, breaches or market disruptions.
-b. Positions that appear diversified may move together during stress, increasing rather than reducing exposure.
-c. The market moves sharply from one price to another without executable prices between them, so a stop-loss may fill far away from the stop level or not at all.
-d. The framework represents supervisory attention to the firm’s risk profile, governance, controls, resilience and remediation.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** a. Confirm authority and limits, use approved venues and counterparties, check orders and margin, apply best execution and allocation controls, record rationale and customer communications, monitor execution, collateral, P&L and exposure, and escalate exceptions, breaches or market disruptions.
-
-**Rationale:** Confirm authority and limits, use approved venues and counterparties, check orders and margin, apply best execution and allocation controls, record rationale and customer communications, monitor execution, collateral, P&L and exposure, and escalate exceptions, breaches or market disruptions.
-
-</details>
-
-### 224. **[Single choice]** [RES 2B §6.4] Why are stop-losses and daily loss limits not complete risk controls?
-
-a. Fundamental analysis evaluates economic, financial and issuer or commodity drivers; technical analysis studies price, volume, trends and patterns; global-macro analysis considers rates, currencies, inflation, policy, growth, geopolitical events and cross-market relationships.
-b. Gaps, illiquidity, limit moves, system outages and counterparty failure may prevent execution at the chosen stop.
-c. Define the objective, expected return, acceptable risk, time horizon, products, underlying exposure, entry and exit rules, leverage, margin and collateral, liquidity, stop-loss or hedge rules, concentration limits, monitoring and contingency actions.
-d. Confirm authority and limits, use approved venues and counterparties, check orders and margin, apply best execution and allocation controls, record rationale and customer communications, monitor execution, collateral, P&L and exposure, and escalate exceptions, breaches or market disruptions.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** b. Gaps, illiquidity, limit moves, system outages and counterparty failure may prevent execution at the chosen stop.
-
-**Rationale:** Gaps, illiquidity, limit moves, system outages and counterparty failure may prevent execution at the chosen stop. Limits reduce intended exposure but do not guarantee a maximum loss; they must be supported by stress testing, liquidity planning, margin monitoring and escalation.
-
-</details>
-
-### 225. **[Single choice]** [RES 2B §6.5] What KYC information is especially important for derivatives customers?
-
-a. Apply the relevant CAR or CKA, obtain the required account approval, assess the product and customer, provide disclosures and warnings, document the outcome and monitor the account.
-b. Gaps, illiquidity, limit moves, system outages and counterparty failure may prevent execution at the chosen stop.
-c. In addition to identity and objectives, assess experience with leverage and the specific derivative, financial resources, margin capacity, liquidity, loss capacity, authority, hedging purpose, knowledge of close-out and collateral, and whether the customer can understand the product’s payoff and worst-case scenarios.
-d. Market risk arises from price, rate, FX or volatility changes; credit risk from counterparty default; liquidity risk from inability to exit or fund margin; gap risk from discontinuous price moves; and operational or technology risk from failed processes or systems.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** c. In addition to identity and objectives, assess experience with leverage and the specific derivative, financial resources, margin capacity, liquidity, loss capacity, authority, hedging purpose, knowledge of close-out and collateral, and whether the customer can understand the product’s payoff and worst-case scenarios.
-
-**Rationale:** In addition to identity and objectives, assess experience with leverage and the specific derivative, financial resources, margin capacity, liquidity, loss capacity, authority, hedging purpose, knowledge of close-out and collateral, and whether the customer can understand the product’s payoff and worst-case scenarios.
-
-</details>
-
-### 226. **[Single choice]** [RES 2B §6.6] What safeguards apply to a retail customer’s SIP trading account?
-
-a. The framework represents supervisory attention to the firm’s risk profile, governance, controls, resilience and remediation.
-b. Positions that appear diversified may move together during stress, increasing rather than reducing exposure.
-c. The market moves sharply from one price to another without executable prices between them, so a stop-loss may fill far away from the stop level or not at all.
-d. Apply the relevant CAR or CKA, obtain the required account approval, assess the product and customer, provide disclosures and warnings, document the outcome and monitor the account.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** d. Apply the relevant CAR or CKA, obtain the required account approval, assess the product and customer, provide disclosures and warnings, document the outcome and monitor the account.
-
-**Rationale:** Apply the relevant CAR or CKA, obtain the required account approval, assess the product and customer, provide disclosures and warnings, document the outcome and monitor the account. Knowledge assessment does not remove suitability, best-execution, conduct or risk-disclosure duties.
-
-</details>
-
-### 227. **[Single choice]** [RES 2B §6.7] Name and explain five risks in derivatives dealing.
-
-a. Market risk arises from price, rate, FX or volatility changes; credit risk from counterparty default; liquidity risk from inability to exit or fund margin; gap risk from discontinuous price moves; and operational or technology risk from failed processes or systems.
-b. Fundamental analysis evaluates economic, financial and issuer or commodity drivers; technical analysis studies price, volume, trends and patterns; global-macro analysis considers rates, currencies, inflation, policy, growth, geopolitical events and cross-market relationships.
-c. Define the objective, expected return, acceptable risk, time horizon, products, underlying exposure, entry and exit rules, leverage, margin and collateral, liquidity, stop-loss or hedge rules, concentration limits, monitoring and contingency actions.
-d. Confirm authority and limits, use approved venues and counterparties, check orders and margin, apply best execution and allocation controls, record rationale and customer communications, monitor execution, collateral, P&L and exposure, and escalate exceptions, breaches or market disruptions.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** a. Market risk arises from price, rate, FX or volatility changes; credit risk from counterparty default; liquidity risk from inability to exit or fund margin; gap risk from discontinuous price moves; and operational or technology risk from failed processes or systems.
-
-**Rationale:** Market risk arises from price, rate, FX or volatility changes; credit risk from counterparty default; liquidity risk from inability to exit or fund margin; gap risk from discontinuous price moves; and operational or technology risk from failed processes or systems. Other guide categories include correlation, political/legal, capital, regulatory and interconnected risks.
-
-</details>
-
-### 228. **[Single choice]** [RES 2B §6.7] What is correlation risk?
-
-a. Gaps, illiquidity, limit moves, system outages and counterparty failure may prevent execution at the chosen stop.
-b. Positions that appear diversified may move together during stress, increasing rather than reducing exposure.
-c. In addition to identity and objectives, assess experience with leverage and the specific derivative, financial resources, margin capacity, liquidity, loss capacity, authority, hedging purpose, knowledge of close-out and collateral, and whether the customer can understand the product’s payoff and worst-case scenarios.
-d. Apply the relevant CAR or CKA, obtain the required account approval, assess the product and customer, provide disclosures and warnings, document the outcome and monitor the account.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** b. Positions that appear diversified may move together during stress, increasing rather than reducing exposure.
-
-**Rationale:** Positions that appear diversified may move together during stress, increasing rather than reducing exposure. Correlation can change abruptly, so risk management should test concentrations, common factors, basis relationships and stressed correlations.
-
-</details>
-
-### 229. **[Single choice]** [RES 2B §6.7] What is gap risk?
-
-a. Positions that appear diversified may move together during stress, increasing rather than reducing exposure.
-b. Market risk arises from price, rate, FX or volatility changes; credit risk from counterparty default; liquidity risk from inability to exit or fund margin; gap risk from discontinuous price moves; and operational or technology risk from failed processes or systems.
-c. The market moves sharply from one price to another without executable prices between them, so a stop-loss may fill far away from the stop level or not at all.
-d. The framework represents supervisory attention to the firm’s risk profile, governance, controls, resilience and remediation.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** c. The market moves sharply from one price to another without executable prices between them, so a stop-loss may fill far away from the stop level or not at all.
-
-**Rationale:** The market moves sharply from one price to another without executable prices between them, so a stop-loss may fill far away from the stop level or not at all. It is particularly important for leveraged, event-sensitive or illiquid positions.
-
-</details>
-
-### 230. **[Single choice]** [RES 2B §6.7] What does the guide mean by MAS CRAFT and impact-and-risk supervision?
-
-a. Confirm authority and limits, use approved venues and counterparties, check orders and margin, apply best execution and allocation controls, record rationale and customer communications, monitor execution, collateral, P&L and exposure, and escalate exceptions, breaches or market disruptions.
-b. Fundamental analysis evaluates economic, financial and issuer or commodity drivers; technical analysis studies price, volume, trends and patterns; global-macro analysis considers rates, currencies, inflation, policy, growth, geopolitical events and cross-market relationships.
-c. Define the objective, expected return, acceptable risk, time horizon, products, underlying exposure, entry and exit rules, leverage, margin and collateral, liquidity, stop-loss or hedge rules, concentration limits, monitoring and contingency actions.
-d. The framework represents supervisory attention to the firm’s risk profile, governance, controls, resilience and remediation.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** d. The framework represents supervisory attention to the firm’s risk profile, governance, controls, resilience and remediation.
-
-**Rationale:** The framework represents supervisory attention to the firm’s risk profile, governance, controls, resilience and remediation. The practical lesson is to use diagnostic information and impact assessment to identify material weaknesses, correct them and demonstrate that controls operate effectively.
-
-</details>
-
-### 231. **[Single choice]** [RES 2B §7.1–7.4] Why must AML/CFT controls cover derivatives customers and counterparties?
-
-a. Derivatives can move value quickly, create complex payment and collateral flows, obscure beneficial ownership and involve cross-border counterparties.
-b. Set scenarios and thresholds according to customer, product, geography, transaction and delivery-channel risk; investigate alerts in context; document decisions; tune false positives; and escalate patterns involving rapid transfers, unusual collateral, third parties, complex layering or activity inconsistent with the customer profile.
-c. Evidence includes accurate risk assessments, timely CDD refreshes, effective screening, meaningful alerts, well-reasoned investigations, prompt STR decisions, reliable records, tested systems, trained staff, independent audit findings, remediation closure and management information showing outcomes rather than only activity volumes.
-d. Screen customers, beneficial owners, counterparties, payment parties and relevant transactions before and during the relationship.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** a. Derivatives can move value quickly, create complex payment and collateral flows, obscure beneficial ownership and involve cross-border counterparties.
-
-**Rationale:** Derivatives can move value quickly, create complex payment and collateral flows, obscure beneficial ownership and involve cross-border counterparties. The firm must understand the customer, purpose, expected activity, counterparties, jurisdictions and transaction flows and apply the same risk-based AML/CFT framework.
-
-</details>
-
-### 232. **[Single choice]** [RES 2B §7.5] How should sanctions screening interact with derivatives execution and settlement?
-
-a. A customer may seek complex cross-border structures or rapid transfers that have no commercial rationale and appear designed to conceal beneficial ownership, taxable income or the source of wealth.
-b. Screen customers, beneficial owners, counterparties, payment parties and relevant transactions before and during the relationship.
-c. Senior management and the board set risk appetite, approve the framework, provide resources, appoint accountable officers, receive meaningful reporting, challenge weaknesses and ensure remediation.
-d. Determine the natural person who ultimately owns or controls the entity, including ownership or control through chains, voting rights, agreements or other means.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** b. Screen customers, beneficial owners, counterparties, payment parties and relevant transactions before and during the relationship.
-
-**Rationale:** Screen customers, beneficial owners, counterparties, payment parties and relevant transactions before and during the relationship. A potential match or prohibited connection should be held, escalated and handled under the applicable asset-freezing, reporting and non-dealing requirements; staff must not help the parties evade screening.
-
-</details>
-
-### 233. **[Single choice]** [RES 2B §7.6] Give an example of a tax-crime red flag in a derivatives relationship.
-
-a. Set scenarios and thresholds according to customer, product, geography, transaction and delivery-channel risk; investigate alerts in context; document decisions; tune false positives; and escalate patterns involving rapid transfers, unusual collateral, third parties, complex layering or activity inconsistent with the customer profile.
-b. Before launch, assess product features, settlement and collateral flows, counterparties, jurisdictions, anonymity, speed, technology, delivery channels, expected customer base and monitoring capability.
-c. A customer may seek complex cross-border structures or rapid transfers that have no commercial rationale and appear designed to conceal beneficial ownership, taxable income or the source of wealth.
-d. Evidence includes accurate risk assessments, timely CDD refreshes, effective screening, meaningful alerts, well-reasoned investigations, prompt STR decisions, reliable records, tested systems, trained staff, independent audit findings, remediation closure and management information showing outcomes rather than only activity volumes.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** c. A customer may seek complex cross-border structures or rapid transfers that have no commercial rationale and appear designed to conceal beneficial ownership, taxable income or the source of wealth.
-
-**Rationale:** A customer may seek complex cross-border structures or rapid transfers that have no commercial rationale and appear designed to conceal beneficial ownership, taxable income or the source of wealth. The firm should investigate purpose and source of funds and escalate if suspicion is formed.
-
-</details>
-
-### 234. **[Single choice]** [RES 2B §7.7–7.8] What is senior management’s responsibility for AML/CFT?
-
-a. A customer may seek complex cross-border structures or rapid transfers that have no commercial rationale and appear designed to conceal beneficial ownership, taxable income or the source of wealth.
-b. Derivatives can move value quickly, create complex payment and collateral flows, obscure beneficial ownership and involve cross-border counterparties.
-c. Screen customers, beneficial owners, counterparties, payment parties and relevant transactions before and during the relationship.
-d. Senior management and the board set risk appetite, approve the framework, provide resources, appoint accountable officers, receive meaningful reporting, challenge weaknesses and ensure remediation.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** d. Senior management and the board set risk appetite, approve the framework, provide resources, appoint accountable officers, receive meaningful reporting, challenge weaknesses and ensure remediation.
-
-**Rationale:** Senior management and the board set risk appetite, approve the framework, provide resources, appoint accountable officers, receive meaningful reporting, challenge weaknesses and ensure remediation. They cannot delegate away accountability by relying only on compliance or an automated system.
-
-</details>
-
-### 235. **[Single choice]** [RES 2B §7.9] What is the beneficial-owner question for a corporate derivatives customer?
-
-a. Determine the natural person who ultimately owns or controls the entity, including ownership or control through chains, voting rights, agreements or other means.
-b. Senior management and the board set risk appetite, approve the framework, provide resources, appoint accountable officers, receive meaningful reporting, challenge weaknesses and ensure remediation.
-c. Before launch, assess product features, settlement and collateral flows, counterparties, jurisdictions, anonymity, speed, technology, delivery channels, expected customer base and monitoring capability.
-d. Set scenarios and thresholds according to customer, product, geography, transaction and delivery-channel risk; investigate alerts in context; document decisions; tune false positives; and escalate patterns involving rapid transfers, unusual collateral, third parties, complex layering or activity inconsistent with the customer profile.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** a. Determine the natural person who ultimately owns or controls the entity, including ownership or control through chains, voting rights, agreements or other means.
-
-**Rationale:** Determine the natural person who ultimately owns or controls the entity, including ownership or control through chains, voting rights, agreements or other means. The guide highlights the relevant 25% threshold where applicable, but control can exist even without a simple 25% holding.
-
-</details>
-
-### 236. **[Single choice]** [RES 2B §7.10–7.11] How should a derivatives firm assess new-product AML/CFT risk?
-
-a. Evidence includes accurate risk assessments, timely CDD refreshes, effective screening, meaningful alerts, well-reasoned investigations, prompt STR decisions, reliable records, tested systems, trained staff, independent audit findings, remediation closure and management information showing outcomes rather than only activity volumes.
-b. Before launch, assess product features, settlement and collateral flows, counterparties, jurisdictions, anonymity, speed, technology, delivery channels, expected customer base and monitoring capability.
-c. Derivatives can move value quickly, create complex payment and collateral flows, obscure beneficial ownership and involve cross-border counterparties.
-d. Screen customers, beneficial owners, counterparties, payment parties and relevant transactions before and during the relationship.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** b. Before launch, assess product features, settlement and collateral flows, counterparties, jurisdictions, anonymity, speed, technology, delivery channels, expected customer base and monitoring capability.
-
-**Rationale:** Before launch, assess product features, settlement and collateral flows, counterparties, jurisdictions, anonymity, speed, technology, delivery channels, expected customer base and monitoring capability. Do not launch until controls, screening, alerts, approval, training and escalation are adequate for the identified risk.
-
-</details>
-
-### 237. **[Single choice]** [RES 2B §7.12] What is a risk-based transaction-monitoring approach?
-
-a. Senior management and the board set risk appetite, approve the framework, provide resources, appoint accountable officers, receive meaningful reporting, challenge weaknesses and ensure remediation.
-b. A customer may seek complex cross-border structures or rapid transfers that have no commercial rationale and appear designed to conceal beneficial ownership, taxable income or the source of wealth.
-c. Set scenarios and thresholds according to customer, product, geography, transaction and delivery-channel risk; investigate alerts in context; document decisions; tune false positives; and escalate patterns involving rapid transfers, unusual collateral, third parties, complex layering or activity inconsistent with the customer profile.
-d. Determine the natural person who ultimately owns or controls the entity, including ownership or control through chains, voting rights, agreements or other means.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** c. Set scenarios and thresholds according to customer, product, geography, transaction and delivery-channel risk; investigate alerts in context; document decisions; tune false positives; and escalate patterns involving rapid transfers, unusual collateral, third parties, complex layering or activity inconsistent with the customer profile.
-
-**Rationale:** Set scenarios and thresholds according to customer, product, geography, transaction and delivery-channel risk; investigate alerts in context; document decisions; tune false positives; and escalate patterns involving rapid transfers, unusual collateral, third parties, complex layering or activity inconsistent with the customer profile.
-
-</details>
-
-### 238. **[Single choice]** [RES 2B §7.13–7.16] What evidence shows that an AML/CFT framework is effective?
-
-a. Derivatives can move value quickly, create complex payment and collateral flows, obscure beneficial ownership and involve cross-border counterparties.
-b. Before launch, assess product features, settlement and collateral flows, counterparties, jurisdictions, anonymity, speed, technology, delivery channels, expected customer base and monitoring capability.
-c. Set scenarios and thresholds according to customer, product, geography, transaction and delivery-channel risk; investigate alerts in context; document decisions; tune false positives; and escalate patterns involving rapid transfers, unusual collateral, third parties, complex layering or activity inconsistent with the customer profile.
-d. Evidence includes accurate risk assessments, timely CDD refreshes, effective screening, meaningful alerts, well-reasoned investigations, prompt STR decisions, reliable records, tested systems, trained staff, independent audit findings, remediation closure and management information showing outcomes rather than only activity volumes.
-
-<details>
-<summary>Show answer</summary>
-
-**Answer:** d. Evidence includes accurate risk assessments, timely CDD refreshes, effective screening, meaningful alerts, well-reasoned investigations, prompt STR decisions, reliable records, tested systems, trained staff, independent audit findings, remediation closure and management information showing outcomes rather than only activity volumes.
-
-**Rationale:** Evidence includes accurate risk assessments, timely CDD refreshes, effective screening, meaningful alerts, well-reasoned investigations, prompt STR decisions, reliable records, tested systems, trained staff, independent audit findings, remediation closure and management information showing outcomes rather than only activity volumes.
-
-</details>
-
-### 239. **[Single choice]** [RES 2B Appendix A] State the main CAR routes in the derivatives guide.
-
-a. The appendix highlights an appropriate education or professional qualification, six transactions in listed SIPs in the preceding three years, or three consecutive years of relevant experience in the preceding ten years, with the prescribed evidence and independent-learning possibilities.
 b. An IRS exchanges interest-payment streams; an NDIRS exchanges interest amounts without physical delivery of the underlying currency or notional; a CCS exchanges cash flows in different currencies; an FRA fixes or settles an interest-rate exposure for a future period; and a commodity swap exchanges commodity-linked cash flows.
 c. A CCP interposes itself between counterparties, manages margin and default resources, and supports multilateral netting and risk management.
 d. Depending on product and counterparty, requirements may include reporting, central clearing, margin, trade documentation, record keeping, risk disclosure, business-conduct controls and eligible-counterparty or customer protections.
@@ -3881,7 +3305,583 @@ d. Depending on product and counterparty, requirements may include reporting, ce
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. The appendix highlights an appropriate education or professional qualification, six transactions in listed SIPs in the preceding three years, or three consecutive years of relevant experience in the preceding ten years, with the prescribed evidence and independent-learning possibilities.
+**Answer:** B. An IRS exchanges interest-payment streams; an NDIRS exchanges interest amounts without physical delivery of the underlying currency or notional; a CCS exchanges cash flows in different currencies; an FRA fixes or settles an interest-rate exposure for a future period; and a commodity swap exchanges commodity-linked cash flows.
+
+**Rationale:** An IRS exchanges interest-payment streams; an NDIRS exchanges interest amounts without physical delivery of the underlying currency or notional; a CCS exchanges cash flows in different currencies; an FRA fixes or settles an interest-rate exposure for a future period; and a commodity swap exchanges commodity-linked cash flows. The contract terms determine the exact economics.
+
+</details>
+
+### 204. **[Single choice]** [RES 2B §4.2] What is the role of a central counterparty in OTC derivatives?
+
+a. Exchange and CCP processes generally use standard contracts, daily marking-to-market and centralised margin and settlement, while OTC contracts may settle bilaterally on dates and methods negotiated by the parties.
+b. They provide prescribed information about risks and product features so the customer can make an informed decision.
+c. A CCP interposes itself between counterparties, manages margin and default resources, and supports multilateral netting and risk management.
+d. It standardises the legal framework for OTC transactions, including representations, events of default, termination, netting, payment terms and dispute provisions.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. A CCP interposes itself between counterparties, manages margin and default resources, and supports multilateral netting and risk management.
+
+**Rationale:** A CCP interposes itself between counterparties, manages margin and default resources, and supports multilateral netting and risk management. It reduces bilateral counterparty exposure but creates clearing, margin, liquidity, concentration and default-fund obligations.
+
+</details>
+
+### 205. **[Single choice]** [RES 2B §4.2–4.3] What regulatory requirements can apply to OTC derivatives?
+
+a. An IRS exchanges interest-payment streams; an NDIRS exchanges interest amounts without physical delivery of the underlying currency or notional; a CCS exchanges cash flows in different currencies; an FRA fixes or settles an interest-rate exposure for a future period; and a commodity swap exchanges commodity-linked cash flows.
+b. It is a privately negotiated derivative whose terms are not necessarily standardised or exchange-matched.
+c. Check the customer’s objective, sophistication, authority, financial resources, suitability, legal capacity, documentation, collateral and liquidity capacity, valuation method, termination rights, counterparty, costs, model assumptions, scenarios, worst-case loss and regulatory status.
+d. Depending on product and counterparty, requirements may include reporting, central clearing, margin, trade documentation, record keeping, risk disclosure, business-conduct controls and eligible-counterparty or customer protections.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Depending on product and counterparty, requirements may include reporting, central clearing, margin, trade documentation, record keeping, risk disclosure, business-conduct controls and eligible-counterparty or customer protections.
+
+**Rationale:** Depending on product and counterparty, requirements may include reporting, central clearing, margin, trade documentation, record keeping, risk disclosure, business-conduct controls and eligible-counterparty or customer protections. SGX-DC clearing rules apply where contracts are cleared through SGX-DC.
+
+</details>
+
+### 206. **[Single choice]** [RES 2B §4.3] What is the significance of SGX Titan OTC and margin rules?
+
+a. The clearing platform and margin methodology determine how trades are accepted, valued, margined, netted and settled.
+b. They provide prescribed information about risks and product features so the customer can make an informed decision.
+c. A CCP interposes itself between counterparties, manages margin and default resources, and supports multilateral netting and risk management.
+d. Depending on product and counterparty, requirements may include reporting, central clearing, margin, trade documentation, record keeping, risk disclosure, business-conduct controls and eligible-counterparty or customer protections.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. The clearing platform and margin methodology determine how trades are accepted, valued, margined, netted and settled.
+
+**Rationale:** The clearing platform and margin methodology determine how trades are accepted, valued, margined, netted and settled. Representatives must understand initial and variation margin, eligible collateral, calls, deadlines and default procedures rather than treating an OTC derivative as an unsecured promise with no liquidity consequence.
+
+</details>
+
+### 207. **[Single choice]** [RES 2B §4.4] What should Form 13 and Form 14 risk disclosures achieve?
+
+a. Check the customer’s objective, sophistication, authority, financial resources, suitability, legal capacity, documentation, collateral and liquidity capacity, valuation method, termination rights, counterparty, costs, model assumptions, scenarios, worst-case loss and regulatory status.
+b. They provide prescribed information about risks and product features so the customer can make an informed decision.
+c. It standardises the legal framework for OTC transactions, including representations, events of default, termination, netting, payment terms and dispute provisions.
+d. Exchange and CCP processes generally use standard contracts, daily marking-to-market and centralised margin and settlement, while OTC contracts may settle bilaterally on dates and methods negotiated by the parties.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. They provide prescribed information about risks and product features so the customer can make an informed decision.
+
+**Rationale:** They provide prescribed information about risks and product features so the customer can make an informed decision. The relevant form, delivery, signature, date and supporting records must be completed before or in connection with the transaction as required; a disclosure cannot cure misleading advice.
+
+</details>
+
+### 208. **[Single choice]** [RES 2B §4.5] Why is an ISDA Master Agreement important?
+
+a. A CCP interposes itself between counterparties, manages margin and default resources, and supports multilateral netting and risk management.
+b. It is a privately negotiated derivative whose terms are not necessarily standardised or exchange-matched.
+c. It standardises the legal framework for OTC transactions, including representations, events of default, termination, netting, payment terms and dispute provisions.
+d. An IRS exchanges interest-payment streams; an NDIRS exchanges interest amounts without physical delivery of the underlying currency or notional; a CCS exchanges cash flows in different currencies; an FRA fixes or settles an interest-rate exposure for a future period; and a commodity swap exchanges commodity-linked cash flows.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. It standardises the legal framework for OTC transactions, including representations, events of default, termination, netting, payment terms and dispute provisions.
+
+**Rationale:** It standardises the legal framework for OTC transactions, including representations, events of default, termination, netting, payment terms and dispute provisions. A Credit Support Annex may govern collateral. Representatives should ensure the transaction is within the authorised documentation and escalate legal or documentation gaps.
+
+</details>
+
+### 209. **[Single choice]** [RES 2B §4.5] How does OTC settlement differ from exchange settlement?
+
+a. They provide prescribed information about risks and product features so the customer can make an informed decision.
+b. The clearing platform and margin methodology determine how trades are accepted, valued, margined, netted and settled.
+c. Depending on product and counterparty, requirements may include reporting, central clearing, margin, trade documentation, record keeping, risk disclosure, business-conduct controls and eligible-counterparty or customer protections.
+d. Exchange and CCP processes generally use standard contracts, daily marking-to-market and centralised margin and settlement, while OTC contracts may settle bilaterally on dates and methods negotiated by the parties.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Exchange and CCP processes generally use standard contracts, daily marking-to-market and centralised margin and settlement, while OTC contracts may settle bilaterally on dates and methods negotiated by the parties.
+
+**Rationale:** Exchange and CCP processes generally use standard contracts, daily marking-to-market and centralised margin and settlement, while OTC contracts may settle bilaterally on dates and methods negotiated by the parties. Bilateral valuation, payment, confirmation, collateral and dispute controls are therefore critical.
+
+</details>
+
+### 210. **[Single choice]** [RES 2B §4.5] What should a representative check before recommending a bespoke OTC derivative?
+
+a. Check the customer’s objective, sophistication, authority, financial resources, suitability, legal capacity, documentation, collateral and liquidity capacity, valuation method, termination rights, counterparty, costs, model assumptions, scenarios, worst-case loss and regulatory status.
+b. It is a privately negotiated derivative whose terms are not necessarily standardised or exchange-matched.
+c. It standardises the legal framework for OTC transactions, including representations, events of default, termination, netting, payment terms and dispute provisions.
+d. Exchange and CCP processes generally use standard contracts, daily marking-to-market and centralised margin and settlement, while OTC contracts may settle bilaterally on dates and methods negotiated by the parties.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Check the customer’s objective, sophistication, authority, financial resources, suitability, legal capacity, documentation, collateral and liquidity capacity, valuation method, termination rights, counterparty, costs, model assumptions, scenarios, worst-case loss and regulatory status.
+
+**Rationale:** Check the customer’s objective, sophistication, authority, financial resources, suitability, legal capacity, documentation, collateral and liquidity capacity, valuation method, termination rights, counterparty, costs, model assumptions, scenarios, worst-case loss and regulatory status. If the product cannot be explained clearly, it should not be presented as routine.
+
+</details>
+
+### 211. **[Single choice]** [RES 2B §5.1–5.3] Why do leverage and complexity make ethics especially important in derivatives?
+
+a. Records make the representative accountable for advice, pricing, conflicts, consent, execution and escalation.
+b. Leverage can magnify losses, products may be difficult to value, and customers can be exposed to margin calls or obligations exceeding the initial amount.
+c. Identify the facts and affected customer, recognise duties of honesty, suitability and fair dealing, reject the concealment, explain the margin risk, document the issue and escalate to compliance or management.
+d. Disclose and manage the conflict, apply the firm’s execution policy, compare the customer outcome across venues or counterparties, obtain required approval and preserve evidence.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Leverage can magnify losses, products may be difficult to value, and customers can be exposed to margin calls or obligations exceeding the initial amount.
+
+**Rationale:** Leverage can magnify losses, products may be difficult to value, and customers can be exposed to margin calls or obligations exceeding the initial amount. Ethical conduct requires clear explanations, reasonable-basis analysis, fair dealing and resistance to sales incentives that encourage unsuitable risk.
+
+</details>
+
+### 212. **[Single choice]** [RES 2B §5.4] What professional standards apply to market information and market manipulation?
+
+a. Revealing that a particular customer is behind a trade can expose confidential strategy, create information advantages for others or affect price and negotiation.
+b. Leverage can magnify losses, products may be difficult to value, and customers can be exposed to margin calls or obligations exceeding the initial amount.
+c. Use reliable sources, distinguish fact from opinion, disclose material assumptions and do not create false signals, spread rumours or use customer information for personal benefit.
+d. Acknowledge and escalate complaints promptly through the firm’s independent process, preserve records and avoid retaliation or defensive concealment.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Use reliable sources, distinguish fact from opinion, disclose material assumptions and do not create false signals, spread rumours or use customer information for personal benefit.
+
+**Rationale:** Use reliable sources, distinguish fact from opinion, disclose material assumptions and do not create false signals, spread rumours or use customer information for personal benefit. The same professional duty applies whether the information concerns an exchange-traded contract, OTC instrument or underlying market.
+
+</details>
+
+### 213. **[Single choice]** [RES 2B §5.4] How should complaints and performance claims be handled?
+
+a. Consider price or rate, spread, commission, financing and collateral cost, size, speed, likelihood of execution and settlement, liquidity, counterparty, market impact, product terms and the customer’s instructions.
+b. It is a global set of principles for the wholesale FX market.
+c. Investigate the product, counterparty, market, assumptions and customer circumstances sufficiently to support the recommendation; communicate material risks and uncertainties in a comprehensible way; and retain records that show the basis, approvals, instructions and outcome.
+d. Acknowledge and escalate complaints promptly through the firm’s independent process, preserve records and avoid retaliation or defensive concealment.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Acknowledge and escalate complaints promptly through the firm’s independent process, preserve records and avoid retaliation or defensive concealment.
+
+**Rationale:** Acknowledge and escalate complaints promptly through the firm’s independent process, preserve records and avoid retaliation or defensive concealment. Performance claims must be fair, consistent, supported by methodology and balanced for leverage, fees, losses, survivorship, time period and liquidity.
+
+</details>
+
+### 214. **[Single choice]** [RES 2B §5.4] Why can disclosing a customer’s principal identity be a conflict?
+
+a. Revealing that a particular customer is behind a trade can expose confidential strategy, create information advantages for others or affect price and negotiation.
+b. Records make the representative accountable for advice, pricing, conflicts, consent, execution and escalation.
+c. Identify the facts and affected customer, recognise duties of honesty, suitability and fair dealing, reject the concealment, explain the margin risk, document the issue and escalate to compliance or management.
+d. Disclose and manage the conflict, apply the firm’s execution policy, compare the customer outcome across venues or counterparties, obtain required approval and preserve evidence.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Revealing that a particular customer is behind a trade can expose confidential strategy, create information advantages for others or affect price and negotiation.
+
+**Rationale:** Revealing that a particular customer is behind a trade can expose confidential strategy, create information advantages for others or affect price and negotiation. Protect customer identity and order information unless disclosure is authorised or required.
+
+</details>
+
+### 215. **[Single choice]** [RES 2B §5.4] What do diligence, reasonable basis and communication standards require?
+
+a. Acknowledge and escalate complaints promptly through the firm’s independent process, preserve records and avoid retaliation or defensive concealment.
+b. Investigate the product, counterparty, market, assumptions and customer circumstances sufficiently to support the recommendation; communicate material risks and uncertainties in a comprehensible way; and retain records that show the basis, approvals, instructions and outcome.
+c. Leverage can magnify losses, products may be difficult to value, and customers can be exposed to margin calls or obligations exceeding the initial amount.
+d. Use reliable sources, distinguish fact from opinion, disclose material assumptions and do not create false signals, spread rumours or use customer information for personal benefit.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Investigate the product, counterparty, market, assumptions and customer circumstances sufficiently to support the recommendation; communicate material risks and uncertainties in a comprehensible way; and retain records that show the basis, approvals, instructions and outcome.
+
+**Rationale:** Investigate the product, counterparty, market, assumptions and customer circumstances sufficiently to support the recommendation; communicate material risks and uncertainties in a comprehensible way; and retain records that show the basis, approvals, instructions and outcome.
+
+</details>
+
+### 216. **[Single choice]** [RES 2B §5.4] What is the BIS FX Global Code and what themes does the guide associate with it?
+
+a. Consider price or rate, spread, commission, financing and collateral cost, size, speed, likelihood of execution and settlement, liquidity, counterparty, market impact, product terms and the customer’s instructions.
+b. Revealing that a particular customer is behind a trade can expose confidential strategy, create information advantages for others or affect price and negotiation.
+c. It is a global set of principles for the wholesale FX market.
+d. Investigate the product, counterparty, market, assumptions and customer circumstances sufficiently to support the recommendation; communicate material risks and uncertainties in a comprehensible way; and retain records that show the basis, approvals, instructions and outcome.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. It is a global set of principles for the wholesale FX market.
+
+**Rationale:** It is a global set of principles for the wholesale FX market. The guide associates it with ethics, governance, execution, information sharing, risk management and confirmation and settlement, and highlights six broad principles requiring transparent, fair, robust and well-controlled conduct.
+
+</details>
+
+### 217. **[Single choice]** [RES 2B §5.5] How is best execution applied to a derivatives transaction?
+
+a. Records make the representative accountable for advice, pricing, conflicts, consent, execution and escalation.
+b. Disclose and manage the conflict, apply the firm’s execution policy, compare the customer outcome across venues or counterparties, obtain required approval and preserve evidence.
+c. Identify the facts and affected customer, recognise duties of honesty, suitability and fair dealing, reject the concealment, explain the margin risk, document the issue and escalate to compliance or management.
+d. Consider price or rate, spread, commission, financing and collateral cost, size, speed, likelihood of execution and settlement, liquidity, counterparty, market impact, product terms and the customer’s instructions.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Consider price or rate, spread, commission, financing and collateral cost, size, speed, likelihood of execution and settlement, liquidity, counterparty, market impact, product terms and the customer’s instructions.
+
+**Rationale:** Consider price or rate, spread, commission, financing and collateral cost, size, speed, likelihood of execution and settlement, liquidity, counterparty, market impact, product terms and the customer’s instructions. For OTC trades, the firm should have a reasonable process for comparing quotes or otherwise demonstrating a fair outcome.
+
+</details>
+
+### 218. **[Single choice]** [RES 2B §5.6] Apply the ethical framework to a salesperson told to hide a large possible margin call.
+
+a. Identify the facts and affected customer, recognise duties of honesty, suitability and fair dealing, reject the concealment, explain the margin risk, document the issue and escalate to compliance or management.
+b. Acknowledge and escalate complaints promptly through the firm’s independent process, preserve records and avoid retaliation or defensive concealment.
+c. Leverage can magnify losses, products may be difficult to value, and customers can be exposed to margin calls or obligations exceeding the initial amount.
+d. Use reliable sources, distinguish fact from opinion, disclose material assumptions and do not create false signals, spread rumours or use customer information for personal benefit.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Identify the facts and affected customer, recognise duties of honesty, suitability and fair dealing, reject the concealment, explain the margin risk, document the issue and escalate to compliance or management.
+
+**Rationale:** Identify the facts and affected customer, recognise duties of honesty, suitability and fair dealing, reject the concealment, explain the margin risk, document the issue and escalate to compliance or management. If the firm will not correct the communication, do not proceed and use the applicable whistleblowing or escalation channel.
+
+</details>
+
+### 219. **[Single choice]** [RES 2B §5.4–5.6] What should a representative do when compensation conflicts with best execution?
+
+a. It is a global set of principles for the wholesale FX market.
+b. Disclose and manage the conflict, apply the firm’s execution policy, compare the customer outcome across venues or counterparties, obtain required approval and preserve evidence.
+c. Revealing that a particular customer is behind a trade can expose confidential strategy, create information advantages for others or affect price and negotiation.
+d. Investigate the product, counterparty, market, assumptions and customer circumstances sufficiently to support the recommendation; communicate material risks and uncertainties in a comprehensible way; and retain records that show the basis, approvals, instructions and outcome.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Disclose and manage the conflict, apply the firm’s execution policy, compare the customer outcome across venues or counterparties, obtain required approval and preserve evidence.
+
+**Rationale:** Disclose and manage the conflict, apply the firm’s execution policy, compare the customer outcome across venues or counterparties, obtain required approval and preserve evidence. Compensation cannot justify a venue, counterparty or product choice that produces an inferior customer result.
+
+</details>
+
+### 220. **[Single choice]** [RES 2B §5.4–5.6] Why are records an ethical control rather than mere administration?
+
+a. Disclose and manage the conflict, apply the firm’s execution policy, compare the customer outcome across venues or counterparties, obtain required approval and preserve evidence.
+b. Consider price or rate, spread, commission, financing and collateral cost, size, speed, likelihood of execution and settlement, liquidity, counterparty, market impact, product terms and the customer’s instructions.
+c. Records make the representative accountable for advice, pricing, conflicts, consent, execution and escalation.
+d. Identify the facts and affected customer, recognise duties of honesty, suitability and fair dealing, reject the concealment, explain the margin risk, document the issue and escalate to compliance or management.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Records make the representative accountable for advice, pricing, conflicts, consent, execution and escalation.
+
+**Rationale:** Records make the representative accountable for advice, pricing, conflicts, consent, execution and escalation. They allow the firm and regulator to test whether conduct matched the customer’s interest and the stated process, and discourage post hoc rationalisation.
+
+</details>
+
+### 221. **[Single choice]** [RES 2B §6.1–6.2] Compare fundamental, technical and global-macro analysis.
+
+a. Gaps, illiquidity, limit moves, system outages and counterparty failure may prevent execution at the chosen stop.
+b. Confirm authority and limits, use approved venues and counterparties, check orders and margin, apply best execution and allocation controls, record rationale and customer communications, monitor execution, collateral, P&L and exposure, and escalate exceptions, breaches or market disruptions.
+c. Define the objective, expected return, acceptable risk, time horizon, products, underlying exposure, entry and exit rules, leverage, margin and collateral, liquidity, stop-loss or hedge rules, concentration limits, monitoring and contingency actions.
+d. Fundamental analysis evaluates economic, financial and issuer or commodity drivers; technical analysis studies price, volume, trends and patterns; global-macro analysis considers rates, currencies, inflation, policy, growth, geopolitical events and cross-market relationships.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Fundamental analysis evaluates economic, financial and issuer or commodity drivers; technical analysis studies price, volume, trends and patterns; global-macro analysis considers rates, currencies, inflation, policy, growth, geopolitical events and cross-market relationships.
+
+**Rationale:** Fundamental analysis evaluates economic, financial and issuer or commodity drivers; technical analysis studies price, volume, trends and patterns; global-macro analysis considers rates, currencies, inflation, policy, growth, geopolitical events and cross-market relationships. A sound process states assumptions and limitations rather than treating any method as certain.
+
+</details>
+
+### 222. **[Single choice]** [RES 2B §6.3] What should a derivatives trading strategy specify?
+
+a. Define the objective, expected return, acceptable risk, time horizon, products, underlying exposure, entry and exit rules, leverage, margin and collateral, liquidity, stop-loss or hedge rules, concentration limits, monitoring and contingency actions.
+b. Market risk arises from price, rate, FX or volatility changes; credit risk from counterparty default; liquidity risk from inability to exit or fund margin; gap risk from discontinuous price moves; and operational or technology risk from failed processes or systems.
+c. In addition to identity and objectives, assess experience with leverage and the specific derivative, financial resources, margin capacity, liquidity, loss capacity, authority, hedging purpose, knowledge of close-out and collateral, and whether the customer can understand the product’s payoff and worst-case scenarios.
+d. Apply the relevant CAR or CKA, obtain the required account approval, assess the product and customer, provide disclosures and warnings, document the outcome and monitor the account.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Define the objective, expected return, acceptable risk, time horizon, products, underlying exposure, entry and exit rules, leverage, margin and collateral, liquidity, stop-loss or hedge rules, concentration limits, monitoring and contingency actions.
+
+**Rationale:** Define the objective, expected return, acceptable risk, time horizon, products, underlying exposure, entry and exit rules, leverage, margin and collateral, liquidity, stop-loss or hedge rules, concentration limits, monitoring and contingency actions. Constraints should be consistent with the customer’s resources and mandate.
+
+</details>
+
+### 223. **[Single choice]** [RES 2B §6.4] What controls are important during strategy implementation?
+
+a. The framework represents supervisory attention to the firm’s risk profile, governance, controls, resilience and remediation.
+b. Confirm authority and limits, use approved venues and counterparties, check orders and margin, apply best execution and allocation controls, record rationale and customer communications, monitor execution, collateral, P&L and exposure, and escalate exceptions, breaches or market disruptions.
+c. Positions that appear diversified may move together during stress, increasing rather than reducing exposure.
+d. The market moves sharply from one price to another without executable prices between them, so a stop-loss may fill far away from the stop level or not at all.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Confirm authority and limits, use approved venues and counterparties, check orders and margin, apply best execution and allocation controls, record rationale and customer communications, monitor execution, collateral, P&L and exposure, and escalate exceptions, breaches or market disruptions.
+
+**Rationale:** Confirm authority and limits, use approved venues and counterparties, check orders and margin, apply best execution and allocation controls, record rationale and customer communications, monitor execution, collateral, P&L and exposure, and escalate exceptions, breaches or market disruptions.
+
+</details>
+
+### 224. **[Single choice]** [RES 2B §6.4] Why are stop-losses and daily loss limits not complete risk controls?
+
+a. Confirm authority and limits, use approved venues and counterparties, check orders and margin, apply best execution and allocation controls, record rationale and customer communications, monitor execution, collateral, P&L and exposure, and escalate exceptions, breaches or market disruptions.
+b. Fundamental analysis evaluates economic, financial and issuer or commodity drivers; technical analysis studies price, volume, trends and patterns; global-macro analysis considers rates, currencies, inflation, policy, growth, geopolitical events and cross-market relationships.
+c. Gaps, illiquidity, limit moves, system outages and counterparty failure may prevent execution at the chosen stop.
+d. Define the objective, expected return, acceptable risk, time horizon, products, underlying exposure, entry and exit rules, leverage, margin and collateral, liquidity, stop-loss or hedge rules, concentration limits, monitoring and contingency actions.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Gaps, illiquidity, limit moves, system outages and counterparty failure may prevent execution at the chosen stop.
+
+**Rationale:** Gaps, illiquidity, limit moves, system outages and counterparty failure may prevent execution at the chosen stop. Limits reduce intended exposure but do not guarantee a maximum loss; they must be supported by stress testing, liquidity planning, margin monitoring and escalation.
+
+</details>
+
+### 225. **[Single choice]** [RES 2B §6.5] What KYC information is especially important for derivatives customers?
+
+a. Market risk arises from price, rate, FX or volatility changes; credit risk from counterparty default; liquidity risk from inability to exit or fund margin; gap risk from discontinuous price moves; and operational or technology risk from failed processes or systems.
+b. Apply the relevant CAR or CKA, obtain the required account approval, assess the product and customer, provide disclosures and warnings, document the outcome and monitor the account.
+c. Gaps, illiquidity, limit moves, system outages and counterparty failure may prevent execution at the chosen stop.
+d. In addition to identity and objectives, assess experience with leverage and the specific derivative, financial resources, margin capacity, liquidity, loss capacity, authority, hedging purpose, knowledge of close-out and collateral, and whether the customer can understand the product’s payoff and worst-case scenarios.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. In addition to identity and objectives, assess experience with leverage and the specific derivative, financial resources, margin capacity, liquidity, loss capacity, authority, hedging purpose, knowledge of close-out and collateral, and whether the customer can understand the product’s payoff and worst-case scenarios.
+
+**Rationale:** In addition to identity and objectives, assess experience with leverage and the specific derivative, financial resources, margin capacity, liquidity, loss capacity, authority, hedging purpose, knowledge of close-out and collateral, and whether the customer can understand the product’s payoff and worst-case scenarios.
+
+</details>
+
+### 226. **[Single choice]** [RES 2B §6.6] What safeguards apply to a retail customer’s SIP trading account?
+
+a. Apply the relevant CAR or CKA, obtain the required account approval, assess the product and customer, provide disclosures and warnings, document the outcome and monitor the account.
+b. The framework represents supervisory attention to the firm’s risk profile, governance, controls, resilience and remediation.
+c. Positions that appear diversified may move together during stress, increasing rather than reducing exposure.
+d. The market moves sharply from one price to another without executable prices between them, so a stop-loss may fill far away from the stop level or not at all.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Apply the relevant CAR or CKA, obtain the required account approval, assess the product and customer, provide disclosures and warnings, document the outcome and monitor the account.
+
+**Rationale:** Apply the relevant CAR or CKA, obtain the required account approval, assess the product and customer, provide disclosures and warnings, document the outcome and monitor the account. Knowledge assessment does not remove suitability, best-execution, conduct or risk-disclosure duties.
+
+</details>
+
+### 227. **[Single choice]** [RES 2B §6.7] Name and explain five risks in derivatives dealing.
+
+a. Confirm authority and limits, use approved venues and counterparties, check orders and margin, apply best execution and allocation controls, record rationale and customer communications, monitor execution, collateral, P&L and exposure, and escalate exceptions, breaches or market disruptions.
+b. Market risk arises from price, rate, FX or volatility changes; credit risk from counterparty default; liquidity risk from inability to exit or fund margin; gap risk from discontinuous price moves; and operational or technology risk from failed processes or systems.
+c. Fundamental analysis evaluates economic, financial and issuer or commodity drivers; technical analysis studies price, volume, trends and patterns; global-macro analysis considers rates, currencies, inflation, policy, growth, geopolitical events and cross-market relationships.
+d. Define the objective, expected return, acceptable risk, time horizon, products, underlying exposure, entry and exit rules, leverage, margin and collateral, liquidity, stop-loss or hedge rules, concentration limits, monitoring and contingency actions.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Market risk arises from price, rate, FX or volatility changes; credit risk from counterparty default; liquidity risk from inability to exit or fund margin; gap risk from discontinuous price moves; and operational or technology risk from failed processes or systems.
+
+**Rationale:** Market risk arises from price, rate, FX or volatility changes; credit risk from counterparty default; liquidity risk from inability to exit or fund margin; gap risk from discontinuous price moves; and operational or technology risk from failed processes or systems. Other guide categories include correlation, political/legal, capital, regulatory and interconnected risks.
+
+</details>
+
+### 228. **[Single choice]** [RES 2B §6.7] What is correlation risk?
+
+a. Apply the relevant CAR or CKA, obtain the required account approval, assess the product and customer, provide disclosures and warnings, document the outcome and monitor the account.
+b. Gaps, illiquidity, limit moves, system outages and counterparty failure may prevent execution at the chosen stop.
+c. Positions that appear diversified may move together during stress, increasing rather than reducing exposure.
+d. In addition to identity and objectives, assess experience with leverage and the specific derivative, financial resources, margin capacity, liquidity, loss capacity, authority, hedging purpose, knowledge of close-out and collateral, and whether the customer can understand the product’s payoff and worst-case scenarios.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Positions that appear diversified may move together during stress, increasing rather than reducing exposure.
+
+**Rationale:** Positions that appear diversified may move together during stress, increasing rather than reducing exposure. Correlation can change abruptly, so risk management should test concentrations, common factors, basis relationships and stressed correlations.
+
+</details>
+
+### 229. **[Single choice]** [RES 2B §6.7] What is gap risk?
+
+a. The framework represents supervisory attention to the firm’s risk profile, governance, controls, resilience and remediation.
+b. Positions that appear diversified may move together during stress, increasing rather than reducing exposure.
+c. Market risk arises from price, rate, FX or volatility changes; credit risk from counterparty default; liquidity risk from inability to exit or fund margin; gap risk from discontinuous price moves; and operational or technology risk from failed processes or systems.
+d. The market moves sharply from one price to another without executable prices between them, so a stop-loss may fill far away from the stop level or not at all.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. The market moves sharply from one price to another without executable prices between them, so a stop-loss may fill far away from the stop level or not at all.
+
+**Rationale:** The market moves sharply from one price to another without executable prices between them, so a stop-loss may fill far away from the stop level or not at all. It is particularly important for leveraged, event-sensitive or illiquid positions.
+
+</details>
+
+### 230. **[Single choice]** [RES 2B §6.7] What does the guide mean by MAS CRAFT and impact-and-risk supervision?
+
+a. The framework represents supervisory attention to the firm’s risk profile, governance, controls, resilience and remediation.
+b. Confirm authority and limits, use approved venues and counterparties, check orders and margin, apply best execution and allocation controls, record rationale and customer communications, monitor execution, collateral, P&L and exposure, and escalate exceptions, breaches or market disruptions.
+c. Fundamental analysis evaluates economic, financial and issuer or commodity drivers; technical analysis studies price, volume, trends and patterns; global-macro analysis considers rates, currencies, inflation, policy, growth, geopolitical events and cross-market relationships.
+d. Define the objective, expected return, acceptable risk, time horizon, products, underlying exposure, entry and exit rules, leverage, margin and collateral, liquidity, stop-loss or hedge rules, concentration limits, monitoring and contingency actions.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. The framework represents supervisory attention to the firm’s risk profile, governance, controls, resilience and remediation.
+
+**Rationale:** The framework represents supervisory attention to the firm’s risk profile, governance, controls, resilience and remediation. The practical lesson is to use diagnostic information and impact assessment to identify material weaknesses, correct them and demonstrate that controls operate effectively.
+
+</details>
+
+### 231. **[Single choice]** [RES 2B §7.1–7.4] Why must AML/CFT controls cover derivatives customers and counterparties?
+
+a. Screen customers, beneficial owners, counterparties, payment parties and relevant transactions before and during the relationship.
+b. Derivatives can move value quickly, create complex payment and collateral flows, obscure beneficial ownership and involve cross-border counterparties.
+c. Set scenarios and thresholds according to customer, product, geography, transaction and delivery-channel risk; investigate alerts in context; document decisions; tune false positives; and escalate patterns involving rapid transfers, unusual collateral, third parties, complex layering or activity inconsistent with the customer profile.
+d. Evidence includes accurate risk assessments, timely CDD refreshes, effective screening, meaningful alerts, well-reasoned investigations, prompt STR decisions, reliable records, tested systems, trained staff, independent audit findings, remediation closure and management information showing outcomes rather than only activity volumes.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Derivatives can move value quickly, create complex payment and collateral flows, obscure beneficial ownership and involve cross-border counterparties.
+
+**Rationale:** Derivatives can move value quickly, create complex payment and collateral flows, obscure beneficial ownership and involve cross-border counterparties. The firm must understand the customer, purpose, expected activity, counterparties, jurisdictions and transaction flows and apply the same risk-based AML/CFT framework.
+
+</details>
+
+### 232. **[Single choice]** [RES 2B §7.5] How should sanctions screening interact with derivatives execution and settlement?
+
+a. Determine the natural person who ultimately owns or controls the entity, including ownership or control through chains, voting rights, agreements or other means.
+b. A customer may seek complex cross-border structures or rapid transfers that have no commercial rationale and appear designed to conceal beneficial ownership, taxable income or the source of wealth.
+c. Screen customers, beneficial owners, counterparties, payment parties and relevant transactions before and during the relationship.
+d. Senior management and the board set risk appetite, approve the framework, provide resources, appoint accountable officers, receive meaningful reporting, challenge weaknesses and ensure remediation.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Screen customers, beneficial owners, counterparties, payment parties and relevant transactions before and during the relationship.
+
+**Rationale:** Screen customers, beneficial owners, counterparties, payment parties and relevant transactions before and during the relationship. A potential match or prohibited connection should be held, escalated and handled under the applicable asset-freezing, reporting and non-dealing requirements; staff must not help the parties evade screening.
+
+</details>
+
+### 233. **[Single choice]** [RES 2B §7.6] Give an example of a tax-crime red flag in a derivatives relationship.
+
+a. Evidence includes accurate risk assessments, timely CDD refreshes, effective screening, meaningful alerts, well-reasoned investigations, prompt STR decisions, reliable records, tested systems, trained staff, independent audit findings, remediation closure and management information showing outcomes rather than only activity volumes.
+b. Set scenarios and thresholds according to customer, product, geography, transaction and delivery-channel risk; investigate alerts in context; document decisions; tune false positives; and escalate patterns involving rapid transfers, unusual collateral, third parties, complex layering or activity inconsistent with the customer profile.
+c. Before launch, assess product features, settlement and collateral flows, counterparties, jurisdictions, anonymity, speed, technology, delivery channels, expected customer base and monitoring capability.
+d. A customer may seek complex cross-border structures or rapid transfers that have no commercial rationale and appear designed to conceal beneficial ownership, taxable income or the source of wealth.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. A customer may seek complex cross-border structures or rapid transfers that have no commercial rationale and appear designed to conceal beneficial ownership, taxable income or the source of wealth.
+
+**Rationale:** A customer may seek complex cross-border structures or rapid transfers that have no commercial rationale and appear designed to conceal beneficial ownership, taxable income or the source of wealth. The firm should investigate purpose and source of funds and escalate if suspicion is formed.
+
+</details>
+
+### 234. **[Single choice]** [RES 2B §7.7–7.8] What is senior management’s responsibility for AML/CFT?
+
+a. Senior management and the board set risk appetite, approve the framework, provide resources, appoint accountable officers, receive meaningful reporting, challenge weaknesses and ensure remediation.
+b. A customer may seek complex cross-border structures or rapid transfers that have no commercial rationale and appear designed to conceal beneficial ownership, taxable income or the source of wealth.
+c. Derivatives can move value quickly, create complex payment and collateral flows, obscure beneficial ownership and involve cross-border counterparties.
+d. Screen customers, beneficial owners, counterparties, payment parties and relevant transactions before and during the relationship.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Senior management and the board set risk appetite, approve the framework, provide resources, appoint accountable officers, receive meaningful reporting, challenge weaknesses and ensure remediation.
+
+**Rationale:** Senior management and the board set risk appetite, approve the framework, provide resources, appoint accountable officers, receive meaningful reporting, challenge weaknesses and ensure remediation. They cannot delegate away accountability by relying only on compliance or an automated system.
+
+</details>
+
+### 235. **[Single choice]** [RES 2B §7.9] What is the beneficial-owner question for a corporate derivatives customer?
+
+a. Set scenarios and thresholds according to customer, product, geography, transaction and delivery-channel risk; investigate alerts in context; document decisions; tune false positives; and escalate patterns involving rapid transfers, unusual collateral, third parties, complex layering or activity inconsistent with the customer profile.
+b. Determine the natural person who ultimately owns or controls the entity, including ownership or control through chains, voting rights, agreements or other means.
+c. Senior management and the board set risk appetite, approve the framework, provide resources, appoint accountable officers, receive meaningful reporting, challenge weaknesses and ensure remediation.
+d. Before launch, assess product features, settlement and collateral flows, counterparties, jurisdictions, anonymity, speed, technology, delivery channels, expected customer base and monitoring capability.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Determine the natural person who ultimately owns or controls the entity, including ownership or control through chains, voting rights, agreements or other means.
+
+**Rationale:** Determine the natural person who ultimately owns or controls the entity, including ownership or control through chains, voting rights, agreements or other means. The guide highlights the relevant 25% threshold where applicable, but control can exist even without a simple 25% holding.
+
+</details>
+
+### 236. **[Single choice]** [RES 2B §7.10–7.11] How should a derivatives firm assess new-product AML/CFT risk?
+
+a. Screen customers, beneficial owners, counterparties, payment parties and relevant transactions before and during the relationship.
+b. Evidence includes accurate risk assessments, timely CDD refreshes, effective screening, meaningful alerts, well-reasoned investigations, prompt STR decisions, reliable records, tested systems, trained staff, independent audit findings, remediation closure and management information showing outcomes rather than only activity volumes.
+c. Before launch, assess product features, settlement and collateral flows, counterparties, jurisdictions, anonymity, speed, technology, delivery channels, expected customer base and monitoring capability.
+d. Derivatives can move value quickly, create complex payment and collateral flows, obscure beneficial ownership and involve cross-border counterparties.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Before launch, assess product features, settlement and collateral flows, counterparties, jurisdictions, anonymity, speed, technology, delivery channels, expected customer base and monitoring capability.
+
+**Rationale:** Before launch, assess product features, settlement and collateral flows, counterparties, jurisdictions, anonymity, speed, technology, delivery channels, expected customer base and monitoring capability. Do not launch until controls, screening, alerts, approval, training and escalation are adequate for the identified risk.
+
+</details>
+
+### 237. **[Single choice]** [RES 2B §7.12] What is a risk-based transaction-monitoring approach?
+
+a. Determine the natural person who ultimately owns or controls the entity, including ownership or control through chains, voting rights, agreements or other means.
+b. Senior management and the board set risk appetite, approve the framework, provide resources, appoint accountable officers, receive meaningful reporting, challenge weaknesses and ensure remediation.
+c. A customer may seek complex cross-border structures or rapid transfers that have no commercial rationale and appear designed to conceal beneficial ownership, taxable income or the source of wealth.
+d. Set scenarios and thresholds according to customer, product, geography, transaction and delivery-channel risk; investigate alerts in context; document decisions; tune false positives; and escalate patterns involving rapid transfers, unusual collateral, third parties, complex layering or activity inconsistent with the customer profile.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Set scenarios and thresholds according to customer, product, geography, transaction and delivery-channel risk; investigate alerts in context; document decisions; tune false positives; and escalate patterns involving rapid transfers, unusual collateral, third parties, complex layering or activity inconsistent with the customer profile.
+
+**Rationale:** Set scenarios and thresholds according to customer, product, geography, transaction and delivery-channel risk; investigate alerts in context; document decisions; tune false positives; and escalate patterns involving rapid transfers, unusual collateral, third parties, complex layering or activity inconsistent with the customer profile.
+
+</details>
+
+### 238. **[Single choice]** [RES 2B §7.13–7.16] What evidence shows that an AML/CFT framework is effective?
+
+a. Evidence includes accurate risk assessments, timely CDD refreshes, effective screening, meaningful alerts, well-reasoned investigations, prompt STR decisions, reliable records, tested systems, trained staff, independent audit findings, remediation closure and management information showing outcomes rather than only activity volumes.
+b. Derivatives can move value quickly, create complex payment and collateral flows, obscure beneficial ownership and involve cross-border counterparties.
+c. Before launch, assess product features, settlement and collateral flows, counterparties, jurisdictions, anonymity, speed, technology, delivery channels, expected customer base and monitoring capability.
+d. Set scenarios and thresholds according to customer, product, geography, transaction and delivery-channel risk; investigate alerts in context; document decisions; tune false positives; and escalate patterns involving rapid transfers, unusual collateral, third parties, complex layering or activity inconsistent with the customer profile.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Evidence includes accurate risk assessments, timely CDD refreshes, effective screening, meaningful alerts, well-reasoned investigations, prompt STR decisions, reliable records, tested systems, trained staff, independent audit findings, remediation closure and management information showing outcomes rather than only activity volumes.
+
+**Rationale:** Evidence includes accurate risk assessments, timely CDD refreshes, effective screening, meaningful alerts, well-reasoned investigations, prompt STR decisions, reliable records, tested systems, trained staff, independent audit findings, remediation closure and management information showing outcomes rather than only activity volumes.
+
+</details>
+
+### 239. **[Single choice]** [RES 2B Appendix A] State the main CAR routes in the derivatives guide.
+
+a. Depending on product and counterparty, requirements may include reporting, central clearing, margin, trade documentation, record keeping, risk disclosure, business-conduct controls and eligible-counterparty or customer protections.
+b. The appendix highlights an appropriate education or professional qualification, six transactions in listed SIPs in the preceding three years, or three consecutive years of relevant experience in the preceding ten years, with the prescribed evidence and independent-learning possibilities.
+c. An IRS exchanges interest-payment streams; an NDIRS exchanges interest amounts without physical delivery of the underlying currency or notional; a CCS exchanges cash flows in different currencies; an FRA fixes or settles an interest-rate exposure for a future period; and a commodity swap exchanges commodity-linked cash flows.
+d. A CCP interposes itself between counterparties, manages margin and default resources, and supports multilateral netting and risk management.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. The appendix highlights an appropriate education or professional qualification, six transactions in listed SIPs in the preceding three years, or three consecutive years of relevant experience in the preceding ten years, with the prescribed evidence and independent-learning possibilities.
 
 **Rationale:** The appendix highlights an appropriate education or professional qualification, six transactions in listed SIPs in the preceding three years, or three consecutive years of relevant experience in the preceding ten years, with the prescribed evidence and independent-learning possibilities.
 
@@ -3889,15 +3889,15 @@ d. Depending on product and counterparty, requirements may include reporting, ce
 
 ### 240. **[Single choice]** [RES 2B Appendix B] What is distinctive about the CKA appendix?
 
-a. The clearing platform and margin methodology determine how trades are accepted, valued, margined, netted and settled.
-b. It focuses on knowledge and experience relevant to unlisted SIPs, including separate treatment for CIS and ILP-related experience and approved learning.
-c. They provide prescribed information about risks and product features so the customer can make an informed decision.
-d. It standardises the legal framework for OTC transactions, including representations, events of default, termination, netting, payment terms and dispute provisions.
+a. It standardises the legal framework for OTC transactions, including representations, events of default, termination, netting, payment terms and dispute provisions.
+b. The clearing platform and margin methodology determine how trades are accepted, valued, margined, netted and settled.
+c. It focuses on knowledge and experience relevant to unlisted SIPs, including separate treatment for CIS and ILP-related experience and approved learning.
+d. They provide prescribed information about risks and product features so the customer can make an informed decision.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. It focuses on knowledge and experience relevant to unlisted SIPs, including separate treatment for CIS and ILP-related experience and approved learning.
+**Answer:** C. It focuses on knowledge and experience relevant to unlisted SIPs, including separate treatment for CIS and ILP-related experience and approved learning.
 
 **Rationale:** It focuses on knowledge and experience relevant to unlisted SIPs, including separate treatment for CIS and ILP-related experience and approved learning. The assessment must be product-relevant and documented; a generic claim of having traded before is not enough.
 
@@ -3905,15 +3905,15 @@ d. It standardises the legal framework for OTC transactions, including represent
 
 ### 241. **[Single choice]** [RES 2B Appendix C] What risks must the overseas-listed product warning communicate?
 
-a. Check the customer’s objective, sophistication, authority, financial resources, suitability, legal capacity, documentation, collateral and liquidity capacity, valuation method, termination rights, counterparty, costs, model assumptions, scenarios, worst-case loss and regulatory status.
-b. Exchange and CCP processes generally use standard contracts, daily marking-to-market and centralised margin and settlement, while OTC contracts may settle bilaterally on dates and methods negotiated by the parties.
-c. It covers regulatory and legal differences, disclosure and information limitations, repatriation and settlement, taxes, currency, costs, counterparty and custody risk, liquidity and political, economic and social conditions.
-d. Leverage can magnify losses, products may be difficult to value, and customers can be exposed to margin calls or obligations exceeding the initial amount.
+a. Leverage can magnify losses, products may be difficult to value, and customers can be exposed to margin calls or obligations exceeding the initial amount.
+b. Check the customer’s objective, sophistication, authority, financial resources, suitability, legal capacity, documentation, collateral and liquidity capacity, valuation method, termination rights, counterparty, costs, model assumptions, scenarios, worst-case loss and regulatory status.
+c. Exchange and CCP processes generally use standard contracts, daily marking-to-market and centralised margin and settlement, while OTC contracts may settle bilaterally on dates and methods negotiated by the parties.
+d. It covers regulatory and legal differences, disclosure and information limitations, repatriation and settlement, taxes, currency, costs, counterparty and custody risk, liquidity and political, economic and social conditions.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. It covers regulatory and legal differences, disclosure and information limitations, repatriation and settlement, taxes, currency, costs, counterparty and custody risk, liquidity and political, economic and social conditions.
+**Answer:** D. It covers regulatory and legal differences, disclosure and information limitations, repatriation and settlement, taxes, currency, costs, counterparty and custody risk, liquidity and political, economic and social conditions.
 
 **Rationale:** It covers regulatory and legal differences, disclosure and information limitations, repatriation and settlement, taxes, currency, costs, counterparty and custody risk, liquidity and political, economic and social conditions. The warning should be delivered and acknowledged in the required manner.
 
@@ -3921,15 +3921,15 @@ d. Leverage can magnify losses, products may be difficult to value, and customer
 
 ### 242. **[Single choice]** [RES 2B Appendix D] Where should a representative look for the EIP classification?
 
-a. Revealing that a particular customer is behind a trade can expose confidential strategy, create information advantages for others or affect price and negotiation.
-b. Use reliable sources, distinguish fact from opinion, disclose material assumptions and do not create false signals, spread rumours or use customer information for personal benefit.
-c. Acknowledge and escalate complaints promptly through the firm’s independent process, preserve records and avoid retaliation or defensive concealment.
-d. The appendix points to the class of products listed in the Schedule to the Securities and Futures (Capital Markets Products) Regulations 2018.
+a. The appendix points to the class of products listed in the Schedule to the Securities and Futures (Capital Markets Products) Regulations 2018.
+b. Revealing that a particular customer is behind a trade can expose confidential strategy, create information advantages for others or affect price and negotiation.
+c. Use reliable sources, distinguish fact from opinion, disclose material assumptions and do not create false signals, spread rumours or use customer information for personal benefit.
+d. Acknowledge and escalate complaints promptly through the firm’s independent process, preserve records and avoid retaliation or defensive concealment.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. The appendix points to the class of products listed in the Schedule to the Securities and Futures (Capital Markets Products) Regulations 2018.
+**Answer:** A. The appendix points to the class of products listed in the Schedule to the Securities and Futures (Capital Markets Products) Regulations 2018.
 
 **Rationale:** The appendix points to the class of products listed in the Schedule to the Securities and Futures (Capital Markets Products) Regulations 2018. Apply the current statutory classification and firm process; do not classify a derivative from its marketing name alone.
 
@@ -3937,15 +3937,15 @@ d. The appendix points to the class of products listed in the Schedule to the Se
 
 ### 243. **[Single choice]** [RES 2B Appendix E] How should suspicious-transaction examples be used?
 
-a. Use them as indicators for contextual investigation, not as automatic proof or an exhaustive list.
-b. Investigate the product, counterparty, market, assumptions and customer circumstances sufficiently to support the recommendation; communicate material risks and uncertainties in a comprehensible way; and retain records that show the basis, approvals, instructions and outcome.
-c. It is a global set of principles for the wholesale FX market.
-d. Consider price or rate, spread, commission, financing and collateral cost, size, speed, likelihood of execution and settlement, liquidity, counterparty, market impact, product terms and the customer’s instructions.
+a. Consider price or rate, spread, commission, financing and collateral cost, size, speed, likelihood of execution and settlement, liquidity, counterparty, market impact, product terms and the customer’s instructions.
+b. Use them as indicators for contextual investigation, not as automatic proof or an exhaustive list.
+c. Investigate the product, counterparty, market, assumptions and customer circumstances sufficiently to support the recommendation; communicate material risks and uncertainties in a comprehensible way; and retain records that show the basis, approvals, instructions and outcome.
+d. It is a global set of principles for the wholesale FX market.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Use them as indicators for contextual investigation, not as automatic proof or an exhaustive list.
+**Answer:** B. Use them as indicators for contextual investigation, not as automatic proof or an exhaustive list.
 
 **Rationale:** Use them as indicators for contextual investigation, not as automatic proof or an exhaustive list. Consider the customer profile, economic purpose, source of funds, counterparties, jurisdictions, product and transaction pattern, then document escalation or the reason no suspicion was formed.
 
@@ -3953,15 +3953,15 @@ d. Consider price or rate, spread, commission, financing and collateral cost, si
 
 ### 244. **[Single choice]** [RES 2B Appendix F] What topics are covered by the RES 2B review questions?
 
-a. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act is the highlighted statute, while other laws may apply to terrorism financing, market conduct and related offences.
-b. They cover licensing and records, hunting stops, market misconduct, front-running, OTC products, ethics, performance presentation, best execution, CKA, regulatory risk, AML, sanctions and terrorism financing.
-c. Freeze or prevent prohibited dealings immediately where required and report or escalate to the authorities and compliance.
-d. No.
+a. No.
+b. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act is the highlighted statute, while other laws may apply to terrorism financing, market conduct and related offences.
+c. They cover licensing and records, hunting stops, market misconduct, front-running, OTC products, ethics, performance presentation, best execution, CKA, regulatory risk, AML, sanctions and terrorism financing.
+d. Freeze or prevent prohibited dealings immediately where required and report or escalate to the authorities and compliance.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. They cover licensing and records, hunting stops, market misconduct, front-running, OTC products, ethics, performance presentation, best execution, CKA, regulatory risk, AML, sanctions and terrorism financing.
+**Answer:** C. They cover licensing and records, hunting stops, market misconduct, front-running, OTC products, ethics, performance presentation, best execution, CKA, regulatory risk, AML, sanctions and terrorism financing.
 
 **Rationale:** They cover licensing and records, hunting stops, market misconduct, front-running, OTC products, ethics, performance presentation, best execution, CKA, regulatory risk, AML, sanctions and terrorism financing. They should be used as a final integration check after studying Chapters 2–7.
 
@@ -3969,15 +3969,15 @@ d. No.
 
 ### 245. **[Single choice]** [RES 2B Appendix G] What is the purpose of the essential-readings list?
 
-a. Define the objective, expected return, acceptable risk, time horizon, products, underlying exposure, entry and exit rules, leverage, margin and collateral, liquidity, stop-loss or hedge rules, concentration limits, monitoring and contingency actions.
-b. Fundamental analysis evaluates economic, financial and issuer or commodity drivers; technical analysis studies price, volume, trends and patterns; global-macro analysis considers rates, currencies, inflation, policy, growth, geopolitical events and cross-market relationships.
-c. It directs the learner to the SFA, regulations, PDPA, CDSA, MACMA, TSOFA, tax laws, MAS notices and guidelines, SGX, ICE and APEX rules that support the summary.
-d. Confirm authority and limits, use approved venues and counterparties, check orders and margin, apply best execution and allocation controls, record rationale and customer communications, monitor execution, collateral, P&L and exposure, and escalate exceptions, breaches or market disruptions.
+a. Confirm authority and limits, use approved venues and counterparties, check orders and margin, apply best execution and allocation controls, record rationale and customer communications, monitor execution, collateral, P&L and exposure, and escalate exceptions, breaches or market disruptions.
+b. Define the objective, expected return, acceptable risk, time horizon, products, underlying exposure, entry and exit rules, leverage, margin and collateral, liquidity, stop-loss or hedge rules, concentration limits, monitoring and contingency actions.
+c. Fundamental analysis evaluates economic, financial and issuer or commodity drivers; technical analysis studies price, volume, trends and patterns; global-macro analysis considers rates, currencies, inflation, policy, growth, geopolitical events and cross-market relationships.
+d. It directs the learner to the SFA, regulations, PDPA, CDSA, MACMA, TSOFA, tax laws, MAS notices and guidelines, SGX, ICE and APEX rules that support the summary.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. It directs the learner to the SFA, regulations, PDPA, CDSA, MACMA, TSOFA, tax laws, MAS notices and guidelines, SGX, ICE and APEX rules that support the summary.
+**Answer:** D. It directs the learner to the SFA, regulations, PDPA, CDSA, MACMA, TSOFA, tax laws, MAS notices and guidelines, SGX, ICE and APEX rules that support the summary.
 
 **Rationale:** It directs the learner to the SFA, regulations, PDPA, CDSA, MACMA, TSOFA, tax laws, MAS notices and guidelines, SGX, ICE and APEX rules that support the summary. It helps locate primary sources and should be refreshed against current versions.
 
@@ -3985,15 +3985,15 @@ d. Confirm authority and limits, use approved venues and counterparties, check o
 
 ### 246. **[Single choice]** [RES 2B Appendix F, source Q1] Which changes must a derivatives CMS licence holder report to MAS?
 
-a. It means deliberately pushing prices up or down with the intention of triggering known stop orders.
-b. The source highlights changes such as the licence holder’s name and the principal place of business for the licensed activity.
-c. All three are market-misconduct categories under the relevant SFA framework. “Under trading” is not the source’s substitute category.
-d. It is front running: the trader misuses advance knowledge of the customer’s order to obtain a personal advantage before execution.
+a. The source highlights changes such as the licence holder’s name and the principal place of business for the licensed activity.
+b. All three are market-misconduct categories under the relevant SFA framework. “Under trading” is not the source’s substitute category.
+c. It is front running: the trader misuses advance knowledge of the customer’s order to obtain a personal advantage before execution.
+d. It means deliberately pushing prices up or down with the intention of triggering known stop orders.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. The source highlights changes such as the licence holder’s name and the principal place of business for the licensed activity.
+**Answer:** A. The source highlights changes such as the licence holder’s name and the principal place of business for the licensed activity.
 
 **Rationale:** The source highlights changes such as the licence holder’s name and the principal place of business for the licensed activity. The firm should use the prescribed notification channel and time period.
 
@@ -4001,15 +4001,15 @@ d. It is front running: the trader misuses advance knowledge of the customer’s
 
 ### 247. **[Single choice]** [RES 2B Appendix F, source Q2] When must a derivatives CMS licence holder notify MAS that it has ceased the regulated activity?
 
-a. To serve the best interests of clients while maintaining integrity, fairness, competence and compliance.
-b. Commodity swaps, forward-rate agreements and cross-currency swaps are OTC derivatives.
-c. The source highlights notification within 14 days after cessation of the activity, subject to the applicable current rule and prescribed form.
-d. The presentation failed to uphold performance-presentation standards because it could make simulated historical results appear to be actual performance.
+a. Commodity swaps, forward-rate agreements and cross-currency swaps are OTC derivatives.
+b. The source highlights notification within 14 days after cessation of the activity, subject to the applicable current rule and prescribed form.
+c. The presentation failed to uphold performance-presentation standards because it could make simulated historical results appear to be actual performance.
+d. To serve the best interests of clients while maintaining integrity, fairness, competence and compliance.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. The source highlights notification within 14 days after cessation of the activity, subject to the applicable current rule and prescribed form.
+**Answer:** B. The source highlights notification within 14 days after cessation of the activity, subject to the applicable current rule and prescribed form.
 
 **Rationale:** The source highlights notification within 14 days after cessation of the activity, subject to the applicable current rule and prescribed form.
 
@@ -4017,15 +4017,15 @@ d. The presentation failed to uphold performance-presentation standards because 
 
 ### 248. **[Single choice]** [RES 2B Appendix F, source Q3] How long must customer transaction and trading records be kept?
 
-a. It is the risk that changes in laws, regulations, regulatory interpretation or supervisory requirements affect products, markets, costs, permissions or the customer’s ability to trade.
-b. Speed, opportunities for price improvement and client-specific instructions are relevant.
-c. The source highlights the relevant experience route of at least six transactions in unlisted SIPs during the preceding three years, subject to the applicable rules and evidence.
-d. The source highlights five years.
+a. Speed, opportunities for price improvement and client-specific instructions are relevant.
+b. The source highlights the relevant experience route of at least six transactions in unlisted SIPs during the preceding three years, subject to the applicable rules and evidence.
+c. The source highlights five years.
+d. It is the risk that changes in laws, regulations, regulatory interpretation or supervisory requirements affect products, markets, costs, permissions or the customer’s ability to trade.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. The source highlights five years.
+**Answer:** C. The source highlights five years.
 
 **Rationale:** The source highlights five years. A firm may need to retain records longer where another law, investigation, dispute, notice or policy requires it.
 
@@ -4033,15 +4033,15 @@ d. The source highlights five years.
 
 ### 249. **[Single choice]** [RES 2B Appendix F, source Q4] What does “hunting for stops” mean?
 
-a. It means deliberately pushing prices up or down with the intention of triggering known stop orders.
-b. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act is the highlighted statute, while other laws may apply to terrorism financing, market conduct and related offences.
-c. Freeze or prevent prohibited dealings immediately where required and report or escalate to the authorities and compliance.
-d. No.
+a. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act is the highlighted statute, while other laws may apply to terrorism financing, market conduct and related offences.
+b. Freeze or prevent prohibited dealings immediately where required and report or escalate to the authorities and compliance.
+c. No.
+d. It means deliberately pushing prices up or down with the intention of triggering known stop orders.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. It means deliberately pushing prices up or down with the intention of triggering known stop orders.
+**Answer:** D. It means deliberately pushing prices up or down with the intention of triggering known stop orders.
 
 **Rationale:** It means deliberately pushing prices up or down with the intention of triggering known stop orders. It is not merely accepting simultaneous orders, entering a wash trade or withholding an order.
 
@@ -4049,15 +4049,15 @@ d. No.
 
 ### 250. **[Single choice]** [RES 2B Appendix F, source Q5] Which of insider trading, false trading and pre-arranged trading are market-misconduct categories?
 
-a. They cover licensing and records, hunting stops, market misconduct, front-running, OTC products, ethics, performance presentation, best execution, CKA, regulatory risk, AML, sanctions and terrorism financing.
-b. All three are market-misconduct categories under the relevant SFA framework. “Under trading” is not the source’s substitute category.
-c. The source highlights changes such as the licence holder’s name and the principal place of business for the licensed activity.
-d. The source highlights notification within 14 days after cessation of the activity, subject to the applicable current rule and prescribed form.
+a. All three are market-misconduct categories under the relevant SFA framework. “Under trading” is not the source’s substitute category.
+b. The source highlights changes such as the licence holder’s name and the principal place of business for the licensed activity.
+c. The source highlights notification within 14 days after cessation of the activity, subject to the applicable current rule and prescribed form.
+d. They cover licensing and records, hunting stops, market misconduct, front-running, OTC products, ethics, performance presentation, best execution, CKA, regulatory risk, AML, sanctions and terrorism financing.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. All three are market-misconduct categories under the relevant SFA framework. “Under trading” is not the source’s substitute category.
+**Answer:** A. All three are market-misconduct categories under the relevant SFA framework. “Under trading” is not the source’s substitute category.
 
 **Rationale:** All three are market-misconduct categories under the relevant SFA framework. “Under trading” is not the source’s substitute category.
 
@@ -4065,15 +4065,15 @@ d. The source highlights notification within 14 days after cessation of the acti
 
 ### 251. **[Single choice]** [RES 2B Appendix F, source Q6] A trader buys personal Brent Crude futures before executing a customer’s large order expected to move price. What is the conduct?
 
-a. It means deliberately pushing prices up or down with the intention of triggering known stop orders.
-b. The source highlights five years.
-c. It is front running: the trader misuses advance knowledge of the customer’s order to obtain a personal advantage before execution.
-d. All three are market-misconduct categories under the relevant SFA framework. “Under trading” is not the source’s substitute category.
+a. The source highlights five years.
+b. It is front running: the trader misuses advance knowledge of the customer’s order to obtain a personal advantage before execution.
+c. All three are market-misconduct categories under the relevant SFA framework. “Under trading” is not the source’s substitute category.
+d. It means deliberately pushing prices up or down with the intention of triggering known stop orders.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. It is front running: the trader misuses advance knowledge of the customer’s order to obtain a personal advantage before execution.
+**Answer:** B. It is front running: the trader misuses advance knowledge of the customer’s order to obtain a personal advantage before execution.
 
 **Rationale:** It is front running: the trader misuses advance knowledge of the customer’s order to obtain a personal advantage before execution.
 
@@ -4081,15 +4081,15 @@ d. All three are market-misconduct categories under the relevant SFA framework. 
 
 ### 252. **[Single choice]** [RES 2B Appendix F, source Q7] Which products are OTC derivatives in the source’s example?
 
-a. The presentation failed to uphold performance-presentation standards because it could make simulated historical results appear to be actual performance.
-b. It is front running: the trader misuses advance knowledge of the customer’s order to obtain a personal advantage before execution.
-c. To serve the best interests of clients while maintaining integrity, fairness, competence and compliance.
-d. Commodity swaps, forward-rate agreements and cross-currency swaps are OTC derivatives.
+a. It is front running: the trader misuses advance knowledge of the customer’s order to obtain a personal advantage before execution.
+b. To serve the best interests of clients while maintaining integrity, fairness, competence and compliance.
+c. Commodity swaps, forward-rate agreements and cross-currency swaps are OTC derivatives.
+d. The presentation failed to uphold performance-presentation standards because it could make simulated historical results appear to be actual performance.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. Commodity swaps, forward-rate agreements and cross-currency swaps are OTC derivatives.
+**Answer:** C. Commodity swaps, forward-rate agreements and cross-currency swaps are OTC derivatives.
 
 **Rationale:** Commodity swaps, forward-rate agreements and cross-currency swaps are OTC derivatives. Fixed-income securities are not themselves derivatives merely because they may be used as an underlying or hedging instrument.
 
@@ -4097,15 +4097,15 @@ d. Commodity swaps, forward-rate agreements and cross-currency swaps are OTC der
 
 ### 253. **[Single choice]** [RES 2B Appendix F, source Q8] What is the central objective of the ethical framework?
 
-a. To serve the best interests of clients while maintaining integrity, fairness, competence and compliance.
-b. Speed, opportunities for price improvement and client-specific instructions are relevant.
-c. The source highlights the relevant experience route of at least six transactions in unlisted SIPs during the preceding three years, subject to the applicable rules and evidence.
-d. It is the risk that changes in laws, regulations, regulatory interpretation or supervisory requirements affect products, markets, costs, permissions or the customer’s ability to trade.
+a. Speed, opportunities for price improvement and client-specific instructions are relevant.
+b. The source highlights the relevant experience route of at least six transactions in unlisted SIPs during the preceding three years, subject to the applicable rules and evidence.
+c. It is the risk that changes in laws, regulations, regulatory interpretation or supervisory requirements affect products, markets, costs, permissions or the customer’s ability to trade.
+d. To serve the best interests of clients while maintaining integrity, fairness, competence and compliance.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. To serve the best interests of clients while maintaining integrity, fairness, competence and compliance.
+**Answer:** D. To serve the best interests of clients while maintaining integrity, fairness, competence and compliance.
 
 **Rationale:** To serve the best interests of clients while maintaining integrity, fairness, competence and compliance. Speed, product expertise and protecting the employer’s finances are not substitutes for the client-interest objective.
 
@@ -4113,15 +4113,15 @@ d. It is the risk that changes in laws, regulations, regulatory interpretation o
 
 ### 254. **[Single choice]** [RES 2B Appendix F, source Q9] What was unethical about marketing five years of back-tested performance without saying it was back-tested?
 
-a. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act is the highlighted statute, while other laws may apply to terrorism financing, market conduct and related offences.
-b. The presentation failed to uphold performance-presentation standards because it could make simulated historical results appear to be actual performance.
-c. Freeze or prevent prohibited dealings immediately where required and report or escalate to the authorities and compliance.
-d. No.
+a. The presentation failed to uphold performance-presentation standards because it could make simulated historical results appear to be actual performance.
+b. Freeze or prevent prohibited dealings immediately where required and report or escalate to the authorities and compliance.
+c. No.
+d. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act is the highlighted statute, while other laws may apply to terrorism financing, market conduct and related offences.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. The presentation failed to uphold performance-presentation standards because it could make simulated historical results appear to be actual performance.
+**Answer:** A. The presentation failed to uphold performance-presentation standards because it could make simulated historical results appear to be actual performance.
 
 **Rationale:** The presentation failed to uphold performance-presentation standards because it could make simulated historical results appear to be actual performance. The methodology, assumptions and limitations had to be disclosed clearly.
 
@@ -4129,15 +4129,15 @@ d. No.
 
 ### 255. **[Single choice]** [RES 2B Appendix F, source Q10] Which factors belong in derivatives best execution?
 
-a. The source highlights changes such as the licence holder’s name and the principal place of business for the licensed activity.
-b. They cover licensing and records, hunting stops, market misconduct, front-running, OTC products, ethics, performance presentation, best execution, CKA, regulatory risk, AML, sanctions and terrorism financing.
-c. Speed, opportunities for price improvement and client-specific instructions are relevant.
-d. The source highlights notification within 14 days after cessation of the activity, subject to the applicable current rule and prescribed form.
+a. They cover licensing and records, hunting stops, market misconduct, front-running, OTC products, ethics, performance presentation, best execution, CKA, regulatory risk, AML, sanctions and terrorism financing.
+b. Speed, opportunities for price improvement and client-specific instructions are relevant.
+c. The source highlights notification within 14 days after cessation of the activity, subject to the applicable current rule and prescribed form.
+d. The source highlights changes such as the licence holder’s name and the principal place of business for the licensed activity.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. Speed, opportunities for price improvement and client-specific instructions are relevant.
+**Answer:** B. Speed, opportunities for price improvement and client-specific instructions are relevant.
 
 **Rationale:** Speed, opportunities for price improvement and client-specific instructions are relevant. Confidential handling of price information is an important conduct control, but it is not itself the customer-outcome factor being tested in that combination.
 
@@ -4145,15 +4145,15 @@ d. The source highlights notification within 14 days after cessation of the acti
 
 ### 256. **[Single choice]** [RES 2B Appendix F, source Q11] When might a CKA not be required for a retail customer trading an unlisted SIP?
 
-a. All three are market-misconduct categories under the relevant SFA framework. “Under trading” is not the source’s substitute category.
-b. The source highlights five years.
-c. It means deliberately pushing prices up or down with the intention of triggering known stop orders.
-d. The source highlights the relevant experience route of at least six transactions in unlisted SIPs during the preceding three years, subject to the applicable rules and evidence.
+a. The source highlights five years.
+b. It means deliberately pushing prices up or down with the intention of triggering known stop orders.
+c. The source highlights the relevant experience route of at least six transactions in unlisted SIPs during the preceding three years, subject to the applicable rules and evidence.
+d. All three are market-misconduct categories under the relevant SFA framework. “Under trading” is not the source’s substitute category.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. The source highlights the relevant experience route of at least six transactions in unlisted SIPs during the preceding three years, subject to the applicable rules and evidence.
+**Answer:** C. The source highlights the relevant experience route of at least six transactions in unlisted SIPs during the preceding three years, subject to the applicable rules and evidence.
 
 **Rationale:** The source highlights the relevant experience route of at least six transactions in unlisted SIPs during the preceding three years, subject to the applicable rules and evidence. Experience in blue-chip listed shares does not automatically satisfy an unlisted-SIP CKA requirement.
 
@@ -4161,15 +4161,15 @@ d. The source highlights the relevant experience route of at least six transacti
 
 ### 257. **[Single choice]** [RES 2B Appendix F, source Q12] What is regulatory risk in derivatives trading?
 
-a. It is the risk that changes in laws, regulations, regulatory interpretation or supervisory requirements affect products, markets, costs, permissions or the customer’s ability to trade.
-b. It is front running: the trader misuses advance knowledge of the customer’s order to obtain a personal advantage before execution.
-c. Commodity swaps, forward-rate agreements and cross-currency swaps are OTC derivatives.
-d. To serve the best interests of clients while maintaining integrity, fairness, competence and compliance.
+a. It is front running: the trader misuses advance knowledge of the customer’s order to obtain a personal advantage before execution.
+b. Commodity swaps, forward-rate agreements and cross-currency swaps are OTC derivatives.
+c. To serve the best interests of clients while maintaining integrity, fairness, competence and compliance.
+d. It is the risk that changes in laws, regulations, regulatory interpretation or supervisory requirements affect products, markets, costs, permissions or the customer’s ability to trade.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. It is the risk that changes in laws, regulations, regulatory interpretation or supervisory requirements affect products, markets, costs, permissions or the customer’s ability to trade.
+**Answer:** D. It is the risk that changes in laws, regulations, regulatory interpretation or supervisory requirements affect products, markets, costs, permissions or the customer’s ability to trade.
 
 **Rationale:** It is the risk that changes in laws, regulations, regulatory interpretation or supervisory requirements affect products, markets, costs, permissions or the customer’s ability to trade. It is different from ordinary commodity-price, liquidity or employee-financial-crime risk.
 
@@ -4177,15 +4177,15 @@ d. To serve the best interests of clients while maintaining integrity, fairness,
 
 ### 258. **[Single choice]** [RES 2B Appendix F, source Q13] Which statute is highlighted as governing money laundering?
 
-a. The presentation failed to uphold performance-presentation standards because it could make simulated historical results appear to be actual performance.
-b. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act is the highlighted statute, while other laws may apply to terrorism financing, market conduct and related offences.
-c. Speed, opportunities for price improvement and client-specific instructions are relevant.
-d. The source highlights the relevant experience route of at least six transactions in unlisted SIPs during the preceding three years, subject to the applicable rules and evidence.
+a. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act is the highlighted statute, while other laws may apply to terrorism financing, market conduct and related offences.
+b. Speed, opportunities for price improvement and client-specific instructions are relevant.
+c. The source highlights the relevant experience route of at least six transactions in unlisted SIPs during the preceding three years, subject to the applicable rules and evidence.
+d. The presentation failed to uphold performance-presentation standards because it could make simulated historical results appear to be actual performance.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act is the highlighted statute, while other laws may apply to terrorism financing, market conduct and related offences.
+**Answer:** A. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act is the highlighted statute, while other laws may apply to terrorism financing, market conduct and related offences.
 
 **Rationale:** The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act is the highlighted statute, while other laws may apply to terrorism financing, market conduct and related offences.
 
@@ -4193,15 +4193,15 @@ d. The source highlights the relevant experience route of at least six transacti
 
 ### 259. **[Single choice]** [RES 2B Appendix F, source Q14] What should happen when a customer appears on a money-laundering sanctions list?
 
-a. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act is the highlighted statute, while other laws may apply to terrorism financing, market conduct and related offences.
-b. It is the risk that changes in laws, regulations, regulatory interpretation or supervisory requirements affect products, markets, costs, permissions or the customer’s ability to trade.
-c. Freeze or prevent prohibited dealings immediately where required and report or escalate to the authorities and compliance.
-d. No.
+a. It is the risk that changes in laws, regulations, regulatory interpretation or supervisory requirements affect products, markets, costs, permissions or the customer’s ability to trade.
+b. Freeze or prevent prohibited dealings immediately where required and report or escalate to the authorities and compliance.
+c. No.
+d. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act is the highlighted statute, while other laws may apply to terrorism financing, market conduct and related offences.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. Freeze or prevent prohibited dealings immediately where required and report or escalate to the authorities and compliance.
+**Answer:** B. Freeze or prevent prohibited dealings immediately where required and report or escalate to the authorities and compliance.
 
 **Rationale:** Freeze or prevent prohibited dealings immediately where required and report or escalate to the authorities and compliance. Never delete records or port the customer to another representative or firm to avoid the controls.
 
@@ -4209,15 +4209,15 @@ d. No.
 
 ### 260. **[Single choice]** [RES 2B Appendix F, source Q15] Are terrorism-financing funds always illegitimate or always large?
 
-a. The source highlights notification within 14 days after cessation of the activity, subject to the applicable current rule and prescribed form.
-b. They cover licensing and records, hunting stops, market misconduct, front-running, OTC products, ethics, performance presentation, best execution, CKA, regulatory risk, AML, sanctions and terrorism financing.
-c. The source highlights changes such as the licence holder’s name and the principal place of business for the licensed activity.
-d. No.
+a. They cover licensing and records, hunting stops, market misconduct, front-running, OTC products, ethics, performance presentation, best execution, CKA, regulatory risk, AML, sanctions and terrorism financing.
+b. The source highlights changes such as the licence holder’s name and the principal place of business for the licensed activity.
+c. No.
+d. The source highlights notification within 14 days after cessation of the activity, subject to the applicable current rule and prescribed form.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** d. No.
+**Answer:** C. No.
 
 **Rationale:** No. Terrorism financing may use funds from legitimate or illegitimate sources, and the amount may be small or large. Controls therefore focus on purpose, persons, networks, transactions and risk indicators rather than amount alone.
 
@@ -4225,15 +4225,15 @@ d. No.
 
 ### 261. **[Single choice]** [RES 2B §1.1] Which is an example of an exchange-traded derivative?
 
-a. A futures contract traded on an organised derivatives exchange.
-b. A bespoke bilateral interest-rate swap documented only between two parties.
-c. A physical share certificate held in custody.
-d. A customer’s ordinary bank deposit.
+a. A bespoke bilateral interest-rate swap documented only between two parties.
+b. A physical share certificate held in custody.
+c. A customer’s ordinary bank deposit.
+d. A futures contract traded on an organised derivatives exchange.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. A futures contract traded on an organised derivatives exchange.
+**Answer:** D. A futures contract traded on an organised derivatives exchange.
 
 **Rationale:** Futures traded on an organised derivatives exchange are exchange-traded derivatives; bespoke bilateral swaps are OTC.
 
@@ -4257,15 +4257,15 @@ d. All OTC trades are guaranteed by CDP without documentation.
 
 ### 263. **[Single choice]** [RES 2B §1.2] What is a derivatives dealer’s central conduct responsibility?
 
-a. Execute or arrange derivatives transactions within the firm’s authority while protecting customers and complying with applicable rules.
-b. Guarantee a profit on every leveraged position.
-c. Choose the customer’s strategy without authority or disclosure.
-d. Ignore underlying-market conduct because only the derivative matters.
+a. Ignore underlying-market conduct because only the derivative matters.
+b. Execute or arrange derivatives transactions within the firm’s authority while protecting customers and complying with applicable rules.
+c. Guarantee a profit on every leveraged position.
+d. Choose the customer’s strategy without authority or disclosure.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Execute or arrange derivatives transactions within the firm’s authority while protecting customers and complying with applicable rules.
+**Answer:** B. Execute or arrange derivatives transactions within the firm’s authority while protecting customers and complying with applicable rules.
 
 **Rationale:** A derivatives dealer must act within authority, protect customers and comply with derivatives, market-conduct and firm controls.
 
@@ -4296,15 +4296,15 @@ Choose one:
 
 ### 265. **[Single choice]** [RES 2B §1.3] Where should a representative look for the rules governing derivatives dealing?
 
-a. Applicable legislation, MAS regulations and notices, exchange and clearing rules, and firm procedures.
-b. Only the customer’s preferred trading application.
-c. Only an overseas exchange’s marketing brochure.
-d. Only the representative’s memory of a prior trade.
+a. Only an overseas exchange’s marketing brochure.
+b. Only the representative’s memory of a prior trade.
+c. Applicable legislation, MAS regulations and notices, exchange and clearing rules, and firm procedures.
+d. Only the customer’s preferred trading application.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Applicable legislation, MAS regulations and notices, exchange and clearing rules, and firm procedures.
+**Answer:** C. Applicable legislation, MAS regulations and notices, exchange and clearing rules, and firm procedures.
 
 **Rationale:** Derivatives conduct is governed by legislation, MAS requirements, exchange and clearing rules and firm procedures.
 
@@ -4312,15 +4312,15 @@ d. Only the representative’s memory of a prior trade.
 
 ### 266. **[Single choice]** [RES 2B §1.1–1.3] Why must a derivatives representative understand the underlying as well as the derivative?
 
-a. Derivative value, conduct risks and customer exposure can depend on the underlying asset, rate, index or event.
-b. The underlying is irrelevant after a derivative is purchased.
-c. Only the clearing member can be affected by underlying movements.
-d. Understanding the underlying guarantees that margin will never be called.
+a. The underlying is irrelevant after a derivative is purchased.
+b. Only the clearing member can be affected by underlying movements.
+c. Understanding the underlying guarantees that margin will never be called.
+d. Derivative value, conduct risks and customer exposure can depend on the underlying asset, rate, index or event.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Derivative value, conduct risks and customer exposure can depend on the underlying asset, rate, index or event.
+**Answer:** D. Derivative value, conduct risks and customer exposure can depend on the underlying asset, rate, index or event.
 
 **Rationale:** Derivatives may reference securities, rates, commodities, currencies or indices, so value and conduct risks can involve both instruments.
 
@@ -4344,15 +4344,15 @@ d. Ignore exchange requirements if the firm is an OTC dealer.
 
 ### 268. **[Single choice]** [RES 2B §2.2] Why should a firm distinguish specified commodity futures from leveraged FX when considering BCR?
 
-a. The guide highlights different activity categories and figures, so the correct requirement depends on the regulated activity.
-b. All derivatives activities have exactly the same BCR.
-c. Only the customer’s account balance determines BCR.
-d. BCR applies only to exchange operators and never dealers.
+a. BCR applies only to exchange operators and never dealers.
+b. The guide highlights different activity categories and figures, so the correct requirement depends on the regulated activity.
+c. All derivatives activities have exactly the same BCR.
+d. Only the customer’s account balance determines BCR.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. The guide highlights different activity categories and figures, so the correct requirement depends on the regulated activity.
+**Answer:** B. The guide highlights different activity categories and figures, so the correct requirement depends on the regulated activity.
 
 **Rationale:** The derivatives BCR table distinguishes activity categories, including specified commodity futures and leveraged FX.
 
@@ -4360,15 +4360,15 @@ d. BCR applies only to exchange operators and never dealers.
 
 ### 269. **[Single choice]** [RES 2B §2.3] What is a key control for registering a derivatives representative?
 
-a. Verify competence, fit-and-proper status, relevant examinations or exemptions and permitted activities.
-b. Register every person who has opened a derivatives account.
-c. Allow a representative to act for unlimited principals automatically.
-d. Treat a product salesperson’s title as proof of registration.
+a. Allow a representative to act for unlimited principals automatically.
+b. Treat a product salesperson’s title as proof of registration.
+c. Verify competence, fit-and-proper status, relevant examinations or exemptions and permitted activities.
+d. Register every person who has opened a derivatives account.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Verify competence, fit-and-proper status, relevant examinations or exemptions and permitted activities.
+**Answer:** C. Verify competence, fit-and-proper status, relevant examinations or exemptions and permitted activities.
 
 **Rationale:** Registration depends on competence, fit-and-proper requirements and the representative’s permitted activities and principal.
 
@@ -4376,15 +4376,15 @@ d. Treat a product salesperson’s title as proof of registration.
 
 ### 270. **[Single choice]** [RES 2B §2.4] What should derivatives advertising avoid?
 
-a. Unbalanced or misleading statements about leverage, returns, risk, fees, liquidity or potential loss.
-b. Clear explanations of margin and worst-case loss.
-c. Approved descriptions of product mechanics and costs.
-d. A warning that past performance is not a guarantee of future results.
+a. Clear explanations of margin and worst-case loss.
+b. Approved descriptions of product mechanics and costs.
+c. A warning that past performance is not a guarantee of future results.
+d. Unbalanced or misleading statements about leverage, returns, risk, fees, liquidity or potential loss.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Unbalanced or misleading statements about leverage, returns, risk, fees, liquidity or potential loss.
+**Answer:** D. Unbalanced or misleading statements about leverage, returns, risk, fees, liquidity or potential loss.
 
 **Rationale:** Derivatives marketing must be clear, fair and balanced and must not understate leverage, losses, costs or liquidity risks.
 
@@ -4431,15 +4431,15 @@ Choose one:
 
 ### 273. **[Single choice]** [RES 2B §2.9] What is the purpose of a register of interests in listed specified products?
 
-a. To record relevant interests so conflicts, personal dealing and regulatory obligations can be monitored.
-b. To guarantee that every customer receives the same derivative price.
-c. To replace all customer account records.
-d. To allow representatives to conceal personal holdings from the firm.
+a. To allow representatives to conceal personal holdings from the firm.
+b. To record relevant interests so conflicts, personal dealing and regulatory obligations can be monitored.
+c. To guarantee that every customer receives the same derivative price.
+d. To replace all customer account records.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. To record relevant interests so conflicts, personal dealing and regulatory obligations can be monitored.
+**Answer:** B. To record relevant interests so conflicts, personal dealing and regulatory obligations can be monitored.
 
 **Rationale:** A register supports monitoring of interests, conflicts and relevant personal-dealing or conduct obligations.
 
@@ -4447,15 +4447,15 @@ d. To allow representatives to conceal personal holdings from the firm.
 
 ### 274. **[Single choice]** [RES 2B §3.1–3.2] A representative assessing a derivatives order should examine the underlying primarily because:
 
-a. Conduct in one market can manipulate or distort price discovery and exposure in the other.
-b. The underlying has no relationship to derivative value.
-c. Only physical delivery can affect a derivative.
-d. Market-conduct rules apply only after a derivative expires.
+a. Only physical delivery can affect a derivative.
+b. Market-conduct rules apply only after a derivative expires.
+c. Conduct in one market can manipulate or distort price discovery and exposure in the other.
+d. The underlying has no relationship to derivative value.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Conduct in one market can manipulate or distort price discovery and exposure in the other.
+**Answer:** C. Conduct in one market can manipulate or distort price discovery and exposure in the other.
 
 **Rationale:** A derivative may reference an underlying, so manipulation or information abuse can affect both markets.
 
@@ -4463,15 +4463,15 @@ d. Market-conduct rules apply only after a derivative expires.
 
 ### 275. **[Single choice]** [RES 2B §3.3] Which activity is an example of false trading in derivatives?
 
-a. Entering artificial trades that create a false appearance of active trading or affect price without genuine economic purpose.
-b. Hedging a documented customer exposure under an approved mandate.
-c. Closing a position after a genuine change in market risk.
-d. Reporting an accurate exchange position to the clearing house.
+a. Hedging a documented customer exposure under an approved mandate.
+b. Closing a position after a genuine change in market risk.
+c. Reporting an accurate exchange position to the clearing house.
+d. Entering artificial trades that create a false appearance of active trading or affect price without genuine economic purpose.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Entering artificial trades that create a false appearance of active trading or affect price without genuine economic purpose.
+**Answer:** D. Entering artificial trades that create a false appearance of active trading or affect price without genuine economic purpose.
 
 **Rationale:** False trading involves artificial transactions or activity that creates a false market appearance.
 
@@ -4495,15 +4495,15 @@ d. The conduct matters only if the underlying is a physical commodity.
 
 ### 277. **[Single choice]** [RES 2B §3.7] Which description best identifies bucketing in derivatives dealing?
 
-a. Filling a customer order internally or against the dealer’s own book without executing it as represented, creating a conflict or misrepresentation.
-b. A lawful exchange clearing process that guarantees delivery.
-c. A method of segregating customer money in a trust account.
-d. A customer’s decision to diversify across asset classes.
+a. A customer’s decision to diversify across asset classes.
+b. Filling a customer order internally or against the dealer’s own book without executing it as represented, creating a conflict or misrepresentation.
+c. A lawful exchange clearing process that guarantees delivery.
+d. A method of segregating customer money in a trust account.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Filling a customer order internally or against the dealer’s own book without executing it as represented, creating a conflict or misrepresentation.
+**Answer:** B. Filling a customer order internally or against the dealer’s own book without executing it as represented, creating a conflict or misrepresentation.
 
 **Rationale:** Bucketing involves handling a customer order in a way that is inconsistent with the representation of execution and may expose the customer to dealer conflict.
 
@@ -4511,15 +4511,15 @@ d. A customer’s decision to diversify across asset classes.
 
 ### 278. **[Single choice]** [RES 2B §3.10] What should a derivatives representative ask when receiving potentially inside information?
 
-a. Whether it is non-public and material, how it was obtained, and whether dealing or communication is prohibited.
-b. Only whether the source promises the information is accurate.
-c. Whether the customer can settle in a foreign currency.
-d. Whether the derivative is exchange-traded, because OTC information is never material.
+a. Whether the customer can settle in a foreign currency.
+b. Whether the derivative is exchange-traded, because OTC information is never material.
+c. Whether it is non-public and material, how it was obtained, and whether dealing or communication is prohibited.
+d. Only whether the source promises the information is accurate.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Whether it is non-public and material, how it was obtained, and whether dealing or communication is prohibited.
+**Answer:** C. Whether it is non-public and material, how it was obtained, and whether dealing or communication is prohibited.
 
 **Rationale:** The representative must assess public availability, materiality, source and whether SFA insider-dealing restrictions apply.
 
@@ -4550,15 +4550,15 @@ Choose one:
 
 ### 280. **[Single choice]** [RES 2B §3.15] Why is front running a customer’s derivatives order unfair?
 
-a. The representative uses advance knowledge of the customer’s likely market impact to obtain a personal advantage.
-b. The representative executes the customer’s order exactly as instructed.
-c. The representative discloses the order to the whole market through the exchange.
-d. The representative reduces the customer’s execution risk by trading first for personal benefit.
+a. The representative executes the customer’s order exactly as instructed.
+b. The representative discloses the order to the whole market through the exchange.
+c. The representative reduces the customer’s execution risk by trading first for personal benefit.
+d. The representative uses advance knowledge of the customer’s likely market impact to obtain a personal advantage.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. The representative uses advance knowledge of the customer’s likely market impact to obtain a personal advantage.
+**Answer:** D. The representative uses advance knowledge of the customer’s likely market impact to obtain a personal advantage.
 
 **Rationale:** Front running misuses advance knowledge of a customer order to obtain a personal advantage before the customer’s order is executed.
 
@@ -4582,15 +4582,15 @@ d. A derivative that can never create collateral or payment obligations.
 
 ### 282. **[Single choice]** [RES 2B §4.1] Which product is an interest-rate swap?
 
-a. An agreement to exchange interest-payment streams, commonly fixed for floating, on a notional amount.
-b. A purchase of a company’s ordinary shares for cash.
-c. A contract that transfers ownership of a warehouse.
-d. A deposit that pays only a fixed principal amount.
+a. A deposit that pays only a fixed principal amount.
+b. An agreement to exchange interest-payment streams, commonly fixed for floating, on a notional amount.
+c. A purchase of a company’s ordinary shares for cash.
+d. A contract that transfers ownership of a warehouse.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. An agreement to exchange interest-payment streams, commonly fixed for floating, on a notional amount.
+**Answer:** B. An agreement to exchange interest-payment streams, commonly fixed for floating, on a notional amount.
 
 **Rationale:** An interest-rate swap exchanges interest-payment streams on a notional amount; principal is usually not exchanged.
 
@@ -4598,15 +4598,15 @@ d. A deposit that pays only a fixed principal amount.
 
 ### 283. **[Single choice]** [RES 2B §4.2] What is the central role of a central counterparty?
 
-a. It interposes itself between counterparties, manages clearing and margin, and helps manage counterparty risk under its rules.
-b. It guarantees that markets cannot fall.
-c. It replaces the need for customer suitability and disclosures.
-d. It negotiates every bespoke OTC term for the customer.
+a. It replaces the need for customer suitability and disclosures.
+b. It negotiates every bespoke OTC term for the customer.
+c. It interposes itself between counterparties, manages clearing and margin, and helps manage counterparty risk under its rules.
+d. It guarantees that markets cannot fall.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. It interposes itself between counterparties, manages clearing and margin, and helps manage counterparty risk under its rules.
+**Answer:** C. It interposes itself between counterparties, manages clearing and margin, and helps manage counterparty risk under its rules.
 
 **Rationale:** A CCP becomes the buyer to every seller and seller to every buyer within its clearing framework and manages margin and default risk.
 
@@ -4614,15 +4614,15 @@ d. It negotiates every bespoke OTC term for the customer.
 
 ### 284. **[Single choice]** [RES 2B §4.2–4.3] Why are margin rules important for OTC derivatives?
 
-a. They support performance and risk management by requiring collateral or other protections against exposure.
-b. They ensure no counterparty can ever default.
-c. They apply only after a trade has been fully settled.
-d. They allow a firm to ignore valuation and close-out provisions.
+a. They ensure no counterparty can ever default.
+b. They apply only after a trade has been fully settled.
+c. They allow a firm to ignore valuation and close-out provisions.
+d. They support performance and risk management by requiring collateral or other protections against exposure.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. They support performance and risk management by requiring collateral or other protections against exposure.
+**Answer:** D. They support performance and risk management by requiring collateral or other protections against exposure.
 
 **Rationale:** Margin and collateral help manage current and potential future exposure but do not eliminate default, liquidity or valuation risk.
 
@@ -4669,15 +4669,15 @@ d. It guarantees that every OTC derivative is exchange-traded.
 
 ### 287. **[Single choice]** [RES 2B §4.5] Before recommending a bespoke OTC derivative, which set of issues should be checked?
 
-a. Customer objective and capacity, product mechanics, valuation, collateral, liquidity, counterparty, documentation and exit risks.
-b. Only whether the product has a short marketing name.
-c. Only whether the customer has signed a generic application form.
-d. Whether the product promises a return without considering downside scenarios.
+a. Whether the product promises a return without considering downside scenarios.
+b. Customer objective and capacity, product mechanics, valuation, collateral, liquidity, counterparty, documentation and exit risks.
+c. Only whether the product has a short marketing name.
+d. Only whether the customer has signed a generic application form.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Customer objective and capacity, product mechanics, valuation, collateral, liquidity, counterparty, documentation and exit risks.
+**Answer:** B. Customer objective and capacity, product mechanics, valuation, collateral, liquidity, counterparty, documentation and exit risks.
 
 **Rationale:** Bespoke OTC recommendations require analysis of the customer, product, counterparty, documentation, valuation, collateral, liquidity and exit.
 
@@ -4685,15 +4685,15 @@ d. Whether the product promises a return without considering downside scenarios.
 
 ### 288. **[Single choice]** [RES 2B §5.1–5.3] Why do leverage and complexity increase the importance of ethics in derivatives dealing?
 
-a. They can magnify losses, information asymmetry, conflicts and the consequences of misleading communication.
-b. They eliminate the need for customer disclosures.
-c. They make every product suitable for every customer.
-d. They guarantee that a customer can exit at the original price.
+a. They make every product suitable for every customer.
+b. They guarantee that a customer can exit at the original price.
+c. They can magnify losses, information asymmetry, conflicts and the consequences of misleading communication.
+d. They eliminate the need for customer disclosures.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. They can magnify losses, information asymmetry, conflicts and the consequences of misleading communication.
+**Answer:** C. They can magnify losses, information asymmetry, conflicts and the consequences of misleading communication.
 
 **Rationale:** Leverage and complexity can magnify losses and conflicts, so honest, competent and balanced conduct is especially important.
 
@@ -4701,15 +4701,15 @@ d. They guarantee that a customer can exit at the original price.
 
 ### 289. **[Single choice]** [RES 2B §5.4] How should a representative present back-tested or simulated performance?
 
-a. Clearly identify it as simulated or back-tested and explain methodology, assumptions, limitations, costs and risks.
-b. Present it as actual historical performance because the model used real prices.
-c. Omit the period and assumptions to make the result easier to understand.
-d. Describe the result as guaranteed if the model has not yet lost money.
+a. Present it as actual historical performance because the model used real prices.
+b. Omit the period and assumptions to make the result easier to understand.
+c. Describe the result as guaranteed if the model has not yet lost money.
+d. Clearly identify it as simulated or back-tested and explain methodology, assumptions, limitations, costs and risks.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Clearly identify it as simulated or back-tested and explain methodology, assumptions, limitations, costs and risks.
+**Answer:** D. Clearly identify it as simulated or back-tested and explain methodology, assumptions, limitations, costs and risks.
 
 **Rationale:** Simulated performance must not be presented as actual performance and needs meaningful methodology, assumptions and limitations.
 
@@ -4733,15 +4733,15 @@ d. It removes the need to record the customer’s instructions.
 
 ### 291. **[Single choice]** [RES 2B §5.4] What does the reasonable-basis standard require?
 
-a. Sufficient investigation of the product, counterparty, market, assumptions and customer circumstances to support the recommendation.
-b. A recommendation based only on the highest commission.
-c. A guarantee that no market event can affect the product.
-d. A customer signature without product knowledge or analysis.
+a. A customer signature without product knowledge or analysis.
+b. Sufficient investigation of the product, counterparty, market, assumptions and customer circumstances to support the recommendation.
+c. A recommendation based only on the highest commission.
+d. A guarantee that no market event can affect the product.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Sufficient investigation of the product, counterparty, market, assumptions and customer circumstances to support the recommendation.
+**Answer:** B. Sufficient investigation of the product, counterparty, market, assumptions and customer circumstances to support the recommendation.
 
 **Rationale:** Diligence and reasonable basis require investigation of the product, market, assumptions, counterparty and customer circumstances.
 
@@ -4749,15 +4749,15 @@ d. A customer signature without product knowledge or analysis.
 
 ### 292. **[Single choice]** [RES 2B §5.4] What is the BIS FX Global Code?
 
-a. A global set of principles for wholesale FX-market conduct, including governance, execution, information sharing and settlement.
-b. A Singapore listing rule for small-cap equities.
-c. A tax statute governing customer income.
-d. A clearing guarantee for every OTC derivative.
+a. A tax statute governing customer income.
+b. A clearing guarantee for every OTC derivative.
+c. A global set of principles for wholesale FX-market conduct, including governance, execution, information sharing and settlement.
+d. A Singapore listing rule for small-cap equities.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. A global set of principles for wholesale FX-market conduct, including governance, execution, information sharing and settlement.
+**Answer:** C. A global set of principles for wholesale FX-market conduct, including governance, execution, information sharing and settlement.
 
 **Rationale:** The BIS FX Global Code sets global wholesale FX principles covering ethical, governed and well-controlled market conduct.
 
@@ -4765,15 +4765,15 @@ d. A clearing guarantee for every OTC derivative.
 
 ### 293. **[Single choice]** [RES 2B §5.5] How should best execution be adapted for an OTC derivatives transaction?
 
-a. Compare relevant quotes or pricing processes while considering rate, costs, liquidity, counterparty, size, speed, settlement and instructions.
-b. Always select the first counterparty contacted.
-c. Use only the lowest headline rate without assessing collateral or settlement.
-d. Treat best execution as impossible because OTC products are bespoke.
+a. Always select the first counterparty contacted.
+b. Use only the lowest headline rate without assessing collateral or settlement.
+c. Treat best execution as impossible because OTC products are bespoke.
+d. Compare relevant quotes or pricing processes while considering rate, costs, liquidity, counterparty, size, speed, settlement and instructions.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Compare relevant quotes or pricing processes while considering rate, costs, liquidity, counterparty, size, speed, settlement and instructions.
+**Answer:** D. Compare relevant quotes or pricing processes while considering rate, costs, liquidity, counterparty, size, speed, settlement and instructions.
 
 **Rationale:** OTC best execution requires a reasonable comparison or pricing process and assessment of customer-specific execution factors.
 
@@ -4820,15 +4820,15 @@ d. Custody reconciliation analysis.
 
 ### 296. **[Single choice]** [RES 2B §6.3] Which elements belong in a derivatives trading strategy?
 
-a. Objective, risk, products, leverage, margin, entry and exit rules, monitoring, limits and contingency actions.
-b. Only a desired return with no loss limit or time horizon.
-c. Only the product name and a verbal promise.
-d. A rule that all positions remain open indefinitely.
+a. A rule that all positions remain open indefinitely.
+b. Objective, risk, products, leverage, margin, entry and exit rules, monitoring, limits and contingency actions.
+c. Only a desired return with no loss limit or time horizon.
+d. Only the product name and a verbal promise.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Objective, risk, products, leverage, margin, entry and exit rules, monitoring, limits and contingency actions.
+**Answer:** B. Objective, risk, products, leverage, margin, entry and exit rules, monitoring, limits and contingency actions.
 
 **Rationale:** A strategy should define objectives, risk, products, leverage, margin, entry, exit, monitoring, limits and contingency actions.
 
@@ -4836,15 +4836,15 @@ d. A rule that all positions remain open indefinitely.
 
 ### 297. **[Single choice]** [RES 2B §6.4] Which control is important during derivatives strategy implementation?
 
-a. Check authority, limits, margin, execution, collateral, exposure and exceptions, and escalate breaches.
-b. Ignore margin until the position is closed.
-c. Allow unapproved venues if the trade is profitable.
-d. Replace records with an end-of-month summary only.
+a. Allow unapproved venues if the trade is profitable.
+b. Replace records with an end-of-month summary only.
+c. Check authority, limits, margin, execution, collateral, exposure and exceptions, and escalate breaches.
+d. Ignore margin until the position is closed.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Check authority, limits, margin, execution, collateral, exposure and exceptions, and escalate breaches.
+**Answer:** C. Check authority, limits, margin, execution, collateral, exposure and exceptions, and escalate breaches.
 
 **Rationale:** Implementation requires approved authority, execution and allocation controls, margin and exposure monitoring, records and escalation.
 
@@ -4852,15 +4852,15 @@ d. Replace records with an end-of-month summary only.
 
 ### 298. **[Single choice]** [RES 2B §6.4] Why are stop-losses not complete risk controls?
 
-a. Gaps, illiquidity, limit moves, outages or counterparty failure may prevent execution at the chosen stop.
-b. A stop-loss always executes at exactly the selected price.
-c. Stop-losses eliminate correlation and regulatory risk.
-d. Stop-losses remove the need for margin monitoring.
+a. A stop-loss always executes at exactly the selected price.
+b. Stop-losses eliminate correlation and regulatory risk.
+c. Stop-losses remove the need for margin monitoring.
+d. Gaps, illiquidity, limit moves, outages or counterparty failure may prevent execution at the chosen stop.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Gaps, illiquidity, limit moves, outages or counterparty failure may prevent execution at the chosen stop.
+**Answer:** D. Gaps, illiquidity, limit moves, outages or counterparty failure may prevent execution at the chosen stop.
 
 **Rationale:** Stops can fail or fill far from the chosen level in gaps, illiquid markets, outages or counterparty stress.
 
@@ -4907,15 +4907,15 @@ Choose one:
 
 ### 301. **[Single choice]** [RES 2B §6.7] Which scenario demonstrates gap risk?
 
-a. The risk that price moves discontinuously so a stop may fill far from its chosen level or not at all.
-b. The risk that two currencies have the same exchange rate.
-c. The risk that a customer receives too many statements.
-d. The risk that a product has a written term sheet.
+a. The risk that a product has a written term sheet.
+b. The risk that price moves discontinuously so a stop may fill far from its chosen level or not at all.
+c. The risk that two currencies have the same exchange rate.
+d. The risk that a customer receives too many statements.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. The risk that price moves discontinuously so a stop may fill far from its chosen level or not at all.
+**Answer:** B. The risk that price moves discontinuously so a stop may fill far from its chosen level or not at all.
 
 **Rationale:** Gap risk arises when the market moves between executable prices, making stop execution and loss estimates uncertain.
 
@@ -4923,15 +4923,15 @@ d. The risk that a product has a written term sheet.
 
 ### 302. **[Single choice]** [RES 2B §7.1–7.4] Why must AML/CFT controls cover derivatives counterparties as well as customers?
 
-a. Derivatives can involve complex cross-border payment, collateral, settlement and beneficial-ownership flows.
-b. Counterparties can never be involved in financial crime.
-c. Derivatives have no cash-flow or settlement obligations.
-d. Only retail customers can create AML/CFT risk.
+a. Derivatives have no cash-flow or settlement obligations.
+b. Only retail customers can create AML/CFT risk.
+c. Derivatives can involve complex cross-border payment, collateral, settlement and beneficial-ownership flows.
+d. Counterparties can never be involved in financial crime.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Derivatives can involve complex cross-border payment, collateral, settlement and beneficial-ownership flows.
+**Answer:** C. Derivatives can involve complex cross-border payment, collateral, settlement and beneficial-ownership flows.
 
 **Rationale:** Derivatives may involve complex customers, counterparties, jurisdictions, collateral and payment flows, requiring risk-based controls.
 
@@ -4939,15 +4939,15 @@ d. Only retail customers can create AML/CFT risk.
 
 ### 303. **[Single choice]** [RES 2B §7.5] What should happen when sanctions screening identifies a potential prohibited connection?
 
-a. Hold or prevent the transaction as required, escalate and follow freezing, reporting and non-dealing procedures.
-b. Complete the transaction quietly if the customer offers extra collateral.
-c. Delete the alert so the customer is not inconvenienced.
-d. Ask the customer to change the spelling of its name and continue.
+a. Complete the transaction quietly if the customer offers extra collateral.
+b. Delete the alert so the customer is not inconvenienced.
+c. Ask the customer to change the spelling of its name and continue.
+d. Hold or prevent the transaction as required, escalate and follow freezing, reporting and non-dealing procedures.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Hold or prevent the transaction as required, escalate and follow freezing, reporting and non-dealing procedures.
+**Answer:** D. Hold or prevent the transaction as required, escalate and follow freezing, reporting and non-dealing procedures.
 
 **Rationale:** Potential sanctions matches require the applicable hold, escalation, freezing, reporting and non-dealing process.
 
@@ -4971,15 +4971,15 @@ d. A routine reconciliation performed by the firm.
 
 ### 305. **[Single choice]** [RES 2B §7.7–7.8] What is senior management’s AML/CFT responsibility?
 
-a. Set risk appetite, approve the framework, provide resources, receive reporting, challenge weaknesses and ensure remediation.
-b. Delegate all accountability to an automated screening tool.
-c. Approve customers personally but ignore enterprise-level risk.
-d. Review AML/CFT only after a regulator discovers a breach.
+a. Review AML/CFT only after a regulator discovers a breach.
+b. Set risk appetite, approve the framework, provide resources, receive reporting, challenge weaknesses and ensure remediation.
+c. Delegate all accountability to an automated screening tool.
+d. Approve customers personally but ignore enterprise-level risk.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Set risk appetite, approve the framework, provide resources, receive reporting, challenge weaknesses and ensure remediation.
+**Answer:** B. Set risk appetite, approve the framework, provide resources, receive reporting, challenge weaknesses and ensure remediation.
 
 **Rationale:** Senior management and the board remain accountable for the framework, resources, reporting, challenge and remediation.
 
@@ -4987,15 +4987,15 @@ d. Review AML/CFT only after a regulator discovers a breach.
 
 ### 306. **[Single choice]** [RES 2B §7.9] When onboarding a corporate derivatives customer, what beneficial-owner question must be answered?
 
-a. Which natural person ultimately owns or controls the entity, including through ownership chains or other control means.
-b. Which employee entered the latest trade regardless of ownership.
-c. Which bank provides the cheapest margin facility.
-d. Which director has the longest job title.
+a. Which bank provides the cheapest margin facility.
+b. Which director has the longest job title.
+c. Which natural person ultimately owns or controls the entity, including through ownership chains or other control means.
+d. Which employee entered the latest trade regardless of ownership.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Which natural person ultimately owns or controls the entity, including through ownership chains or other control means.
+**Answer:** C. Which natural person ultimately owns or controls the entity, including through ownership chains or other control means.
 
 **Rationale:** Beneficial ownership focuses on the natural person who ultimately owns or controls the entity, including indirect control.
 
@@ -5003,15 +5003,15 @@ d. Which director has the longest job title.
 
 ### 307. **[Single choice]** [RES 2B §7.10–7.11] What should occur before launching a new derivatives product?
 
-a. Assess product, settlement, collateral, counterparties, jurisdictions, anonymity, monitoring and control capability.
-b. Launch first and design screening after the first suspicious transaction.
-c. Rely only on the product’s marketing name.
-d. Assume existing controls are adequate regardless of product features.
+a. Launch first and design screening after the first suspicious transaction.
+b. Rely only on the product’s marketing name.
+c. Assume existing controls are adequate regardless of product features.
+d. Assess product, settlement, collateral, counterparties, jurisdictions, anonymity, monitoring and control capability.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Assess product, settlement, collateral, counterparties, jurisdictions, anonymity, monitoring and control capability.
+**Answer:** D. Assess product, settlement, collateral, counterparties, jurisdictions, anonymity, monitoring and control capability.
 
 **Rationale:** New-product risk assessment should cover product features, flows, counterparties, jurisdictions, customers and monitoring capability before launch.
 
@@ -5058,15 +5058,15 @@ d. It lists only questions that will appear in the next examination.
 
 ### 310. **[Single choice]** [RES 2B Appendix F] Which topic is included in the source RES 2B review questions?
 
-a. Front running, OTC products, ethics, best execution, CKA, regulatory risk and AML/CFT.
-b. Only equity valuation and dividend forecasting.
-c. Only personal tax returns for listed companies.
-d. Only physical warehouse inspection procedures.
+a. Only physical warehouse inspection procedures.
+b. Front running, OTC products, ethics, best execution, CKA, regulatory risk and AML/CFT.
+c. Only equity valuation and dividend forecasting.
+d. Only personal tax returns for listed companies.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** a. Front running, OTC products, ethics, best execution, CKA, regulatory risk and AML/CFT.
+**Answer:** B. Front running, OTC products, ethics, best execution, CKA, regulatory risk and AML/CFT.
 
 **Rationale:** The source review questions integrate licensing, market conduct, OTC products, ethics, best execution, CKA, regulatory risk and financial crime controls.
 
@@ -5074,15 +5074,15 @@ d. Only physical warehouse inspection procedures.
 
 ### 311. **[Single choice]** [RES 1B §1.1.1.1] What is the primary function of the primary market?
 
-a. Transferring existing securities between investors.
-b. Providing opportunities for businesses to raise capital by issuing securities.
-c. Clearing and settling trades.
-d. Setting monetary policy.
+a. Setting monetary policy.
+b. Transferring existing securities between investors.
+c. Providing opportunities for businesses to raise capital by issuing securities.
+d. Clearing and settling trades.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b.
+**Answer:** C. Providing opportunities for businesses to raise capital by issuing securities.
 
 **Rationale:** Capital-raising through the issuance of shares, bonds and company warrants takes place in the primary market; trading afterwards occurs in the secondary market.
 
@@ -5090,15 +5090,15 @@ d. Setting monetary policy.
 
 ### 312. **[Single choice]** [RES 1B §1.2.1.2] A Wholesale Bank may accept Singapore dollar fixed deposits of at least:
 
-a. S$50,000.
-b. S$250,000.
-c. S$500,000.
-d. Any amount.
+a. S$500,000.
+b. Any amount.
+c. S$50,000.
+d. S$250,000.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b.
+**Answer:** D. S$250,000.
 
 **Rationale:** Wholesale Banks may take foreign-currency deposits in any amount but are restricted on SGD, with a S$250,000 floor on fixed deposits.
 
@@ -5106,15 +5106,15 @@ d. Any amount.
 
 ### 313. **[Single choice]** [RES 1B §1.2.1.2] An SGD savings or current account opened by a Wholesale Bank for a Singapore-resident natural person should:
 
-a. Bear interest at the market rate.
-b. Not be interest-bearing without MAS's prior approval.
-c. Be capped at S$250,000.
-d. Be converted to a fixed deposit after one year.
+a. Not be interest-bearing without MAS's prior approval.
+b. Be capped at S$250,000.
+c. Be converted to a fixed deposit after one year.
+d. Bear interest at the market rate.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b.
+**Answer:** A. Not be interest-bearing without MAS's prior approval.
 
 **Rationale:** This restriction protects the retail deposit franchise; without MAS approval the account should not pay interest.
 
@@ -5138,15 +5138,15 @@ d. Is licensed under the SFA.
 
 ### 315. **[Single choice]** [RES 1B §1.2.2.1] Unlike a bank, a broker/dealer company:
 
-a. Takes deposits.
-b. Does not take deposits but specialises in matching buyers with sellers and may be a Trading or Clearing Member.
-c. Cannot provide clearing services.
-d. Is always a market maker.
+a. Is always a market maker.
+b. Takes deposits.
+c. Does not take deposits but specialises in matching buyers with sellers and may be a Trading or Clearing Member.
+d. Cannot provide clearing services.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b.
+**Answer:** C. Does not take deposits but specialises in matching buyers with sellers and may be a Trading or Clearing Member.
 
 **Rationale:** Deposit taking is a banking activity; broker/dealers provide trading and clearing access.
 
@@ -5225,15 +5225,15 @@ Choose one:
 
 ### 320. **[Single choice]** [RES 1B §1.3.1.4] CDP holds book-entry securities as:
 
-a. Legal owner.
-b. Bare trustee for the collective benefit of depositors.
-c. Pledgee.
-d. Market maker.
+a. Pledgee.
+b. Market maker.
+c. Legal owner.
+d. Bare trustee for the collective benefit of depositors.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b.
+**Answer:** D. Bare trustee for the collective benefit of depositors.
 
 **Rationale:** Securities are immobilised and ownership transfers by book entry, with CDP holding as bare trustee.
 
@@ -5241,15 +5241,15 @@ d. Market maker.
 
 ### 321. **[Single choice]** [RES 1B §1.3.1.4] SGX trades must settle on:
 
-a. T+1.
-b. T+2.
-c. T+3.
-d. The trade date.
+a. T+2.
+b. T+3.
+c. The trade date.
+d. T+1.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b.
+**Answer:** A. T+2.
 
 **Rationale:** T+2 means two exchange business days after the trade day, settled gross in the end-of-day run.
 
@@ -5273,15 +5273,15 @@ d. Guarantee settlement of every trade.
 
 ### 323. **[Single choice]** [RES 1B §1.3.1.6] SGX-DC's status as a Qualifying CCP means its bank members benefit from:
 
-a. An exemption from margin.
-b. Lower capital requirements for trade and default-fund exposures under Basel III.
-c. A government guarantee.
-d. No clearing-house rules.
+a. No clearing-house rules.
+b. An exemption from margin.
+c. Lower capital requirements for trade and default-fund exposures under Basel III.
+d. A government guarantee.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b.
+**Answer:** C. Lower capital requirements for trade and default-fund exposures under Basel III.
 
 **Rationale:** Qualifying CCP status reduces capital cost; it does not remove margin or the clearing rules.
 
@@ -5289,15 +5289,15 @@ d. No clearing-house rules.
 
 ### 324. **[Single choice]** [RES 1B §1.3.1.7] SGX RegCo was established in 2017 to:
 
-a. Replace MAS as the statutory regulator.
-b. Separate frontline regulatory functions from SGX's commercial and operating activities, with its own board.
-c. Operate the derivatives clearing house.
-d. Set monetary policy.
+a. Operate the derivatives clearing house.
+b. Set monetary policy.
+c. Replace MAS as the statutory regulator.
+d. Separate frontline regulatory functions from SGX's commercial and operating activities, with its own board.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b.
+**Answer:** D. Separate frontline regulatory functions from SGX's commercial and operating activities, with its own board.
 
 **Rationale:** The separation addresses the conflict inherent in an exchange regulating its own market.
 
@@ -5328,15 +5328,15 @@ Choose one:
 
 ### 326. **[Single choice]** [RES 1B §1.4.3.2] Global Depositary Receipts listed on SGX-ST are offered:
 
-a. To the general public.
-b. Only to institutional and accredited investors.
-c. Only to retail investors.
-d. Only to SGX members.
+a. Only to institutional and accredited investors.
+b. Only to retail investors.
+c. Only to SGX members.
+d. To the general public.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b.
+**Answer:** A. Only to institutional and accredited investors.
 
 **Rationale:** GDRs are specialist products, and disclosure must be provided to SGX-ST in English at the same time as to the home exchange.
 
@@ -5406,15 +5406,15 @@ Choose one:
 
 ### 330. **[Single choice]** [RES 1B §1.4.6.2] Catalist offer documents are:
 
-a. Not subject to any liability provisions.
-b. Lodged on Catalodge, follow prospectus-style disclosure including SFA liability provisions, and are exposed for at least 14 days.
-c. Lodged with MAS only.
-d. Exposed for at least seven days.
+a. Exposed for at least seven days.
+b. Not subject to any liability provisions.
+c. Lodged on Catalodge, follow prospectus-style disclosure including SFA liability provisions, and are exposed for at least 14 days.
+d. Lodged with MAS only.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b.
+**Answer:** C. Lodged on Catalodge, follow prospectus-style disclosure including SFA liability provisions, and are exposed for at least 14 days.
 
 **Rationale:** The exposure period is 14 days for Catalist, against at least seven for Mainboard OPERA exposure.
 
@@ -5438,15 +5438,15 @@ d. Suspend the sponsor or registered professional.
 
 ### 332. **[Single choice]** [RES 1B §2.5.1] The distinction between a listed and an unlisted Specified Investment Product determines:
 
-a. The commission rate.
-b. Whether a CAR or a CKA applies, and what follows a failed assessment.
-c. Whether the product can be sold at all.
-d. The settlement cycle.
+a. Whether the product can be sold at all.
+b. The settlement cycle.
+c. The commission rate.
+d. Whether a CAR or a CKA applies, and what follows a failed assessment.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** b.
+**Answer:** D. Whether a CAR or a CKA applies, and what follows a failed assessment.
 
 **Rationale:** Listed SIPs take a CAR valid for three years; unlisted SIPs take a CKA valid for one year, and a negative CKA generally blocks dealing.
 
@@ -5463,3 +5463,2331 @@ Coverage is verified mechanically rather than through a hand-written section-to-
 - RES 2B chapter 7 and its appendices are shared with RES 1B chapter 7, carried once on the `1B-7` page; the manifest marks this with `sharedWith` so the audit does not expect a duplicate.
 
 The source review questions familiarise candidates with scope and format but do not cover all tested material, so the original questions extend every chapter and appendix.
+
+<!-- EXTENSION QUESTIONS BELOW — generated by scripts/append-questions.mjs -->
+
+## RES 1B — Extension
+
+### 333. **[Single choice | RES 1B §2.3]** [RES 1B §2.3] A representative has ceased to act for a principal for a continuous period of one month, and the principal has not notified MAS. What is the effect on the representative’s status?
+
+- a. The status ceases
+- b. The status is suspended only if MAS issues a notice
+- c. The status converts to provisional
+- d. The status continues until the principal notifies MAS
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. The status ceases
+
+**Rationale:** Cessation occurs automatically where the representative has not acted for one continuous month and the principal has not notified MAS. The rule prevents dormant registrations remaining on the public register.
+
+</details>
+
+### 334. **[Single choice | RES 1B §2.3]** [RES 1B §2.3] A temporary representative may be appointed for a total of:
+
+- a. 3 months within any 12-month period, each appointment not exceeding 3 months
+- b. 6 months within any 24-month period, each appointment not exceeding 3 months
+- c. 12 months within any 24-month period
+- d. 6 months within any 12-month period, each appointment not exceeding 6 months
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. 6 months within any 24-month period, each appointment not exceeding 3 months
+
+**Rationale:** The aggregate is 6 months within any 24 months, with each individual appointment no longer than 3 months. The second block can only be notified after the first has commenced.
+
+</details>
+
+### 335. **[Single choice | RES 1B §2.3]** [RES 1B §2.3] A provisional representative is given a grace period to complete the requisite examinations of:
+
+- a. Twelve months
+- b. One month
+- c. Three months
+- d. Six months
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Three months
+
+**Rationale:** A provisional representative has 3 months from entry on the public register, and the status is valid for a maximum of 3 months.
+
+</details>
+
+### 336. **[Multiple response | RES 1B §2.3]** [RES 1B §2.3] Which are due diligence checks a principal must perform before appointing a representative?
+
+- a. Verifying identity from a current NRIC, FIN or passport
+- b. Reference checks with previous employers about dismissal or material adverse records
+- c. Checking the Insolvency and Public Trustee’s Office portal for undischarged bankruptcy
+- d. Obtaining the individual’s personal tax returns for the last five years
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** Identity, past-record and financial-status checks are the three heads of due diligence. Personal tax returns are not part of the prescribed process.
+
+</details>
+
+### 337. **[Single choice | RES 1B §2.3]** [RES 1B §2.3] The minimum education requirement for registration as a representative is:
+
+- a. At least 2 GCE O-Level credit passes in all cases
+- b. A recognised diploma in any discipline
+- c. A degree in finance
+- d. At least 4 GCE O-Level credit passes
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. At least 4 GCE O-Level credit passes
+
+**Rationale:** The standard is 4 O-Level credit passes, reduced to 2 with 3 continuous years of relevant experience over the last 5 years for those who sat the examinations in or before 1980.
+
+</details>
+
+### 338. **[Single choice | RES 1B §2.4]** [RES 1B §2.4] Which statement is required on a product advertisement issued by a CMS licence holder?
+
+- a. "This advertisement has not been reviewed by the Monetary Authority of Singapore."
+- b. "Approved by the Monetary Authority of Singapore."
+- c. "Past performance is guaranteed."
+- d. No statement is required on a product advertisement
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. "This advertisement has not been reviewed by the Monetary Authority of Singapore."
+
+**Rationale:** The prescribed statement clarifies that MAS has not reviewed the advertisement. The other statements either overstate regulatory endorsement or misstate the position on performance.
+
+</details>
+
+### 339. **[Single choice | RES 1B §2.4]** [RES 1B §2.4] Before a product advertisement is disseminated, it must be:
+
+- a. Published for seven days for public comment
+- b. Approved in writing by a specified person who records the reasons for satisfaction
+- c. Approved verbally by the head of sales
+- d. Filed with MAS for pre-clearance
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Approved in writing by a specified person who records the reasons for satisfaction
+
+**Rationale:** Regulation 46AA requires prior written approval by a specified person, with the reasons for satisfaction recorded. There is no MAS pre-clearance regime for advertisements.
+
+</details>
+
+### 340. **[Multiple response | RES 1B §2.4]** [RES 1B §2.4] Which statements about non-product advertisements are correct?
+
+- a. They must not be false or misleading
+- b. They must not claim a service is free unless it genuinely is furnished without condition or obligation
+- c. They must not contain exaggerated statements exploiting a reader’s lack of experience
+- d. They must carry the product highlights sheet
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** The three prohibitions apply to non-product advertisements. A product highlights sheet belongs to a product, not to a non-product advertisement.
+
+</details>
+
+### 341. **[Single choice | RES 1B §2.6]** [RES 1B §2.6] A CMS licence holder sends monthly statements to clients. Which statement about the exemptions is correct?
+
+- a. A statement is required daily for leveraged accounts
+- b. A statement is only required on request
+- c. No monthly statement is needed where there has been no change to the account during the month
+- d. No monthly statement is ever needed for a retail client
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. No monthly statement is needed where there has been no change to the account during the month
+
+**Rationale:** An unchanged account in the month is one of the stated exemptions, alongside clearing-house-supplied information and the accredited, expert or institutional routes.
+
+</details>
+
+### 342. **[Single choice | RES 1B §2.6]** [RES 1B §2.6] A monthly statement was sent for January and March but not for February. What must the CMS licence holder do at the end of March?
+
+- a. Send a quarterly statement covering January only
+- b. Send a statement for February only
+- c. Send a quarterly statement, because March has a monthly statement so none is required
+- d. Send nothing, because a monthly statement was sent in March
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Send nothing, because a monthly statement was sent in March
+
+**Rationale:** The quarterly statement is required only where no monthly statement was sent for the last month of the quarter. March is the last month and a monthly statement was sent, so the quarterly statement is not triggered.
+
+</details>
+
+### 343. **[Single choice | RES 1B §2.6]** [RES 1B §2.6] A transaction is executed on Monday 23 April and requires the fixing price of 25 April. When must the contract note be issued?
+
+- a. By 26 April
+- b. By 30 April
+- c. Within one month
+- d. By 24 April
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. By 26 April
+
+**Rationale:** Where a required detail is unavailable at the time of the trade, the note is due by the next business day after the detail becomes available — here 26 April.
+
+</details>
+
+### 344. **[Multiple response | RES 1B §2.6]** [RES 1B §2.6] Which must appear on a contract note?
+
+- a. The price per unit of the transaction
+- b. The amount of consideration for the transaction
+- c. The rate and amount of commission charged
+- d. The counterparty’s credit rating
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** Price, consideration, commission and stamp duties are all prescribed contents. The counterparty’s credit rating is not a contract note item.
+
+</details>
+
+### 345. **[Single choice | RES 1B §2.7]** [RES 1B §2.7] A CMS licence holder’s books must be kept:
+
+- a. Until the next audit, then destroyed
+- b. For at least 5 years and in a manner that allows them to be conveniently and properly audited
+- c. For at least 7 years and in any language
+- d. For at least 3 years and only in electronic form
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. For at least 5 years and in a manner that allows them to be conveniently and properly audited
+
+**Rationale:** The statutory minimum is 5 years, and the books must be apt for audit. They must also be kept in English.
+
+</details>
+
+### 346. **[Single choice | RES 1B §2.7]** [RES 1B §2.7] An auditor of a CMS licence holder discovers a matter that may jeopardise client assets. The auditor must:
+
+- a. Raise it only with the chief executive
+- b. Include it in the annual audit report without further action
+- c. Report in writing to MAS immediately
+- d. Report to the board at the next annual general meeting
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Report in writing to MAS immediately
+
+**Rationale:** Three triggers require an immediate written report to MAS: material adverse effect on financial position, contravention or fraud, and irregularity affecting accounts or client assets.
+
+</details>
+
+### 347. **[Single choice | RES 1B §2.8]** [RES 1B §2.8] For a retail customer in respect of OTC derivatives contracts, the customer’s money must be deposited in:
+
+- a. The firm’s own operating account
+- b. A segregated account at the firm’s discretion
+- c. Any account nominated by the customer without restriction
+- d. A trust account
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. A trust account
+
+**Rationale:** Retail customer money for OTC derivatives must go into a trust account. The segregated-account option is something extra the firm may offer, subject to a cost and protection disclosure.
+
+</details>
+
+### 348. **[Multiple response | RES 1B §2.8]** [RES 1B §2.8] Before depositing a retail customer’s money in a trust account, a CMS licence holder must disclose which of the following?
+
+- a. That the money is held by a specified financial institution on the holder’s behalf
+- b. Whether the money is commingled with other customers’ money, and the risk of that commingling
+- c. The consequences for the money if the institution becomes insolvent
+- d. The name of every other customer in the account
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** The disclosure covers the holding arrangement, commingling and its risk, insolvency consequences and, where relevant, the different laws of an overseas custodian. Naming other customers would itself breach confidentiality.
+
+</details>
+
+### 349. **[Single choice | RES 1B §2.8]** [RES 1B §2.8] Moneys and assets received from customers must be deposited no later than:
+
+- a. The next business day after receipt
+- b. Three business days after receipt
+- c. The end of the month
+- d. The same day
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. The next business day after receipt
+
+**Rationale:** Deposit must occur by the next business day, understanding that business day by reference to the holder or the custodian where the custodian is closed.
+
+</details>
+
+### 350. **[Multiple response | RES 1B §2.8]** [RES 1B §2.8] Which are permissible purposes for withdrawing money from a customer’s trust account?
+
+- a. Making a payment to a person entitled to it
+- b. Defraying the holder’s brokerage and other proper charges
+- c. Reimbursing the holder moneys it advanced to the account, provided the account does not thereby become under-margined
+- d. Meeting the holder’s own obligations under a transaction for the holder’s benefit
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** The last option is expressly prohibited: a withdrawal must not be made from a retail customer’s trust account to meet the holder’s own obligations.
+
+</details>
+
+### 351. **[Single choice | RES 1B §2.8]** [RES 1B §2.8] The daily computation required for trust and custody accounts must be completed:
+
+- a. Monthly
+- b. Before noon of every business day
+- c. By the close of business each day
+- d. Weekly
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Before noon of every business day
+
+**Rationale:** The computation as at the end of the previous business day must be completed before noon, and retained with supporting data for at least five years.
+
+</details>
+
+### 352. **[Single choice | RES 1B §2.8]** [RES 1B §2.8] A CMS licence holder wishes to mortgage a retail customer’s assets to secure the customer’s debt. It may do so only:
+
+- a. Whenever the customer owes any amount
+- b. With MAS approval in each case
+- c. After informing the customer of the limit and the risks and obtaining written consent
+- d. With verbal consent from the customer
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. After informing the customer of the limit and the risks and obtaining written consent
+
+**Rationale:** For a retail customer the firm must explain that the charge is limited to the amount owed, explain the risks and obtain written consent; the charge itself cannot exceed the amount owed.
+
+</details>
+
+### 353. **[Single choice | RES 1B §2.9]** [RES 1B §2.9] An interest in a listed specified product must be entered in the register within:
+
+- a. 14 days of acquisition
+- b. 30 days of acquisition
+- c. The end of the financial year
+- d. 7 days of acquisition
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. 7 days of acquisition
+
+**Rationale:** The entry must be made within 7 days, retained for 5 years in an easily accessible form, and a copy of the register kept in Singapore.
+
+</details>
+
+### 354. **[Single choice | RES 1B §3.3]** [RES 1B §3.3] A trader places progressively higher bids to push the price to a level where stop-loss orders trigger, then sells into the resulting momentum. This practice is:
+
+- a. Hunting for stops, a form of false trading
+- b. A legitimate market-making activity
+- c. Bucketing
+- d. A permitted arbitrage
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Hunting for stops, a form of false trading
+
+**Rationale:** Hunting for stops is a recognised false trading practice: the trades are not driven by a genuine investment objective but by the intention to trigger other participants’ orders.
+
+</details>
+
+### 355. **[Single choice | RES 1B §3.3]** [RES 1B §3.3] Two parties enter matching buy and sell orders at the same price for the same contract month, with no change in beneficial ownership, to create the appearance of volume. This is:
+
+- a. A pre-arranged hedge
+- b. A wash trade
+- c. A cross trade
+- d. A calendar spread
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. A wash trade
+
+**Rationale:** A wash trade has no real economic effect and exists to create an impression of volume. A cross trade matches two genuine orders for different account owners.
+
+</details>
+
+### 356. **[Single choice | RES 1B §3.4]** [RES 1B §3.4] "Cornering" the underlying of a derivatives contract is achieved by:
+
+- a. Holding the position to expiry
+- b. Offsetting the position on the exchange
+- c. Buying the underlying in such volume as to gain a monopoly, forcing short sellers to pay an inflated price
+- d. Selling the underlying in volume to depress its price
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Buying the underlying in such volume as to gain a monopoly, forcing short sellers to pay an inflated price
+
+**Rationale:** Cornering is a form of manipulation distinguished from price manipulation by the acquisition of control over the underlying itself rather than merely moving its price.
+
+</details>
+
+### 357. **[Multiple response | RES 1B §3.6]** [RES 1B §3.6] Which of the following are prohibited as dissemination of false or misleading statements?
+
+- a. Disseminating information the person does not care whether it is true or false
+- b. Disseminating information the person knew or should have known was false in a material particular
+- c. Publishing a research report that identifies its author’s opinion as an opinion
+- d. Circulating unverified rumours by word of mouth to induce dealing
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, D
+
+**Rationale:** The offence requires a material falsehood combined with indifference or knowledge. Labelling an opinion as an opinion is neither false nor misleading.
+
+</details>
+
+### 358. **[Single choice | RES 1B §3.7]** [RES 1B §3.7] A broker receives an order to buy gold futures at 1,400 when the market is 1,395 bid / 1,405 offered. The broker withholds the order and fills the customer at 1,400 after buying at 1,398 for its own account. This is:
+
+- a. A legitimate principal trade with consent
+- b. A cross trade
+- c. Best execution
+- d. Bucketing
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Bucketing
+
+**Rationale:** The broker took the opposite side without executing a bona fide market transaction on the customer’s behalf, and pocketed the difference. That is bucketing.
+
+</details>
+
+### 359. **[Multiple response | RES 1B §3.10]** [RES 1B §3.10] Which of the following are exceptions to the insider trading prohibition?
+
+- a. Redemption of units by the trustee or manager of a collective investment scheme
+- b. Acts by an underwriter pursuant to its role
+- c. A trade made in reliance on the counterparty’s knowledge of the information
+- d. Knowledge of a corporation’s own transactions
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, D
+
+**Rationale:** The counterparty’s knowledge is a defence rather than an exception, and defences are pleaded after the contravention is established. Exceptions include the CIS redemption, the underwriter role and knowledge of one’s own transactions.
+
+</details>
+
+### 360. **[Single choice | RES 1B §3.10]** [RES 1B §3.10] Information is "generally available" if:
+
+- a. It consists of readily observable matter, or has been disseminated and a reasonable period has elapsed, or is a deduction from such information
+- b. It was shared with one other person
+- c. It is known to the firm’s senior management
+- d. It appears in an internal research note
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. It consists of readily observable matter, or has been disseminated and a reasonable period has elapsed, or is a deduction from such information
+
+**Rationale:** The three limbs are readily observable matter, properly disseminated information after a reasonable period, and inferences drawn from either. Internal circulation does not make information generally available.
+
+</details>
+
+### 361. **[Single choice | RES 1B §3.15]** [RES 1B §3.15] A representative learns of a large client buy order and buys for a personal account first. This is:
+
+- a. Acceptable if the client suffers no loss
+- b. Front running, a breach of the obligation to give priority to customer orders
+- c. Permissible if the personal trade is later disclosed
+- d. A legitimate use of market intelligence
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Front running, a breach of the obligation to give priority to customer orders
+
+**Rationale:** Client order information is non-public and is treated as a form of insider information, so the priority-of-customer-orders rule prohibits trading ahead of the instruction.
+
+</details>
+
+### 362. **[Single choice | RES 1B §3.16]** [RES 1B §3.16] The last traded price of a contract is 11,740 with no existing bid or offer. A cross trade arrives at 11,715 on both sides. Which order must be exposed first?
+
+- a. Either, at the trader’s discretion
+- b. Neither, because no bid or offer exists
+- c. The sell order, because it is more attractive relative to the last traded price
+- d. The buy order, because a bid is always exposed first
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. The sell order, because it is more attractive relative to the last traded price
+
+**Rationale:** With no resting quotes, the reference is the last traded price. Selling at 11,715 is attractive to a buyer relative to 11,740, so the sell order is exposed first.
+
+</details>
+
+### 363. **[Multiple response | RES 1B §3.20]** [RES 1B §3.20] What consequences may follow a contravention of the market conduct rules?
+
+- a. Criminal penalties including fines or imprisonment
+- b. Civil penalties and civil liability to affected persons
+- c. Suspension or loss of licence, or de-registration from public registers
+- d. Automatic transfer of the representative’s clients to another firm
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** Criminal and civil consequences plus licensing and reputational outcomes are all contemplated. Client transfers are not a regulatory consequence.
+
+</details>
+
+### 364. **[Single choice | RES 1B §6.2]** [RES 1B §6.2] Under CPFIS, the proportion of Ordinary Account savings that may be invested in a restricted set of products including corporate bonds is:
+
+- a. 35%
+- b. 50%
+- c. 75%
+- d. 100%
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. 35%
+
+**Rationale:** The 35% sub-limit under CPFIS-OA applies to the restricted category (corporate bonds and similar), not to the broader set of eligible investments.
+
+</details>
+
+### 365. **[Multiple response | RES 1B §6.2]** [RES 1B §6.2] Which of the following are agent banks under CPFIS?
+
+- a. OCBC Bank
+- b. Maybank
+- c. HSBC Bank
+- d. ICICI Bank
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B
+
+**Rationale:** The agent banks are the locally established institutions appointed for the scheme. HSBC and ICICI appear as distractors because they are foreign-headquartered.
+
+</details>
+
+### 366. **[Single choice | RES 1B §6.2]** [RES 1B §6.2] A CPF member has less than the required balance in their CPF accounts and is not an undischarged bankrupt. Are they eligible to invest under CPFIS?
+
+- a. Yes, because they are not bankrupt
+- b. Yes, if they are above 18
+- c. No, because they are unemployed
+- d. No, because the balances do not meet the stipulated requirement
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. No, because the balances do not meet the stipulated requirement
+
+**Rationale:** Eligibility depends on the CPF balance threshold rather than on employment status, age above majority or bankruptcy alone.
+
+</details>
+
+### 367. **[Single choice | RES 1B §6.2]** [RES 1B §6.2] For an ETF to be included under CPFIS, it must:
+
+- a. Be listed on SGX-ST and comply with the CPF Investment Guidelines
+- b. Be listed on any exchange and be denominated in SGD
+- c. Have a minimum track record of five years
+- d. Be managed by a Singapore-incorporated manager
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Be listed on SGX-ST and comply with the CPF Investment Guidelines
+
+**Rationale:** Listing on SGX-ST plus compliance with the CPF Investment Guidelines are the two conditions; currency of denomination and manager domicile are not the tests.
+
+</details>
+
+### 368. **[Single choice | RES 1B §6.2]** [RES 1B §6.2] Upon the death of a CPFIS member, which document entitles a claimant to residual CPFIS investments held by an agent bank or product provider?
+
+- a. Entitlement of Nominee
+- b. Grant of Probate
+- c. Letter of Entitlement
+- d. Option to Administer
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Grant of Probate
+
+**Rationale:** The Grant of Probate establishes the executor’s authority to deal with the estate, which is what the agent bank or provider requires.
+
+</details>
+
+### 369. **[Multiple response | RES 1B §6.2]** [RES 1B §6.2] Which statements about CPFIS are correct?
+
+- a. The scheme is administered with agent banks acting as the interface for members
+- b. Eligible products include certain unit trusts and ETFs
+- c. All CPF savings may be invested without any limit
+- d. CPFIS investments are subject to the CPF Investment Guidelines
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, D
+
+**Rationale:** CPFIS operates through agent banks, admits only eligible products and is constrained by the CPF Investment Guidelines. Investment is subject to limits, so the unlimited-investment statement is false.
+
+</details>
+
+### 370. **[Single choice | RES 1B §7.2]** [RES 1B §7.2] Which statute is the principal legislation governing money laundering in Singapore?
+
+- a. The Terrorism (Suppression of Financing) Act
+- b. The Banking Act
+- c. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
+- d. The Securities and Futures Act
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
+
+**Rationale:** The CDSA creates the laundering offences and the confiscation regime. The SFA and TSOFA address market conduct and terrorist financing respectively.
+
+</details>
+
+### 371. **[Multiple response | RES 1B §7.2]** [RES 1B §7.2] Which are stages of the money laundering process?
+
+- a. Placement
+- b. Layering
+- c. Integration
+- d. Acceleration
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** The three recognised stages are placement, layering and integration. "Acceleration" is not a stage of the process.
+
+</details>
+
+### 372. **[Single choice | RES 1B §7.6]** [RES 1B §7.6] Under the AML/CFT notice for capital markets intermediaries, records must be retained for at least:
+
+- a. 3 years
+- b. 7 years
+- c. 1 year
+- d. 5 years
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. 5 years
+
+**Rationale:** The retention period is 5 years, consistent with the record-keeping standard under the SFA.
+
+</details>
+
+### 373. **[Multiple response | RES 1B §7.6]** [RES 1B §7.6] Which steps are critical when applying KYC procedures to a new brokerage client?
+
+- a. Properly identifying and verifying the client’s identity
+- b. Identifying the client’s source of funds
+- c. Determining the types of business activity of the client
+- d. Determining the client’s marital status
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** Identity, source of funds and business activity are core CDD elements. Marital status is not a required CDD measure.
+
+</details>
+
+### 374. **[Single choice | RES 1B §7.9]** [RES 1B §7.9] A representative learns that a client appears on a money laundering sanctions list. The representative must:
+
+- a. Freeze the account and report the matter to the authorities
+- b. Freeze the account and delete the relevant records
+- c. Continue to monitor the account closely
+- d. Transfer the account to another representative
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Freeze the account and report the matter to the authorities
+
+**Rationale:** The response is to freeze and report. Deleting records destroys evidence, continued monitoring allows further dealing, and transferring the account spreads the problem.
+
+</details>
+
+### 375. **[Multiple response | RES 1B §7.9]** [RES 1B §7.9] Which are suspicious transaction indicators relating to cash?
+
+- a. Frequent large cash withdrawals not justified by the client’s business
+- b. Numerous small cash credits that individually are not substantial but in total are
+- c. Payment of a salary into the client’s own bank account
+- d. Large cash deposits inconsistent with the client’s known income
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, D
+
+**Rationale:** Unexplained large cash movements and structuring through multiple small credits are indicators. An ordinary salary credit is not.
+
+</details>
+
+### 376. **[Single choice | RES 1B §7.9]** [RES 1B §7.9] For the purposes of the suspicious transaction guidance, a substantial cash amount is generally taken to exceed:
+
+- a. S$100,000 or its equivalent
+- b. S$20,000 or its equivalent
+- c. S$5,000 or its equivalent
+- d. S$50,000 or its equivalent
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. S$20,000 or its equivalent
+
+**Rationale:** The guidance uses S$20,000 (or equivalent) as the indicative threshold for a large or substantial cash amount.
+
+</details>
+
+### 377. **[Multiple response | RES 1B §1.3]** [RES 1B §1.3] Which functions are performed by CDP rather than by SGX-ST?
+
+- a. Holding securities as a bare trustee for depositors
+- b. Settling trades on a delivery-versus-payment basis
+- c. Setting the listing requirements for issuers
+- d. Immobilising physical certificates with a nominated custodian bank
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, D
+
+**Rationale:** CDP clears, settles and holds securities in custody. Setting listing requirements is an SGX-ST function exercised through the Listing Manual.
+
+</details>
+
+### 378. **[Single choice | RES 1B §1.3]** [RES 1B §1.3] SGX RegCo exists in order to:
+
+- a. Replace MAS as the statutory regulator
+- b. Administer the Central Provident Fund Investment Scheme
+- c. Separate the exchange’s regulatory functions from its commercial and operating activities
+- d. Operate the derivatives clearing house
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Separate the exchange’s regulatory functions from its commercial and operating activities
+
+**Rationale:** SGX RegCo was established in 2017 as an independent regulatory subsidiary with its own board, so that frontline regulation is not compromised by commercial interests. MAS remains the statutory regulator.
+
+</details>
+
+### 379. **[Multiple response | RES 1B §1.5]** [RES 1B §1.5] Which statements about accredited, expert and institutional investors are correct?
+
+- a. An institutional investor is a defined class that includes banks, insurers and licensed fund managers
+- b. An expert investor may be a person whose only experience is in a specified product
+- c. An accredited investor must meet prescribed net worth or income thresholds
+- d. A retail investor may elect to be treated as an accredited investor for a single transaction without any assessment
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** The three categories are defined by status, experience or wealth respectively. A retail investor cannot simply elect into accredited status; the assessment and the prescribed criteria must be satisfied.
+
+</details>
+
+### 380. **[Single choice | RES 1B §1.5]** [RES 1B §1.5] A customer wants to be treated as an expert investor in respect of a specific product. The firm should:
+
+- a. Accept the customer’s self-certification without further enquiry
+- b. Treat every customer as expert if they ask
+- c. Refuse, because expert status cannot apply to individuals
+- d. Assess and document whether the customer has the relevant experience and knowledge for that product
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Assess and document whether the customer has the relevant experience and knowledge for that product
+
+**Rationale:** Expert status turns on assessed experience in the relevant product, and the assessment must be documented. Individuals can qualify, so a blanket refusal is also wrong.
+
+</details>
+
+### 381. **[Single choice | RES 1B §2.5]** [RES 1B §2.5] The Do Not Call registry must be checked:
+
+- a. Before making a marketing call to a Singapore telephone number
+- b. After the marketing call if the customer objects
+- c. Only when the customer is an existing client
+- d. Only for calls made from a mobile phone
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Before making a marketing call to a Singapore telephone number
+
+**Rationale:** The registry check is a precondition of the call. Breaching the DNC provisions can attract civil and criminal liability.
+
+</details>
+
+### 382. **[Multiple response | RES 1B §2.5]** [RES 1B §2.5] Which statements about the Personal Data Protection Act are correct?
+
+- a. It governs the collection, use and disclosure of personal data
+- b. Consent is generally required before collecting personal data
+- c. It prohibits all disclosure of personal data in every circumstance
+- d. It requires reasonable efforts to ensure personal data is accurate
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, D
+
+**Rationale:** The PDPA regulates rather than prohibits: disclosure is permitted on a lawful basis. Accuracy and consent are core obligations.
+
+</details>
+
+### 383. **[Single choice | RES 1B §2.6]** [RES 1B §2.6] A retail customer wants to trade a leveraged FX contract. Before the account is opened the firm must:
+
+- a. Rely on the customer’s signature on the general terms
+- b. Provide a separate written risk disclosure document and obtain a signed and dated acknowledgement
+- c. Obtain MAS approval for the account
+- d. Provide the disclosure within thirty days of the first trade
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Provide a separate written risk disclosure document and obtain a signed and dated acknowledgement
+
+**Rationale:** The disclosure must be provided and acknowledged before the account is opened, not afterwards and not by reference to general terms.
+
+</details>
+
+### 384. **[Single choice | RES 1B §3.12]** [RES 1B §3.12] A CMS licence holder may disclose information about a customer’s order where the disclosure is:
+
+- a. Useful for the firm’s marketing
+- b. Asked for by another client
+- c. Necessary for the effective execution of that order
+- d. Requested by a journalist
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Necessary for the effective execution of that order
+
+**Rationale:** The three permitted grounds are effective execution, permission under exchange rules and a requirement by MAS. Media, marketing and other clients are none of them.
+
+</details>
+
+### 385. **[Single choice | RES 1B §3.13]** [RES 1B §3.13] A representative withdraws a customer’s order from the market in order to benefit a proprietary position. This is:
+
+- a. Permitted if the customer is told afterwards
+- b. Permitted if no loss is suffered
+- c. A matter of best execution discretion
+- d. Prohibited, because an order may not be withdrawn for the firm’s or another person’s benefit
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Prohibited, because an order may not be withdrawn for the firm’s or another person’s benefit
+
+**Rationale:** Withdrawing or withholding an order for the firm’s or a third party’s benefit is prohibited outright; neither disclosure after the event nor absence of loss cures it.
+
+</details>
+
+### 386. **[Multiple response | RES 1B §4.2]** [RES 1B §4.2] Which are threats to ethical judgement identified in the standards?
+
+- a. Self-interest
+- b. Self-review
+- c. Influence from clients, superiors or departments
+- d. Peer recognition as a defined threat category
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** The three named threats are self-interest, self-review and influence. Peer recognition is a motive rather than one of the defined threat categories.
+
+</details>
+
+### 387. **[Single choice | RES 1B §4.3]** [RES 1B §4.3] A representative is offered an all-expenses-paid overseas trip by a product provider whose products he recommends. Under the standards of professional conduct he should:
+
+- a. Decline or obtain written consent from all parties, because the benefit may compromise independence and objectivity
+- b. Accept it, because it is not cash
+- c. Accept it and disclose at the annual attestation
+- d. Accept it if the trip is under a week
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Decline or obtain written consent from all parties, because the benefit may compromise independence and objectivity
+
+**Rationale:** Independence and objectivity require that benefits which could reasonably be expected to compromise judgement be refused or consented to in writing by all parties. The form of the benefit is irrelevant.
+
+</details>
+
+### 388. **[Multiple response | RES 1B §5.2]** [RES 1B §5.2] Which practices support best execution?
+
+- a. Considering price, cost, speed, likelihood of execution and settlement, size and quality holistically
+- b. Having written policies and procedures commensurate with the nature and scale of the business
+- c. Monitoring the effectiveness of the execution arrangements
+- d. Routing all orders to a single venue to simplify monitoring
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** Holistic consideration, written policies and ongoing monitoring are the required elements. Single-venue routing removes any competitive check on execution quality.
+
+</details>
+
+### 389. **[Single choice | RES 1B §5.3]** [RES 1B §5.3] A representative executes a large client order ahead of a smaller one received earlier at the same price. This breaches:
+
+- a. No obligation, because the orders differ in size
+- b. The obligation to execute comparable customer orders in accordance with the time of receipt
+- c. The obligation to obtain best execution
+- d. The confidentiality obligation
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. The obligation to execute comparable customer orders in accordance with the time of receipt
+
+**Rationale:** Comparable orders must be executed in time order of receipt. The difference in size does not make the orders non-comparable.
+
+</details>
+
+### 390. **[Multiple response | RES 1B §6.3]** [RES 1B §6.3] Which investments are eligible under CPFIS?
+
+- a. Certain unit trusts approved for the scheme
+- b. Singapore Government Securities
+- c. ETFs listed on SGX-ST that comply with the CPF Investment Guidelines
+- d. Unlisted shares of a private company
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** CPFIS admits approved unit trusts, SGS and compliant ETFs, subject to the investment limits. Unlisted private shares are not eligible.
+
+</details>
+
+### 391. **[Single choice | RES 1B §7.3]** [RES 1B §7.3] Under the CDSA, a person who knows or has reasonable grounds to suspect that property represents criminal proceeds must:
+
+- a. Report to the customer’s other bank
+- b. Take no action unless the amount exceeds S$100,000
+- c. File a suspicious transaction report and not tip off the customer
+- d. Confront the customer and seek an explanation before reporting
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. File a suspicious transaction report and not tip off the customer
+
+**Rationale:** The duty is to report promptly and not to tip off. Confronting the customer risks tipping off, and there is no minimum threshold for a suspicious transaction report.
+
+</details>
+
+### 392. **[Multiple response | RES 1B §7.4]** [RES 1B §7.4] Which are elements of a risk-based approach to AML/CFT?
+
+- a. Customer risk profiling
+- b. Enhanced due diligence for higher-risk customers
+- c. Ongoing monitoring commensurate with risk
+- d. Identical due diligence for every customer regardless of risk
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** A risk-based approach varies the intensity of controls with assessed risk. Uniform treatment regardless of risk is the opposite of a risk-based approach.
+
+</details>
+
+### 393. **[Single choice | RES 1B §7.9]** [RES 1B §7.9] A customer repeatedly structures deposits just below the reporting threshold. This is best described as:
+
+- a. A legitimate cash management technique
+- b. Tax avoidance
+- c. A breach of the Securities and Futures Act
+- d. Structuring, a recognised suspicious transaction indicator
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Structuring, a recognised suspicious transaction indicator
+
+**Rationale:** Structuring seeks to avoid thresholds and is a classic placement indicator. It is a money laundering concern rather than a legitimate technique.
+
+</details>
+
+### 394. **[Scenario | RES 1B §3.20]** [RES 1B §3.20] A representative places matched buy and sell orders in the same contract month for accounts he controls, at the same price, to create volume. Which offence best describes this?
+
+- a. False trading by means of a wash trade
+- b. Bucketing
+- c. Churning
+- d. Front running
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. False trading by means of a wash trade
+
+**Rationale:** Matched orders with no genuine change in beneficial ownership and no economic purpose are a wash trade, a form of false trading. Churning concerns commission generation; front running concerns trading ahead of a client.
+
+</details>
+
+### 395. **[Scenario | RES 1B §3.20]** [RES 1B §3.20] A representative, learning that a client is about to place a large buy order, purchases for a personal account first. Which offence best describes this?
+
+- a. Dissemination of information about illegal transactions
+- b. Front running, breaching the priority of customer orders
+- c. False trading
+- d. Cornering
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Front running, breaching the priority of customer orders
+
+**Rationale:** Trading ahead of a known client order misuses non-public order information and breaches the obligation to give customer orders priority.
+
+</details>
+
+### 396. **[Scenario | RES 1B §7.9]** [RES 1B §7.9] A client asks a representative why a large transfer to an unrelated overseas party was queried by the firm. The representative should:
+
+- a. Refuse to speak to the client at all
+- b. Promise that no report will be made
+- c. Give a neutral explanation that queries are routine, without revealing that a suspicious transaction report may have been filed
+- d. Explain that a suspicious transaction report has been filed
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Give a neutral explanation that queries are routine, without revealing that a suspicious transaction report may have been filed
+
+**Rationale:** Disclosing that a report has been made would be tipping off. A neutral response protects both the client relationship and the integrity of the reporting regime.
+
+</details>
+
+## RES 2B — Extension
+
+### 397. **[Single choice | RES 2B §2.2]** [RES 2B §2.2] A corporation dealing in exchange-traded derivatives as a clearing member must maintain base capital of at least:
+
+- a. S$1 million
+- b. S$500,000
+- c. S$50,000
+- d. S$5 million
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. S$5 million
+
+**Rationale:** A clearing member for exchange-traded derivatives requires S$5 million, the highest tier in that table.
+
+</details>
+
+### 398. **[Single choice | RES 2B §2.2]** [RES 2B §2.2] A non-clearing member dealing in OTC derivatives with retail clients requires base capital of:
+
+- a. S$5 million
+- b. S$1 million
+- c. S$500,000
+- d. S$250,000
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. S$5 million
+
+**Rationale:** The retail distinction doubles the requirement: S$5 million with retail clients against S$1 million for non-retail only.
+
+</details>
+
+### 399. **[Single choice | RES 2B §2.2]** [RES 2B §2.2] A restricted broker dealing only in specified commodity futures contracts requires base capital of:
+
+- a. S$5 million
+- b. S$250,000
+- c. S$500,000
+- d. S$1 million
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. S$250,000
+
+**Rationale:** The restricted broker and the introducing broker both sit at S$250,000 in the commodity futures table.
+
+</details>
+
+### 400. **[Multiple response | RES 2B §2.2]** [RES 2B §2.2] Which statements about the board and senior management of a CMS licence applicant are correct?
+
+- a. The board must have at least two members
+- b. At least one board member must be resident in Singapore
+- c. The chief executive officer must be resident in Singapore
+- d. MAS approval is required to change a director’s appointment from non-executive to executive
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C, D
+
+**Rationale:** All four conditions apply, including the requirement for MAS approval when a non-executive directorship becomes executive.
+
+</details>
+
+### 401. **[Single choice | RES 2B §2.2]** [RES 2B §2.2] A CMS licence holder must inform MAS of a change in the address of its principal place of business within:
+
+- a. 30 days
+- b. 3 months
+- c. 14 days
+- d. 7 days
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. 14 days
+
+**Rationale:** The notification period for changes in the holder’s particulars is 14 days, because the information is published to the investing community.
+
+</details>
+
+### 402. **[Multiple response | RES 2B §2.2]** [RES 2B §2.2] Which are duties of a CMS licence holder under the internal control requirements?
+
+- a. Implementing effective written policies across all operational areas
+- b. Setting out in writing the limits of discretionary powers of officers and committees
+- c. Ensuring effective control and segregation of duties
+- d. Delegating all compliance responsibility to the front office
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** Written policies, documented discretionary limits and segregation of duties are prescribed. Delegating compliance to the front office defeats the segregation the rules require.
+
+</details>
+
+### 403. **[Multiple response | RES 2B §2.6]** [RES 2B §2.6] Which statements about the monthly statement for a derivatives account are correct?
+
+- a. It must show outstanding positions, the prices at which they were established and net unrealised profit or loss marked to market
+- b. It must show the status of every asset held in custody
+- c. It must show the movement and balance of money in the account
+- d. It must disclose the counterparties to each OTC trade
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** Positions, custody status, movements and charges are all required. Naming OTC counterparties is not a statement requirement and would raise confidentiality issues.
+
+</details>
+
+### 404. **[Single choice | RES 2B §2.6]** [RES 2B §2.6] For an OTC derivatives transaction, the CMS licence holder may avoid issuing a contract note if it provides a confirmation stating:
+
+- a. Only the trade date
+- b. Only the counterparty name and the commission
+- c. The full terms of the ISDA Master Agreement
+- d. The name of the holder, the name of the recipient, principal capacity where applicable, the trade date and the type and notional value
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. The name of the holder, the name of the recipient, principal capacity where applicable, the trade date and the type and notional value
+
+**Rationale:** Five elements make up the permitted confirmation: holder, recipient, principal capacity, date, and type and notional value.
+
+</details>
+
+### 405. **[Multiple response | RES 2B §2.8]** [RES 2B §2.8] Which are permissible depositories for a trust or custody account?
+
+- a. A bank or merchant bank licensed under the Banking Act
+- b. A finance company licensed under the Finance Companies Act
+- c. An approved trustee for a collective investment scheme
+- d. Any unregulated overseas entity nominated by the customer
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** The permitted institutions are licensed banks, merchant banks, finance companies, depository agents and approved trustees, plus persons licensed to provide custodial services. An unregulated entity is not permitted.
+
+</details>
+
+### 406. **[Single choice | RES 2B §2.8]** [RES 2B §2.8] Where a CMS licence holder opens a trust account with a custodian outside Singapore, it must:
+
+- a. Give written notice to the custodian and obtain a similar acknowledgement that the assets are held on trust and cannot be used to offset the holder’s debts
+- b. Rely on the overseas custodian’s standard terms
+- c. Obtain MAS approval for each account
+- d. Notify the customer only at year end
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Give written notice to the custodian and obtain a similar acknowledgement that the assets are held on trust and cannot be used to offset the holder’s debts
+
+**Rationale:** The acknowledgement requirement applies equally to an overseas custodian: the assets must be ring-fenced from the holder’s own debts.
+
+</details>
+
+### 407. **[Single choice | RES 2B §2.8]** [RES 2B §2.8] For moneys held in a customer trust account, interest earned and returns from permitted investments:
+
+- a. Are paid to MAS
+- b. Accrue to the customer
+- c. Belong to the CMS licence holder
+- d. Are shared equally
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Accrue to the customer
+
+**Rationale:** Interest and investment returns on customer money accrue to the customer; the holder may retain only the proportionate return on its own money advanced to the account.
+
+</details>
+
+### 408. **[Single choice | RES 2B §3.2]** [RES 2B §3.2] A person in Tokyo manipulates the price of a futures contract listed on a Singapore exchange. For the purposes of the market conduct provisions, the act is:
+
+- a. Governed only by Japanese law
+- b. Not actionable unless the person is resident in Singapore
+- c. Regarded as having taken place in Singapore
+- d. Outside the reach of the SFA because it occurred abroad
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Regarded as having taken place in Singapore
+
+**Rationale:** The provisions have extraterritorial reach: acts outside Singapore affecting contracts listed or quoted on an organised market in Singapore are caught.
+
+</details>
+
+### 409. **[Multiple response | RES 2B §3.2]** [RES 2B §3.2] Which of the following are securities-based derivatives contracts?
+
+- a. Futures on an equity index
+- b. Options on an equity index
+- c. A commodity swap
+- d. Structured warrants on a listed share
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, D
+
+**Rationale:** A securities-based derivative has a security or securities index as its underlying. A commodity swap has a commodity underlying.
+
+</details>
+
+### 410. **[Single choice | RES 2B §3.3]** [RES 2B §3.3] Which element distinguishes false trading from a legitimate trade?
+
+- a. The size of the trade
+- b. Whether the trade is profitable
+- c. Whether the trade is cleared
+- d. The absence of a genuine investment objective and the intention to create a false impression of activity or price
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. The absence of a genuine investment objective and the intention to create a false impression of activity or price
+
+**Rationale:** False trading is defined by purpose and effect: no genuine investment objective, and an intention to create an appearance of activity or to move the price away from its natural level.
+
+</details>
+
+### 411. **[Multiple response | RES 2B §3.10]** [RES 2B §3.10] Which are effective defences to a charge of insider trading?
+
+- a. The information had been made known in a manner likely to bring it to the attention of persons who commonly invest
+- b. The counterparty knew or ought reasonably to have known of the information before the transaction
+- c. The trade was small relative to the person’s portfolio
+- d. The person did not intend to make a profit
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B
+
+**Rationale:** The two statutory defences turn on prior dissemination and on the counterparty’s own knowledge. Size and absence of intent are not defences, and intention need not be proved.
+
+</details>
+
+### 412. **[Single choice | RES 2B §3.14]** [RES 2B §3.14] A CMS licence holder wishes to take the opposite side of a customer’s futures order. It may do so only:
+
+- a. With the customer’s prior consent and in accordance with the business rules of the exchange
+- b. If the trade is profitable for the customer
+- c. If the amount is below a threshold
+- d. Without any condition, because it is a principal
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. With the customer’s prior consent and in accordance with the business rules of the exchange
+
+**Rationale:** Trading against a customer requires prior consent plus compliance with exchange business rules; the capacity of principal does not by itself authorise it.
+
+</details>
+
+### 413. **[Multiple response | RES 2B §3.17]** [RES 2B §3.17] Which statements about churning and overtrading are correct?
+
+- a. Churning is executing trades to generate commission without sound market opportunities
+- b. Overtrading includes maintaining positions that breach limits imposed by an exchange or clearing house
+- c. A holder is responsible for keeping customer positions within prescribed limits
+- d. Churning is permitted if the customer signs a general risk disclosure
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** Churning is defined by the purpose of generating commission, and position limits bind both proprietary and customer positions. A risk disclosure does not authorise churning.
+
+</details>
+
+### 414. **[Single choice | RES 2B §3.19]** [RES 2B §3.19] Pre-arranged trading at an agreed price between dealers is prohibited because it:
+
+- a. Breaches clearing-house margin rules
+- b. Violates the principle of fair and transparent markets by letting selected participants benefit from premeditated prices
+- c. Is always unprofitable
+- d. Requires MAS approval that is never granted
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Violates the principle of fair and transparent markets by letting selected participants benefit from premeditated prices
+
+**Rationale:** The objection is to the unfair advantage obtained over other participants, not to profitability, approval or margin.
+
+</details>
+
+### 415. **[Multiple response | RES 2B §4.2]** [RES 2B §4.2] Which of the following are "specified persons" for the OTC derivatives reporting regime?
+
+- a. Banks and merchant banks
+- b. Finance companies and insurers
+- c. Holders of a capital markets services licence
+- d. Retail investors who are accredited investors
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** Specified persons are the regulated institutions and CMS licence holders. Retail and accredited investors are not specified persons.
+
+</details>
+
+### 416. **[Single choice | RES 2B §4.2]** [RES 2B §4.2] Under section 129C of the SFA, a specified person who is party to a specified derivatives contract must:
+
+- a. Obtain MAS approval before trading
+- b. Post collateral with a licensed bank
+- c. Clear the contract with an approved or recognised clearing house
+- d. Report the contract to MAS
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Clear the contract with an approved or recognised clearing house
+
+**Rationale:** Section 129C imposes the clearing obligation. Reporting is a separate obligation under Part 6A and goes to a trade repository.
+
+</details>
+
+### 417. **[Multiple response | RES 2B §4.2]** [RES 2B §4.2] Which asset classes of derivatives are prescribed for the reporting regime when traded or booked in Singapore?
+
+- a. Interest rate derivatives
+- b. Credit derivatives
+- c. Foreign exchange derivatives
+- d. Equity and commodity derivatives
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C, D
+
+**Rationale:** All five prescribed classes report: interest rate, credit, foreign exchange, commodity and equity derivatives.
+
+</details>
+
+### 418. **[Single choice | RES 2B §4.3]** [RES 2B §4.3] OTC commodity derivatives are registered for clearing through:
+
+- a. CDP
+- b. The SGX-ST trading engine
+- c. MEPS+
+- d. The Titan OTC system
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. The Titan OTC system
+
+**Rationale:** SGX-DC clears OTC commodity derivatives as non-relevant market contracts, registered through Titan OTC.
+
+</details>
+
+### 419. **[Single choice | RES 2B §4.4]** [RES 2B §4.4] Which form is the prescribed derivatives risk disclosure statement?
+
+- a. Form 13
+- b. Form 14
+- c. Form 1
+- d. Form 8
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Form 13
+
+**Rationale:** Form 13 is the derivatives risk disclosure; Form 14 is the risk warning for overseas-listed investment products.
+
+</details>
+
+### 420. **[Multiple response | RES 2B §4.5]** [RES 2B §4.5] Which terms are typically addressed in an ISDA Master Agreement?
+
+- a. Governing law
+- b. Netting
+- c. Events of default and termination
+- d. The credit rating of each counterparty
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** Governing law, conditions precedent, netting, undertakings, events of default and termination are the standard heads. Credit ratings inform collateral arrangements rather than being a term of the Master Agreement itself.
+
+</details>
+
+### 421. **[Single choice | RES 2B §4.5]** [RES 2B §4.5] Where a broker cannot substantiate a quotation and a difference is payable to the principal, the broker should:
+
+- a. Refer the matter to the exchange
+- b. Close the position at the next available price and settle the difference with the principal
+- c. Cancel the trade
+- d. Absorb the difference without telling the principal
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Close the position at the next available price and settle the difference with the principal
+
+**Rationale:** The broker closes out at the next available price and settles the difference, which resolves the error without leaving an unhedged or disputed position open.
+
+</details>
+
+### 422. **[Single choice | RES 2B §5.2]** [RES 2B §5.2] A representative recommends a product unsuitable for the client in order to meet a commission target. Which threat category does this illustrate?
+
+- a. Influence
+- b. Competence
+- c. Self-interest
+- d. Self-review
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Self-interest
+
+**Rationale:** A personal interest in the commission that affects judgement is self-interest. Self-review is a lack of objectivity about one’s own work; influence is pressure from others.
+
+</details>
+
+### 423. **[Single choice | RES 2B §5.4]** [RES 2B §5.4] Where the laws of two jurisdictions conflict, a representative must comply with:
+
+- a. The law of Singapore in all cases
+- b. The law of the client’s domicile
+- c. The law that permits the transaction
+- d. The stricter law, rule or regulation
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. The stricter law, rule or regulation
+
+**Rationale:** The professional standard requires compliance with the stricter applicable requirement, which resolves the conflict without encouraging a search for the most permissive regime.
+
+</details>
+
+### 424. **[Multiple response | RES 2B §5.4]** [RES 2B §5.4] Which are exceptions to the duty of confidentiality to a client?
+
+- a. The information concerns illegal activity by the client
+- b. Disclosure is required by law
+- c. The client permits disclosure
+- d. A colleague on the dealing desk asks for the information
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** There are exactly three exceptions: illegal activity, legal requirement and client permission. Internal curiosity is not one of them.
+
+</details>
+
+### 425. **[Single choice | RES 2B §5.4]** [RES 2B §5.4] A representative acts for a client while holding a personal position directly opposed to the client’s interest. The correct response is to:
+
+- a. Avoid the conflict, or make full and fair disclosure before the transaction
+- b. Say nothing because the client has not asked
+- c. Disclose after the trade is complete
+- d. Rely on the client’s general consent in the account opening form
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Avoid the conflict, or make full and fair disclosure before the transaction
+
+**Rationale:** Conflicts must be avoided or disclosed before the transaction. Even with client consent, the representative should actively seek alternatives that avoid the conflict.
+
+</details>
+
+### 426. **[Multiple response | RES 2B §5.4]** [RES 2B §5.4] Which duties does a representative owe to an employer?
+
+- a. Not to solicit the employer’s clients after resigning without permission
+- b. Not to misappropriate the client list
+- c. Not to engage in self-dealing
+- d. To report a colleague’s market misconduct only after leaving the firm
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** Loyalty, no solicitation, no misappropriation and no self-dealing are owed to the employer. Reporting misconduct is a duty that arises immediately, and market integrity outranks employer interest.
+
+</details>
+
+### 427. **[Single choice | RES 2B §5.4]** [RES 2B §5.4] A representative holds material non-public information about a security and refrains from dealing, but tells a friend who deals. The representative has:
+
+- a. Complied, provided he reports the friend afterwards
+- b. Contravened the prohibition by causing another to act on the information
+- c. Acted lawfully because he did not deal himself
+- d. Committed no breach because the friend decided independently
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Contravened the prohibition by causing another to act on the information
+
+**Rationale:** The prohibition covers acting or causing others to act. Passing the information on engages the contravention as squarely as dealing on it directly.
+
+</details>
+
+### 428. **[Single choice | RES 2B §5.5]** [RES 2B §5.5] Payment for order flow is prohibited because it:
+
+- a. Increases the client’s commission
+- b. Is a form of market manipulation
+- c. Creates a conflict of interest, since routing may be driven by the payment rather than by best execution
+- d. Is always unprofitable for the firm
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Creates a conflict of interest, since routing may be driven by the payment rather than by best execution
+
+**Rationale:** The objection is structural: a payment linked to routing incentivises the firm to route for the fee rather than for the client’s best available terms.
+
+</details>
+
+### 429. **[Multiple response | RES 2B §5.5]** [RES 2B §5.5] Which statements about best execution are correct?
+
+- a. It requires considering price, cost, speed, likelihood of execution and settlement, size and quality holistically
+- b. Not executing at the best possible price is not automatically a breach
+- c. Speed may be prioritised over immediate price where it is critical to the outcome
+- d. Cross trades between staff personal accounts and client accounts are permitted with disclosure
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** Best execution is a process standard judged holistically. Cross trading between staff personal accounts and client accounts is prohibited outright, disclosure notwithstanding.
+
+</details>
+
+### 430. **[Single choice | RES 2B §5.5]** [RES 2B §5.5] The FX Global Code is organised around:
+
+- a. Five codes of conduct covering dealing principles, ethics, governance, back office and instruments
+- b. Three principles covering price, speed and size
+- c. No stated principles, only case studies
+- d. Six leading principles covering ethics, governance, information sharing, execution, risk management and compliance, and confirmation and settlement
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Six leading principles covering ethics, governance, information sharing, execution, risk management and compliance, and confirmation and settlement
+
+**Rationale:** The Code has six principles. The five-part structure describes the Blue Book, which is a common source of confusion.
+
+</details>
+
+### 431. **[Single choice | RES 2B §6.2]** [RES 2B §6.2] For a client investing in equities with a long-term horizon, the analysis most suited to developing the strategy is:
+
+- a. Fundamental analysis
+- b. Technical analysis
+- c. Global macro analysis
+- d. Sentiment analysis
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Fundamental analysis
+
+**Rationale:** Fundamental analysis assesses intrinsic value from profitability over time, which fits a long horizon. Technical analysis is better suited to short-term strategies.
+
+</details>
+
+### 432. **[Multiple response | RES 2B §6.3]** [RES 2B §6.3] Which are constraints that must be addressed when formulating a trading strategy?
+
+- a. Time horizon of the position
+- b. Liquidity needs of the client
+- c. Legal restrictions on the portfolio
+- d. The representative’s own commission target
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** Horizon, liquidity and legal constraints are all legitimate constraints on the strategy. The representative’s commission target is a conflict, not a client constraint.
+
+</details>
+
+### 433. **[Single choice | RES 2B §6.3]** [RES 2B §6.3] Shifting portfolio weightings to take advantage of a sector expected to outperform is known as:
+
+- a. Passive indexing
+- b. Tactical asset allocation
+- c. Strategic asset allocation
+- d. Constant weighting
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Tactical asset allocation
+
+**Rationale:** Tactical allocation deviates from the strategic weights to exploit a view. Strategic allocation sets the long-run policy mix.
+
+</details>
+
+### 434. **[Multiple response | RES 2B §6.4]** [RES 2B §6.4] Which are risk management tools available to a dealing representative?
+
+- a. Stop-loss levels
+- b. Daily loss limits
+- c. Value at risk measurement
+- d. Removing all limits to avoid forced exits
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** Stops, daily loss limits and VaR are the documented tools. Removing limits converts a controlled loss into an uncontrolled one.
+
+</details>
+
+### 435. **[Single choice | RES 2B §6.4]** [RES 2B §6.4] A daily loss limit is reached. The representative must:
+
+- a. Increase position size to recover faster
+- b. Switch to a different product
+- c. Liquidate all positions or be prevented from entering new ones
+- d. Continue trading to recoup the loss
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Liquidate all positions or be prevented from entering new ones
+
+**Rationale:** The limit exists to stop the impulse to trade out of a loss. Continuing, scaling up or switching products defeats its purpose.
+
+</details>
+
+### 436. **[Single choice | RES 2B §6.6]** [RES 2B §6.6] A retail customer is deemed to have sufficient knowledge for a customer account review in respect of listed SIPs if they have transacted in listed SIPs at least:
+
+- a. 3 times in the preceding 5 years
+- b. 10 times in the preceding 5 years
+- c. Once at any time
+- d. 6 times in the preceding 3 years
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. 6 times in the preceding 3 years
+
+**Rationale:** The threshold is 6 transactions in the preceding 3 years for the CAR route, and the parallel CKA route uses 6 transactions in unlisted CIS or ILPs, or in other unlisted SIPs.
+
+</details>
+
+### 437. **[Multiple response | RES 2B §6.6]** [RES 2B §6.6] Which may substitute for the transaction or experience route to deemed knowledge?
+
+- a. A diploma or higher qualification in a listed discipline such as accountancy, actuarial science or finance
+- b. A CFA or ACCA qualification
+- c. A minimum of 3 consecutive years of relevant work experience in the past 10 years
+- d. A reference letter from a former employer
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** The qualification, professional-designation and work-experience routes are all specified. A reference letter is not one of the prescribed routes.
+
+</details>
+
+### 438. **[Single choice | RES 2B §6.6]** [RES 2B §6.6] The outcome of a customer account review for a listed SIP remains valid for:
+
+- a. 3 years, extended only if the customer has transacted more than once in each 3-year period
+- b. 1 year
+- c. 5 years
+- d. Indefinitely
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. 3 years, extended only if the customer has transacted more than once in each 3-year period
+
+**Rationale:** The CAR is valid for 3 years, and the extension requires more than one transaction in each subsequent 3-year period. A CKA for an unlisted SIP is valid for 1 year.
+
+</details>
+
+### 439. **[Single choice | RES 2B §6.6]** [RES 2B §6.6] A customer does not provide adequate information for a customer account review. The CMS licence holder must:
+
+- a. Obtain the information from the customer’s bank instead
+- b. Deem the customer not to possess knowledge or experience in derivatives
+- c. Assume knowledge because the customer declined to answer
+- d. Proceed if the customer is an accredited investor
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Deem the customer not to possess knowledge or experience in derivatives
+
+**Rationale:** The default runs against the customer: inadequate information means the customer is deemed not to possess the required knowledge or experience.
+
+</details>
+
+### 440. **[Multiple response | RES 2B §6.7]** [RES 2B §6.7] Which statements about operational risk are correct?
+
+- a. It arises from inadequate or failed internal processes, systems and people
+- b. It is independent of financial, systematic and market-wide risk
+- c. It is exemplified by the Barings collapse, where one person both dealt and settled
+- d. It is another name for market risk
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** Operational risk is defined by process, system and people failure and is treated as independent of market and credit risk. Barings is the classic illustration.
+
+</details>
+
+### 441. **[Single choice | RES 2B §6.7]** [RES 2B §6.7] The maximum unscheduled downtime permitted for critical IT systems of a CMS licence holder is:
+
+- a. 24 hours within any 12-month period
+- b. No limit, provided MAS is notified
+- c. 4 hours within any 12-month period
+- d. 4 hours per month
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. 4 hours within any 12-month period
+
+**Rationale:** The technology risk guidance sets 4 hours of aggregate unscheduled downtime in any 12-month period, with MAS notification of a relevant incident not later than 1 hour after discovery.
+
+</details>
+
+### 442. **[Single choice | RES 2B §6.7]** [RES 2B §6.7] In a margin trading account, capital risk means that the client may:
+
+- a. Lose only the commission
+- b. Never lose the principal
+- c. Lose only if the broker defaults
+- d. Lose more than the principal invested, because the position is funded by borrowed capital
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Lose more than the principal invested, because the position is funded by borrowed capital
+
+**Rationale:** Leverage means losses can exceed the equity contributed. That possibility is the distinguishing feature of capital risk in a margin account.
+
+</details>
+
+### 443. **[Multiple response | RES 2B §6.7]** [RES 2B §6.7] Which statements about gap risk are correct?
+
+- a. Prices move from one level to another with no trading in between
+- b. A stop-loss may be executed well below the stop level because of a gap
+- c. Gaps typically follow a news event
+- d. A guaranteed stop removes gap risk at no cost
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** Gap risk is exactly the risk that the stop level is jumped, which is why execution can occur well beyond it. A guaranteed stop addresses this only at a cost, so the no-cost statement is false.
+
+</details>
+
+### 444. **[Multiple response | RES 2B §1.4]** [RES 2B §1.4] Which statements about the SGX-DC clearing of OTC commodity derivatives are correct?
+
+- a. Contracts are registered through Titan OTC
+- b. Clearing members post margin at rates prescribed by SGX-DC
+- c. Members may set higher internal margin requirements than the minimum
+- d. Variation margin is never payable
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** Variation margin is payable to reflect mark-to-market movements, so the last statement is false. Members may and should set higher internal requirements and review them continually.
+
+</details>
+
+### 445. **[Single choice | RES 2B §2.3]** [RES 2B §2.3] A representative wishes to act for a second principal. This requires:
+
+- a. MAS approval, unless the principals are related corporations
+- b. No approval, provided the firms agree
+- c. Written consent from the first principal only
+- d. Approval from the approved exchange
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. MAS approval, unless the principals are related corporations
+
+**Rationale:** The one-representative-one-principal rule admits an exception only with MAS approval or where the principals are related corporations.
+
+</details>
+
+### 446. **[Multiple response | RES 2B §2.4]** [RES 2B §2.4] Which statements about the Representative Notification Framework are correct?
+
+- a. Notifications are lodged electronically by the principal
+- b. The principal certifies that the representative is fit and proper
+- c. The representative’s name appears on the Public Register of Representatives
+- d. A representative’s unique number changes when they change principal
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** The unique representative number stays with the individual even when they move to a new principal, which is what makes it useful for public verification.
+
+</details>
+
+### 447. **[Single choice | RES 2B §2.5]** [RES 2B §2.5] Which statement about customer confidentiality under the SFR(LCB) is correct?
+
+- a. Confidentiality may be waived by the firm’s compliance department
+- b. Information about a customer’s order may not be divulged except for effective execution, under exchange rules, or when required by MAS
+- c. Confidentiality ceases when the customer relationship ends
+- d. Confidentiality applies only to retail customers
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Information about a customer’s order may not be divulged except for effective execution, under exchange rules, or when required by MAS
+
+**Rationale:** The obligation attaches to the information and endures beyond the relationship. It applies to all customers and cannot be waived by an internal approval.
+
+</details>
+
+### 448. **[Multiple response | RES 2B §3.4]** [RES 2B §3.4] Which are prohibited under the market conduct provisions for derivatives?
+
+- a. Manipulating the price of a derivatives contract traded on an organised market
+- b. Cornering the underlying of a derivatives contract
+- c. Taking a position in the underlying for a genuine investment purpose
+- d. Disseminating information about illegal transactions
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, D
+
+**Rationale:** Manipulation, cornering and dissemination of illegal-transaction information are all prohibited. Taking a genuine position is ordinary trading.
+
+</details>
+
+### 449. **[Single choice | RES 2B §3.8]** [RES 2B §3.8] A broker publishes a research note that recklessly conceals material facts in order to induce dealing. This is:
+
+- a. Pre-arranged trading
+- b. A permitted opinion
+- c. Fraudulently inducing persons to deal in capital markets products
+- d. Bucketing
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Fraudulently inducing persons to deal in capital markets products
+
+**Rationale:** Reckless concealment of material facts to induce dealing falls squarely within the fraudulent-inducement provision. An honest opinion honestly held is different.
+
+</details>
+
+### 450. **[Single choice | RES 2B §4.2]** [RES 2B §4.2] A CMS licence holder enters into a prescribed interest rate swap booked in Singapore. Which obligations arise?
+
+- a. The reporting obligation only
+- b. The clearing obligation only
+- c. Neither, unless the counterparty is a bank
+- d. Both the reporting obligation under Part 6A and the clearing obligation under section 129C
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Both the reporting obligation under Part 6A and the clearing obligation under section 129C
+
+**Rationale:** Reporting and clearing are distinct obligations that can apply to the same contract. The counterparty’s identity does not exempt a specified person from them.
+
+</details>
+
+### 451. **[Multiple response | RES 2B §4.4]** [RES 2B §4.4] Which statements about risk disclosure for derivatives are correct?
+
+- a. Form 13 must be furnished before the account is set up
+- b. A client acknowledgement of the Form 13 disclosure must be obtained
+- c. Established industry standards such as ISDA disclosure documents may be relied on if they meet MAS requirements
+- d. Disclosure is unnecessary for an accredited investor
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** The disclosure and acknowledgement requirements apply, and industry-standard documents can satisfy them where assessed as adequate. Accredited status does not remove the requirement.
+
+</details>
+
+### 452. **[Single choice | RES 2B §5.4]** [RES 2B §5.4] A representative has a personal account position in a security that a client also holds. Under the conflicts standards he must:
+
+- a. Avoid the conflict, or make full and fair disclosure before acting, and give client orders priority
+- b. Close the personal position immediately in all cases
+- c. Disclose the position to the client at year end
+- d. Resign from managing that client
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Avoid the conflict, or make full and fair disclosure before acting, and give client orders priority
+
+**Rationale:** The obligation is avoidance or pre-transaction disclosure plus priority of client orders. Immediate closure and resignation are not required by the standard.
+
+</details>
+
+### 453. **[Multiple response | RES 2B §5.5]** [RES 2B §5.5] Which statements about payment for order flow are correct?
+
+- a. It is prohibited for a CMS licence holder placing or executing customer orders
+- b. It creates a conflict because routing may be driven by the payment rather than best execution
+- c. It is permitted if disclosed to the client
+- d. It is a form of commission rebate from the executing broker
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, D
+
+**Rationale:** PFOF is prohibited outright, so disclosure does not cure it. It is a payment received for routing orders, which is precisely why the conflict arises.
+
+</details>
+
+### 454. **[Multiple response | RES 2B §6.6]** [RES 2B §6.6] Which statements about the approval to open a SIP trading account are correct?
+
+- a. Approval must come from senior management not involved in that account opening
+- b. The approving person must not be a connected person of the customer
+- c. Approval rests on the outcome of the CAR or CKA
+- d. The representative opening the account may approve it
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** The approval must be independent of the account-opening process and of the customer, and must rest on the assessment outcome. The representative cannot approve their own account opening.
+
+</details>
+
+### 455. **[Single choice | RES 2B §6.6]** [RES 2B §6.6] A customer is assessed as not possessing knowledge of unlisted SIPs but insists on proceeding. The firm may transact on the customer’s behalf only if:
+
+- a. The amount is below S$50,000
+- b. The firm is also an exempt financial adviser and provides advice in accordance with FAA-N16
+- c. The customer signs a waiver
+- d. The customer is an accredited investor
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. The firm is also an exempt financial adviser and provides advice in accordance with FAA-N16
+
+**Rationale:** For an unlisted SIP the firm must be an exempt financial adviser to proceed, and must then advise to the FAA-N16 standard. A waiver, accredited status or a size threshold does not substitute.
+
+</details>
+
+### 456. **[Multiple response | RES 2B §6.7]** [RES 2B §6.7] Which statements about CRAFT and MAS supervision are correct?
+
+- a. CRAFT is a risk-based supervisory framework using an impact and risk model
+- b. MAS prioritises supervisory resources toward firms posing the greatest potential impact
+- c. Diagnostic tools identify problems at an early stage
+- d. Remedial and diagnostic tools operate independently and never need to complement each other
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** Diagnostic and remedial work must complement each other: diagnosis establishes whether a risk is material, and remedial action sets a time-bound plan to mitigate it.
+
+</details>
+
+### 457. **[Single choice | RES 2B §6.7]** [RES 2B §6.7] A firm’s systems fail and it cannot confirm trades for several hours. Which risk category does this primarily illustrate?
+
+- a. Credit risk
+- b. Regulatory risk
+- c. Operational risk
+- d. Market risk
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Operational risk
+
+**Rationale:** A failure of systems and processes is operational risk by definition. It may give rise to other risks, but the originating category is operational.
+
+</details>
+
+### 458. **[Multiple response | RES 2B §6.7]** [RES 2B §6.7] Which statements about liquidity risk for a dealing representative are correct?
+
+- a. It can arise when closing out a position in a thinly traded product
+- b. Bid-ask spreads typically widen when trading volume is low
+- c. It is eliminated by holding the position to expiry
+- d. Trading more liquid, less volatile derivatives can reduce it
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, D
+
+**Rationale:** Liquidity risk crystallises on exit, and thinner markets widen spreads. Holding to expiry does not remove the risk; it defers the exit.
+
+</details>
+
+### 459. **[Scenario | RES 2B §3.16]** [RES 2B §3.16] A trader executes as many trades as possible in a small client account with no sound market rationale, generating substantial commission. Which offence best describes this?
+
+- a. Bucketing
+- b. Pre-arranged trading
+- c. Wash trading
+- d. Churning
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Churning
+
+**Rationale:** Churning is excessive trading for the purpose of generating commission rather than serving the client’s interest.
+
+</details>
+
+### 460. **[Scenario | RES 2B §2.8]** [RES 2B §2.8] A firm deposits retail customer money for OTC derivatives into its own operating account overnight, then transfers it to a trust account the next morning. Is this acceptable?
+
+- a. No; retail customer money for OTC derivatives must be deposited into a trust account
+- b. Yes; next-business-day deposit meets the requirement
+- c. Yes, if the money is restored by the same time next day
+- d. No, unless the customer consents to the operating account
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. No; retail customer money for OTC derivatives must be deposited into a trust account
+
+**Rationale:** The next-business-day rule governs the timing of deposit, not the destination. Money for retail OTC derivatives must go into a trust account, so an operating account is never a permitted destination.
+
+</details>
+
+### 461. **[Scenario | RES 2B §6.6]** [RES 2B §6.6] A customer completed a CAR for listed SIPs two years ago and has not traded since. May the firm let him trade a listed SIP today?
+
+- a. Only if he signs a fresh risk disclosure
+- b. Yes, because the CAR remains valid for three years from the date it was conducted
+- c. No, because a CAR lapses after one year
+- d. No, because he has not traded in the last year
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Yes, because the CAR remains valid for three years from the date it was conducted
+
+**Rationale:** The CAR is valid for three years. The extension beyond three years requires more than one transaction in each three-year period, but that condition only bites at the three-year mark.
+
+</details>
+
+### 462. **[Multiple response | RES 12B Final revision checklist]** [RES 12B Final revision checklist] Which distinctions must be clear before sitting the paper?
+
+- a. A customer account review from a customer knowledge assessment
+- b. An excluded investment product from a specified investment product
+- c. Customer money from customer assets
+- d. A trading member from a clearing member
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C, D
+
+**Rationale:** All four pairs are fundamental: CAR and CKA address listed and unlisted products respectively; EIP and SIP determine whether the assessment applies at all; money and assets are held under different rules; and membership of an exchange is not membership of a clearing house.
+
+</details>
+
+### 463. **[Single choice | RES 12B Final revision checklist]** [RES 12B Final revision checklist] Which pair is most often confused because both concern product complexity?
+
+- a. Placement and layering
+- b. A trust account and a custody account
+- c. An excluded investment product and a specified investment product
+- d. A trading member and a clearing member
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. An excluded investment product and a specified investment product
+
+**Rationale:** The EIP and SIP boundary decides whether a CAR or CKA is needed at all, so misclassifying a product removes the whole assessment. The other pairs are distinct in a way that is usually self-evident from context.
+
+</details>
+
+### 464. **[Multiple response | RES 12B Final revision checklist]** [RES 12B Final revision checklist] Which conduct offences turn on the absence of a genuine commercial purpose rather than on the price achieved?
+
+- a. False trading
+- b. Wash trading
+- c. Bucketing
+- d. Pre-arranged trading
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C, D
+
+**Rationale:** Each is defined by purpose or by the absence of a bona fide market transaction: false trading by the intention to mislead, wash trading by the absence of economic effect, bucketing by the absence of any market execution, and pre-arranged trading by the predetermined price.
+
+</details>
+
+### 465. **[Single choice | RES 12B Final revision checklist]** [RES 12B Final revision checklist] Which risk category is defined by failed internal processes, systems and people rather than by market or credit events?
+
+- a. Market risk
+- b. Liquity risk
+- c. Regulatory risk
+- d. Operational risk
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Operational risk
+
+**Rationale:** Operational risk is defined by process, system and people failure and is independent of market and credit risk. The Barings collapse is the standard illustration.
+
+</details>
+
+### 466. **[Multiple response | RES 12B Final revision checklist]** [RES 12B Final revision checklist] Which are the stages of money laundering?
+
+- a. Placement
+- b. Layering
+- c. Integration
+- d. Confiscation
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** Placement, layering and integration are the three stages. Confiscation is a legal consequence of detection, not a stage of the process.
+
+</details>
+
+### 467. **[Single choice | RES 12B Final revision checklist]** [RES 12B Final revision checklist] Which best distinguishes a customer account review from a customer knowledge assessment?
+
+- a. The CAR applies to listed SIPs and the CKA to unlisted SIPs
+- b. The CAR applies to retail clients and the CKA to accredited clients
+- c. The CAR is optional and the CKA is mandatory
+- d. The CAR is conducted by MAS and the CKA by the firm
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. The CAR applies to listed SIPs and the CKA to unlisted SIPs
+
+**Rationale:** The dividing line is the product, not the client: listed SIPs require a CAR and unlisted SIPs require a CKA. Both are conducted by the firm.
+
+</details>
+
+## RES 2B — Appendices
+
+### 468. **[Single choice | RES 2B Appendix A]** [RES 2B Appendix A] In the criteria for assessment of a customer account review, which of the following is relevant to the assessment?
+
+- a. The customer’s educational qualifications, investment experience and work experience
+- b. The customer’s marital status
+- c. The customer’s residential address
+- d. The customer’s preferred payment method
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. The customer’s educational qualifications, investment experience and work experience
+
+**Rationale:** The CAR takes account of education, investment experience and work experience. The other items have no bearing on knowledge or experience.
+
+</details>
+
+### 469. **[Single choice | RES 2B Appendix B]** [RES 2B Appendix B] For a customer to satisfy the customer knowledge assessment in respect of unlisted specified investment products, the qualifying transaction count refers to:
+
+- a. A single transaction of any size
+- b. Unlisted CIS or ILPs, or other unlisted SIPs, at least 6 times in the preceding 3 years
+- c. Listed SIPs at least 6 times in the preceding 3 years
+- d. Any investment product at least 10 times in the preceding 5 years
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Unlisted CIS or ILPs, or other unlisted SIPs, at least 6 times in the preceding 3 years
+
+**Rationale:** The CKA route counts unlisted CIS or ILP transactions, or other unlisted SIP transactions, at least 6 times in the preceding 3 years. Counting listed SIPs describes the CAR route.
+
+</details>
+
+### 470. **[Multiple response | RES 2B Appendix C]** [RES 2B Appendix C] Which risks must the overseas-listed investment product risk warning statement draw to the customer’s attention?
+
+- a. Differences in the level of investor protection in the foreign jurisdiction
+- b. Differences between the foreign legal system and Singapore’s, including the difficulty of predicting outcomes
+- c. The possibility that exchange controls restrict repatriation of funds
+- d. A guarantee that the foreign exchange will compensate for any loss
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** The statement warns about regulatory, legal and repatriation differences and counterparty and correspondent broker risk. No compensation guarantee exists.
+
+</details>
+
+### 471. **[Single choice | RES 2B Appendix C]** [RES 2B Appendix C] The overseas-listed product risk warning statement requirement is found in:
+
+- a. Part 6A of the SFA
+- b. The CDP Clearing Rules
+- c. Paragraph 29D of the MAS Notice on Sale of Investment Products (SFA 04-N12)
+- d. Section 129C of the SFA
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Paragraph 29D of the MAS Notice on Sale of Investment Products (SFA 04-N12)
+
+**Rationale:** Paragraph 29D of SFA 04-N12 imposes the warning and acknowledgement requirement. Section 129C concerns clearing and Part 6A concerns derivatives reporting.
+
+</details>
+
+### 472. **[Single choice | RES 2B Appendix E]** [RES 2B Appendix E] Which of the following is an excluded investment product?
+
+- a. A structured note
+- b. An asset-backed security
+- c. A collective investment scheme with a broad mandate
+- d. An ordinary share listed on an exchange
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. An ordinary share listed on an exchange
+
+**Rationale:** Ordinary shares, share units and business trust units are EIPs. Structured notes and asset-backed securities are expressly carved out of the debenture limb, so both are SIPs.
+
+</details>
+
+### 473. **[Multiple response | RES 2B Appendix E]** [RES 2B Appendix E] Which statements about excluded investment products are correct?
+
+- a. Dealing in an EIP does not require a customer account review
+- b. Debentures are EIPs except asset-backed securities and structured notes
+- c. Only an immediate currency exchange is an EIP; a forward or swap is not
+- d. Stapling an EIP to a SIP produces an EIP
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** A staple qualifies only where the stapled products are themselves EIPs, so stapling to a SIP does not confer EIP status.
+
+</details>
+
+### 474. **[Single choice | RES 2B Appendix F]** [RES 2B Appendix F] The list of suspicious transaction examples is described in the guidance as:
+
+- a. An aid to judgement that must not be applied as a routine instrument in place of common sense
+- b. An exhaustive and definitive list of offences
+- c. A substitute for customer due diligence
+- d. A list that applies only to banks
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. An aid to judgement that must not be applied as a routine instrument in place of common sense
+
+**Rationale:** The list is expressly an aid, non-exhaustive, and not a substitute for judgement. A combination of indicators is what makes a transaction genuinely suspicious.
+
+</details>
+
+### 475. **[Single choice | RES 2B Appendix G]** [RES 2B Appendix G] A trade is executed on a Monday with no intervening market holiday. When must the contract note be issued?
+
+- a. When the customer requests it
+- b. By the next business day, Tuesday
+- c. On the trade date
+- d. Within five business days
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. By the next business day, Tuesday
+
+**Rationale:** The note is due no later than the next business day after the transaction, or the next business day after any deferred detail becomes available.
+
+</details>
+
+### 476. **[Single choice | RES 2B Appendix H]** [RES 2B Appendix H] Which document is the source of the fit and proper criteria for representatives?
+
+- a. The MAS Notice on Reporting of Misconduct of Representatives (04-N11)
+- b. The SFA itself, without reference to any guideline
+- c. The MAS Guidelines on Fit and Proper Criteria (FSG-01)
+- d. The MAS Guidelines on Criteria for the Grant of a CMS Licence (SFA 04-G01)
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. The MAS Guidelines on Fit and Proper Criteria (FSG-01)
+
+**Rationale:** FSG-01 sets the fit and proper criteria. SFA 04-G01 concerns licensing criteria for the firm, and 04-N11 concerns misconduct reporting.
+
+</details>
+
+### 477. **[Multiple response | RES 2B Appendix H]** [RES 2B Appendix H] Which are the three separate notices implementing the restriction on lending Singapore dollars to non-resident financial institutions?
+
+- a. MAS 757 for banks
+- b. MAS 1105 for merchant banks
+- c. SFA 04-N04 for CMS licence holders
+- d. SFA 04-N12 for the sale of investment products
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** The restriction is implemented through three notices split by institution type. SFA 04-N12 concerns the sale of investment products and is unrelated.
+
+</details>

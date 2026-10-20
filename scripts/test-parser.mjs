@@ -3,7 +3,7 @@
  * Parser assertions. Run with `npm run test:parser`.
  *
  * Asserts the invariants the quiz UI depends on:
- *   - exact question counts (186 / 300 / 310)
+ *   - exact question counts (from `expectedQuestions` in scripts/lib/exams.mjs)
  *   - every question has >= 1 answer key
  *   - every answer key resolves to an emitted option
  *   - every question has a chapter id present in its bank's chapter list
@@ -18,7 +18,9 @@ import path from 'node:path';
 import { EXAMS } from './lib/exams.mjs';
 import { REPO_ROOT } from './lib/util.mjs';
 
-const EXPECTED_TOTALS = { cmsip: 232, fmrp: 317, res12b: 332 };
+// The count lives in exams.mjs so that adding questions only requires updating one
+// place; this table is derived, not maintained by hand.
+const EXPECTED_TOTALS = Object.fromEntries(EXAMS.map((e) => [e.id, e.expectedQuestions]));
 let checks = 0;
 let failed = 0;
 

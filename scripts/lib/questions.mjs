@@ -203,12 +203,50 @@ function scanBlocks(format, lines) {
           };
           continue;
         }
+        // `## Appendix A — Review Questions` maps to the guide's `appendix-A`.
+        // Without this a bank cannot address appendix pages by name (CM-SIP has
+        // no source tag to fall back on, so its appendix questions would be
+        // unmappable).
+        const appendix = text.match(/^Appendix\s+([A-Z])\b\s*(.*)$/);
+        if (appendix && level >= 2) {
+          context = {
+            ...context,
+            chapterNum: null,
+            chapterTitle: text,
+            groupId: `appendix-${appendix[1].toUpperCase()}`,
+            groupTitle: text,
+          };
+          continue;
+        }
         if (/^Source-reference questions\b/i.test(text) || /^Original questions\b/i.test(text)) {
           context = { ...context, setId: text };
           continue;
         }
         if (/mixed review/i.test(text)) {
           context = { ...context, chapterNum: null, chapterTitle: null, groupId: 'mixed', groupTitle: 'Rapid mixed review' };
+          continue;
+        }
+        // Closing sections are guide pages of their own (`kind: section`). Without an
+        // explicit rule they would inherit the previous chapter's context and their
+        // questions would be attributed to the wrong page.
+        if (/^Cross-chapter exam method\b/i.test(text)) {
+          context = {
+            ...context,
+            chapterNum: null,
+            chapterTitle: text,
+            groupId: 'cross-chapter-exam-method',
+            groupTitle: text,
+          };
+          continue;
+        }
+        if (/^Final revision checklist\b/i.test(text)) {
+          context = {
+            ...context,
+            chapterNum: null,
+            chapterTitle: text,
+            groupId: 'final-revision-checklist',
+            groupTitle: text,
+          };
           continue;
         }
         if (/^(Coverage audit|How to use this bank)\b/i.test(text)) {
@@ -525,7 +563,15 @@ export function parseBank(exam, lines, guideChapters) {
       // `[RES 1B §1.3]` → chapter 1B-1; `[RES 1B Appendix A]` → 1B-appendix-A.
       // RES 2B §7 is the chapter the guide states is shared with RES 1B, and its
       // appendices are a single bullet-style group, so both are remapped.
-      const tag = block.sourceRef.match(/RES\s*(1B|2B)\s*(?:§\s*(\d+)|(?:Appendix|Appendices)\s+([A-Z]))/i);
+      // `[RES 12B Final revision checklist]` addresses the closing section, which
+      // carries no part and no number.
+      if (/RES\s*12B\s*Final revision checklist/i.test(block.sourceRef)) {
+        chapterId = 'final-revision-checklist';
+        partId = '2B';
+      }
+      const tag = chapterId
+        ? null
+        : block.sourceRef.match(/RES\s*(1B|2B)\s*(?:§\s*(\d+)|(?:Appendix|Appendices)\s+([A-Z]))/i);
       if (tag) {
         partId = tag[1].toUpperCase();
         if (tag[2]) {

@@ -36,7 +36,7 @@ export const EXAMS = [
     guide: 'notes/cmsip/CMSIP_AI.md',
     stub: 'notes/cmsip/CMSIP.md',
     guideIntroTitle: 'Introduction and exam orientation',
-    expectedQuestions: 232,
+    expectedQuestions: 388,
     realExam: {
       questions: 80,
       minutes: 150,
@@ -74,7 +74,7 @@ export const EXAMS = [
     guide: 'notes/fmrp/FMRP_AI.md',
     stub: 'notes/fmrp/FMRP.md',
     guideIntroTitle: 'Introduction and core learning sequence',
-    expectedQuestions: 317,
+    expectedQuestions: 406,
     realExam: {
       questions: 100,
       minutes: 120,
@@ -112,7 +112,7 @@ export const EXAMS = [
     guide: 'notes/res12b/RES12B_AI.md',
     stub: 'notes/res12b/RES12B.md',
     guideIntroTitle: 'Introduction and coverage map',
-    expectedQuestions: 332,
+    expectedQuestions: 477,
     realExam: {
       questions: 60,
       minutes: 90,

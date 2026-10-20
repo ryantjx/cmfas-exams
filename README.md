@@ -99,7 +99,10 @@ scripts/build-content.mjs   markdown → Starlight pages, sidebar and PDF copies
 scripts/audit-guides.mjs    coverage vs the syllabus manifest + defect scan
 scripts/audit-depth.mjs     guide-vs-source word-count compression, per file
 scripts/audit-banks.mjs     duplicate/near-duplicate stems + answer-key spread
-scripts/rebalance-answers.mjs  rotate CM-SIP option order to even out the answer key
+scripts/rebalance-answers.mjs  rotate option order to even out the answer key
+scripts/append-questions.mjs   re-emit the question-bank extension block
+scripts/check-answer-text.mjs  assert quoted answers match their keyed option
+scripts/lib/questions-*.mjs    the extension items, one file per exam
 scripts/build-pdfs.mjs      pandoc/XeLaTeX build of the printable artefacts
 src/components/             QuizRunner (the quiz engine), PracticePicker, ThemeToggle
 src/lib/quiz.ts             sampling, shuffling, scoring, timers
@@ -124,6 +127,29 @@ The three question banks use **three different markdown conventions**
 with `Choose one:` combination blocks and uppercase/lowercase answer styles).
 `scripts/test-parser.mjs` guards all of it — `npm run verify` fails the build if a
 bank stops parsing cleanly.
+
+### Extending the banks
+
+The banks are much larger than the real papers — 388 / 406 / 477 questions
+against 80 / 100 / 60 — so that every syllabus section has enough practice to
+test understanding rather than recall. New questions are authored as **data**,
+not prose, so they stay numbered, chapter-mapped and auditable:
+
+- `scripts/lib/questions-cmsip.mjs`, `questions-fmrp.mjs`, `questions-res12b.mjs`
+  hold the items (`{ c: chapter, t: type, q, o: [4 options], a: keys, r }`).
+- `node scripts/append-questions.mjs --write` re-emits everything below the
+  extension marker, continuing the numbering from the last hand-written question.
+  Content above the marker is never touched.
+- `node scripts/rebalance-answers.mjs --exam <id> --write` evens the answer-key
+  spread by rotating option *order* (never shuffling), so distractors keep their
+  relative order and numeric sets stay sorted. Position-dependent options
+  ("all of the above") are left frozen.
+- `node scripts/check-answer-text.mjs` asserts that each single-answer question's
+  quoted answer still matches the option its key points at.
+
+Add items, re-run those three commands in that order, then bump
+`expectedQuestions` in `scripts/lib/exams.mjs` (the parser test derives its
+totals from there, so the count lives in exactly one place).
 
 ## Deployment
 
