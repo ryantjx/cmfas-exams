@@ -35,3 +35,6 @@ public/downloads/
 
 # Scratch directory used by scripts/build-pdfs.mjs while assembling the documents.
 notes/*/output/.build/
+
+# Scratch file used to pass multi-line commit messages.
+.git-commit-msg

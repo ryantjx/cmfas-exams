@@ -402,7 +402,7 @@ Pick an exam, then pick how you want to practise. Nothing is stored.
 | Mode | What it does |
 | --- | --- |
 | **Chapter quiz** | Every question in one chapter, with the answer and explanation shown as soon as you answer. |
-| **Daily quiz** | 30 questions drawn from the whole bank — a fresh set on every visit. |
+| **Daily quiz** | 30 questions drawn from the whole bank, reordered each day. The answer appears as soon as you answer. |
 | **Mock exam** | The real paper's length, timing and pass mark. Results at the end only. |
 
 Use the sidebar to jump straight to an exam and a mode.

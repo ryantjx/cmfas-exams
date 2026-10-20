@@ -7,6 +7,8 @@ import {
   sampleQuestions,
   scoreByChapter,
   prepareQuestion,
+  seedFromDate,
+  seededRandom,
   shuffle,
   type QuizAnswers,
   type QuizQuestion,
@@ -123,7 +125,11 @@ export default function QuizRunner({
           ? sampleQuestions(inChapter, size, { shuffleQuestions: true })
           : shuffle(inChapter);
     } else if (mode === 'daily') {
-      chosen = sampleByChapter(bank.questions, size ?? bank.dailySize);
+      // Seed from the calendar date so the daily set is stable for the whole day
+      // and reorders tomorrow. Without this, every render drew a new set and the
+      // "daily" quiz changed on each reload.
+      const random = seededRandom(seedFromDate());
+      chosen = sampleByChapter(bank.questions, size ?? bank.dailySize, random);
     } else {
       chosen = sampleQuestions(bank.questions, size ?? bank.realExam.questions);
     }

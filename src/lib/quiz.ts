@@ -52,6 +52,40 @@ export function shuffle<T>(list: readonly T[]): T[] {
 }
 
 /**
+ * A small deterministic PRNG (mulberry32).
+ *
+ * The daily quiz should present the *same* set all day and a *different* set
+ * tomorrow, which `Math.random` cannot do: it re-rolls on every render. Seeding from
+ * the calendar date gives that property without storing anything, and keeps the
+ * "nothing is persisted" promise intact.
+ */
+export function seededRandom(seed: number): () => number {
+  let state = seed >>> 0;
+  return () => {
+    state = (state + 0x6d2b79f5) >>> 0;
+    let t = state;
+    t = Math.imul(t ^ (t >>> 15), t | 1);
+    t ^= t + Math.imul(t ^ (t >>> 7), t | 61);
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+}
+
+/** Turn a date into a stable integer seed, e.g. 2026-10-20 → 20261020. */
+export function seedFromDate(date = new Date()): number {
+  return date.getFullYear() * 10000 + (date.getMonth() + 1) * 100 + date.getDate();
+}
+
+/** Fisher–Yates shuffle driven by an explicit random source. */
+export function shuffleWith<T>(list: readonly T[], random: () => number): T[] {
+  const out = [...list];
+  for (let i = out.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(random() * (i + 1));
+    [out[i], out[j]] = [out[j], out[i]];
+  }
+  return out;
+}
+
+/**
  * Shuffle a question's options while preserving which keys are correct.
  * Option labels stay a/b/c/d in presentation order — only the text moves — so
  * the answer key is remapped to the new position.
@@ -99,10 +133,15 @@ export function sampleQuestions(
 /**
  * Sample `size` questions spread across the available chapters, so a daily quiz
  * is not dominated by whichever chapter happens to hold the most questions.
+ *
+ * Pass a `random` source to make the result reproducible. The daily quiz seeds it
+ * from the calendar date so the same set is served all day and a different one
+ * tomorrow, without persisting anything.
  */
 export function sampleByChapter(
   questions: readonly QuizQuestion[],
   size: number,
+  random: () => number = Math.random,
 ): QuizQuestion[] {
   const byChapter = new Map<string, QuizQuestion[]>();
   for (const question of questions) {
@@ -112,7 +151,10 @@ export function sampleByChapter(
     else byChapter.set(key, [question]);
   }
 
-  const buckets = shuffle([...byChapter.values()].map((list) => shuffle(list)));
+  const buckets = shuffleWith(
+    [...byChapter.values()].map((list) => shuffleWith(list, random)),
+    random,
+  );
   const picked: QuizQuestion[] = [];
   let exhausted = false;
 
@@ -128,7 +170,9 @@ export function sampleByChapter(
     }
   }
 
-  return picked.length >= size ? shuffle(picked) : sampleQuestions(questions, size);
+  return picked.length >= size
+    ? shuffleWith(picked, random)
+    : sampleQuestions(questions, size, { shuffleQuestions: true });
 }
 
 /** Is the given selection correct for the question? */
