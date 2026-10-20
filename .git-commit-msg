@@ -1,61 +1,71 @@
-Restore full content to CM-SIP chapters 5 and 6
+Restore full content to CM-SIP chapters 7, 8 and 9
 
-CM-SIP moves from 61% to 309/411 official sections (75%).
+CM-SIP moves from 75% to 383/411 official sections (93%), with zero defects.
 
-Chapter 5 grows from 1,192 to 5,500+ words and covers all 39 sections:
-- 5.2.1 European versus American style, with the SGX convention and why
-  warrant buyers are long volatility
-- 5.2.2 the five differences from company warrants, including no dilution,
-  no new capital and issuer/DMM counterparty risk
-- 5.2.3 the five benefits, including no margin calls because warrants are
-  paid for upfront
-- 5.3.1-5.3.6 conversion ratio, exercise price, expiry, issue price,
-  settlement and gearing, with the 8x gearing illustration
-- 5.4.1-5.4.7 each of the seven price factors as its own section, including
-  the implied-volatility profit at 7% buying and 8% selling, the mild
-  dividend effect, and the interest-rate mechanism through the issuer's delta
-  hedge; plus Table 5.4.7(a) and the in-the-money disposal versus exercise
-  comparison
-- 5.4.8 the SGX naming convention with a decode table
-- 5.5.2-5.5.6 the DBS MB ECW1710020 path (18.16 to 22.19, warrant 0.325 to
-  0.665, 6.98x gearing, -24.62% on a 4.63% fall, +104.62% on a 22.19% rise,
-  the SGD 3,090 / 118.8% maturity outcome and the SGD 21.82 breakeven); the
-  three SGX and thirteen HKSE put warrants screened, the GS-HSI contract at
-  16.93x gearing and its three scenarios including a 51.2% screen gain that
-  still lost HKD 254.09 held to maturity; delta (95% and -45.33%); effective
-  gearing 6.65x; and implied volatility
-- 5.6.1-5.6.3 intrinsic value, conversion price and premium with the DBS and
-  GS worked figures, including the negative -2.32% premium
-- 5.8 DMM relief: exemption from placement and holder size, SGD 2 million
-  minimum issue size (was SGD 5 million)
-- 5.9.1-5.9.3 physical settlement through the warrant agent and CDP, cash
-  settlement, and Asian-style expiry with the three-business-day gap and
-  five-day average
-- 5.11.1-5.11.6 index, currency-translated, yield-enhanced/capped, basket,
-  commodity and FX warrants, with the index and Quanto settlement formulas
-  and the capped warrant at 89.0% of a 5.90 spot with a 5.45 cap
-- 5.12.1-5.12.4 DLC features, daily reset with the August 2017 HSI table
-  (index -2.49%, DLC -11.66%), the five-day compounding grid (+10.41% index
-  versus +33.82% at 3x and +61.05% at 5x), DMM obligations (10 ticks or
-  SGD 0.20, 10,000 certificates, six stand-down conditions) and the airbag
-  worked example (SGD 2.00 to 1.00 to 0.75 versus 0.50 without it)
+Chapter 7 grows from 483 to 4,300 words, covering all 19 sections:
+- 7.1.1 the seven suitability criteria as a table, including the RNF
+  restriction and the ability-and-willingness distinction
+- 7.1.2 six risk types
+- 7.1.3 the feature trade-off table, with the strike-proximity explanation
+- 7.1.4 participation rate worked for two bonds: 21.65/24 = 90.21% and
+  28.70/24 = 119.58%
+- 7.1.5 eight uses, including why a bond plus call cannot be bought directly
+- 7.1.6 the four-asset-class product taxonomy
+- 7.2.1 the structured deposit feature grid, including the loss-of-interest
+  risk and the counterparty reliance on liquidation
+- 7.2.2-7.2.7 the eight deposit term sheets: USD/JPY standard call and put at
+  115.00 giving JPY 375,000 / 5.2% annualised; the knock-out and step-down;
+  the 114.00-118.00 bull spread at 14.50% against a 15% theoretical; the
+  EUR/USD one-touch at 12.00% for a 1% sacrifice; the 1.06-1.10 double-no-touch
+  at 7.25%; and the range accrual at 88/90 days giving 7.13%
+- 7.3.1-7.3.3 the DCI as a short call plus a long deposit, with the GBP/USD
+  1.37/1.34 example at 10.00% against 1.75%, then the knock-out DCI paying
+  8.50% versus 9.00% and the knock-in DCI at 1.1150/1.1000/1.0900
+- 7.4.1-7.4.3 accumulators with 2x-5x step-up, margin financing, lending-value
+  cuts and the ITM-call/OTM-put decomposition; decumulators as the mirror
+- the appendix: the step-down deposit and the four-band step-up one-touch
 
-Chapter 6 grows from 1,215 to 5,000+ words and covers all 20 sections:
-- 6.1 the six exotic features including Quanto
-- 6.3.1-6.3.2 single and double barrier knock-outs with the A and B payoff
-  arithmetic and the "visible vanilla plus embedded sold call" decomposition
-- 6.5.1-6.5.2 advantages and disadvantages, and the USD/JPY knock-out
-  structure term sheet with its 2% rebate
-- 6.6.1-6.6.5 shark's fin characteristics, the barrier reverse convertible
-  payout formula and investment view, bonus certificates with the issuer's
-  four levers and their trade-offs, the straddle variant, and barrier
-  positioning
-- 6.10.1-6.10.11 CBBC price movement, MCE direction, gearing, hedging, the
-  Category N versus R table, theoretical pricing with the financial-cost
-  decomposition, residual value with the min/max observation rule, maturity
-  valuation, capital adjustments, the listing document, and both R-bull and
-  R-bear worked examples with three scenarios each
-- the average price option appendix with its payoff and why averaging is
-  cheaper
+Chapter 8 grows from 836 to 4,300 words, covering all 18 sections:
+- 8.1 the accredited-investor thresholds (S$2m net assets, S$1m financial
+  assets, S$300,000 income, S$10m corporate) and the S$200,000 exemption
+- 8.3 the capital-preservation taxonomy
+- 8.4.1-8.4.4 range accrual notes with the P1/P2 payout formula and the
+  SOR example (110/182 and 160/183, about 3.68% against a 5% headline),
+  VMRAN lock-out and call rights, the inverse floater with its floor, and
+  the BBB+ CSUN term sheet with its four-step coupon
+- 8.5.1-8.5.4 ELNs with the Apple worked example (strike 92.54% of spot,
+  5,730 shares, USD 34,380 premium, 9.68% p.a., -2.74% on a 10% fall), both
+  worst-of ELNs including the variable coupon at 8.00% and the five
+  scenarios, and the risk list
+- 8.6.1-8.6.4 CLNs with the seven credit events, first-to-default correlation
+  and concentration, and BLNs distinguished from CLNs
+- 8.7.1-8.7.4 ETNs against ETFs, the STI index-linked note with its greater-of
+  redemption and both scenarios, P-notes and access notes
+- 8.8.1-8.8.2 suitability and the five sales-process factors
+- the appendix: spread CDRANs, RAN variations and the seven PHS sections
 
-Guide defects remain zero; 37/37 parser checks pass.
+Chapter 9 grows from 747 to 5,200 words, covering all 37 sections:
+- 9.1.1 the full fund glossary with definitions, not bare terms, including
+  the cushion example and UCITS from 1986 with 30 EEA states
+- 9.1.2-9.1.5 traditional versus tracker versus structured, the components,
+  and the TRS and zero-plus structures with the 20/25 = 80% participation
+- 9.1.6-9.1.7 CPPI with all four formulas, the 75% allocation, the good/weak
+  path table ending at the guaranteed 100, the three assumptions and cash
+  lock; DPPI with its 3-5x band
+- 9.1.8.1-9.1.8.4 capital-preservation and formula funds, capitalised versus
+  distributing, and the indirect swap-based policy
+- 9.1.9 the seven-commodity agriculture fund with optimal yield rolling, and
+  the DEF Fund
+- 9.1.10-9.1.12 risks, and the manager and trustee roles with the two-month,
+  three-month and three-business-day clocks
+- 9.1.13.1 the full 21-item prospectus checklist
+- 9.1.14-9.1.15 restricted schemes at SGD 200,000, and the four after-sales
+  documents with their contents
+- 9.2.1-9.2.12 ETFs: definition, the USD 7.7 trillion market at 70% US, four
+  replication methods with the 10% counterparty and 90% collateral limits,
+  funded and unfunded swaps, pricing and NAV, the six causes of tracking
+  error, ETNs and ETCs, mutual funds, the 1940 Act and UCITS III, investor
+  uses, benefits, ten risks including the 2018 VIX ETN shutdowns, and
+  after-sales monitoring
+
+37/37 parser checks pass.
