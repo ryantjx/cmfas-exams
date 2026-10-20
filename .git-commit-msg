@@ -1,38 +1,39 @@
-Restore full content to CM-SIP chapter 2
+Restore full content to CM-SIP chapter 3
 
-Chapter 2 grows from 1,243 to 7,899 words and now covers all 61 official
-sections. Adds previously absent material:
+Chapter 3 grows from 1,004 to 3,500+ words and now covers all 46 official
+sections. This is the chapter that carries the hedge arithmetic, so the
+restored material is mostly numbers:
 
-- Table 2.1 global futures exchanges, with CME at 3bn contracts / ~USD 1
-  quadrillion, ICE's CDS clearing origin and its SMX acquisition into IFSG,
-  APEX's 2018 MAS approval, Eurex/Euronext/B3/HKEX-LME and the Chinese venues
-- Table 2.1.1 futures versus forwards, including no guarantee of an active
-  secondary market and CCP-cleared forwards
-- 2.1.2.1-2.1.2.3 price discovery, risk management and augmenting volatility
-- notional arithmetic for E-mini S&P, Nasdaq, SGX A50 and EUR/USD
-- the Nikkei margin worked example in full: JPY 11,250,000 notional, 6.5%
-  giving JPY 731,250, a 7% rally giving JPY 787,500 and more than 100% return
-  on margin, and a 160-point fall losing JPY 80,000 against a JPY 562,500
-  maintenance level
-- Table 2.2.3(a) contract-specification terms and the SiMSCI term sheet
-- the short-rate formula example at 96.50, and the 45/135/90-day implied
-  forward rate solving to 2.00%
-- US Treasury arithmetic: USD 100,000 face but USD 200,000 for 2- and
-  3-year; a USD 12,450 profit over 159.36 ticks; an USD 11,250 loss over
-  -72 ticks
-- FX futures grouping (majors, EME, crosses, E-Micro at 1/10 size; SGX's seven
-  Asian NDF currencies) and the 1972 CME origin
-- SSF advantages and the short-selling disadvantage
-- commodity detail: gold safe-haven episodes, the 2016 +660% ETF demand, the
-  five SGX iron ore and steel contracts, crude's 155/48/100/29.60 path, and
-  electricity futures with Singapore more than 90% gas-fired
-- 2.4.3 five SGX-DT listing categories including dividend indices, 2.4.4's
-  three intraday margin cycles and five settlement items, CME mutual offset
-  since 1984, and SGX-DC's CFTC designation and ESMA recognition
-- both arbitrage directions: the USD 131.25 cash-and-carry profit and the
-  reverse case's -USD 393.75 (-0.306%) once gold borrowing is counted
-- the expectancy model; basis factors in full; the IRS, FX, currency,
-  commodity, equity and credit default swaps with the four-period equity swap
-  table and the 160bp on USD 20m CDS premium arithmetic
+- 3.1.1-3.1.8 participants in full, including Barings 1995 losing twice the
+  bank's capital on Nikkei futures, the Delta One margin structure, and the
+  1997 Asian Currency Crisis intervention and capital controls that trapped
+  short currency positions
+- Table 3.2 order grid: MTL store orders left at the last execution price or
+  one tick better, market orders taking the Equilibrium Price when not
+  continuously matched, the four Stop Order trigger parameters, the MIT sell
+  above / stop sell below distinction, and SSOs being invisible, deleted at
+  end of day and never GTC
+- packs of four consecutive months vs bundles of 2, 3 or 5 years (no 1-year
+  bundle), quoted in quarter-basis-point increments
+- the three S&P E-mini calendar-spread scenarios with non-netted margin of
+  USD 139,950 and results of +USD 11,500 (+8.2%), -USD 6,000 (-4.3%) and
+  +USD 17,500 (+12.5%) on a falling market
+- the gold butterfly at +USD 16,000, the Eurodollar sell-butterfly at 5.5
+  ticks / USD 137.50, the double butterfly netting buy 1 / sell 3 / buy 3 /
+  sell 1, and the condor at 8.5 ticks / USD 212.50 with the USD 25 tick
+  derivation
+- Table 3.5.1 hedging-decision questions in full, including the black swan
+  reference, and the worked risk-value calculation: 45% probability, 5.18%
+  risk value, USD 93.75 hedging cost on USD 1m, 3.0% basis risk, so HEDGE
+- 3.5.5.1-3.5.5.2 weak and strong form hedges for current and anticipated
+  positions, including zero-coupon-bond immunisation
+- the hedge-ratio derivation and the corrected 180-day example: USD 100m
+  needs 200 contracts, not the 100 the earlier draft stated
+- Alice Tan's bond hedge (0.5954/0.6895 x 0.91 = 0.79, sell 157) and John
+  Lim's equity hedge (sell 30, then USD 810,000 recovery to USD 5,102,500)
+- the six 3.5.12 hedging examples: Yankee Trading, fixed deposit, LMN Corp,
+  floating-rate note, Nikkei and 130/30
+- three portfolio-management applications including Jessie Goh's 46-contract
+  hedge, the arbitrage variants, and the relative-value caveat
 
-Chapter 2 is 61/61 sections. Guide defects remain zero.
+Chapter 3 is 46/46 sections. Guide defects remain zero.
