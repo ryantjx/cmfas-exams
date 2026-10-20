@@ -162,10 +162,14 @@ for (const exam of EXAMS) {
     }
     return false;
   };
+  // Appendices reproduce numbered regulatory text (for example item lists in a MAS
+  // guideline), so their sub-numbering is source numbering, not syllabus numbering.
+  // Only pages that map to a syllabus chapter are checked for undeclared numbers.
   const unexpected = [];
   for (const f of contentFiles) {
     const pageId = f.fields.id;
-    if (manifest.chapters[pageId]?.sharedWith) continue;
+    if (!manifest.chapters[pageId]) continue;
+    if (manifest.chapters[pageId].sharedWith) continue;
     for (const line of f.lines) {
       const m = line.match(NUMBERED_HEADING);
       if (!m) continue;

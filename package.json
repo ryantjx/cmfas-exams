@@ -15,9 +15,11 @@
     "test:parser": "node scripts/test-parser.mjs",
     "lint:notes": "node scripts/lint-notes.mjs",
     "audit": "node scripts/audit-guides.mjs",
+    "audit:depth": "node scripts/audit-depth.mjs",
+    "audit:banks": "node scripts/audit-banks.mjs",
     "split:guides": "node scripts/split-guides.mjs",
     "pdf": "node scripts/build-pdfs.mjs",
-    "verify": "npm run test:parser && npm run check && npm run build"
+    "verify": "node scripts/audit-guides.mjs --strict && node scripts/audit-banks.mjs --strict && npm run test:parser && npm run check && npm run build"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "^7.3.3",

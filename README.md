@@ -72,11 +72,13 @@ npm install
 npm run dev        # generate + dev server (regenerates content first)
 npm run gen        # parse banks and regenerate the content tree
 npm run audit      # syllabus coverage + markdown defect check (--strict to fail)
+npm run audit:depth  # word-count compression of each guide against its source PDF
+npm run audit:banks  # duplicate stems, near-duplicates, and answer-key spread
 npm run test:parser  # assert bank invariants (counts, answer keys, chapters)
 npm run lint:notes   # audit the three teaching guides (advisory; --strict to fail)
 npm run check      # Astro/TypeScript diagnostics
 npm run build      # generate + static build into dist/
-npm run verify     # test:parser + check + build
+npm run verify     # audit --strict + audit:banks --strict + test:parser + check + build
 npm run pdf        # regenerate the printable HTML/PDF artefacts (needs pandoc)
 npm run preview    # serve dist/ locally
 ```
@@ -95,6 +97,9 @@ scripts/lib/util.mjs        filesystem and slug helpers
 scripts/build-banks.mjs     markdown → normalised question JSON
 scripts/build-content.mjs   markdown → Starlight pages, sidebar and PDF copies
 scripts/audit-guides.mjs    coverage vs the syllabus manifest + defect scan
+scripts/audit-depth.mjs     guide-vs-source word-count compression, per file
+scripts/audit-banks.mjs     duplicate/near-duplicate stems + answer-key spread
+scripts/rebalance-answers.mjs  rotate CM-SIP option order to even out the answer key
 scripts/build-pdfs.mjs      pandoc/XeLaTeX build of the printable artefacts
 src/components/             QuizRunner (the quiz engine), PracticePicker, ThemeToggle
 src/lib/quiz.ts             sampling, shuffling, scoring, timers
