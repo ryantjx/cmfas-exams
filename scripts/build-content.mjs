@@ -40,14 +40,6 @@ const DOCS_DIR = path.join(REPO_ROOT, 'src', 'content', 'docs');
 const DOWNLOADS_DIR = path.join(REPO_ROOT, 'public', 'downloads');
 const BANKS_DIR = path.join(REPO_ROOT, 'public', 'banks');
 
-// The ticker drill is written by build-tickers.mjs before this script runs.
-const tickerPayload = JSON.parse(readText('src/data/tickers.json'));
-const tickerCount = tickerPayload.tickers.length;
-const tickerSuffixes = new Set(
-  tickerPayload.tickers.map((entry) => entry.ticker.split(' ').pop()),
-);
-const tickerMarkets = tickerSuffixes.size;
-
 // The generated tree is rebuilt from scratch each run so stale pages left by a
 // renamed slug or a removed section cannot linger. `public/banks/` is owned by
 // build-banks.mjs (which wipes and rewrites it); here we only add the catalogue
@@ -148,11 +140,6 @@ const examCards = EXAMS.map(
     `</CardGrid>`,
 ).join('\n\n');
 
-const tickerCard =
-  `<CardGrid>\n` +
-  `  <LinkCard title="Ticker quiz" href="${link('/practice/tickers/')}" description="${tickerCount} tickers across ${tickerMarkets} markets — name the company behind the symbol." />\n` +
-  `</CardGrid>`;
-
 write(
   'index.mdx',
   `${frontmatter({
@@ -168,8 +155,6 @@ page per chapter, and every question bank is available as a **chapter quiz**, a
 paper's length, timing and pass mark.
 
 ${examCards}
-
-${tickerCard}
 
 ## Exam facts at a glance
 
@@ -397,8 +382,7 @@ write(
   'practice/index.mdx',
   `${frontmatter({
     title: 'Practice',
-    description:
-      'Chapter quizzes, daily quizzes and mock exams for RES 12B, FMRP and CM-SIP, plus a ticker drill.',
+    description: 'Chapter quizzes, daily quizzes and mock exams for RES 12B, FMRP and CM-SIP.',
   })}import PracticePicker from '@components/PracticePicker.tsx';
 
 # Practice
@@ -407,18 +391,13 @@ Pick an exam, then pick how you want to practise. Nothing is stored.
 
 <PracticePicker client:only="react" base={import.meta.env.BASE_URL} />
 
-## The three exam modes
+## The three modes
 
 | Mode | What it does |
 | --- | --- |
 | **Chapter quiz** | Every question in one chapter, with the answer and explanation shown as soon as you answer. |
 | **Daily quiz** | 30 questions from the whole bank. The set is fixed for the day and rolls at local midnight; the answer shows as soon as you choose. |
 | **Mock exam** | The real paper's length, timing and pass mark. Results at the end only. |
-
-## Beyond the exams
-
-- **[Ticker quiz](${link('/practice/tickers/')})** — ${tickerCount} tickers across
-  ${tickerMarkets} markets. Name the company behind a symbol, multiple choice or typed.
 
 Use the sidebar to jump straight to an exam and a mode.
 `,
@@ -441,49 +420,6 @@ Pick how you want to practise ${entry.name}. Nothing is stored.
 );
 }
 
-/* ----------------------------------------------------------- ticker drill */
-
-// A ticker drill is not an exam question, so it sits beside the exams rather than
-// inside one of them. The card data comes from data/tickers.json (see
-// scripts/build-tickers.mjs); this page only hosts the island.
-  write(
-    'practice/tickers/index.mdx',
-    `${frontmatter({
-      title: 'Ticker quiz',
-      description:
-        'Match exchange tickers to the companies behind them — multiple choice or typed.',
-      sidebar: { label: 'Ticker quiz', order: 9 },
-      // A standalone drill: prev/next would point at an exam quiz and an exam
-      // overview, neither of which follows from this page.
-      prev: false,
-      next: false,
-    })}import TickerQuiz from '@components/TickerQuiz.tsx';
-import { Aside } from '@astrojs/starlight/components';
-
-# Ticker quiz
-
-A ticker is a company's trading symbol, and the suffix names the exchange: \`JT\`
-Tokyo, \`SI\` Singapore, \`HK\` Hong Kong, \`US\` United States, \`LN\` London. The drill
-shows a ticker and asks for the company behind it — ${tickerCount} cards across
-${tickerMarkets} markets, drawn 10 at a time.
-
-<TickerQuiz client:only="react" base={import.meta.env.BASE_URL} />
-
-## Two ways to answer
-
-- **Multiple choice** — four company names, two of them from the same exchange. The
-answer and the company's sector show as soon as you choose.
-- **Type the company** — free text, matched against the card's accepted names. Legal
-suffixes are ignored, so \`DBS\`, \`DBS Group\` and \`DBS Group Holdings\` all match.
-
-<Aside type="note">
-Symbols and company names were verified against Yahoo Finance on
-${tickerPayload.generated}. This is market knowledge, not exam content: no CMFAS
-paper tests tickers.
-</Aside>
-`,
-  );
-
 /* ---------------------------------------------------------------- sidebar */
 
 // Consumed by astro.config.mjs so the sidebar and the generated content tree can
@@ -503,7 +439,6 @@ const sidebar = [
           { label: 'Mock exam', link: `/practice/${entry.id}/?type=mock` },
         ],
       })),
-      { label: 'Ticker quiz', link: '/practice/tickers/' },
     ],
   },
   ...sidebarExams,

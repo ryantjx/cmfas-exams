@@ -14,7 +14,6 @@ A static study site for the Singapore capital markets exams — **RES 12B**,
 | **Chapter quiz** | Every question in a chosen chapter, untimed, with the answer and explanation revealed as you answer. |
 | **Daily quiz** | 30 questions from the whole bank. The set is seeded from the calendar day, so it is the same all day and changes at local midnight; the answer is revealed as you answer. |
 | **Mock exam** | The real paper's length, timing and pass mark: strict timer, auto-submit, no feedback until the end, question navigator, flag-for-review, shuffled questions and options, and a score report with a per-chapter breakdown. |
-| **Ticker quiz** | 101 tickers across five markets (Tokyo, Singapore, Hong Kong, New York, London): name the company behind a symbol, as multiple choice or typed. Beside the exams, not part of them — market knowledge, not syllabus content. |
 
 Nothing is persisted — no accounts, no cookies, no `localStorage`. Progress lives
 only in the open page.
@@ -36,21 +35,15 @@ Each exam folder also holds the official provider PDF, the pre-generated
 the site splits into one page per chapter.
 
 Everything under `src/content/docs/`, `src/data/`, `public/banks/` and
-`public/downloads/` is **generated** and gitignored, as is `public/tickers.json`.
-Edit the markdown above, not the generated output.
-
-The ticker list is the one hand-curated input: `data/tickers.json`. Each row records
-the exchange-suffix ticker (`9984 JT`), the Yahoo Finance symbol it was verified
-against, the registered name, a short name, the sector, and the normalised answers a
-typed attempt may use. `scripts/build-tickers.mjs` validates it and publishes
-`src/data/tickers.json` and `public/tickers.json`.
+`public/downloads/` is **generated** and gitignored. Edit the markdown above, not
+the generated output.
 
 ## Commands
 
 ```bash
 npm install
 npm run dev        # generate + dev server (regenerates content first)
-npm run gen        # parse banks, validate tickers, regenerate the content tree
+npm run gen        # parse banks and regenerate the content tree
 npm run test:parser  # assert bank invariants (counts, answer keys, chapters)
 npm run lint:notes   # audit the three teaching guides (advisory; --strict to fail)
 npm run check      # Astro/TypeScript diagnostics
@@ -69,12 +62,9 @@ scripts/lib/exams.mjs       exam config, real-exam facts, PDF sources
 scripts/lib/questions.mjs   the three question-bank parsers + guide splitter
 scripts/lib/util.mjs        filesystem and slug helpers
 scripts/build-banks.mjs     markdown → normalised question JSON
-scripts/build-tickers.mjs   data/tickers.json → validated ticker payload
 scripts/build-content.mjs   markdown → Starlight pages, sidebar and PDF copies
-data/tickers.json           curated ticker list (source of truth for the drill)
-src/components/             QuizRunner (the quiz engine), TickerQuiz, PracticePicker, ThemeToggle
+src/components/             QuizRunner (the quiz engine), PracticePicker, ThemeToggle
 src/lib/quiz.ts             sampling, shuffling, scoring, timers
-src/lib/ticker.ts           ticker rounds, options, answer normalisation
 src/styles/custom.css       quiz UI
 ```
 

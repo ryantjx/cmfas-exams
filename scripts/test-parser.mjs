@@ -116,45 +116,5 @@ for (const exam of EXAMS) {
   console.log(`      note: ${chapters.filter((c) => c.questionCount > 0).length} chapters carry questions; ${questions.filter((q) => !q.rationale).length} without a rationale; ${keyTagMismatch} type-tag/key mismatches.`);
 }
 
-/* ---------------------------------------------------------- ticker drill */
-
-{
-  const tickerPayload = JSON.parse(
-    readFileSync(path.join(REPO_ROOT, 'src', 'data', 'tickers.json'), 'utf8'),
-  );
-  const tickers = tickerPayload.tickers;
-
-  console.log(`\nTicker drill (${tickers.length} tickers)`);
-
-  check('every ticker has a short name, an exchange and an accepted answer', () => {
-    const bad = tickers.filter(
-      (entry) => !entry.shortName || !entry.exchange || !entry.accept?.length,
-    );
-    assert.equal(bad.length, 0, `${bad.length} incomplete, e.g. ${bad[0]?.ticker}`);
-  });
-
-  check('tickers and short names are unique', () => {
-    assert.equal(new Set(tickers.map((entry) => entry.ticker)).size, tickers.length);
-    assert.equal(
-      new Set(tickers.map((entry) => entry.shortName.toLowerCase())).size,
-      tickers.length,
-    );
-  });
-
-  check('every exchange holds at least three tickers, so same-market options exist', () => {
-    const counts = new Map();
-    for (const entry of tickers) counts.set(entry.exchange, (counts.get(entry.exchange) ?? 0) + 1);
-    const thin = [...counts].filter(([, count]) => count < 3);
-    assert.equal(thin.length, 0, `${thin.map(([name, count]) => `${name} (${count})`).join(', ')}`);
-  });
-
-  check('the published payload matches the build-time payload', () => {
-    const published = JSON.parse(
-      readFileSync(path.join(REPO_ROOT, 'public', 'tickers.json'), 'utf8'),
-    );
-    assert.deepEqual(published, tickerPayload);
-  });
-}
-
 console.log(`\n${checks - failed}/${checks} checks passed.`);
 process.exit(failed ? 1 : 0);

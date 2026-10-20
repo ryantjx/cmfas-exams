@@ -28,5 +28,4 @@ dist/
 src/content/docs/
 src/data/
 public/banks/
-public/tickers.json
 public/downloads/

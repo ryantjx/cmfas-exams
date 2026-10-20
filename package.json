@@ -5,7 +5,7 @@
   "type": "module",
   "description": "Static study site (guides, quizzes, mock exams) for the Singapore CMFAS / IBF capital markets exams: RES 12B, FMRP and CM-SIP.",
   "scripts": {
-    "gen": "node scripts/build-banks.mjs && node scripts/build-tickers.mjs && node scripts/build-content.mjs",
+    "gen": "node scripts/build-banks.mjs && node scripts/build-content.mjs",
     "predev": "npm run gen",
     "dev": "astro dev",
     "prebuild": "npm run gen",
