@@ -1,25 +1,61 @@
-Document the per-chapter guide structure
+Restore full content to CM-SIP chapters 5 and 6
 
-The README and notes/STYLE.md still described the old monolith-plus-splitter
-arrangement. Both now document what the build actually reads.
+CM-SIP moves from 61% to 309/411 official sections (75%).
 
-README:
-- the source-of-truth tree shows guide/*.md instead of *_AI.md
-- the frontmatter contract is documented, with the reason the id, slug and
-  order fields are pinned rather than derived from the title
-- adds npm run audit and npm run pdf to the command list
-- the layout block lists guide.mjs, syllabus.mjs, audit-guides.mjs and
-  build-pdfs.mjs
+Chapter 5 grows from 1,192 to 5,500+ words and covers all 39 sections:
+- 5.2.1 European versus American style, with the SGX convention and why
+  warrant buyers are long volatility
+- 5.2.2 the five differences from company warrants, including no dilution,
+  no new capital and issuer/DMM counterparty risk
+- 5.2.3 the five benefits, including no margin calls because warrants are
+  paid for upfront
+- 5.3.1-5.3.6 conversion ratio, exercise price, expiry, issue price,
+  settlement and gearing, with the 8x gearing illustration
+- 5.4.1-5.4.7 each of the seven price factors as its own section, including
+  the implied-volatility profit at 7% buying and 8% selling, the mild
+  dividend effect, and the interest-rate mechanism through the issuer's delta
+  hedge; plus Table 5.4.7(a) and the in-the-money disposal versus exercise
+  comparison
+- 5.4.8 the SGX naming convention with a decode table
+- 5.5.2-5.5.6 the DBS MB ECW1710020 path (18.16 to 22.19, warrant 0.325 to
+  0.665, 6.98x gearing, -24.62% on a 4.63% fall, +104.62% on a 22.19% rise,
+  the SGD 3,090 / 118.8% maturity outcome and the SGD 21.82 breakeven); the
+  three SGX and thirteen HKSE put warrants screened, the GS-HSI contract at
+  16.93x gearing and its three scenarios including a 51.2% screen gain that
+  still lost HKD 254.09 held to maturity; delta (95% and -45.33%); effective
+  gearing 6.65x; and implied volatility
+- 5.6.1-5.6.3 intrinsic value, conversion price and premium with the DBS and
+  GS worked figures, including the negative -2.32% premium
+- 5.8 DMM relief: exemption from placement and holder size, SGD 2 million
+  minimum issue size (was SGD 5 million)
+- 5.9.1-5.9.3 physical settlement through the warrant agent and CDP, cash
+  settlement, and Asian-style expiry with the three-business-day gap and
+  five-day average
+- 5.11.1-5.11.6 index, currency-translated, yield-enhanced/capped, basket,
+  commodity and FX warrants, with the index and Quanto settlement formulas
+  and the capped warrant at 89.0% of a 5.90 spot with a 5.45 cap
+- 5.12.1-5.12.4 DLC features, daily reset with the August 2017 HSI table
+  (index -2.49%, DLC -11.66%), the five-day compounding grid (+10.41% index
+  versus +33.82% at 3x and +61.05% at 5x), DMM obligations (10 ticks or
+  SGD 0.20, 10,000 certificates, six stand-down conditions) and the airbag
+  worked example (SGD 2.00 to 1.00 to 0.75 versus 0.50 without it)
 
-STYLE.md:
-- applies to notes/<exam>/guide/, one file per chapter, appendix and closing
-  section
-- documents the full frontmatter contract and the filename convention
-- the build contract now states what must not change: num, id and slug, plus
-  the RES 12B part prefix and the deliberately shared 2B-7
-- replaces the old heading-pattern rules with the audit workflow, and adds the
-  requirement to restore every number, threshold, date and worked example,
-  since a section heading without its content is still a coverage gap
+Chapter 6 grows from 1,215 to 5,000+ words and covers all 20 sections:
+- 6.1 the six exotic features including Quanto
+- 6.3.1-6.3.2 single and double barrier knock-outs with the A and B payoff
+  arithmetic and the "visible vanilla plus embedded sold call" decomposition
+- 6.5.1-6.5.2 advantages and disadvantages, and the USD/JPY knock-out
+  structure term sheet with its 2% rebate
+- 6.6.1-6.6.5 shark's fin characteristics, the barrier reverse convertible
+  payout formula and investment view, bonus certificates with the issuer's
+  four levers and their trade-offs, the straddle variant, and barrier
+  positioning
+- 6.10.1-6.10.11 CBBC price movement, MCE direction, gearing, hedging, the
+  Category N versus R table, theoretical pricing with the financial-cost
+  decomposition, residual value with the min/max observation rule, maturity
+  valuation, capital adjustments, the listing document, and both R-bull and
+  R-bear worked examples with three scenarios each
+- the average price option appendix with its payoff and why averaging is
+  cheaper
 
-Also drops an unused import in build-pdfs.mjs. Regenerates all 13 printable
-artefacts. npm run verify: 37/37 checks, 0 errors, 0 warnings, 0 hints.
+Guide defects remain zero; 37/37 parser checks pass.
