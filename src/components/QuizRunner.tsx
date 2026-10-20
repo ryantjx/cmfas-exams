@@ -78,6 +78,10 @@ export default function QuizRunner({
   const [seed, setSeed] = useState(0);
 
   const [questions, setQuestions] = useState<QuizQuestion[]>([]);
+  // Whether the set for the current bank has been built. Without this, the render
+  // between "bank loaded" and "effect ran" shows `questions.length === 0` and
+  // flashes the "No questions for this set" alert before the questions appear.
+  const [built, setBuilt] = useState(false);
   const [answers, setAnswers] = useState<Answers>({});
   const [flags, setFlags] = useState<Record<string, boolean>>({});
   const [revealed, setRevealed] = useState<Record<string, boolean>>({});
@@ -98,7 +102,13 @@ export default function QuizRunner({
         return response.json() as Promise<QuizBank>;
       })
       .then((data) => {
-        if (!cancelled) setBank(data);
+        if (!cancelled) {
+          // A new bank invalidates any set built from the previous one, so drop the
+          // built flag here to go back through the loading state rather than
+          // briefly rendering questions that belong to the old bank.
+          setBuilt(false);
+          setBank(data);
+        }
       })
       .catch((cause: unknown) => {
         if (!cancelled) setError(cause instanceof Error ? cause.message : String(cause));
@@ -141,6 +151,7 @@ export default function QuizRunner({
     setCurrent(0);
     setSubmitted(false);
     setRemaining(timed ? timeLimitSec! : null);
+    setBuilt(true);
   }, [bank, seed, mode, chapterId, size, timed, timeLimitSec]);
 
   /* ---- countdown for the mock ---- */
@@ -209,7 +220,7 @@ export default function QuizRunner({
       </div>
     );
   }
-  if (!bank) {
+  if (!bank || !built) {
     return (
       <div className="quiz-shell" aria-busy="true">
         <p>Loading questions…</p>
@@ -445,7 +456,9 @@ export default function QuizRunner({
           )}
 
           <p className="quiz-note">
-            No answers are stored — reloading this page discards the set and draws a new one.
+            {mode === 'daily'
+              ? 'No answers are stored. The daily set is fixed for today and reorders tomorrow, so a reload shows the same questions.'
+              : 'No answers are stored — reloading this page discards the set and draws a new one.'}
           </p>
         </div>
 
