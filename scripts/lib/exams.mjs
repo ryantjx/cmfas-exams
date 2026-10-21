@@ -35,7 +35,7 @@ export const EXAMS = [
     guideDir: 'notes/cmsip/guide',
     stub: 'notes/cmsip/CMSIP.md',
     guideIntroTitle: 'Introduction and exam orientation',
-    expectedQuestions: 388,
+    expectedQuestions: 389,
     realExam: {
       questions: 80,
       minutes: 150,

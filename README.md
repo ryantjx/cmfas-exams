@@ -22,6 +22,12 @@ CMSIP: `notes/cmsip/CM-SIP Study Guide v1.1 - January 2026 (FINAL).pdf`
 RES12B: `notes/res12b/RES 12B Combined.pdf`
 FMRP: `notes/fmrp/FMRP Study Guide v3.2.pdf`
 
+Reference
+
+- https://open-exam-prep.com/practice/sg-fmrp
+- https://cmfasexam.com/study-guides/res-12b-exam-study-guide
+- https://cmfasexam.com/study-guides/cm-sip-exam-study-guide
+- https://cmfasexam.com/study-guides/cmfas-fmrp-exam-study-guide
 
 ## Source of truth
 

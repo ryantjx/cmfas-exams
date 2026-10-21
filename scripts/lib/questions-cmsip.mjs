@@ -434,6 +434,13 @@ export const CMSIP = [
     r: '$$8\\% - 5.5\\% = 2.5\\%$$, comfortably above the zero floor.',
   },
   {
+    c: '8', t: 'Calculation',
+    q: 'An index-linked note pays principal \u00d7 (100% + the greater of 4% and 85% \u00d7 average performance). At what average index performance does the participation leg start to beat the 4% floor?',
+    o: ['4.00%', '4.25%', '4.71%', '85.00%'],
+    a: 'c',
+    r: 'Solve $$0.85 \\times AP = 4\\%$$, giving $$AP = 4.71\\%$$. Below that the note pays 104%; above it the investor keeps 85% of each further point, so a 20% average pays 117%. The 104% is a floor, not a cap, and the 85% is the participation rate, not a principal base.',
+  },
+  {
     c: '8', t: 'Single choice',
     q: 'Which risk dominates a structured note with a long maturity and no secondary market?',
     o: ['Liquidity risk', 'Reinvestment risk', 'Settlement risk', 'Operational risk'],
