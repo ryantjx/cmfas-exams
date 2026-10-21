@@ -37,6 +37,21 @@ jobs:
           npm run gen
           npm run test:parser
 
+      # The audits below are cheap (seconds, no network) and catch the two failure
+      # modes a green build cannot see: a guide section that lost its heading, and a
+      # question keyed to a chapter that no longer exists. Both have happened.
+      - name: Audit guide coverage
+        run: npm run audit -- --strict
+
+      - name: Audit question banks
+        run: |
+          npm run audit:banks -- --strict
+          npm run audit:coverage -- --strict
+          npm run questions:check
+
+      - name: Lint study-guide prose
+        run: npm run lint:notes -- --strict
+
       - name: Type check
         run: npm run check
 

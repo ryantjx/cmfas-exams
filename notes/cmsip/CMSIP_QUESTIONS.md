@@ -2,7 +2,7 @@
 
 This question bank follows the sequence and style of Appendix E in the IBF CM-SIP guide, but expands it substantially. It is organised by chapter and section, includes Chapters 1 and 12 even though Appendix E does not provide separate blocks for them, and adds calculations, suitability decisions and scenario questions. Answers and rationales are hidden inside expandable sections; click **Show answer** after attempting each question.
 
-For multiple-response questions, select every correct option. Unless stated otherwise, use a 360-day convention for non-Singapore-Government-Securities products and the formulas in Appendix D of `CMSIP_AI.md`. These are original revision questions, not a reproduction of the source’s review-question set.
+For multiple-response questions, select every correct option. Unless stated otherwise, use a 360-day convention for non-Singapore-Government-Securities products and the formulas in Appendix D of the study guide. These are original revision questions, not a reproduction of the source’s review-question set.
 
 ## Chapter 1 — Overview of Derivatives
 
@@ -10,15 +10,15 @@ For multiple-response questions, select every correct option. Unless stated othe
 
 **1. [Single choice]** Which statement best defines a derivative?
 
-a. A deposit whose principal is always insured.
-b. A bond with no maturity.
-c. A security that always gives ownership of a company.
-d. A contract whose value is linked to an underlying asset, rate, index, event or outcome.
+a. A contract whose value is linked to an underlying asset, rate, index, event or outcome.
+b. A deposit whose principal is always insured.
+c. A bond with no maturity.
+d. A security that always gives ownership of a company.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** A derivative derives value from an underlying; ownership does not automatically pass to the investor.
+**Answer: a.** A derivative derives value from an underlying; ownership does not automatically pass to the investor.
 
 </details>
 
@@ -38,15 +38,15 @@ d. Repackaging cash flows or creating a synthetic position.
 
 **3. [Single choice]** A Singapore importer payable in USD in three months is most directly exposed to:
 
-a. USD/SGD currency risk.
-b. Equity dilution risk only.
-c. The risk that a call option will always be exercised.
-d. No risk until payment day.
+a. Equity dilution risk only.
+b. The risk that a call option will always be exercised.
+c. No risk until payment day.
+d. USD/SGD currency risk.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** A currency forward, future or option may hedge the USD payable.
+**Answer: d.** A currency forward, future or option may hedge the USD payable.
 
 </details>
 
@@ -66,29 +66,29 @@ d. Equities and commodities.
 
 **5. [Single choice]** Why can an NDF be useful for a restricted currency?
 
-a. It eliminates all FX risk.
-b. It is always exchange traded.
-c. It guarantees physical delivery of the restricted currency.
-d. It is normally cash-settled without exchanging the notional currency.
+a. It is normally cash-settled without exchanging the notional currency.
+b. It eliminates all FX risk.
+c. It is always exchange traded.
+d. It guarantees physical delivery of the restricted currency.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** An NDF settles the difference between the contracted rate and the fixing/spot rate.
+**Answer: a.** An NDF settles the difference between the contracted rate and the fixing/spot rate.
 
 </details>
 
 **6. [Single choice]** Which statement about a CDS is correct?
 
-a. It transfers or references credit protection on a debt obligation or index.
-b. It is a form of equity dividend.
-c. It is a physical commodity storage contract.
-d. It always transfers legal ownership of a bond.
+a. It is a form of equity dividend.
+b. It is a physical commodity storage contract.
+c. It always transfers legal ownership of a bond.
+d. It transfers or references credit protection on a debt obligation or index.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** The protection buyer pays a spread and receives a contingent payment after a defined credit event.
+**Answer: d.** The protection buyer pays a spread and receives a contingent payment after a defined credit event.
 
 </details>
 
@@ -124,15 +124,15 @@ d. Bespoke bilateral terms for every customer.
 
 **9. [Single choice]** Central clearing mainly reduces:
 
-a. The need to post margin.
-b. Basis risk.
-c. All market losses.
-d. Bilateral counterparty exposure through the clearing mechanism.
+a. Bilateral counterparty exposure through the clearing mechanism.
+b. The need to post margin.
+c. Basis risk.
+d. All market losses.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** A CCP becomes the buyer to every seller and seller to every buyer, but market, margin, liquidity and clearing risks remain.
+**Answer: a.** A CCP becomes the buyer to every seller and seller to every buyer, but market, margin, liquidity and clearing risks remain.
 
 </details>
 
@@ -152,15 +152,15 @@ d. Legal and operational risk.
 
 **11. [Single choice]** Which post-crisis reform is consistent with the guide?
 
-a. Move suitable standardised OTC derivatives toward electronic/exchange trading, CCP clearing and trade reporting.
-b. Remove capital requirements for uncleared derivatives.
-c. Replace all OTC products with physical shares.
-d. Ban all derivatives.
+a. Remove capital requirements for uncleared derivatives.
+b. Replace all OTC products with physical shares.
+c. Ban all derivatives.
+d. Move suitable standardised OTC derivatives toward electronic/exchange trading, CCP clearing and trade reporting.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** These are examples of the G20 reform direction described in the source.
+**Answer: d.** These are examples of the G20 reform direction described in the source.
 
 </details>
 
@@ -168,15 +168,15 @@ d. Ban all derivatives.
 
 **12. [Single choice]** A structured product should be analysed as:
 
-a. Direct ownership of every underlying asset.
-b. An instrument with no issuer risk.
-c. A guaranteed deposit because it has a high coupon.
-d. A wrapper containing a principal component plus one or more derivative exposures.
+a. A wrapper containing a principal component plus one or more derivative exposures.
+b. Direct ownership of every underlying asset.
+c. An instrument with no issuer risk.
+d. A guaranteed deposit because it has a high coupon.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** The headline return can compensate the investor for selling protection, accepting conversion or bearing issuer/illiquidity risk.
+**Answer: a.** The headline return can compensate the investor for selling protection, accepting conversion or bearing issuer/illiquidity risk.
 
 </details>
 
@@ -196,15 +196,15 @@ d. Currency, maximum loss and suitability.
 
 **14. [Single choice]** Which venues are identified in the guide’s Singapore-market overview?
 
-a. SGX-DT, ICE Futures Singapore and APEX.
-b. Only an unregulated bilateral telephone market.
-c. Only US exchanges.
-d. None; Singapore has no derivatives market.
+a. Only US exchanges.
+b. None; Singapore has no derivatives market.
+c. SGX-DT, ICE Futures Singapore and APEX.
+d. Only an unregulated bilateral telephone market.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** The source also discusses Singapore’s Asian equity-index, commodity, FX and rates role.
+**Answer: c.** The source also discusses Singapore’s Asian equity-index, commodity, FX and rates role.
 
 </details>
 
@@ -270,29 +270,29 @@ d. USD500,000.
 
 **19. [Calculation]** A Nikkei contract is at 22,500 with a JPY500 multiplier. Initial margin is 6.5%. What margin is required?
 
-a. JPY1,462,500.
-b. JPY11,250,000.
-c. JPY73,125.
-d. JPY731,250.
+a. JPY11,250,000.
+b. JPY73,125.
+c. JPY731,250.
+d. JPY1,462,500.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** Notional = JPY11,250,000; `11,250,000 × 6.5% = JPY731,250`.
+**Answer: c.** Notional = JPY11,250,000; `11,250,000 × 6.5% = JPY731,250`.
 
 </details>
 
 **20. [Single choice]** Daily mark-to-market means:
 
-a. Gains/losses are settled periodically based on the contract’s changing market value.
-b. The investor pays the entire notional on day one.
-c. The underlying is always physically delivered daily.
-d. Margin is never adjusted.
+a. The investor pays the entire notional on day one.
+b. The underlying is always physically delivered daily.
+c. Margin is never adjusted.
+d. Gains/losses are settled periodically based on the contract’s changing market value.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Daily settlement creates cash-flow and margin-call risk.
+**Answer: d.** Daily settlement creates cash-flow and margin-call risk.
 
 </details>
 
@@ -300,43 +300,43 @@ d. Margin is never adjusted.
 
 **21. [Single choice]** A short-term interest-rate futures price is quoted as `100 − R`. If implied rate rises, the futures price generally:
 
-a. Rises.
-b. Falls.
-c. Is unchanged.
-d. Becomes the spot equity index.
+a. Falls.
+b. Is unchanged.
+c. Becomes the spot equity index.
+d. Rises.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** The quote is inversely related to the implied rate.
+**Answer: a.** The quote is inversely related to the implied rate.
 
 </details>
 
 **22. [Calculation]** A short-rate future is quoted at 98.25. What implied rate does the source convention suggest?
 
-a. 98.25%.
-b. 101.75%.
-c. 0.175%.
-d. 1.75%.
+a. 101.75%.
+b. 0.175%.
+c. 1.75%.
+d. 98.25%.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** `R = 100 − 98.25 = 1.75%`.
+**Answer: c.** `R = 100 − 98.25 = 1.75%`.
 
 </details>
 
 **23. [Calculation]** A GBP/USD spot rate is 1.2422. UK rate is 0.70444%, US rate is 1.799%, and tenor is one year. Using interest-rate parity with USD as base, the theoretical rate is closest to:
 
-a. 1.2557.
-b. 3.1743.
-c. 0.9989.
-d. 1.2487.
+a. 3.1743.
+b. 0.9989.
+c. 1.2487.
+d. 1.2557.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** `F = 1.2422 × (1.0070444)/(1.01799) ≈ 1.2557` under the guide’s quotation convention.
+**Answer: d.** `F = 1.2422 × (1.0070444)/(1.01799) ≈ 1.2557` under the guide’s quotation convention.
 
 </details>
 
@@ -356,15 +356,15 @@ d. Rolling into a later contract.
 
 **25. [Single choice]** What does an SGX clearing house do?
 
-a. Sets all market prices by itself.
-b. Clears/margins contracts and manages default processes as the central counterparty.
-c. Guarantees profitable trades.
-d. Removes the need to understand contract specifications.
+a. Clears/margins contracts and manages default processes as the central counterparty.
+b. Guarantees profitable trades.
+c. Removes the need to understand contract specifications.
+d. Sets all market prices by itself.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Clearing reduces bilateral credit exposure but does not guarantee profit or eliminate market risk.
+**Answer: a.** Clearing reduces bilateral credit exposure but does not guarantee profit or eliminate market risk.
 
 </details>
 
@@ -372,29 +372,29 @@ d. Removes the need to understand contract specifications.
 
 **26. [Calculation]** Spot gold is 1,300, carry is 0.28% for the period and there is no income. Approximate fair futures value under `F=S(1+C)` is:
 
-a. 1,328.00.
-b. 1,296.36.
-c. 1,300.00.
-d. 1,303.64.
+a. 1,296.36.
+b. 1,300.00.
+c. 1,303.64.
+d. 1,328.00.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** `1,300 × 1.0028 = 1,303.64`.
+**Answer: c.** `1,300 × 1.0028 = 1,303.64`.
 
 </details>
 
 **27. [Single choice]** In a cash-and-carry arbitrage when futures is too high, the trader normally:
 
-a. Buys/finances the spot asset and sells futures.
-b. Sells spot and sells futures.
-c. Buys both spot and futures.
-d. Does nothing because price differences are always risk-free.
+a. Sells spot and sells futures.
+b. Buys both spot and futures.
+c. Does nothing because price differences are always risk-free.
+d. Buys/finances the spot asset and sells futures.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** The spot position carries the asset into delivery while the short futures locks the sale price.
+**Answer: d.** The spot position carries the asset into delivery while the short futures locks the sale price.
 
 </details>
 
@@ -414,29 +414,29 @@ d. Administered versus market rates and expectations.
 
 **29. [Single choice]** Contango usually means:
 
-a. There is no carrying cost.
-b. Futures price is above spot.
-c. Futures price is below spot.
-d. Spot and futures are identical at every date.
+a. Futures price is above spot.
+b. Futures price is below spot.
+c. Spot and futures are identical at every date.
+d. There is no carrying cost.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Backwardation is the opposite relationship, though the exact level also reflects income and convenience yield.
+**Answer: a.** Backwardation is the opposite relationship, though the exact level also reflects income and convenience yield.
 
 </details>
 
 **30. [Scenario]** A hedge is closed two months before expiry and the asset being hedged is similar but not identical to the futures underlying. The main residual risk is:
 
-a. Voting-rights risk only.
-b. No risk because futures are cleared.
-c. Deposit-insurance risk.
-d. Basis risk.
+a. No risk because futures are cleared.
+b. Deposit-insurance risk.
+c. Basis risk.
+d. Voting-rights risk only.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** Mismatch and early close-out prevent perfect convergence.
+**Answer: c.** Mismatch and early close-out prevent perfect convergence.
 
 </details>
 
@@ -444,15 +444,15 @@ d. Basis risk.
 
 **31. [Single choice]** In a vanilla interest-rate swap, the notional is normally:
 
-a. Used to calculate interest cash flows but not exchanged.
-b. Always converted into shares.
-c. The option premium only.
-d. Exchanged physically at each reset.
+a. Always converted into shares.
+b. The option premium only.
+c. Exchanged physically at each reset.
+d. Used to calculate interest cash flows but not exchanged.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Fixed and floating interest amounts are netted/paid on the notional.
+**Answer: d.** Fixed and floating interest amounts are netted/paid on the notional.
 
 </details>
 
@@ -472,29 +472,29 @@ d. A commodity swap can exchange fixed and floating commodity prices.
 
 **33. [Single choice]** A CDS protection buyer generally:
 
-a. Has no exposure to the protection seller.
-b. Pays a spread and receives protection after a defined credit event.
-c. Receives a fixed dividend and gives voting rights.
-d. Buys physical gold.
+a. Pays a spread and receives protection after a defined credit event.
+b. Receives a fixed dividend and gives voting rights.
+c. Buys physical gold.
+d. Has no exposure to the protection seller.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** The protection seller’s ability to pay is itself a counterparty risk.
+**Answer: a.** The protection seller’s ability to pay is itself a counterparty risk.
 
 </details>
 
 **34. [Scenario]** A borrower pays floating interest but wants fixed cash flows. The most direct swap action is to:
 
-a. Pay floating and receive floating.
-b. Buy a put warrant.
-c. Sell a commodity future.
-d. Pay fixed and receive floating.
+a. Buy a put warrant.
+b. Sell a commodity future.
+c. Pay fixed and receive floating.
+d. Pay floating and receive floating.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** The received floating leg offsets the borrower’s floating liability.
+**Answer: c.** The received floating leg offsets the borrower’s floating liability.
 
 </details>
 
@@ -518,15 +518,15 @@ d. Early termination/valuation and liquidity risk.
 
 **36. [Single choice]** A portfolio manager sells index futures while continuing to hold the cash portfolio. The manager is acting primarily as a:
 
-a. Hedger.
-b. Market maker.
-c. Arbitrageur with no cash exposure.
-d. Depositor.
+a. Market maker.
+b. Arbitrageur with no cash exposure.
+c. Depositor.
+d. Hedger.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** The futures position offsets the portfolio’s market exposure.
+**Answer: d.** The futures position offsets the portfolio’s market exposure.
 
 </details>
 
@@ -546,29 +546,29 @@ d. Arbitrageurs, portfolio managers and official institutions.
 
 **38. [Single choice]** A buy limit order at $10.00 when the ask is $10.02 will generally:
 
-a. Execute immediately at $10.02.
-b. Rest in the queue at $10.00 or better until filled, amended or cancelled.
-c. Become a sell order.
-d. Guarantee execution at the close.
+a. Rest in the queue at $10.00 or better until filled, amended or cancelled.
+b. Become a sell order.
+c. Guarantee execution at the close.
+d. Execute immediately at $10.02.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** A limit order controls price but not execution.
+**Answer: a.** A limit order controls price but not execution.
 
 </details>
 
 **39. [Single choice]** In an MTL buy order, any unfilled quantity normally:
 
-a. Converts into an option.
-b. Is physically delivered.
-c. Is cancelled immediately in all cases.
-d. Remains at the price where the filled portion executed, subject to the rules.
+a. Is physically delivered.
+b. Is cancelled immediately in all cases.
+c. Remains at the price where the filled portion executed, subject to the rules.
+d. Converts into an option.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** MTL provides market execution for the first fill and a limit-like resting balance.
+**Answer: c.** MTL provides market execution for the first fill and a limit-like resting balance.
 
 </details>
 
@@ -590,15 +590,15 @@ d. Enter short after a downside breakdown.
 
 **41. [Single choice]** Which is an outright futures trade?
 
-a. Buy one contract to express a directional view.
-b. Buy near month and sell deferred month.
-c. Buy one call and sell another call.
-d. Buy one contract and sell a related contract simultaneously.
+a. Buy near month and sell deferred month.
+b. Buy one call and sell another call.
+c. Buy one contract and sell a related contract simultaneously.
+d. Buy one contract to express a directional view.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** The other choices are spread or options structures.
+**Answer: d.** The other choices are spread or options structures.
 
 </details>
 
@@ -618,71 +618,71 @@ d. The spread moving in the wrong direction.
 
 **43. [Single choice]** A calendar spread usually involves:
 
-a. Two unrelated currencies only.
-b. Same underlying with different delivery months.
-c. Different underlyings and same maturity only.
-d. A cash share and a bank deposit.
+a. Same underlying with different delivery months.
+b. Different underlyings and same maturity only.
+c. A cash share and a bank deposit.
+d. Two unrelated currencies only.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** It is also called a horizontal/time spread.
+**Answer: a.** It is also called a horizontal/time spread.
 
 </details>
 
 **44. [Scenario]** An investor expects the near-month price to strengthen relative to the deferred-month price. The natural calendar-spread expression is:
 
-a. Short near and long deferred.
-b. Long both months.
-c. Short both months.
-d. Long near and short deferred.
+a. Long both months.
+b. Short both months.
+c. Long near and short deferred.
+d. Short near and long deferred.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** Profit depends on the near-minus-deferred spread widening.
+**Answer: c.** Profit depends on the near-minus-deferred spread widening.
 
 </details>
 
 **45. [Single choice]** A butterfly futures spread commonly has which weights across three maturities?
 
-a. `+1, −2, +1`.
-b. `+1, +1, +1`.
-c. `+1, −1` only.
-d. `+2, +2, −1`.
+a. `+1, +1, +1`.
+b. `+1, −1` only.
+c. `+2, +2, −1`.
+d. `+1, −2, +1`.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** The structure targets curvature rather than a simple outright direction.
+**Answer: d.** The structure targets curvature rather than a simple outright direction.
 
 </details>
 
 **46. [Single choice]** Compared with a butterfly, a condor normally has:
 
-a. Only one maturity.
-b. Four different maturities and a wider but lower peak profit zone.
-c. Two legs and unlimited loss.
-d. No sensitivity to volatility.
+a. Four different maturities and a wider but lower peak profit zone.
+b. Two legs and unlimited loss.
+c. No sensitivity to volatility.
+d. Only one maturity.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** A condor uses four different delivery points.
+**Answer: a.** A condor uses four different delivery points.
 
 </details>
 
 **47. [Single choice]** The TED spread is associated with:
 
-a. Gold versus silver storage only.
-b. Two equity dividends.
-c. A company’s ordinary share split.
-d. T-bill/Treasury versus Eurodollar/LIBOR pricing and credit/liquidity conditions.
+a. Two equity dividends.
+b. A company’s ordinary share split.
+c. T-bill/Treasury versus Eurodollar/LIBOR pricing and credit/liquidity conditions.
+d. Gold versus silver storage only.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** It is not a pure directionless interest-rate measure.
+**Answer: c.** It is not a pure directionless interest-rate measure.
 
 </details>
 
@@ -690,15 +690,15 @@ d. T-bill/Treasury versus Eurodollar/LIBOR pricing and credit/liquidity conditio
 
 **48. [Single choice]** The purpose of hedging is best described as:
 
-a. Exchange uncertain exposure for a more predictable outcome, usually leaving basis risk.
-b. Guarantee a higher return than speculation.
-c. Avoid all margin.
-d. Eliminate every possible loss.
+a. Guarantee a higher return than speculation.
+b. Avoid all margin.
+c. Eliminate every possible loss.
+d. Exchange uncertain exposure for a more predictable outcome, usually leaving basis risk.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** A hedge targets a defined risk and may introduce other risks/costs.
+**Answer: d.** A hedge targets a defined risk and may introduce other risks/costs.
 
 </details>
 
@@ -718,15 +718,15 @@ d. Monitoring, limits and residual risk.
 
 **50. [Calculation]** A cash exposure is $100m, a futures contract is $1m and the one-to-one hedge ratio is 1. How many contracts are required for a complete hedge?
 
-a. 10.
-b. 50.
-c. 100.
-d. 1,000.
+a. 1,000.
+b. 100.
+c. 50.
+d. 10.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** `100m/1m = 100`; a short position would normally hedge a long cash exposure.
+**Answer: b.** `100m/1m = 100`; a short position would normally hedge a long cash exposure.
 
 </details>
 
@@ -746,15 +746,15 @@ d. 120.
 
 **52. [Single choice]** A long-term bond hedge should primarily compare:
 
-a. Face value only.
-b. PVBP/DV01 and the conversion factor of the deliverable futures bond.
-c. The issuer’s dividend yield.
-d. Equity beta only.
+a. PVBP/DV01 and the conversion factor of the deliverable futures bond.
+b. The issuer’s dividend yield.
+c. Equity beta only.
+d. Face value only.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Dollar interest-rate sensitivity is the relevant exposure.
+**Answer: a.** Dollar interest-rate sensitivity is the relevant exposure.
 
 </details>
 
@@ -832,15 +832,15 @@ d. Has no basis risk.
 
 **58. [Scenario]** A company has a floating-rate loan and expects rates to rise. A short Eurodollar/short-rate futures hedge aims to:
 
-a. Remove all credit risk from the borrower.
-b. Gain as futures prices fall when rates rise, offsetting higher loan interest.
-c. Increase its floating-rate exposure.
-d. Receive dividends.
+a. Receive dividends.
+b. Remove all credit risk from the borrower.
+c. Gain as futures prices fall when rates rise, offsetting higher loan interest.
+d. Increase its floating-rate exposure.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** The hedge offsets rate sensitivity, subject to correlation and basis.
+**Answer: c.** The hedge offsets rate sensitivity, subject to correlation and basis.
 
 </details>
 
@@ -878,43 +878,43 @@ d. A hedger.
 
 **61. [Single choice]** The buyer of a call option has:
 
-a. No premium obligation.
-b. The obligation to buy.
-c. The right, but not the obligation, to buy at the strike.
-d. The right to sell only.
+a. The right to sell only.
+b. No premium obligation.
+c. The obligation to buy.
+d. The right, but not the obligation, to buy at the strike.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** The buyer pays premium for optionality; the writer has the contingent obligation.
+**Answer: d.** The buyer pays premium for optionality; the writer has the contingent obligation.
 
 </details>
 
 **62. [Single choice]** An American option may be exercised:
 
-a. Only if it is OTM.
-b. Only by the writer.
-c. Only at expiry.
-d. Any time up to expiry, subject to its terms.
+a. Any time up to expiry, subject to its terms.
+b. Only if it is OTM.
+c. Only by the writer.
+d. Only at expiry.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** European exercise is expiry-only.
+**Answer: a.** European exercise is expiry-only.
 
 </details>
 
 **63. [Calculation]** A call has strike $50, underlying $54 and premium $6. Its intrinsic value and time value are:
 
-a. $4 and $2.
-b. $50 and $4.
-c. $54 and $6.
-d. $6 and $0.
+a. $54 and $6.
+b. $6 and $0.
+c. $4 and $2.
+d. $50 and $4.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Call intrinsic = `54−50=$4`; time value = `$6−$4=$2`.
+**Answer: c.** Call intrinsic = `54−50=$4`; time value = `$6−$4=$2`.
 
 </details>
 
@@ -936,85 +936,85 @@ d. Higher dividends.
 
 **65. [Calculation]** A long call has strike $100 and premium $7. What is breakeven at expiry?
 
-a. $100.
-b. $107.
-c. Unlimited.
-d. $93.
+a. Unlimited.
+b. $93.
+c. $100.
+d. $107.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Breakeven = `X + premium = $107`.
+**Answer: d.** Breakeven = `X + premium = $107`.
 
 </details>
 
 **66. [Single choice]** Maximum loss for a long put is normally:
 
-a. Zero only if the stock rises.
-b. Unlimited.
-c. The premium paid.
-d. The strike plus premium.
+a. The premium paid.
+b. The strike plus premium.
+c. Zero only if the stock rises.
+d. Unlimited.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** The put may expire worthless, but the holder’s loss is limited to premium.
+**Answer: a.** The put may expire worthless, but the holder’s loss is limited to premium.
 
 </details>
 
 **67. [Single choice]** A naked short call has:
 
-a. No obligation.
-b. A guaranteed maximum loss equal to premium.
-c. A right to buy the underlying.
-d. Unlimited theoretical loss if the underlying rises sharply.
+a. A guaranteed maximum loss equal to premium.
+b. A right to buy the underlying.
+c. Unlimited theoretical loss if the underlying rises sharply.
+d. No obligation.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** The writer must deliver/satisfy the call if exercised.
+**Answer: c.** The writer must deliver/satisfy the call if exercised.
 
 </details>
 
 **68. [Single choice]** Put-call parity for European options is:
 
-a. `C + PV(X) = P + S`.
-b. `C + P = S − PV(X)`.
-c. `C − PV(X) = P + S`.
-d. `C + S = P − PV(X)`.
+a. `C + P = S − PV(X)`.
+b. `C − PV(X) = P + S`.
+c. `C + S = P − PV(X)`.
+d. `C + PV(X) = P + S`.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Same underlying, strike, expiry, quantity and consistent dividend assumptions are required.
+**Answer: d.** Same underlying, strike, expiry, quantity and consistent dividend assumptions are required.
 
 </details>
 
 **69. [Single choice]** Under parity, a synthetic long stock can be created by:
 
-a. A bond alone.
-b. Long call and short put, with the same strike/expiry.
-c. Long put and short call only.
-d. Two long calls with different strikes.
+a. Long call and short put, with the same strike/expiry.
+b. Long put and short call only.
+c. Two long calls with different strikes.
+d. A bond alone.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Long call − short put plus the parity bond/financing relationship reproduces the stock cash flows.
+**Answer: a.** Long call − short put plus the parity bond/financing relationship reproduces the stock cash flows.
 
 </details>
 
 **70. [Scenario]** A trader buys a call and a put at the same strike and expiry, expecting a large move but no direction. This is a:
 
-a. Bull put spread.
-b. Covered call.
-c. Long straddle.
-d. Short strangle.
+a. Covered call.
+b. Long straddle.
+c. Short strangle.
+d. Bull put spread.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** A straddle is long call and long put at the same strike.
+**Answer: b.** A straddle is long call and long put at the same strike.
 
 </details>
 
@@ -1036,29 +1036,29 @@ d. Vega measures volatility sensitivity.
 
 **72. [Single choice]** Gamma is often largest when an option is:
 
-a. Certain to expire worthless immediately.
-b. A zero-coupon bond.
-c. Deep ITM and years from expiry.
-d. Near ATM and close to expiry.
+a. A zero-coupon bond.
+b. Deep ITM and years from expiry.
+c. Near ATM and close to expiry.
+d. Certain to expire worthless immediately.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** Delta changes rapidly near the strike as expiry approaches.
+**Answer: c.** Delta changes rapidly near the strike as expiry approaches.
 
 </details>
 
 **73. [Single choice]** Vega is generally positive for:
 
-a. Long calls and long puts.
-b. Short calls only.
-c. Long stock only.
-d. Short straddles only.
+a. Short calls only.
+b. Long stock only.
+c. Short straddles only.
+d. Long calls and long puts.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Higher implied volatility generally increases the value of long options.
+**Answer: d.** Higher implied volatility generally increases the value of long options.
 
 </details>
 
@@ -1078,15 +1078,15 @@ d. OTC counterparty risk where applicable.
 
 **75. [Single choice]** A payer swaption generally benefits its buyer when:
 
-a. A commodity is delivered.
-b. Rates rise above the fixed strike.
-c. Rates fall to zero only.
-d. Equity dividends rise.
+a. Rates rise above the fixed strike.
+b. Rates fall to zero only.
+c. Equity dividends rise.
+d. A commodity is delivered.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** The buyer gains the right to enter a pay-fixed/receive-floating swap at the strike.
+**Answer: a.** The buyer gains the right to enter a pay-fixed/receive-floating swap at the strike.
 
 </details>
 
@@ -1108,15 +1108,15 @@ d. Unlimited loss in all cases.
 
 **77. [Single choice]** A bear put spread profits primarily when:
 
-a. The underlying rises without limit.
-b. Interest rates fall only.
-c. The underlying falls.
-d. Volatility is always zero.
+a. Interest rates fall only.
+b. The underlying falls.
+c. Volatility is always zero.
+d. The underlying rises without limit.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** It is a debit bearish structure with defined risk and capped profit.
+**Answer: b.** It is a debit bearish structure with defined risk and capped profit.
 
 </details>
 
@@ -1136,15 +1136,15 @@ d. It is always risk-free.
 
 **79. [Scenario]** An investor owns shares and wants to floor downside but retain upside above the strike. The most direct option hedge is:
 
-a. Sell a naked put.
-b. Buy a short call only.
-c. Sell the shares and buy a bond.
-d. Buy a protective put.
+a. Buy a short call only.
+b. Sell the shares and buy a bond.
+c. Buy a protective put.
+d. Sell a naked put.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** A protective put is long stock plus long put.
+**Answer: c.** A protective put is long stock plus long put.
 
 </details>
 
@@ -1168,57 +1168,57 @@ d. Unlimited upside after the call strike.
 
 **81. [Single choice]** A structured warrant is normally:
 
-a. Issued by a third-party financial institution and linked to an underlying.
-b. A direct share with voting rights.
-c. A bank deposit with guaranteed return.
-d. A futures contract with daily margin only.
+a. A direct share with voting rights.
+b. A bank deposit with guaranteed return.
+c. A futures contract with daily margin only.
+d. Issued by a third-party financial institution and linked to an underlying.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Issuer credit risk is therefore central.
+**Answer: d.** Issuer credit risk is therefore central.
 
 </details>
 
 **82. [Calculation]** A call warrant has `S=$2.40`, `X=$0.80`, price `$0.40`, and conversion ratio `n=1`. What is gearing?
 
-a. 2×.
-b. 6×.
-c. 8×.
-d. 0.67×.
+a. 6×.
+b. 8×.
+c. 0.67×.
+d. 2×.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** `2.40/(0.40×1)=6×`.
+**Answer: a.** `2.40/(0.40×1)=6×`.
 
 </details>
 
 **83. [Calculation]** A call warrant has strike $1.00, price $1.20 and `n=1`. What is conversion price?
 
-a. $1.00.
-b. $1.20.
-c. $2.20.
-d. $0.20.
+a. $1.20.
+b. $2.20.
+c. $0.20.
+d. $1.00.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** `X+nWP = 1+1.20 = $2.20`.
+**Answer: b.** `X+nWP = 1+1.20 = $2.20`.
 
 </details>
 
 **84. [Calculation]** A put warrant has `S=$1.50`, `X=$2.00`, `n=2`. What is intrinsic value per warrant?
 
-a. $0.50.
-b. $1.00.
-c. $2.50.
-d. $0.25.
+a. $1.00.
+b. $2.50.
+c. $0.25.
+d. $0.50.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** `(2.00−1.50)/2 = $0.25`.
+**Answer: c.** `(2.00−1.50)/2 = $0.25`.
 
 </details>
 
@@ -1240,29 +1240,29 @@ d. Conversion ratio, liquidity and issuer credit.
 
 **86. [Single choice]** The maximum loss for a buyer of a warrant, excluding transaction costs and issuer default mechanics, is generally:
 
-a. The amount paid for the warrant.
-b. Unlimited.
-c. The underlying share price plus strike.
-d. The conversion ratio.
+a. Unlimited.
+b. The underlying share price plus strike.
+c. The conversion ratio.
+d. The amount paid for the warrant.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** The warrant may expire worthless.
+**Answer: d.** The warrant may expire worthless.
 
 </details>
 
 **87. [Single choice]** A DMM’s role is primarily to:
 
-a. Set the underlying company’s dividend.
-b. Provide quotes/liquidity subject to exchange/product conditions.
-c. Guarantee an investor’s profit.
-d. Remove issuer risk.
+a. Provide quotes/liquidity subject to exchange/product conditions.
+b. Guarantee an investor’s profit.
+c. Remove issuer risk.
+d. Set the underlying company’s dividend.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Quote obligations can be suspended or limited during disruptions.
+**Answer: a.** Quote obligations can be suspended or limited during disruptions.
 
 </details>
 
@@ -1282,15 +1282,15 @@ d. The investor’s ordinary voting rights.
 
 **89. [Single choice]** A five-day average settlement reference means the investor should not assume:
 
-a. The issuer has credit risk.
-b. A put has downside exposure.
-c. The final payoff uses one expiry-day closing print.
-d. The warrant has any time value.
+a. A put has downside exposure.
+b. The final payoff uses one expiry-day closing print.
+c. The warrant has any time value.
+d. The issuer has credit risk.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** The product’s settlement observation must be read precisely.
+**Answer: b.** The product’s settlement observation must be read precisely.
 
 </details>
 
@@ -1312,29 +1312,29 @@ d. Discount/capped or yield-enhanced warrants.
 
 **91. [Single choice]** A 3× daily long DLC is designed to target approximately:
 
-a. Three times the underlying’s total return over any five-year period.
-b. A fixed 3% coupon.
-c. No loss if the underlying falls.
-d. Three times the underlying’s daily percentage move before fees/adjustments.
+a. A fixed 3% coupon.
+b. No loss if the underlying falls.
+c. Three times the underlying’s daily percentage move before fees/adjustments.
+d. Three times the underlying’s total return over any five-year period.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** Daily reset and compounding make long-horizon results path dependent.
+**Answer: c.** Daily reset and compounding make long-horizon results path dependent.
 
 </details>
 
 **92. [Scenario]** An index rises 10% one day and falls 9.09% the next day, approximately returning to its starting level. A daily 3× long product may:
 
-a. Suffer path-dependent loss because daily returns compound.
-b. Pay a fixed coupon.
-c. Convert into ordinary shares automatically.
-d. Return exactly zero before costs.
+a. Pay a fixed coupon.
+b. Convert into ordinary shares automatically.
+c. Return exactly zero before costs.
+d. Suffer path-dependent loss because daily returns compound.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Daily leverage is not the same as a simple multiple of total-period return.
+**Answer: d.** Daily leverage is not the same as a simple multiple of total-period return.
 
 </details>
 
@@ -1354,15 +1354,15 @@ d. Large losses when the underlying moves against the position.
 
 **94. [Single choice]** If a 5× DLC has an adverse airbag threshold of 10%, the investor should:
 
-a. Assume the product cannot suspend.
-b. Read the term sheet for the trigger, observation level, suspension and reset mechanics.
-c. Treat it as a deposit.
-d. Ignore the underlying’s path.
+a. Read the term sheet for the trigger, observation level, suspension and reset mechanics.
+b. Treat it as a deposit.
+c. Ignore the underlying’s path.
+d. Assume the product cannot suspend.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** The exact terms control; the guide gives illustrative thresholds, not universal rules.
+**Answer: a.** The exact terms control; the guide gives illustrative thresholds, not universal rules.
 
 </details>
 
@@ -1372,29 +1372,29 @@ d. Ignore the underlying’s path.
 
 **95. [Single choice]** For a single up-and-out call, the barrier is normally:
 
-a. Below zero.
-b. Below spot.
-c. Above spot.
-d. Always equal to strike.
+a. Below spot.
+b. Above spot.
+c. Always equal to strike.
+d. Below zero.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** If spot touches/crosses the upper barrier, the call may knock out.
+**Answer: b.** If spot touches/crosses the upper barrier, the call may knock out.
 
 </details>
 
 **96. [Single choice]** A knock-in option becomes active:
 
-a. Immediately when purchased.
-b. Only when the holder sells it.
-c. Only if the issuer defaults.
-d. Only after the defined barrier event occurs.
+a. Only when the holder sells it.
+b. Only if the issuer defaults.
+c. Only after the defined barrier event occurs.
+d. Immediately when purchased.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** Before activation, the option may have no vanilla payoff.
+**Answer: c.** Before activation, the option may have no vanilla payoff.
 
 </details>
 
@@ -1414,15 +1414,15 @@ d. Gaps, volatility, issuer and liquidity.
 
 **98. [Scenario]** An investor buys a down-and-out put and the underlying gaps below the barrier overnight. The main risk is:
 
-a. The option may be knocked out and the premium lost despite the eventual fall.
-b. The investor automatically receives unlimited profit.
-c. The barrier becomes irrelevant.
-d. The put becomes a call.
+a. The investor automatically receives unlimited profit.
+b. The barrier becomes irrelevant.
+c. The put becomes a call.
+d. The option may be knocked out and the premium lost despite the eventual fall.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Barrier knock-out is path-dependent and can occur during a gap.
+**Answer: d.** Barrier knock-out is path-dependent and can occur during a gap.
 
 </details>
 
@@ -1444,15 +1444,15 @@ d. Barrier straddles.
 
 **100. [Single choice]** A one-touch binary generally pays when:
 
-a. The investor pays no premium.
-b. The barrier is touched under the stated monitoring rules.
-c. The underlying finishes exactly at zero.
-d. The investor owns the physical asset.
+a. The barrier is touched under the stated monitoring rules.
+b. The underlying finishes exactly at zero.
+c. The investor owns the physical asset.
+d. The investor pays no premium.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** A no-touch pays under the opposite path condition.
+**Answer: a.** A no-touch pays under the opposite path condition.
 
 </details>
 
@@ -1472,15 +1472,15 @@ d. Dividend and liquidity differences.
 
 **102. [Single choice]** A knock-out warrant differs from a plain warrant mainly because:
 
-a. It is always a deposit.
-b. It has no underlying.
-c. A barrier can terminate it before ordinary expiry.
-d. It cannot be issued by a bank.
+a. It has no underlying.
+b. A barrier can terminate it before ordinary expiry.
+c. It cannot be issued by a bank.
+d. It is always a deposit.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** The barrier creates early-termination risk.
+**Answer: b.** The barrier creates early-termination risk.
 
 </details>
 
@@ -1488,29 +1488,29 @@ d. It cannot be issued by a bank.
 
 **103. [Single choice]** A bull CBBC benefits primarily when the underlying:
 
-a. Falls through the call price.
-b. Stops trading permanently.
-c. Pays no dividend.
-d. Rises.
+a. Stops trading permanently.
+b. Pays no dividend.
+c. Rises.
+d. Falls through the call price.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** A fall to/below the bull call price can cause an MCE.
+**Answer: c.** A fall to/below the bull call price can cause an MCE.
 
 </details>
 
 **104. [Single choice]** For a bear CBBC, an MCE generally occurs when the underlying:
 
-a. Rises to or above the call price.
-b. Falls below the strike only.
-c. Pays a dividend.
-d. Remains unchanged.
+a. Falls below the strike only.
+b. Pays a dividend.
+c. Remains unchanged.
+d. Rises to or above the call price.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** A bear profits from falls but is terminated by an adverse rise.
+**Answer: d.** A bear profits from falls but is terminated by an adverse rise.
 
 </details>
 
@@ -1530,29 +1530,29 @@ d. Category R is a guarantee of positive residual value.
 
 **106. [Calculation]** A bull CBBC has underlying 1,050, strike 1,000, financial cost 10 and conversion ratio 10. Simplified theoretical price is:
 
-a. 4.
-b. 5.
-c. 6.
-d. 10.
+a. 10.
+b. 6.
+c. 5.
+d. 4.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** `[(1,050−1,000)+10]/10 = 6`.
+**Answer: b.** `[(1,050−1,000)+10]/10 = 6`.
 
 </details>
 
 **107. [Calculation]** A CBBC underlying is 1,200, price is $0.60 and conversion ratio is 2,000. Using `underlying/(CBBC price × conversion ratio)`, gearing is:
 
-a. 2,000×.
-b. 1×.
-c. 2×.
-d. 1,000×.
+a. 1×.
+b. 2×.
+c. 1,000×.
+d. 2,000×.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** `1,200/(0.60×2,000)=1×`. The ratio convention must always be confirmed in the term sheet.
+**Answer: a.** `1,200/(0.60×2,000)=1×`. The ratio convention must always be confirmed in the term sheet.
 
 </details>
 
@@ -1590,29 +1590,29 @@ d. Principal-loss, counterparty, leverage and early-exit risks.
 
 **110. [Single choice]** In the guide’s Singapore description, a structured deposit is:
 
-a. An unsecured debenture rather than a deposit.
-b. A direct shareholding.
-c. A bank deposit with a structured/linked return and principal paid in full at maturity, subject to the product/issuer terms.
-d. Always deposit-insured.
+a. A direct shareholding.
+b. A bank deposit with a structured/linked return and principal paid in full at maturity, subject to the product/issuer terms.
+c. Always deposit-insured.
+d. An unsecured debenture rather than a deposit.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** The source specifically cautions that it is not deposit-insured and early withdrawal may lose principal/return.
+**Answer: b.** The source specifically cautions that it is not deposit-insured and early withdrawal may lose principal/return.
 
 </details>
 
 **111. [Scenario]** A client wants a higher USD yield and is willing to receive SGD if USD strengthens beyond a strike. A DCI is suitable only if the client:
 
-a. Believes a high rate eliminates FX risk.
-b. Requires guaranteed USD principal in all outcomes.
-c. Cannot tolerate alternate-currency ownership.
-d. Understands and accepts conversion and currency loss.
+a. Requires guaranteed USD principal in all outcomes.
+b. Cannot tolerate alternate-currency ownership.
+c. Understands and accepts conversion and currency loss.
+d. Believes a high rate eliminates FX risk.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** DCI yield compensates for the short conversion option.
+**Answer: c.** DCI yield compensates for the short conversion option.
 
 </details>
 
@@ -1632,29 +1632,29 @@ d. Accumulator/decumulator mechanics.
 
 **113. [Single choice]** An accumulator investor should be prepared to:
 
-a. Buy the reference stock at the strike even when market price is below it.
-b. Receive unlimited upside without obligations.
-c. Sell the stock only when the bank asks.
-d. Avoid all margin calls.
+a. Receive unlimited upside without obligations.
+b. Sell the stock only when the bank asks.
+c. Avoid all margin calls.
+d. Buy the reference stock at the strike even when market price is below it.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** The discount is compensation for the short-put/purchase obligation.
+**Answer: d.** The discount is compensation for the short-put/purchase obligation.
 
 </details>
 
 **114. [Single choice]** A 1×2 accumulator generally means the investor may buy:
 
-a. Only one share over the entire tenor.
-b. Twice the predefined quantity when the price is below strike, subject to terms.
-c. No shares below strike.
-d. Two different currencies at a fixed rate.
+a. Twice the predefined quantity when the price is below strike, subject to terms.
+b. No shares below strike.
+c. Two different currencies at a fixed rate.
+d. Only one share over the entire tenor.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Gearing magnifies downside quantity.
+**Answer: a.** Gearing magnifies downside quantity.
 
 </details>
 
@@ -1664,15 +1664,15 @@ d. Two different currencies at a fixed rate.
 
 **115. [Single choice]** A structured note is best described as:
 
-a. A guaranteed deposit with no issuer risk.
-b. A futures exchange membership.
-c. Debt with an embedded derivative whose return is linked to an underlying.
-d. Direct ownership of the underlying.
+a. A futures exchange membership.
+b. Debt with an embedded derivative whose return is linked to an underlying.
+c. Direct ownership of the underlying.
+d. A guaranteed deposit with no issuer risk.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** The investor’s claim is normally on the issuer/SPV.
+**Answer: b.** The investor’s claim is normally on the issuer/SPV.
 
 </details>
 
@@ -1692,15 +1692,15 @@ d. Credit references and baskets.
 
 **117. [Single choice]** A note issued through an SPV may expose the investor to:
 
-a. No credit risk because it is off balance sheet.
-b. Only ordinary-share voting risk.
-c. Guaranteed access to underlying assets.
-d. The SPV and possibly swap/issuer/underlying-credit risk described in the documents.
+a. Only ordinary-share voting risk.
+b. Guaranteed access to underlying assets.
+c. The SPV and possibly swap/issuer/underlying-credit risk described in the documents.
+d. No credit risk because it is off balance sheet.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** Off-balance-sheet status does not itself guarantee parent support or asset recourse.
+**Answer: c.** Off-balance-sheet status does not itself guarantee parent support or asset recourse.
 
 </details>
 
@@ -1708,29 +1708,29 @@ d. The SPV and possibly swap/issuer/underlying-credit risk described in the docu
 
 **118. [Calculation]** A RAN pays 6% for 60 of 90 observation days and 1% for the remaining 30 days. Weighted annualised payout is:
 
-a. 4.33%.
-b. 6.00%.
-c. 1.00%.
-d. 3.00%.
+a. 6.00%.
+b. 1.00%.
+c. 3.00%.
+d. 4.33%.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** `6%×60/90 + 1%×30/90 = 4.33%`.
+**Answer: d.** `6%×60/90 + 1%×30/90 = 4.33%`.
 
 </details>
 
 **119. [Single choice]** A callable note creates reinvestment risk because:
 
-a. The note becomes a share automatically.
-b. The issuer may redeem when rates are favourable to the issuer, leaving the investor to reinvest at lower rates.
-c. The investor can never receive principal.
-d. Calls always occur when rates rise.
+a. The issuer may redeem when rates are favourable to the issuer, leaving the investor to reinvest at lower rates.
+b. The investor can never receive principal.
+c. Calls always occur when rates rise.
+d. The note becomes a share automatically.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** The issuer, not the investor, generally controls the call.
+**Answer: a.** The issuer, not the investor, generally controls the call.
 
 </details>
 
@@ -1750,15 +1750,15 @@ d. 14%.
 
 **121. [Single choice]** A bull ELN most closely embeds:
 
-a. A long futures contract only.
-b. A CDS protection purchase.
-c. A short put on the equity.
-d. A long put with unlimited protection.
+a. A CDS protection purchase.
+b. A short put on the equity.
+c. A long put with unlimited protection.
+d. A long futures contract only.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** Below strike, the investor may receive the falling shares/cash.
+**Answer: b.** Below strike, the investor may receive the falling shares/cash.
 
 </details>
 
@@ -1780,15 +1780,15 @@ d. Loss/reduced principal after a defined event.
 
 **123. [Single choice]** An ETN is generally:
 
-a. A segregated pool that always owns all constituents.
-b. A deposit with deposit insurance.
-c. An ordinary share with voting rights.
-d. Unsecured listed debt tracking an index.
+a. A deposit with deposit insurance.
+b. An ordinary share with voting rights.
+c. Unsecured listed debt tracking an index.
+d. A segregated pool that always owns all constituents.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** Issuer credit risk is central.
+**Answer: c.** Issuer credit risk is central.
 
 </details>
 
@@ -1808,15 +1808,15 @@ d. Risk/return, currency and investor objective.
 
 **125. [Single choice]** A PHS should prominently explain:
 
-a. Key features, suitability, key risks and potential loss of principal.
-b. Only the issuer’s marketing slogan.
-c. Only historical performance.
-d. No definitions or contact details.
+a. Only the issuer’s marketing slogan.
+b. Only historical performance.
+c. No definitions or contact details.
+d. Key features, suitability, key risks and potential loss of principal.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** The PHS exists to make the product understandable.
+**Answer: d.** The PHS exists to make the product understandable.
 
 </details>
 
@@ -1824,15 +1824,15 @@ d. No definitions or contact details.
 
 **126. [Single choice]** A structured fund is generally:
 
-a. A single ordinary share.
-b. A CIS combining assets and/or derivatives to produce a targeted risk-return outcome.
-c. Always a direct bank deposit.
-d. Unregulated by any CIS framework.
+a. A CIS combining assets and/or derivatives to produce a targeted risk-return outcome.
+b. Always a direct bank deposit.
+c. Unregulated by any CIS framework.
+d. A single ordinary share.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Governance, custody, NAV and disclosure remain important.
+**Answer: a.** Governance, custody, NAV and disclosure remain important.
 
 </details>
 
@@ -1852,29 +1852,29 @@ d. Underlying, share class and distribution terms.
 
 **128. [Calculation]** A CPPI fund is worth $100, floor $85, crash size 20%. Risky allocation is:
 
-a. $15.
-b. $25.
-c. $75.
-d. $85.
+a. $85.
+b. $75.
+c. $25.
+d. $15.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** Multiplier = 5; cushion = $15; risky = `5×15=$75`.
+**Answer: b.** Multiplier = 5; cushion = $15; risky = `5×15=$75`.
 
 </details>
 
 **129. [Scenario]** In a prolonged range-bound market, CPPI may:
 
-a. Guarantee full participation in every recovery.
-b. Remove floor/gap risk.
-c. Buy risky assets after rises and sell after falls.
-d. Always buy low and sell high.
+a. Remove floor/gap risk.
+b. Buy risky assets after rises and sell after falls.
+c. Always buy low and sell high.
+d. Guarantee full participation in every recovery.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** Rebalancing can create whipsaw and cash-lock risk.
+**Answer: b.** Rebalancing can create whipsaw and cash-lock risk.
 
 </details>
 
@@ -1898,15 +1898,15 @@ d. Market, leverage/reset and closure risk.
 
 **131. [Single choice]** A CFD investor normally:
 
-a. Receives a fixed deposit rate.
-b. Cannot take a short position.
-c. Owns the underlying share and receives voting rights.
-d. Gains/loses the cash difference between opening and closing values without physical ownership.
+a. Cannot take a short position.
+b. Owns the underlying share and receives voting rights.
+c. Gains/loses the cash difference between opening and closing values without physical ownership.
+d. Receives a fixed deposit rate.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** Dividend/corporate-action adjustments may apply, but ownership and voting rights do not.
+**Answer: c.** Dividend/corporate-action adjustments may apply, but ownership and voting rights do not.
 
 </details>
 
@@ -1926,15 +1926,15 @@ d. Financing, rollover and corporate-action adjustments.
 
 **133. [Single choice]** The source identifies which CFD model as predominant in Singapore?
 
-a. Direct market access (DMA).
-b. Physical delivery only.
-c. An unlisted mutual fund.
-d. A gold-storage model.
+a. Physical delivery only.
+b. An unlisted mutual fund.
+c. A gold-storage model.
+d. Direct market access (DMA).
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Market-maker and exchange-traded models also exist.
+**Answer: d.** Market-maker and exchange-traded models also exist.
 
 </details>
 
@@ -1956,71 +1956,71 @@ d. RDS acknowledgement and client liability for shortfall.
 
 **135. [Single choice]** A market order seeks:
 
-a. A guaranteed price chosen by the investor.
-b. The best available bid/ask at execution.
-c. A price only after expiry.
-d. A physical share certificate.
+a. The best available bid/ask at execution.
+b. A price only after expiry.
+c. A physical share certificate.
+d. A guaranteed price chosen by the investor.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Price can move before execution.
+**Answer: a.** Price can move before execution.
 
 </details>
 
 **136. [Single choice]** A limit buy at $10.00 when ask is $10.02 will normally:
 
-a. Become a short sale.
-b. Execute at $10.02 immediately.
-c. Queue at $10.00 or lower.
-d. Trigger a stop at $9.50.
+a. Execute at $10.02 immediately.
+b. Queue at $10.00 or lower.
+c. Trigger a stop at $9.50.
+d. Become a short sale.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** The price condition controls execution.
+**Answer: b.** The price condition controls execution.
 
 </details>
 
 **137. [Scenario]** A long CFD stop-loss is set at $9.50, but the market gaps from $9.60 to $9.30. The investor should understand that:
 
-a. The stop guarantees $9.50.
-b. The provider must pay the gap.
-c. The position becomes a long option.
-d. Execution may occur worse than $9.50 unless a guaranteed stop applies.
+a. The provider must pay the gap.
+b. The position becomes a long option.
+c. Execution may occur worse than $9.50 unless a guaranteed stop applies.
+d. The stop guarantees $9.50.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** Stop orders are vulnerable to gaps and slippage.
+**Answer: c.** Stop orders are vulnerable to gaps and slippage.
 
 </details>
 
 **138. [Calculation]** An investor buys 10,000 CFDs at $2.00 and closes at $2.20. Commission is 0.4%, GST on commission 8%, financing 5% p.a. for 10 days. The source’s approximate net profit is:
 
-a. $1,790.78.
-b. $209.22.
-c. $86.40.
-d. $2,000.00.
+a. $209.22.
+b. $86.40.
+c. $2,000.00.
+d. $1,790.78.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Gross gain $2,000 less buy/sell costs $181.44 and financing $27.78 = $1,790.78.
+**Answer: d.** Gross gain $2,000 less buy/sell costs $181.44 and financing $27.78 = $1,790.78.
 
 </details>
 
-**139. [Calculation]** A short CFD sells 10,000 at $3.30 and covers at $3.10. Under the source’s 20% margin, 0.4% commission, 8% GST and five-day 6% financing example, ROI on margin is closest to:
+**139. [Calculation]** A trader shorts 10,000 CFDs at $3.30 and buys them back at $3.10, posting 20% margin. Commission is 0.4%, GST 8% and financing 6% p.a. over five days. The return on the margin posted is closest to:
 
-a. 5.00%.
-b. 25.70%.
-c. 100%.
-d. −27.56%.
+a. 25.70%.
+b. 100%.
+c. −27.56%.
+d. 5.00%.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Net profit ≈$1,696.02 divided by $6,600 margin ≈25.70%.
+**Answer: a.** Net profit ≈$1,696.02 divided by $6,600 margin ≈25.70%.
 
 </details>
 
@@ -2042,29 +2042,29 @@ d. Only Singapore-listed common shares.
 
 **141. [Single choice]** Dividend-capture CFD traders generally seek shares with:
 
-a. Guaranteed price appreciation.
-b. Only a stock split.
-c. Strong earnings and high payout potential.
-d. No dividends and no liquidity.
+a. Only a stock split.
+b. Strong earnings and high payout potential.
+c. No dividends and no liquidity.
+d. Guaranteed price appreciation.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** The price may not fall by the full dividend, but the trade remains risky and cost-sensitive.
+**Answer: b.** The price may not fall by the full dividend, but the trade remains risky and cost-sensitive.
 
 </details>
 
 **142. [Scenario]** A pairs trade is “market neutral” because:
 
-a. It has no commissions.
-b. Both legs are always long.
-c. It is guaranteed profitable.
-d. Long and short related positions aim to offset broad market direction.
+a. Both legs are always long.
+b. It is guaranteed profitable.
+c. Long and short related positions aim to offset broad market direction.
+d. It has no commissions.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** Correlation can break and both legs can lose.
+**Answer: c.** Correlation can break and both legs can lose.
 
 </details>
 
@@ -2084,15 +2084,15 @@ d. Deal risk in merger arbitrage.
 
 **144. [Single choice]** Compared with equity futures, CFDs generally:
 
-a. Have provider/OTC counterparty risk, can be rolled and explicitly charge financing.
-b. Have fixed exchange expiry and no financing.
-c. Receive no dividend adjustments.
-d. Cannot be short.
+a. Have fixed exchange expiry and no financing.
+b. Receive no dividend adjustments.
+c. Cannot be short.
+d. Have provider/OTC counterparty risk, can be rolled and explicitly charge financing.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Equity futures are exchange-traded, fixed maturity, and financing is embedded in pricing.
+**Answer: d.** Equity futures are exchange-traded, fixed maturity, and financing is embedded in pricing.
 
 </details>
 
@@ -2116,15 +2116,15 @@ d. Guaranteed loss limited to initial margin.
 
 **146. [Single choice]** Open interest helps assess futures:
 
-a. Deposit-insurance coverage.
-b. Liquidity and the number of contracts still open.
-c. The issuer’s dividend policy.
-d. The option’s theta only.
+a. Liquidity and the number of contracts still open.
+b. The issuer’s dividend policy.
+c. The option’s theta only.
+d. Deposit-insurance coverage.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Volume and open interest are useful liquidity indicators.
+**Answer: a.** Volume and open interest are useful liquidity indicators.
 
 </details>
 
@@ -2144,15 +2144,15 @@ d. Have unlimited losses as ordinary long-option holders.
 
 **148. [Single choice]** Naked option writers are exposed to:
 
-a. No exercise risk.
-b. Guaranteed profit.
-c. Potentially unlimited short-call loss and large short-put loss.
-d. Only the premium paid.
+a. Guaranteed profit.
+b. Potentially unlimited short-call loss and large short-put loss.
+c. Only the premium paid.
+d. No exercise risk.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** American exercise can also change timing of the obligation.
+**Answer: b.** American exercise can also change timing of the obligation.
 
 </details>
 
@@ -2172,15 +2172,15 @@ d. Sovereign/macroeconomic conditions.
 
 **150. [Single choice]** Why is an OTC currency option especially sensitive to counterparty risk?
 
-a. It has no notional value.
-b. FX markets never move.
-c. It is always cleared by a CCP.
-d. The contract may require delivery/settlement of large currency notional amounts.
+a. FX markets never move.
+b. It is always cleared by a CCP.
+c. The contract may require delivery/settlement of large currency notional amounts.
+d. It has no notional value.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** Large notional and 24-hour market movement increase monitoring requirements.
+**Answer: c.** Large notional and 24-hour market movement increase monitoring requirements.
 
 </details>
 
@@ -2216,29 +2216,29 @@ d. Volatility, correlation, FX, legal and transactional risk.
 
 **153. [Single choice]** In a CPPI structure that reaches the floor after a sharp fall, the fund may:
 
-a. Move entirely to the risk-free asset and miss later risky-asset recovery.
-b. Automatically buy the risky asset at the low.
-c. Guarantee unlimited upside.
-d. Eliminate all issuer risk.
+a. Automatically buy the risky asset at the low.
+b. Guarantee unlimited upside.
+c. Eliminate all issuer risk.
+d. Move entirely to the risk-free asset and miss later risky-asset recovery.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** This is the cash-lock/gap-to-floor effect.
+**Answer: d.** This is the cash-lock/gap-to-floor effect.
 
 </details>
 
 **154. [Single choice]** A structured note with a swap between issuer and another institution may expose the investor to:
 
-a. Voting-rights risk.
-b. Both issuer and swap-counterparty credit, depending on the documents.
-c. No credit risk.
-d. Only the investor’s own credit.
+a. Both issuer and swap-counterparty credit, depending on the documents.
+b. No credit risk.
+c. Only the investor’s own credit.
+d. Voting-rights risk.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Determine who bears the swap counterparty risk.
+**Answer: a.** Determine who bears the swap counterparty risk.
 
 </details>
 
@@ -2258,57 +2258,57 @@ d. Obligation acceleration/default and repudiation/moratorium.
 
 **156. [Single choice]** Early termination risk means:
 
-a. The investor receives an extra coupon for exiting.
-b. Only the underlying equity is affected.
-c. Selling before maturity may incur bond discount and derivative unwinding/break costs.
-d. The product always pays full principal immediately.
+a. Only the underlying equity is affected.
+b. Selling before maturity may incur bond discount and derivative unwinding/break costs.
+c. The product always pays full principal immediately.
+d. The investor receives an extra coupon for exiting.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** Principal preservation commonly applies only at maturity.
+**Answer: b.** Principal preservation commonly applies only at maturity.
 
 </details>
 
 **157. [Single choice]** Reinvestment risk is greatest when:
 
-a. A zero-coupon bond is held to maturity with no interim cash flows.
-b. Rates rise and all coupons are locked at a higher rate.
-c. There is no callable feature.
-d. Coupons/principal are returned and rates have fallen.
+a. Rates rise and all coupons are locked at a higher rate.
+b. There is no callable feature.
+c. Coupons/principal are returned and rates have fallen.
+d. A zero-coupon bond is held to maturity with no interim cash flows.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** The returned cash may earn less than the original YTM.
+**Answer: c.** The returned cash may earn less than the original YTM.
 
 </details>
 
 **158. [Scenario]** A worst-of credit basket contains highly correlated banks. One bank defaults during a systemic shock. The main extra risk is:
 
-a. Correlation/default clustering.
-b. Guaranteed diversification.
-c. Zero liquidity risk.
-d. Only a dividend adjustment.
+a. Guaranteed diversification.
+b. Zero liquidity risk.
+c. Only a dividend adjustment.
+d. Correlation/default clustering.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** High correlation can make several names deteriorate together.
+**Answer: d.** High correlation can make several names deteriorate together.
 
 </details>
 
 **159. [Single choice]** Legal risk is relevant because:
 
-a. A PHS replaces all legal documents.
-b. A note holder may own a claim on the issuer, not the underlying assets, and creditor priority matters.
-c. Every note holder automatically owns the collateral.
-d. Contract wording never affects outcome.
+a. A note holder may own a claim on the issuer, not the underlying assets, and creditor priority matters.
+b. Every note holder automatically owns the collateral.
+c. Contract wording never affects outcome.
+d. A PHS replaces all legal documents.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Recourse and priority are document-dependent.
+**Answer: a.** Recourse and priority are document-dependent.
 
 </details>
 
@@ -2330,43 +2330,43 @@ d. No limits because futures are exchange traded.
 
 **161. [Calculation]** A bond has modified duration 2. Yield rises 100 bp. Approximate percentage price change is:
 
-a. 0%.
-b. +2%.
-c. −2%.
-d. −200%.
+a. +2%.
+b. −2%.
+c. −200%.
+d. 0%.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** `ΔP/P≈−D×ΔY = −2×1% = −2%`.
+**Answer: b.** `ΔP/P≈−D×ΔY = −2×1% = −2%`.
 
 </details>
 
 **162. [Calculation]** Bond price is $980 and PVBP is $1. Yield rises 5 bp. New approximate price is:
 
-a. $980.
-b. $985.
-c. $930.
-d. $975.
+a. $985.
+b. $930.
+c. $975.
+d. $980.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** Price falls `5×$1=$5`.
+**Answer: c.** Price falls `5×$1=$5`.
 
 </details>
 
 **163. [Single choice]** A 1-day 95% VaR of SGD1m means:
 
-a. There is model-estimated 5% probability of losing more than SGD1m over one day.
-b. The maximum possible loss is SGD1m.
-c. The portfolio earns SGD1m every day.
-d. The probability of any loss is 95%.
+a. The maximum possible loss is SGD1m.
+b. The portfolio earns SGD1m every day.
+c. The probability of any loss is 95%.
+d. There is model-estimated 5% probability of losing more than SGD1m over one day.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** VaR is a threshold estimate, not a guarantee or a complete stress test.
+**Answer: d.** VaR is a threshold estimate, not a guarantee or a complete stress test.
 
 </details>
 
@@ -2386,15 +2386,15 @@ d. Maturity concentration, book size, premium and intraday exposure.
 
 **165. [Single choice]** A CSA primarily helps manage:
 
-a. A fund’s dividend.
-b. Collateral terms for OTC counterparty exposure.
-c. An ordinary stock split.
-d. Exchange index construction.
+a. Collateral terms for OTC counterparty exposure.
+b. An ordinary stock split.
+c. Exchange index construction.
+d. A fund’s dividend.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Settlement/confirmation controls remain necessary.
+**Answer: a.** Settlement/confirmation controls remain necessary.
 
 </details>
 
@@ -2418,15 +2418,15 @@ d. USD1,330,000.
 
 **167. [Scenario]** A client cannot accept receiving another currency. The best response is:
 
-a. Hide the conversion clause.
-b. Treat conversion as a free benefit.
-c. Explain that a DCI may be unsuitable because conversion is part of the payoff.
-d. Recommend it because the headline yield is high.
+a. Treat conversion as a free benefit.
+b. Explain that a DCI may be unsuitable because conversion is part of the payoff.
+c. Recommend it because the headline yield is high.
+d. Hide the conversion clause.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** Suitability depends on the client’s willingness and ability to own the alternate currency.
+**Answer: b.** Suitability depends on the client’s willingness and ability to own the alternate currency.
 
 </details>
 
@@ -2448,15 +2448,15 @@ d. Current research/market information and profit-taking plan.
 
 **169. [Single choice]** If Brian expects a sharp fall and volatility rise, which is generally directionally consistent?
 
-a. Short a volatility ETF.
-b. Buy a short-term bullish call only.
-c. Buy a range-bound short strangle.
-d. Buy an index put and/or long volatility ETF, subject to risks.
+a. Buy a short-term bullish call only.
+b. Buy a range-bound short strangle.
+c. Buy an index put and/or long volatility ETF, subject to risks.
+d. Short a volatility ETF.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** Timing, theta, contango and premium risk must still be explained.
+**Answer: c.** Timing, theta, contango and premium risk must still be explained.
 
 </details>
 
@@ -2478,15 +2478,15 @@ d. Buying an ELN to protect against a fall.
 
 **171. [Single choice]** Why is short MSCI Singapore futures an imperfect hedge for William?
 
-a. His three stocks form only part of the index and their correlation is not one.
-b. Futures cannot be shorted.
-c. Futures have no MTM.
-d. The portfolio has no equity exposure.
+a. Futures cannot be shorted.
+b. Futures have no MTM.
+c. The portfolio has no equity exposure.
+d. His three stocks form only part of the index and their correlation is not one.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Basis and composition risk remain.
+**Answer: d.** Basis and composition risk remain.
 
 </details>
 
@@ -2494,29 +2494,29 @@ d. The portfolio has no equity exposure.
 
 **172. [Calculation]** An ELN costs SGD975,000 and converts into 80,000 shares. The break-even share price is:
 
-a. SGD10.00.
-b. SGD12.19.
-c. SGD12.50.
-d. SGD13.30.
+a. SGD12.19.
+b. SGD12.50.
+c. SGD13.30.
+d. SGD10.00.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** `975,000/80,000 = 12.1875`, approximately SGD12.19.
+**Answer: a.** `975,000/80,000 = 12.1875`, approximately SGD12.19.
 
 </details>
 
 **173. [Scenario]** If the shares finish at SGD12.00, below the strike, the investor should understand that:
 
-a. The note becomes a deposit-insured product.
-b. The headline 10.66% yield guarantees profit.
-c. The share value is SGD960,000, below the SGD975,000 purchase price before other costs.
-d. The investor automatically receives SGD1m cash.
+a. The headline 10.66% yield guarantees profit.
+b. The share value is SGD960,000, below the SGD975,000 purchase price before other costs.
+c. The investor automatically receives SGD1m cash.
+d. The note becomes a deposit-insured product.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** A short-put-like ELN can lose principal.
+**Answer: b.** A short-put-like ELN can lose principal.
 
 </details>
 
@@ -2524,15 +2524,15 @@ d. The investor automatically receives SGD1m cash.
 
 **174. [Calculation]** A range accrual pays 6% inside for two months and 1% outside for one month of a three-month period. Weighted annualised result is closest to:
 
-a. 6.00%.
-b. 1.00%.
-c. 2.67%.
-d. 4.33%.
+a. 1.00%.
+b. 2.67%.
+c. 4.33%.
+d. 6.00%.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** `6×2/3 + 1×1/3 = 4.33%`.
+**Answer: c.** `6×2/3 + 1×1/3 = 4.33%`.
 
 </details>
 
@@ -2554,15 +2554,15 @@ d. Increase maturity, subject to the product economics.
 
 **176. [Calculation]** An accumulator delivers 10,000 shares each day and knocks out on day 13, excluding the knock-out day. Shares accumulated are:
 
-a. 10,000.
-b. 120,000.
-c. 130,000.
-d. 250,000.
+a. 250,000.
+b. 130,000.
+c. 120,000.
+d. 10,000.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Days 1–12 × 10,000 = 120,000.
+**Answer: c.** Days 1–12 × 10,000 = 120,000.
 
 </details>
 
@@ -2584,15 +2584,15 @@ d. Larger quantity under 1×2 gearing.
 
 **178. [Single choice]** Brandon expects a large gold move but is uncertain of direction. The most direct strategy is:
 
-a. Long straddle.
-b. Short straddle.
-c. Short put only.
-d. Covered call only.
+a. Short straddle.
+b. Short put only.
+c. Covered call only.
+d. Long straddle.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Long call plus long put benefits from a sufficiently large move after premiums.
+**Answer: d.** Long call plus long put benefits from a sufficiently large move after premiums.
 
 </details>
 
@@ -2614,29 +2614,29 @@ d. Two bullish spreads only.
 
 **180. [Single choice]** A CMS differs from a vanilla IRS because the floating portion resets against:
 
-a. A fixed bond price with no reset.
-b. A constant-maturity long-term rate.
-c. A company’s dividend.
-d. The spot equity price only.
+a. A constant-maturity long-term rate.
+b. A company’s dividend.
+c. The spot equity price only.
+d. A fixed bond price with no reset.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** CMS expresses views on the yield-curve shape.
+**Answer: a.** CMS expresses views on the yield-curve shape.
 
 </details>
 
 **181. [Scenario]** Tracy expects short rates to rise faster than long rates and the curve to flatten. The source’s strategy is:
 
-a. Buy a gold straddle.
-b. Sell all fixed income.
-c. Pay the long-end rate and receive the short-end rate.
-d. Pay the short-end rate and receive the long-end rate.
+a. Sell all fixed income.
+b. Pay the long-end rate and receive the short-end rate.
+c. Pay the short-end rate and receive the long-end rate.
+d. Buy a gold straddle.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** The trade targets the expected relative movement of the two ends, subject to swap conventions.
+**Answer: b.** The trade targets the expected relative movement of the two ends, subject to swap conventions.
 
 </details>
 
@@ -2658,15 +2658,15 @@ d. Some accumulators and structured notes.
 
 **183. [Single choice]** The first question to ask about any derivative payoff is:
 
-a. Is the coupon headline high?
-b. Is it listed in a brochure?
-c. What is the marketing name?
-d. What is the underlying and what position/exposure does the investor have?
+a. Is it listed in a brochure?
+b. What is the marketing name?
+c. What is the underlying and what position/exposure does the investor have?
+d. Is the coupon headline high?
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** Underlying, direction and trigger determine the risk map.
+**Answer: c.** Underlying, direction and trigger determine the risk map.
 
 </details>
 
@@ -2686,15 +2686,15 @@ d. Selling a receiver/payer swaption in a structured product.
 
 **185. [Single choice]** Which statement is safest for exam calculations?
 
-a. Identify the day-count, notional, multiplier, tick, conversion ratio and settlement convention first.
-b. Use 365 days for every product.
-c. Round before calculating the payoff.
-d. Ignore the contract multiplier.
+a. Use 365 days for every product.
+b. Round before calculating the payoff.
+c. Ignore the contract multiplier.
+d. Identify the day-count, notional, multiplier, tick, conversion ratio and settlement convention first.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** The source uses 365 days for Singapore Government Securities and 360 days for other products unless stated otherwise.
+**Answer: d.** The source uses 365 days for Singapore Government Securities and 360 days for other products unless stated otherwise.
 
 </details>
 
@@ -2717,71 +2717,71 @@ d. Fees, leverage, margin and currency.
 
 **187. [Single choice]** Company warrants differ from structured warrants in that company warrants are:
 
-a. Always longer than six months.
-b. Call only, while structured warrants may be calls or puts.
-c. Settled only in cash.
-d. Issued by third parties with no dilution.
+a. Call only, while structured warrants may be calls or puts.
+b. Settled only in cash.
+c. Issued by third parties with no dilution.
+d. Always longer than six months.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Structured warrants may be calls or puts and are usually under six months; company warrants are call only.
+**Answer: a.** Structured warrants may be calls or puts and are usually under six months; company warrants are call only.
 
 </details>
 
 **188. [Calculation]** A warrant has share price SGD 18.16, warrant price SGD 0.325 and conversion ratio 8:1. Gearing is:
 
-a. 55.9×.
-b. 5.58×.
-c. 6.98×.
-d. 8.00×.
+a. 5.58×.
+b. 6.98×.
+c. 8.00×.
+d. 55.9×.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** `18.16 / (0.325 × 8) = 6.98×`.
+**Answer: b.** `18.16 / (0.325 × 8) = 6.98×`.
 
 </details>
 
 **189. [Single choice]** DBS shares rise 0.22% while the DBS call warrant falls 6.15% over the same period. The most likely explanation is:
 
-a. Gearing was below 1×.
-b. The conversion ratio was removed.
-c. The issuer defaulted.
-d. Time decay outweighed the small favourable move.
+a. The conversion ratio was removed.
+b. The issuer defaulted.
+c. Time decay outweighed the small favourable move.
+d. Gearing was below 1×.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** A short-dated warrant loses time value, which can exceed the gain from a small favourable underlying move.
+**Answer: c.** A short-dated warrant loses time value, which can exceed the gain from a small favourable underlying move.
 
 </details>
 
 **190. [Calculation]** A new buyer pays SGD 0.665 for a call warrant with strike SGD 16.50 and conversion ratio 8:1. The breakeven share price is:
 
-a. SGD 21.82.
-b. SGD 22.19.
-c. SGD 16.50.
-d. SGD 17.17.
+a. SGD 22.19.
+b. SGD 16.50.
+c. SGD 17.17.
+d. SGD 21.82.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** `0.665 × 8 + 16.50 = 21.82`.
+**Answer: d.** `0.665 × 8 + 16.50 = 21.82`.
 
 </details>
 
 **191. [Single choice]** For SGX structured warrants, exercise style and settlement are normally:
 
-a. American style, physical delivery.
-b. European style, cash settled.
-c. Bermudan style, physical delivery.
-d. American style, cash settled.
+a. European style, cash settled.
+b. Bermudan style, physical delivery.
+c. American style, cash settled.
+d. American style, physical delivery.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** SGX-listed structured warrants are European style and cash settled.
+**Answer: a.** SGX-listed structured warrants are European style and cash settled.
 
 </details>
 
@@ -2801,57 +2801,57 @@ d. Higher interest rates raise put warrant prices.
 
 **193. [Single choice]** An issuer that commits to make a market in its structured warrants is exempt from:
 
-a. The requirement to appoint a warrant agent.
-b. All disclosure obligations.
-c. Minimum placement and holder-size requirements, with a SGD 2 million minimum issue size.
-d. Issuer credit risk.
+a. All disclosure obligations.
+b. Minimum placement and holder-size requirements, with a SGD 2 million minimum issue size.
+c. Issuer credit risk.
+d. The requirement to appoint a warrant agent.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** The DMM commitment substitutes for placement and holder-spread requirements, and the minimum issue size is SGD 2 million, reduced from SGD 5 million.
+**Answer: b.** The DMM commitment substitutes for placement and holder-spread requirements, and the minimum issue size is SGD 2 million, reduced from SGD 5 million.
 
 </details>
 
 **194. [Single choice]** SGX Asian-style warrant expiry means settlement is based on:
 
-a. The highest price during the warrant's life.
-b. The exercise price.
-c. The single closing price on the expiry date.
-d. The average of official closing prices over the five market days before expiry.
+a. The exercise price.
+b. The single closing price on the expiry date.
+c. The average of official closing prices over the five market days before expiry.
+d. The highest price during the warrant's life.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** The last trading day is at least three business days before expiry, and the settlement price is a five-day average.
+**Answer: c.** The last trading day is at least three business days before expiry, and the settlement price is a five-day average.
 
 </details>
 
 **195. [Calculation]** A 5× long DLC's underlying falls 10% and the DLC falls 50%. After the 30-minute airbag suspension the underlying falls a further 5%. The DLC price, from SGD 1.00 at the trigger, is approximately:
 
-a. SGD 0.75.
-b. SGD 0.95.
-c. Zero.
-d. SGD 0.50.
+a. SGD 0.95.
+b. Zero.
+c. SGD 0.50.
+d. SGD 0.75.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** A further 5% underlying move is 25% of SGD 1.00, so the DLC resets to SGD 0.75. Without the airbag it would be SGD 0.50.
+**Answer: d.** A further 5% underlying move is 25% of SGD 1.00, so the DLC resets to SGD 0.75. Without the airbag it would be SGD 0.50.
 
 </details>
 
 **196. [Calculation]** An index rises 2% a day for five days. The compounded index gain is 10.41%. A 3× long DLC gains approximately:
 
-a. 20.00%.
-b. 33.82%.
-c. 61.05%.
-d. 10.41%.
+a. 33.82%.
+b. 61.05%.
+c. 10.41%.
+d. 20.00%.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Daily resets compound: 3× produces 33.82%, while a 5× long produces 61.05%.
+**Answer: a.** Daily resets compound: 3× produces 33.82%, while a 5× long produces 61.05%.
 
 </details>
 
@@ -2901,15 +2901,15 @@ d. The option is extinguished on a touch.
 
 **200. [Single choice]** A barrier capital preservation certificate preserves:
 
-a. Only the coupon.
-b. The purchase price at all times.
-c. The nominal amount at maturity only.
-d. The nominal amount throughout the product's life.
+a. The purchase price at all times.
+b. The nominal amount at maturity only.
+c. The nominal amount throughout the product's life.
+d. Only the coupon.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** Capital preservation refers to nominal at maturity, not to the purchase price, and value may fall below it during the life.
+**Answer: b.** Capital preservation refers to nominal at maturity, not to the purchase price, and value may fall below it during the life.
 
 </details>
 
@@ -2943,15 +2943,15 @@ d. Category R guarantees a positive residual.
 
 **203. [Scenario]** An R-bull CBBC bought at SGD 0.30 triggers an MCE and settles at a residual of SGD 0.05. The investor's loss is:
 
-a. Zero, because residual value is paid.
-b. About 17%.
-c. About 50%.
-d. About 83%.
+a. About 17%.
+b. About 50%.
+c. About 83%.
+d. Zero, because residual value is paid.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** `(0.05 − 0.30) / 0.30 = −83.33%`, even though the underlying fell only about 12.5%.
+**Answer: c.** `(0.05 − 0.30) / 0.30 = −83.33%`, even though the underlying fell only about 12.5%.
 
 </details>
 
@@ -2973,57 +2973,57 @@ d. The headline yield alone.
 
 **205. [Calculation]** A structured note has a call premium of USD 24 and the discount sum available from the zero-coupon bond is USD 21.65. The participation rate is:
 
-a. 90.21%.
-b. 100.00%.
-c. 110.85%.
-d. 119.58%.
+a. 100.00%.
+b. 110.85%.
+c. 119.58%.
+d. 90.21%.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** `21.65 / 24 = 0.9021 = 90.21%`. A bond with a 28.70 discount sum would give 119.58%.
+**Answer: d.** `21.65 / 24 = 0.9021 = 90.21%`. A bond with a 28.70 discount sum would give 119.58%.
 
 </details>
 
 **206. [Single choice]** In a standard dual currency investment, the investor is economically:
 
-a. Long a call on the reference currency and short a deposit.
-b. Short a call on the reference currency and long a money market deposit.
-c. Long a put and long a bond.
-d. Holding a physical currency basket.
+a. Short a call on the reference currency and long a money market deposit.
+b. Long a put and long a bond.
+c. Holding a physical currency basket.
+d. Long a call on the reference currency and short a deposit.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** The premium on the sold option funds the yield above the money-market rate.
+**Answer: a.** The premium on the sold option funds the yield above the money-market rate.
 
 </details>
 
 **207. [Calculation]** A range accrual pays 7.25% for 88 of 90 days inside the range and 2.00% outside. The payout is approximately:
 
-a. 2.00%.
-b. 5.15%.
-c. 7.13%.
-d. 7.25%.
+a. 5.15%.
+b. 7.13%.
+c. 7.25%.
+d. 2.00%.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** `(88/90 × 7.25%) + (2/90 × 2.00%) = 7.13%`.
+**Answer: b.** `(88/90 × 7.25%) + (2/90 × 2.00%) = 7.13%`.
 
 </details>
 
 **208. [Single choice]** In a 1×2 accumulator, once the price falls below the strike the investor must buy:
 
-a. Nothing until maturity.
-b. Half the agreed quantity.
-c. The same quantity as above the strike.
-d. Twice the agreed quantity, subject to the terms.
+a. Half the agreed quantity.
+b. The same quantity as above the strike.
+c. Twice the agreed quantity, subject to the terms.
+d. Nothing until maturity.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** The gearing magnifies the downside quantity, which is why the discounted strike is compensation for an obligation.
+**Answer: c.** The gearing magnifies the downside quantity, which is why the discounted strike is compensation for an obligation.
 
 </details>
 
@@ -3031,71 +3031,71 @@ d. Twice the agreed quantity, subject to the terms.
 
 **209. [Calculation]** A range accrual note at 5% inside a SOR range accrues on 110 of 182 days. The half-year payout is approximately:
 
-a. 3.02%.
-b. 5.00%.
-c. 5.50%.
-d. 1.50%.
+a. 5.00%.
+b. 5.50%.
+c. 1.50%.
+d. 3.02%.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** `5% × 110/182 = 3.02%`.
+**Answer: d.** `5% × 110/182 = 3.02%`.
 
 </details>
 
 **210. [Calculation]** An Apple ELN has strike USD 174.52 and an investment of USD 1,000,000. If conversion occurs, the investor receives approximately:
 
-a. 1,745 shares.
-b. 5,730 shares.
-c. 5,000 shares.
-d. 6,000 shares.
+a. 5,730 shares.
+b. 5,000 shares.
+c. 6,000 shares.
+d. 1,745 shares.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** `1,000,000 / 174.52 = 5,730 shares`.
+**Answer: a.** `1,000,000 / 174.52 = 5,730 shares`.
 
 </details>
 
 **211. [Single choice]** A worst-of ELN's key additional risk is:
 
-a. That the coupon is guaranteed.
-b. That principal is always protected.
-c. Correlation, because the weakest name drives the payoff.
-d. That the strongest name drives the payoff.
+a. That principal is always protected.
+b. Correlation, because the weakest name drives the payoff.
+c. That the strongest name drives the payoff.
+d. That the coupon is guaranteed.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** The payoff depends on the weakest constituent, so correlated names deteriorating together is the central risk.
+**Answer: b.** The payoff depends on the weakest constituent, so correlated names deteriorating together is the central risk.
 
 </details>
 
 **212. [Calculation]** A worst-of ELN's laggard trades at 29.16 against a conversion price of 27.00. The variable coupon is:
 
-a. 9.09%.
-b. 27.00%.
-c. 2.80%.
-d. 8.00%.
+a. 27.00%.
+b. 2.80%.
+c. 8.00%.
+d. 9.09%.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** `(29.16 / 27.00 − 1) × 100 = 8.00%`.
+**Answer: c.** `(29.16 / 27.00 − 1) × 100 = 8.00%`.
 
 </details>
 
 **213. [Single choice]** A credit-linked note investor is economically:
 
-a. Selling credit protection on a reference entity.
-b. Holding the reference entity's equity.
-c. Holding a government bond.
-d. Buying credit protection.
+a. Holding the reference entity's equity.
+b. Holding a government bond.
+c. Buying credit protection.
+d. Selling credit protection on a reference entity.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** The enhanced coupon compensates the investor for selling protection.
+**Answer: d.** The enhanced coupon compensates the investor for selling protection.
 
 </details>
 
@@ -3115,15 +3115,15 @@ d. A BLN has no issuer risk.
 
 **215. [Single choice]** An ETN differs from an ETF chiefly because an ETN is:
 
-a. A segregated pool of assets.
-b. Unsecured listed debt with issuer credit risk.
-c. Deposit-insured.
-d. Always physically backed.
+a. Unsecured listed debt with issuer credit risk.
+b. Deposit-insured.
+c. Always physically backed.
+d. A segregated pool of assets.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** The investor has a claim on the issuer, not on a segregated pool.
+**Answer: a.** The investor has a claim on the issuer, not on a segregated pool.
 
 </details>
 
@@ -3131,43 +3131,43 @@ d. Always physically backed.
 
 **216. [Calculation]** In a CPPI fund, the portfolio is worth $100 and the floor is $85, with a crash size of 20%. The risky allocation is:
 
-a. $15.
-b. $20.
-c. $75.
-d. $85.
+a. $85.
+b. $75.
+c. $20.
+d. $15.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** Multiplier = 1/0.20 = 5; cushion = $15; risky = 5 × 15 = $75.
+**Answer: b.** Multiplier = 1/0.20 = 5; cushion = $15; risky = 5 × 15 = $75.
 
 </details>
 
 **217. [Scenario]** A CPPI fund reaches its floor after a sharp fall. The most likely consequence is:
 
-a. It removes issuer risk.
-b. It buys risky assets at the low.
-c. It moves entirely to the risk-free asset and may miss a recovery.
-d. It guarantees unlimited upside.
+a. It buys risky assets at the low.
+b. It moves entirely to the risk-free asset and may miss a recovery.
+c. It guarantees unlimited upside.
+d. It removes issuer risk.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** This is cash lock: the mechanism de-risks at the bottom.
+**Answer: b.** This is cash lock: the mechanism de-risks at the bottom.
 
 </details>
 
 **218. [Single choice]** A trustee must notify MAS of a breach within:
 
-a. Two months.
-b. Three months.
-c. One business day.
-d. Three business days.
+a. Three months.
+b. One business day.
+c. Three business days.
+d. Two months.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** Three business days. The semi-annual report is due within two months and the annual report within three.
+**Answer: c.** Three business days. The semi-annual report is due within two months and the annual report within three.
 
 </details>
 
@@ -3187,15 +3187,15 @@ d. Hedging costs.
 
 **220. [Single choice]** Synthetic ETFs are subject to a net counterparty exposure limit of:
 
-a. 10% of NAV, with collateral of at least 90% of NAV.
-b. 50% of NAV.
-c. There is no limit.
-d. 5% of NAV.
+a. 50% of NAV.
+b. There is no limit.
+c. 5% of NAV.
+d. 10% of NAV, with collateral of at least 90% of NAV.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** The 10% limit applies with at least 90% collateral, rebalanced daily.
+**Answer: d.** The 10% limit applies with at least 90% collateral, rebalanced daily.
 
 </details>
 
@@ -3203,43 +3203,43 @@ d. 5% of NAV.
 
 **221. [Calculation]** An investor buys 10,000 CFDs at $2.00 and sells at $2.20, with 0.4% commission, 8% GST on commission and 5% p.a. financing for 10 days. Net profit is approximately:
 
-a. $2,209.22.
-b. $1,790.78.
-c. $1,818.56.
-d. $2,000.00.
+a. $1,790.78.
+b. $1,818.56.
+c. $2,000.00.
+d. $2,209.22.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Gross $2,000 less $86.40 buy cost, $95.04 sell cost and $27.78 financing = $1,790.78.
+**Answer: a.** Gross $2,000 less $86.40 buy cost, $95.04 sell cost and $27.78 financing = $1,790.78.
 
 </details>
 
 **222. [Calculation]** A short CFD sells 10,000 at $3.30 and covers at $3.45, with $319.10 total expense and $6,600 margin. The ROI is approximately:
 
-a. +4.55%.
-b. −4.55%.
-c. −27.56%.
-d. −100%.
+a. −4.55%.
+b. −27.56%.
+c. −100%.
+d. +4.55%.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** A net loss of $1,819.10 on $6,600 margin is −27.56%, even though the underlying moved only 4.5%.
+**Answer: b.** A net loss of $1,819.10 on $6,600 margin is −27.56%, even though the underlying moved only 4.5%.
 
 </details>
 
 **223. [Single choice]** The predominant CFD business model in Singapore is:
 
-a. A market maker quoting its own price.
-b. An exchange-traded CFD.
-c. A physical delivery model.
-d. Direct market access.
+a. An exchange-traded CFD.
+b. A physical delivery model.
+c. Direct market access.
+d. A market maker quoting its own price.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** DMA routes orders through the provider into the underlying market.
+**Answer: c.** DMA routes orders through the provider into the underlying market.
 
 </details>
 
@@ -3275,71 +3275,71 @@ d. The contract size does not match the hedged position.
 
 **226. [Single choice]** A "lock limit" market means:
 
-a. The price has reached its daily limit and no counterparty will trade, so the position cannot be offset.
-b. The exchange has closed permanently.
-c. Margin requirements are suspended.
-d. The contract has been cash settled.
+a. The exchange has closed permanently.
+b. Margin requirements are suspended.
+c. The contract has been cash settled.
+d. The price has reached its daily limit and no counterparty will trade, so the position cannot be offset.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Without an offsetting trade there is no way to close the position.
+**Answer: d.** Without an offsetting trade there is no way to close the position.
 
 </details>
 
 **227. [Single choice]** Reinvestment risk is greatest for:
 
-a. Zero-coupon bonds.
-b. Callable bonds with large coupons and long maturities.
-c. Short-dated discount instruments.
-d. Floating-rate notes resetting daily.
+a. Callable bonds with large coupons and long maturities.
+b. Short-dated discount instruments.
+c. Floating-rate notes resetting daily.
+d. Zero-coupon bonds.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Zero-coupon bonds have none; callable high-coupon long bonds have the most.
+**Answer: a.** Zero-coupon bonds have none; callable high-coupon long bonds have the most.
 
 </details>
 
 **228. [Calculation]** A bond has modified duration 2 and the yield rises 100bp. The approximate price change is:
 
-a. 0%.
-b. +2%.
-c. −2%.
-d. −20%.
+a. +2%.
+b. −2%.
+c. −20%.
+d. 0%.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** `ΔP/P ≈ −D × ΔYTM = −2 × 1% = −2%`.
+**Answer: b.** `ΔP/P ≈ −D × ΔYTM = −2 × 1% = −2%`.
 
 </details>
 
 **229. [Single choice]** A 1-day 95% VaR of SGD 1m means:
 
-a. The portfolio will lose SGD 1m one day in five.
-b. The portfolio cannot lose more than SGD 1m.
-c. The maximum possible loss is SGD 1m.
-d. There is about a 5% probability of losing more than SGD 1m in one day.
+a. The portfolio cannot lose more than SGD 1m.
+b. The maximum possible loss is SGD 1m.
+c. There is about a 5% probability of losing more than SGD 1m in one day.
+d. The portfolio will lose SGD 1m one day in five.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: d.** VaR is a threshold estimate at a confidence level and horizon, not a maximum loss.
+**Answer: c.** VaR is a threshold estimate at a confidence level and horizon, not a maximum loss.
 
 </details>
 
 **230. [Single choice]** A short (sold) pay-fixed swaption exposes the seller to:
 
-a. Unlimited loss if rates rise.
-b. No loss.
-c. Loss limited to the premium received.
-d. A loss capped at the fixed rate.
+a. No loss.
+b. Loss limited to the premium received.
+c. A loss capped at the fixed rate.
+d. Unlimited loss if rates rise.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** A receive-fixed swaption's loss is capped at the fixed rate, but a pay-fixed one is unlimited.
+**Answer: d.** A receive-fixed swaption's loss is capped at the fixed rate, but a pay-fixed one is unlimited.
 
 </details>
 
@@ -3405,29 +3405,29 @@ d. Collecting margin from its clearing members
 
 **235. [Single choice]** Which statement best distinguishes an exchange-traded derivative from an OTC derivative?
 
-a. Exchange-traded contracts are standardised and centrally cleared; OTC contracts are negotiated bilaterally
-b. OTC contracts are always clearer than exchange-traded contracts
-c. Exchange-traded contracts carry no risk of any kind
-d. Only OTC contracts require the posting of margin
+a. Only OTC contracts require the posting of margin
+b. Exchange-traded contracts are standardised and centrally cleared; OTC contracts are negotiated bilaterally
+c. OTC contracts are always clearer than exchange-traded contracts
+d. Exchange-traded contracts carry no risk of any kind
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Standardisation plus central clearing define the exchange-traded market. Exchange-traded contracts still carry clearing-house exposure, and OTC trades may be cleared voluntarily.
+**Answer: b.** Standardisation plus central clearing define the exchange-traded market. Exchange-traded contracts still carry clearing-house exposure, and OTC trades may be cleared voluntarily.
 
 </details>
 
 **236. [Single choice]** A company buys a put option over a commodity that it produces and holds as inventory. The purpose of the trade is best described as:
 
-a. Speculating on implied volatility
-b. Hedging a long physical position
-c. Arbitraging the futures curve
-d. Creating a synthetic bond position
+a. Creating a synthetic bond position
+b. Speculating on implied volatility
+c. Hedging a long physical position
+d. Arbitraging the futures curve
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** A producer holding the physical commodity is long the underlying, so a put protects the value of that inventory against a price fall.
+**Answer: c.** A producer holding the physical commodity is long the underlying, so a put protects the value of that inventory against a price fall.
 
 </details>
 
@@ -3461,15 +3461,15 @@ d. 1.60
 
 **239. [Single choice]** Which statement about a forward contract is correct?
 
-a. It is marked to market daily through a clearing house
-b. It is a private agreement with settlement deferred to a future date
-c. It can always be closed out on an exchange
-d. It needs no credit assessment of the counterparty
+a. It can always be closed out on an exchange
+b. It needs no credit assessment of the counterparty
+c. It is marked to market daily through a clearing house
+d. It is a private agreement with settlement deferred to a future date
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** A forward is bilateral and deferred. It is not cleared and not exchange-tradable, so the counterparty must be assessed for credit.
+**Answer: d.** A forward is bilateral and deferred. It is not cleared and not exchange-tradable, so the counterparty must be assessed for credit.
 
 </details>
 
@@ -3503,15 +3503,15 @@ d. The exchange guarantees the credit of every member to every other member
 
 **242. [Calculation]** A derivative position has a notional of SGD 10 million and is quoted at 2% of notional. What is the market value of the position?
 
-a. SGD 200
-b. SGD 20,000
-c. SGD 200,000
-d. SGD 2,000,000
+a. SGD 2,000,000
+b. SGD 200,000
+c. SGD 20,000
+d. SGD 200
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** $$10{,}000{,}000 \times 2\% = 200{,}000$$. The notional is a reference amount, not the value of the position.
+**Answer: b.** $$10{,}000{,}000 \times 2\% = 200{,}000$$. The notional is a reference amount, not the value of the position.
 
 </details>
 
@@ -3533,15 +3533,15 @@ d. SGD 10.40
 
 **244. [Calculation]** A share trades at SGD 20.00 and will pay a dividend of SGD 0.50 in three months. The risk-free rate is 3% per annum. What is the fair three-month forward price, to the nearest cent?
 
-a. SGD 19.65
-b. SGD 19.85
-c. SGD 20.15
-d. SGD 20.65
+a. SGD 20.65
+b. SGD 20.15
+c. SGD 19.85
+d. SGD 19.65
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** $$F = (S - PV(D))e^{rT} = (20.00 - 0.50)e^{0.03 \times 0.25} \approx 19.65$$. The dividend lowers the forward price, since the forward holder does not receive it.
+**Answer: d.** $$F = (S - PV(D))e^{rT} = (20.00 - 0.50)e^{0.03 \times 0.25} \approx 19.65$$. The dividend lowers the forward price, since the forward holder does not receive it.
 
 </details>
 
@@ -3575,15 +3575,15 @@ d. The level of interest rates
 
 **247. [Single choice]** In a plain vanilla interest rate swap, the party described as the fixed-rate payer is:
 
-a. Paying fixed and receiving floating
-b. Paying floating and receiving fixed
-c. Long a fixed-rate bond and long a floating-rate note
-d. Paying fixed with no reference to a notional principal
+a. Long a fixed-rate bond and long a floating-rate note
+b. Paying fixed with no reference to a notional principal
+c. Paying fixed and receiving floating
+d. Paying floating and receiving fixed
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** The fixed-rate payer pays the fixed leg and receives the floating leg. Economically this is short a fixed-rate bond and long a floating-rate note.
+**Answer: c.** The fixed-rate payer pays the fixed leg and receives the floating leg. Economically this is short a fixed-rate bond and long a floating-rate note.
 
 </details>
 
@@ -3617,43 +3617,43 @@ d. It can change the currency exposure of an existing borrowing
 
 **250. [Single choice]** A non-deliverable forward differs from a deliverable forward because an NDF:
 
-a. Has no fixing date at all
-b. Cash-settles the difference against a published fixing, with no delivery of the restricted currency
-c. Is always traded on an exchange
-d. Carries no counterparty risk
+a. Is always traded on an exchange
+b. Carries no counterparty risk
+c. Has no fixing date at all
+d. Cash-settles the difference against a published fixing, with no delivery of the restricted currency
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** An NDF settles the difference between the contracted rate and a published fixing, which avoids any need to deliver a non-convertible currency.
+**Answer: d.** An NDF settles the difference between the contracted rate and a published fixing, which avoids any need to deliver a non-convertible currency.
 
 </details>
 
 **251. [Calculation]** An NDF on USD 5 million is struck at 7.5000 for USD/SGD. The fixing prints at 7.4500. Which party settles, and how much?
 
-a. The party buying USD at 7.5000 receives SGD 250,000
-b. The party buying USD at 7.5000 pays SGD 250,000
-c. The party buying USD at 7.5000 receives SGD 2,500,000
-d. No settlement occurs because the difference is too small
+a. The party buying USD at 7.5000 pays SGD 250,000
+b. The party buying USD at 7.5000 receives SGD 2,500,000
+c. No settlement occurs because the difference is too small
+d. The party buying USD at 7.5000 receives SGD 250,000
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Buying USD at 7.5000 when the fixing is 7.4500 means overpaying, so that party pays the difference: $$5{,}000{,}000 \times (7.5000 - 7.4500) = 250{,}000$$.
+**Answer: a.** Buying USD at 7.5000 when the fixing is 7.4500 means overpaying, so that party pays the difference: $$5{,}000{,}000 \times (7.5000 - 7.4500) = 250{,}000$$.
 
 </details>
 
 **252. [Single choice]** In a cross-currency swap, the exchange of principal at maturity means the parties:
 
-a. Re-exchange the principal amounts at the original rate, eliminating the currency exposure on the principal
-b. Re-exchange at the prevailing spot rate, creating a currency gain or loss
-c. Do not re-exchange principal
-d. Exchange only the interest differential
+a. Exchange only the interest differential
+b. Re-exchange the principal amounts at the original rate, eliminating the currency exposure on the principal
+c. Re-exchange at the prevailing spot rate, creating a currency gain or loss
+d. Do not re-exchange principal
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Re-exchange at the contractual rate is what strips out currency risk on principal; re-exchanging at spot would leave the exposure in place.
+**Answer: b.** Re-exchange at the contractual rate is what strips out currency risk on principal; re-exchanging at spot would leave the exposure in place.
 
 </details>
 
@@ -3673,29 +3673,29 @@ d. It is an OTC contract between two parties
 
 **254. [Calculation]** A share trades at SGD 8.00. The one-year rate is 3% and the share pays a continuous dividend yield of 1%. What is the one-year forward price using continuous compounding?
 
-a. SGD 8.16
-b. SGD 8.24
-c. SGD 8.32
-d. SGD 8.40
+a. SGD 8.40
+b. SGD 8.32
+c. SGD 8.24
+d. SGD 8.16
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** $$F = Se^{(r-q)T} = 8.00 \times e^{0.02} \approx 8.16$$.
+**Answer: d.** $$F = Se^{(r-q)T} = 8.00 \times e^{0.02} \approx 8.16$$.
 
 </details>
 
 **255. [Single choice]** Backwardation in a commodity futures curve most commonly reflects:
 
-a. A convenience yield from holding the physical that exceeds the carry cost
-b. A permanent decline in demand
-c. Negative interest rates only
-d. A futures exchange rule
+a. Negative interest rates only
+b. A futures exchange rule
+c. A convenience yield from holding the physical that exceeds the carry cost
+d. A permanent decline in demand
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** When holders value the physical more than the futures price implies, the curve slopes down. That premium is the convenience yield.
+**Answer: c.** When holders value the physical more than the futures price implies, the curve slopes down. That premium is the convenience yield.
 
 </details>
 
@@ -3717,29 +3717,29 @@ d. 160
 
 **257. [Calculation]** Using the same portfolio and contract, how many contracts reduce beta from 1.2 to 0.6?
 
-a. 20
-b. 40
-c. 60
-d. 80
+a. 80
+b. 60
+c. 40
+d. 20
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Only half the exposure is removed: $$N = \frac{(1.2 - 0.6) \times 10{,}000{,}000}{3{,}000 \times 50} = 40$$.
+**Answer: c.** Only half the exposure is removed: $$N = \frac{(1.2 - 0.6) \times 10{,}000{,}000}{3{,}000 \times 50} = 40$$.
 
 </details>
 
 **258. [Single choice]** A short hedge in the futures market is appropriate when the hedger:
 
-a. Will buy the asset in future
-b. Holds the asset and will sell it in future
-c. Has no exposure to the asset
-d. Wants to increase exposure to the asset
+a. Has no exposure to the asset
+b. Wants to increase exposure to the asset
+c. Will buy the asset in future
+d. Holds the asset and will sell it in future
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** A short futures position offsets the risk that the price of an asset already held falls before it is sold.
+**Answer: d.** A short futures position offsets the risk that the price of an asset already held falls before it is sold.
 
 </details>
 
@@ -3759,15 +3759,15 @@ d. The futures price converges to the spot price at expiry
 
 **260. [Single choice]** A trader buys one futures contract and simultaneously sells a further-out contract in the same commodity. This position is:
 
-a. An outright long position
-b. A calendar spread
-c. An inter-commodity spread
-d. A covered call
+a. A calendar spread
+b. An inter-commodity spread
+c. A covered call
+d. An outright long position
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** A calendar, or intra-commodity, spread holds opposite positions in two delivery months of the same commodity.
+**Answer: a.** A calendar, or intra-commodity, spread holds opposite positions in two delivery months of the same commodity.
 
 </details>
 
@@ -3815,29 +3815,29 @@ d. Freedom from any obligation to post margin
 
 **264. [Single choice]** A hedge ratio of 1.0 with a contract whose underlying exactly matches the exposure means:
 
-a. The number of contracts equals the exposure divided by the contract value
-b. No contracts are needed
-c. Only a fraction of the exposure is hedged
-d. The hedge is over-insured
+a. Only a fraction of the exposure is hedged
+b. The hedge is over-insured
+c. The number of contracts equals the exposure divided by the contract value
+d. No contracts are needed
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** A ratio of 1.0 means the notional of futures equals the notional of the exposure, so the count is exposure divided by contract value.
+**Answer: c.** A ratio of 1.0 means the notional of futures equals the notional of the exposure, so the count is exposure divided by contract value.
 
 </details>
 
 **265. [Calculation]** An exposure of SGD 6 million is hedged with futures priced at 1,500 with a multiplier of SGD 100. The hedge ratio is 1.0. How many contracts are required?
 
-a. 40
-b. 45
-c. 60
-d. 90
+a. 90
+b. 60
+c. 45
+d. 40
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Contract value $$= 1{,}500 \times 100 = 150{,}000$$, so $$6{,}000{,}000 / 150{,}000 = 40$$.
+**Answer: d.** Contract value $$= 1{,}500 \times 100 = 150{,}000$$, so $$6{,}000{,}000 / 150{,}000 = 40$$.
 
 </details>
 
@@ -3857,15 +3857,15 @@ d. It is unnecessary when the hedge is held to expiry
 
 **267. [Single choice]** An inter-commodity spread takes positions in:
 
-a. Two different but related commodities in the same delivery month
-b. The same commodity in two delivery months
-c. The cash and futures markets simultaneously
-d. Two unrelated asset classes
+a. The same commodity in two delivery months
+b. The cash and futures markets simultaneously
+c. Two unrelated asset classes
+d. Two different but related commodities in the same delivery month
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** An inter-commodity spread pairs related commodities, such as two energy grades; pairing delivery months of one commodity is a calendar spread.
+**Answer: d.** An inter-commodity spread pairs related commodities, such as two energy grades; pairing delivery months of one commodity is a calendar spread.
 
 </details>
 
@@ -3901,15 +3901,15 @@ d. 0
 
 **270. [Calculation]** A one-year call at strike 100 costs 3 and a one-year put at strike 100 costs 2. The risk-free rate is 2%. By put-call parity, what is the spot price?
 
-a. SGD 95.00
-b. SGD 98.20
-c. SGD 99.02
-d. SGD 105.00
+a. SGD 105.00
+b. SGD 99.02
+c. SGD 98.20
+d. SGD 95.00
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** $$C - P = S - Ke^{-rT}$$, so $$S = 3 - 2 + 100e^{-0.02} = 1 + 98.02 = 99.02$$.
+**Answer: b.** $$C - P = S - Ke^{-rT}$$, so $$S = 3 - 2 + 100e^{-0.02} = 1 + 98.02 = 99.02$$.
 
 </details>
 
@@ -3929,15 +3929,15 @@ d. An American option is always worth less than the equivalent European option
 
 **272. [Single choice]** A trader is long a call and short a put with the same strike and expiry. The position replicates:
 
-a. A long forward struck at the option strike
-b. A short forward struck at the option strike
-c. A long straddle
-d. A covered call
+a. A covered call
+b. A long forward struck at the option strike
+c. A short forward struck at the option strike
+d. A long straddle
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** By put-call parity a long call plus a short put replicates a long forward at the strike; the two premiums differ by the financing on the strike.
+**Answer: b.** By put-call parity a long call plus a short put replicates a long forward at the strike; the two premiums differ by the financing on the strike.
 
 </details>
 
@@ -3957,15 +3957,15 @@ d. Impossible to infer
 
 **274. [Single choice]** Which option position has an unlimited potential loss?
 
-a. Long call
-b. Long put
-c. Short call
-d. Long straddle
+a. Long straddle
+b. Long call
+c. Long put
+d. Short call
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** A short call is exposed to unlimited appreciation in the underlying. A long put can lose only the premium, because the underlying cannot fall below zero.
+**Answer: d.** A short call is exposed to unlimited appreciation in the underlying. A long put can lose only the premium, because the underlying cannot fall below zero.
 
 </details>
 
@@ -3999,15 +3999,15 @@ d. 93 and 100
 
 **277. [Single choice]** An increase in the risk-free rate will, other things equal:
 
-a. Raise the value of a call and lower the value of a put
-b. Lower the value of a call and raise the value of a put
-c. Raise both
-d. Leave both unchanged
+a. Leave both unchanged
+b. Raise the value of a call and lower the value of a put
+c. Lower the value of a call and raise the value of a put
+d. Raise both
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** The forward price rises with the rate, which helps the call and hurts the put; the discounting of the strike has the opposite sign and reinforces that direction.
+**Answer: b.** The forward price rises with the rate, which helps the call and hurts the put; the discounting of the strike has the opposite sign and reinforces that direction.
 
 </details>
 
@@ -4041,15 +4041,15 @@ d. It has unlimited profit potential
 
 **280. [Single choice]** The buyer of a put option is, in effect:
 
-a. Insured against a fall in the underlying, having paid a premium for that insurance
-b. Obliged to sell the underlying at the strike
-c. Exposed to unlimited loss
-d. Guaranteed a profit if the underlying falls
+a. Exposed to unlimited loss
+b. Guaranteed a profit if the underlying falls
+c. Insured against a fall in the underlying, having paid a premium for that insurance
+d. Obliged to sell the underlying at the strike
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** The put is a right rather than an obligation, so the loss is capped at the premium. A profit requires the fall to exceed the premium paid.
+**Answer: c.** The put is a right rather than an obligation, so the loss is capped at the premium. A profit requires the fall to exceed the premium paid.
 
 </details>
 
@@ -4057,29 +4057,29 @@ d. Guaranteed a profit if the underlying falls
 
 **281. [Calculation]** A structured warrant has a conversion ratio of 5 warrants per share, an exercise price of SGD 2.00 and a warrant price of SGD 0.30. What is the effective cost per share on exercise?
 
-a. SGD 1.50
-b. SGD 2.30
-c. SGD 3.50
-d. SGD 0.30
+a. SGD 0.30
+b. SGD 1.50
+c. SGD 2.30
+d. SGD 3.50
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** Five warrants cost $$5 \times 0.30 = 1.50$$, plus the exercise price of 2.00, giving SGD 3.50 per share.
+**Answer: d.** Five warrants cost $$5 \times 0.30 = 1.50$$, plus the exercise price of 2.00, giving SGD 3.50 per share.
 
 </details>
 
 **282. [Calculation]** A daily leveraged certificate offers 3x the daily return of an index. The index rises 10% on day one and falls 10% on day two. What is the certificate’s two-day return, ignoring costs?
 
-a. 0%
-b. About -1%
-c. About -9%
-d. About -3%
+a. About -9%
+b. About -3%
+c. 0%
+d. About -1%
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** Day one multiplies the value by 1.30. Day two applies -30% to the new level, so $$1.30 \times 0.70 = 0.91$$, a return of about -9%. A constant daily multiple does not return to par.
+**Answer: a.** Day one multiplies the value by 1.30. Day two applies -30% to the new level, so $$1.30 \times 0.70 = 0.91$$, a return of about -9%. A constant daily multiple does not return to par.
 
 </details>
 
@@ -4113,29 +4113,29 @@ d. They carry no expiry date
 
 **285. [Calculation]** A call warrant with a 1:1 ratio is priced at SGD 0.25, has an exercise price of SGD 1.80 and the share trades at SGD 2.00. What is the premium over intrinsic value, as a percentage of the share price?
 
-a. 0%
-b. 2.5%
-c. 12.5%
-d. 25%
+a. 25%
+b. 12.5%
+c. 2.5%
+d. 0%
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Intrinsic value is $$2.00 - 1.80 = 0.20$$, so the premium is 0.05, which is 2.5% of the SGD 2.00 share price.
+**Answer: c.** Intrinsic value is $$2.00 - 1.80 = 0.20$$, so the premium is 0.05, which is 2.5% of the SGD 2.00 share price.
 
 </details>
 
 **286. [Single choice]** Which best describes gearing on a warrant?
 
-a. The share price divided by the effective warrant cost per share
-b. The warrant price divided by the exercise price
-c. The exercise price divided by the share price
-d. The warrant’s delta
+a. The exercise price divided by the share price
+b. The warrant’s delta
+c. The share price divided by the effective warrant cost per share
+d. The warrant price divided by the exercise price
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Gearing measures the underlying exposure obtained per dollar of warrant premium, so it scales the share price against the cost of one share’s worth of warrants.
+**Answer: c.** Gearing measures the underlying exposure obtained per dollar of warrant premium, so it scales the share price against the cost of one share’s worth of warrants.
 
 </details>
 
@@ -4155,15 +4155,15 @@ d. 4,000
 
 **288. [Single choice]** A daily leveraged certificate is reset each day. An investor holds it for a month in a market that ends exactly where it started but is highly volatile. The most likely outcome is:
 
-a. A loss caused by volatility decay
-b. A gain equal to the leverage multiple
-c. No change in value
-d. A gain equal to the volatility
+a. A gain equal to the leverage multiple
+b. No change in value
+c. A gain equal to the volatility
+d. A loss caused by volatility decay
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Daily rebalancing compounds along the path. In a round-trip volatile market the product loses value even though the underlying is unchanged.
+**Answer: d.** Daily rebalancing compounds along the path. In a round-trip volatile market the product loses value even though the underlying is unchanged.
 
 </details>
 
@@ -4213,29 +4213,29 @@ d. It carries no leverage
 
 **292. [Calculation]** A Category-N bull CBBC has an underlying at 1,050, a call price of 1,000 and a strike of 1,000. A mandatory call event occurs. What does the holder receive?
 
-a. Nothing
-b. The difference between 1,050 and 1,000
-c. The strike amount of 1,000
-d. A replacement contract
+a. A replacement contract
+b. Nothing
+c. The difference between 1,050 and 1,000
+d. The strike amount of 1,000
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** In a Category-N contract the call price equals the strike, so no residual value remains once the mandatory call event occurs.
+**Answer: b.** In a Category-N contract the call price equals the strike, so no residual value remains once the mandatory call event occurs.
 
 </details>
 
 **293. [Single choice]** A binary option pays a fixed amount if the underlying finishes above the strike and nothing otherwise. Its payoff profile is:
 
-a. Linear in the underlying
-b. A step function
-c. Identical to a vanilla call
-d. Unbounded
+a. Unbounded
+b. Linear in the underlying
+c. A step function
+d. Identical to a vanilla call
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** A binary pays a fixed sum or nothing, so the payoff is discontinuous at the strike rather than linear.
+**Answer: c.** A binary pays a fixed sum or nothing, so the payoff is discontinuous at the strike rather than linear.
 
 </details>
 
@@ -4255,15 +4255,15 @@ d. Valuation and ongoing risk monitoring are more complex
 
 **295. [Single choice]** A holder of a Category-N bull CBBC is most exposed to which event?
 
-a. A small rise in the underlying
-b. A fall in the underlying to the call price, triggering a mandatory call and extinguishing the residual
-c. A change of the issuer’s auditor
-d. A share split by the underlying issuer
+a. A change of the issuer’s auditor
+b. A share split by the underlying issuer
+c. A small rise in the underlying
+d. A fall in the underlying to the call price, triggering a mandatory call and extinguishing the residual
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** The contract is designed to be called away when the underlying reaches the call price, at which point a Category-N holder receives nothing.
+**Answer: d.** The contract is designed to be called away when the underlying reaches the call price, at which point a Category-N holder receives nothing.
 
 </details>
 
@@ -4283,15 +4283,15 @@ d. A payoff of 20
 
 **297. [Single choice]** The issuer of a CBBC protects itself against unlimited loss by:
 
-a. Imposing a mandatory call event that terminates the contract when the underlying reaches the call price
-b. Charging a higher premium than a warrant
-c. Requiring the investor to post margin
-d. Listing the contract on an exchange
+a. Listing the contract on an exchange
+b. Imposing a mandatory call event that terminates the contract when the underlying reaches the call price
+c. Charging a higher premium than a warrant
+d. Requiring the investor to post margin
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** The mandatory call is the issuer’s protection: it ends the contract before the underlying can move far past the strike, which is why the leverage in a CBBC is bounded by the call feature.
+**Answer: b.** The mandatory call is the issuer’s protection: it ends the contract before the underlying can move far past the strike, which is why the leverage in a CBBC is bounded by the call feature.
 
 </details>
 
@@ -4313,15 +4313,15 @@ d. Valuing and hedging it requires monitoring the barrier continuously
 
 **299. [Single choice]** A structured deposit differs from an ordinary time deposit because a structured deposit:
 
-a. Has a return that depends on the performance of an underlying
-b. Is always fully protected by deposit insurance
-c. Has no maturity date
-d. Cannot be sold by a bank
+a. Has no maturity date
+b. Cannot be sold by a bank
+c. Has a return that depends on the performance of an underlying
+d. Is always fully protected by deposit insurance
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** The defining feature is a return linked to an underlying. Depending on the structure, the principal itself may be at risk.
+**Answer: c.** The defining feature is a return linked to an underlying. Depending on the structure, the principal itself may be at risk.
 
 </details>
 
@@ -4341,29 +4341,29 @@ d. Accumulators
 
 **301. [Calculation]** An equity-linked note offers 100% principal protection plus 60% participation in any rise in an index. The index rises 25% over the term. What total return does the investor receive?
 
-a. 15%
-b. 25%
-c. 60%
-d. 85%
+a. 85%
+b. 60%
+c. 25%
+d. 15%
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** $$60\% \times 25\% = 15\%$$. The protection returns the principal; the participation rate scales the upside.
+**Answer: d.** $$60\% \times 25\% = 15\%$$. The protection returns the principal; the participation rate scales the upside.
 
 </details>
 
 **302. [Single choice]** A dual currency investment exposes the investor primarily to:
 
-a. Interest rate risk only
-b. Currency risk, because redemption may occur in the weaker of two currencies
-c. Equity price risk only
-d. No risk, because the deposit sits with a bank
+a. Equity price risk only
+b. No risk, because the deposit sits with a bank
+c. Interest rate risk only
+d. Currency risk, because redemption may occur in the weaker of two currencies
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** A DCI pays an enhanced yield in exchange for the investor accepting conversion into an alternative currency at a set rate, so currency exposure is the core risk.
+**Answer: d.** A DCI pays an enhanced yield in exchange for the investor accepting conversion into an alternative currency at a set rate, so currency exposure is the core risk.
 
 </details>
 
@@ -4411,15 +4411,15 @@ d. +10%
 
 **306. [Single choice]** An accumulator structure obliges the investor to buy the underlying at intervals. Its principal risk is that:
 
-a. The investor must keep buying as the price falls, magnifying losses
-b. The investor may miss upside if the price rises quickly
-c. The structure has no maturity
-d. The investor receives no dividends under any circumstances
+a. The investor receives no dividends under any circumstances
+b. The investor must keep buying as the price falls, magnifying losses
+c. The investor may miss upside if the price rises quickly
+d. The structure has no maturity
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Accumulators typically have a knock-out that caps the upside while the obligation to buy continues on the downside, so the payoff is asymmetrically against the investor.
+**Answer: b.** Accumulators typically have a knock-out that caps the upside while the obligation to buy continues on the downside, so the payoff is asymmetrically against the investor.
 
 </details>
 
@@ -4439,29 +4439,29 @@ d. It may restrict early withdrawal
 
 **308. [Single choice]** A range accrual deposit pays an enhanced coupon conditional on a reference rate staying within a band. The investor is effectively:
 
-a. Selling a digital or range option on the reference rate to the issuer
-b. Buying a call option on the reference rate
-c. Taking no market risk
-d. Hedging interest rate exposure
+a. Taking no market risk
+b. Hedging interest rate exposure
+c. Selling a digital or range option on the reference rate to the issuer
+d. Buying a call option on the reference rate
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** The enhanced coupon is compensation for writing optionality: the investor receives less when the rate leaves the band, which is the payoff of a sold range or digital option.
+**Answer: c.** The enhanced coupon is compensation for writing optionality: the investor receives less when the rate leaves the band, which is the payoff of a sold range or digital option.
 
 </details>
 
 **309. [Calculation]** A structured deposit offers 100% principal protection after three years plus 40% of any rise in an equity index. The index rises 50%. What is the investor’s total return over the term?
 
-a. 15%
-b. 20%
-c. 40%
-d. 50%
+a. 50%
+b. 40%
+c. 20%
+d. 15%
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** $$40\% \times 50\% = 20\%$$ over the term, with the principal returned in full.
+**Answer: c.** $$40\% \times 50\% = 20\%$$ over the term, with the principal returned in full.
 
 </details>
 
@@ -4481,15 +4481,15 @@ d. Whether the product has a recent marketing award
 
 **311. [Single choice]** The principal-protected floor in a structured product is best understood as:
 
-a. A purchased option or a zero-coupon bond whose cost is financed by giving up some upside
-b. A guarantee provided free of charge by the issuer
-c. A regulatory requirement for all structured products
-d. A form of deposit insurance
+a. A guarantee provided free of charge by the issuer
+b. A regulatory requirement for all structured products
+c. A form of deposit insurance
+d. A purchased option or a zero-coupon bond whose cost is financed by giving up some upside
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Protection must be funded: either the portfolio is built around a zero-coupon bond that grows to par, or a protective put is purchased. Either way the cost comes out of the upside.
+**Answer: d.** Protection must be funded: either the portfolio is built around a zero-coupon bond that grows to par, or a protective put is purchased. Either way the cost comes out of the upside.
 
 </details>
 
@@ -4511,15 +4511,15 @@ d. A floating-rate note with no embedded option
 
 **313. [Calculation]** An equity-linked note has a notional of USD 1,000,000 and a strike of USD 50, with a conversion ratio equal to notional divided by strike. The underlying falls to USD 40 and the note converts. How many shares does the investor receive, and what are they worth?
 
-a. 20,000 shares worth USD 800,000
-b. 25,000 shares worth USD 1,000,000
-c. 20,000 shares worth USD 1,000,000
-d. 25,000 shares worth USD 800,000
+a. 25,000 shares worth USD 800,000
+b. 20,000 shares worth USD 800,000
+c. 25,000 shares worth USD 1,000,000
+d. 20,000 shares worth USD 1,000,000
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Conversion shares $$= 1{,}000{,}000 / 50 = 20{,}000$$, worth $$20{,}000 \times 40 = 800{,}000$$, a 20% loss of principal.
+**Answer: b.** Conversion shares $$= 1{,}000{,}000 / 50 = 20{,}000$$, worth $$20{,}000 \times 40 = 800{,}000$$, a 20% loss of principal.
 
 </details>
 
@@ -4539,29 +4539,29 @@ d. The investor bears the risk that the range is not satisfied
 
 **315. [Calculation]** A range accrual note pays 4% per annum on a 360-day basis and the reference rate is inside the range on 250 of 360 days. What is the annual coupon?
 
-a. 2.78%
-b. 4.00%
-c. 5.76%
-d. 1.39%
+a. 5.76%
+b. 1.39%
+c. 2.78%
+d. 4.00%
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** $$4\% \times \frac{250}{360} = 2.78\%$$.
+**Answer: c.** $$4\% \times \frac{250}{360} = 2.78\%$$.
 
 </details>
 
 **316. [Single choice]** The coupon on an inverse floater rises when:
 
-a. The reference rate rises
-b. The reference rate falls
-c. The issuer’s credit rating falls
-d. The note is called by the issuer
+a. The issuer’s credit rating falls
+b. The note is called by the issuer
+c. The reference rate rises
+d. The reference rate falls
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** The coupon moves inversely to the reference rate, so the investor gains when rates fall and loses when rates rise.
+**Answer: d.** The coupon moves inversely to the reference rate, so the investor gains when rates fall and loses when rates rise.
 
 </details>
 
@@ -4597,15 +4597,15 @@ d. Operational risk
 
 **319. [Single choice]** An exchange-traded fund differs from a unit trust primarily because an ETF:
 
-a. Trades intraday on an exchange at market-determined prices
-b. Is not a collective investment scheme
-c. Holds no underlying assets
-d. Cannot be sold short under any circumstances
+a. Cannot be sold short under any circumstances
+b. Trades intraday on an exchange at market-determined prices
+c. Is not a collective investment scheme
+d. Holds no underlying assets
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Both are collective schemes. The ETF’s distinguishing feature is intraday exchange trading with creation and redemption by authorised participants.
+**Answer: b.** Both are collective schemes. The ETF’s distinguishing feature is intraday exchange trading with creation and redemption by authorised participants.
 
 </details>
 
@@ -4625,29 +4625,29 @@ d. It can be defeated by a market gap that jumps below the floor
 
 **321. [Calculation]** A CPPI portfolio is worth 100 with a floor of 80 and a multiplier of 3. What is the allocation to the risky asset?
 
-a. 20
-b. 40
-c. 60
-d. 80
+a. 80
+b. 60
+c. 40
+d. 20
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** Cushion $$= 100 - 80 = 20$$, so the risky allocation is $$3 \times 20 = 60$$.
+**Answer: b.** Cushion $$= 100 - 80 = 20$$, so the risky allocation is $$3 \times 20 = 60$$.
 
 </details>
 
 **322. [Single choice]** A closed-end fund differs from an open-end fund because a closed-end fund:
 
-a. Issues a fixed number of shares that trade on an exchange
-b. Always redeems shares at net asset value on demand
-c. Has no net asset value at all
-d. May not use leverage under any circumstances
+a. Has no net asset value at all
+b. May not use leverage under any circumstances
+c. Issues a fixed number of shares that trade on an exchange
+d. Always redeems shares at net asset value on demand
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** A closed-end fund has a fixed share count, so its market price can diverge from net asset value. An open-end fund issues and redeems at NAV.
+**Answer: c.** A closed-end fund has a fixed share count, so its market price can diverge from net asset value. An open-end fund issues and redeems at NAV.
 
 </details>
 
@@ -4667,15 +4667,15 @@ d. It can be distorted by smoothing of reported returns
 
 **324. [Single choice]** The tracking error of an ETF measures:
 
-a. The volatility of the difference between fund return and index return
-b. The fund’s total expense ratio
-c. The prevailing bid-ask spread
-d. The fund’s level of leverage
+a. The fund’s total expense ratio
+b. The prevailing bid-ask spread
+c. The fund’s level of leverage
+d. The volatility of the difference between fund return and index return
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Tracking error is the dispersion of the fund-minus-index return; a low figure indicates close replication of the index.
+**Answer: d.** Tracking error is the dispersion of the fund-minus-index return; a low figure indicates close replication of the index.
 
 </details>
 
@@ -4709,15 +4709,15 @@ d. Redemption involves exchanging ETF shares for the underlying assets
 
 **327. [Single choice]** A structured fund with capital protection typically achieves that protection by:
 
-a. Investing a large part of the portfolio in a safe asset and using the remainder to buy derivative exposure
-b. Guaranteeing the return by contract with the investor
-c. Holding only cash
-d. Borrowing to buy more of the risky asset
+a. Borrowing to buy more of the risky asset
+b. Investing a large part of the portfolio in a safe asset and using the remainder to buy derivative exposure
+c. Guaranteeing the return by contract with the investor
+d. Holding only cash
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Protection is engineered by funding a floor with a safe asset and spending only the residual on optionality. Any guarantee is a credit exposure to the guarantor rather than a free lunch.
+**Answer: b.** Protection is engineered by funding a floor with a safe asset and spending only the residual on optionality. Any guarantee is a credit exposure to the guarantor rather than a free lunch.
 
 </details>
 
@@ -4751,15 +4751,15 @@ d. Small purchases may suffer proportionally higher dealing costs
 
 **330. [Single choice]** A fund’s returns are smoothed by the manager. Which performance measure is most distorted?
 
-a. The Sharpe ratio, because measured volatility is understated
-b. The total expense ratio
-c. The fund’s NAV
-d. The fund’s tracking error against a cash benchmark
+a. The fund’s NAV
+b. The fund’s tracking error against a cash benchmark
+c. The Sharpe ratio, because measured volatility is understated
+d. The total expense ratio
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Smoothing suppresses measured volatility, which inflates the Sharpe ratio. The expense ratio and NAV are unaffected by smoothing.
+**Answer: c.** Smoothing suppresses measured volatility, which inflates the Sharpe ratio. The expense ratio and NAV are unaffected by smoothing.
 
 </details>
 
@@ -4767,43 +4767,43 @@ d. The fund’s tracking error against a cash benchmark
 
 **331. [Calculation]** An investor buys 5,000 CFDs at SGD 4.00 with a 10% margin requirement. What initial margin is required?
 
-a. SGD 200
-b. SGD 2,000
-c. SGD 20,000
-d. SGD 200,000
+a. SGD 200,000
+b. SGD 20,000
+c. SGD 2,000
+d. SGD 200
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Position value $$= 5{,}000 \times 4.00 = 20{,}000$$, so margin $$= 10\% \times 20{,}000 = 2{,}000$$.
+**Answer: c.** Position value $$= 5{,}000 \times 4.00 = 20{,}000$$, so margin $$= 10\% \times 20{,}000 = 2{,}000$$.
 
 </details>
 
 **332. [Calculation]** The same 5,000 CFDs are closed at SGD 3.80. What is the realised profit or loss, ignoring financing and commission?
 
-a. A loss of SGD 200
-b. A loss of SGD 1,000
-c. A gain of SGD 1,000
-d. A gain of SGD 200
+a. A gain of SGD 1,000
+b. A gain of SGD 200
+c. A loss of SGD 200
+d. A loss of SGD 1,000
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** $$5{,}000 \times (3.80 - 4.00) = -1{,}000$$, a loss of SGD 1,000 on SGD 2,000 of margin — a 50% loss of equity for a 5% adverse move.
+**Answer: d.** $$5{,}000 \times (3.80 - 4.00) = -1{,}000$$, a loss of SGD 1,000 on SGD 2,000 of margin — a 50% loss of equity for a 5% adverse move.
 
 </details>
 
 **333. [Single choice]** A CFD provider applies an overnight financing charge. The charge is best described as:
 
-a. A one-off commission charged on opening the position
-b. A daily interest adjustment for the leveraged portion of the position
-c. A statutory levy collected for the regulator
-d. A dividend adjustment made to the account
+a. A daily interest adjustment for the leveraged portion of the position
+b. A statutory levy collected for the regulator
+c. A dividend adjustment made to the account
+d. A one-off commission charged on opening the position
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Because a CFD is leveraged, the provider finances the balance and charges interest daily, usually at a reference rate plus a spread.
+**Answer: a.** Because a CFD is leveraged, the provider finances the balance and charges interest daily, usually at a reference rate plus a spread.
 
 </details>
 
@@ -4837,15 +4837,15 @@ d. The investor pays SGD 20
 
 **336. [Single choice]** Which is the most accurate statement about a guaranteed stop on a CFD?
 
-a. It is provided free of charge on every position
-b. It guarantees the exit price but usually costs a wider spread or an explicit premium
-c. It removes all market risk from the position
-d. It is available only on exchange-traded futures
+a. It is available only on exchange-traded futures
+b. It is provided free of charge on every position
+c. It guarantees the exit price but usually costs a wider spread or an explicit premium
+d. It removes all market risk from the position
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** The provider absorbs gap risk on a guaranteed stop, so it charges for that protection through a wider spread or a fee.
+**Answer: c.** The provider absorbs gap risk on a guaranteed stop, so it charges for that protection through a wider spread or a fee.
 
 </details>
 
@@ -4879,15 +4879,15 @@ d. SGD 9,000
 
 **339. [Single choice]** A CFD provider’s terms state that the client is the beneficial owner of the underlying. This is:
 
-a. A misleading statement, because a CFD confers no beneficial ownership of the underlying
-b. Correct, because the CFD is collateralised
-c. Correct for long positions only
-d. Correct if the provider holds the shares
+a. Correct, because the CFD is collateralised
+b. Correct for long positions only
+c. Correct if the provider holds the shares
+d. A misleading statement, because a CFD confers no beneficial ownership of the underlying
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** A CFD is a contract for the difference: it creates no ownership, no voting rights and no direct dividend entitlement. Any dividend reaches the account only as a contractual adjustment.
+**Answer: d.** A CFD is a contract for the difference: it creates no ownership, no voting rights and no direct dividend entitlement. Any dividend reaches the account only as a contractual adjustment.
 
 </details>
 
@@ -4907,15 +4907,15 @@ d. It is a one-off charge at inception
 
 **341. [Calculation]** A long CFD position of SGD 50,000 is financed at 4% per annum. What is the approximate daily financing charge, using a 360-day year?
 
-a. SGD 1.67
-b. SGD 5.56
-c. SGD 55.60
-d. SGD 200.00
+a. SGD 200.00
+b. SGD 55.60
+c. SGD 5.56
+d. SGD 1.67
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** $$50{,}000 \times 4\% / 360 = 5.56$$ per day.
+**Answer: c.** $$50{,}000 \times 4\% / 360 = 5.56$$ per day.
 
 </details>
 
@@ -4951,15 +4951,15 @@ d. Currency risk where the note is denominated in a foreign currency
 
 **344. [Single choice]** Which risk is most closely associated with holding a single large bespoke OTC derivative position?
 
-a. Counterparty credit risk
-b. Deposit insurance risk
-c. Board composition risk
-d. Dividend timing risk
+a. Dividend timing risk
+b. Counterparty credit risk
+c. Deposit insurance risk
+d. Board composition risk
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** A large bespoke OTC position concentrates exposure on one counterparty, making that counterparty’s creditworthiness the dominant incremental risk.
+**Answer: b.** A large bespoke OTC position concentrates exposure on one counterparty, making that counterparty’s creditworthiness the dominant incremental risk.
 
 </details>
 
@@ -4979,15 +4979,15 @@ d. It is eliminated by using a larger number of contracts
 
 **346. [Single choice]** A credit default swap primarily transfers:
 
-a. Interest rate risk
-b. Credit risk on a reference entity
-c. Equity price risk
-d. Operational risk
+a. Operational risk
+b. Interest rate risk
+c. Credit risk on a reference entity
+d. Equity price risk
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** The protection buyer pays a premium and receives a payment on a defined credit event affecting the reference entity.
+**Answer: c.** The protection buyer pays a premium and receives a payment on a defined credit event affecting the reference entity.
 
 </details>
 
@@ -5007,15 +5007,15 @@ d. A fall in the reference entity’s share price
 
 **348. [Single choice]** Reinvestment risk is most relevant to which investor?
 
-a. One holding a long-dated zero-coupon bond to maturity
-b. One holding a short-dated coupon bond and intending to roll it over
-c. One holding physical gold in a vault
-d. One holding a perpetual floating-rate note
+a. One holding physical gold in a vault
+b. One holding a perpetual floating-rate note
+c. One holding a long-dated zero-coupon bond to maturity
+d. One holding a short-dated coupon bond and intending to roll it over
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Reinvestment risk bites when maturing cash must be placed at unknown future rates, which affects a rolling coupon portfolio.
+**Answer: d.** Reinvestment risk bites when maturing cash must be placed at unknown future rates, which affects a rolling coupon portfolio.
 
 </details>
 
@@ -5035,29 +5035,29 @@ d. Removing all position limits so that no forced exit can occur
 
 **350. [Single choice]** A position has a one-day 95% value at risk of SGD 50,000. What does this mean?
 
-a. The maximum possible loss is SGD 50,000
-b. Under the model’s assumptions, there is a 5% chance of losing more than SGD 50,000 over one day
-c. The position will lose exactly SGD 50,000 on one day in twenty
-d. The expected loss over one day is SGD 50,000
+a. Under the model’s assumptions, there is a 5% chance of losing more than SGD 50,000 over one day
+b. The position will lose exactly SGD 50,000 on one day in twenty
+c. The expected loss over one day is SGD 50,000
+d. The maximum possible loss is SGD 50,000
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** VaR is a quantile, not a maximum: it states a loss threshold expected to be exceeded with the stated probability over the stated horizon, conditional on the model.
+**Answer: a.** VaR is a quantile, not a maximum: it states a loss threshold expected to be exceeded with the stated probability over the stated horizon, conditional on the model.
 
 </details>
 
 **351. [Single choice]** A counterparty to a long-dated OTC swap is downgraded sharply. Which risk has most directly increased?
 
-a. Credit risk on the position
-b. Market risk on the underlying
-c. Operational risk
-d. Reinvestment risk
+a. Reinvestment risk
+b. Credit risk on the position
+c. Market risk on the underlying
+d. Operational risk
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** A downgrade raises the probability of default on the exposure, so the credit risk on the in-the-money position rises. The underlying has not moved.
+**Answer: b.** A downgrade raises the probability of default on the exposure, so the credit risk on the in-the-money position rises. The underlying has not moved.
 
 </details>
 
@@ -5077,15 +5077,15 @@ d. A dual currency structure deliberately embeds currency exposure
 
 **353. [Single choice]** Which risk is most relevant to an investor who may need to sell a structured note before maturity?
 
-a. Liquidity risk, because there may be no secondary market or only at a wide discount
-b. Market risk only
-c. Operational risk
-d. Settlement risk
+a. Operational risk
+b. Settlement risk
+c. Liquidity risk, because there may be no secondary market or only at a wide discount
+d. Market risk only
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Early exit from a bespoke note depends on the issuer quoting a price, so the risk that the exit price is poor is a liquidity risk.
+**Answer: c.** Early exit from a bespoke note depends on the issuer quoting a price, so the risk that the exit price is poor is a liquidity risk.
 
 </details>
 
@@ -5107,15 +5107,15 @@ d. SGD 8,000,000
 
 **355. [Single choice]** A client with a two-year horizon and low risk tolerance wants exposure to equity upside. The most suitable structure is:
 
-a. A daily leveraged equity certificate
-b. A capital-protected note with a participation rate
-c. A Category-N bull CBBC
-d. A short equity call position
+a. A Category-N bull CBBC
+b. A short equity call position
+c. A daily leveraged equity certificate
+d. A capital-protected note with a participation rate
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** A capital-protected note delivers upside while respecting a low risk tolerance and a defined horizon. Leveraged and CBBC structures can lose the whole investment.
+**Answer: d.** A capital-protected note delivers upside while respecting a low risk tolerance and a defined horizon. Leveraged and CBBC structures can lose the whole investment.
 
 </details>
 
@@ -5135,57 +5135,57 @@ d. Enter a currency swap where there is a matching USD inflow
 
 **357. [Single choice]** A client’s portfolio has drifted to 55% equity and 45% bonds against a 70/30 target. Which trade restores the target?
 
-a. Sell equity and buy bonds
-b. Buy equity and sell bonds
-c. Sell both equity and bonds
-d. Take no action because the target is a long-term aim
+a. Buy equity and sell bonds
+b. Sell both equity and bonds
+c. Take no action because the target is a long-term aim
+d. Sell equity and buy bonds
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** The portfolio has drifted defensive relative to target, so equity must be bought and bonds sold to restore 70/30.
+**Answer: a.** The portfolio has drifted defensive relative to target, so equity must be bought and bonds sold to restore 70/30.
 
 </details>
 
 **358. [Calculation]** A client invests SGD 100,000 in a note paying a 4% fixed coupon plus 50% participation in any index return above a 10% hurdle. The index returns 20%. What total return does the client receive?
 
-a. 4%
-b. 5%
-c. 9%
-d. 14%
+a. 14%
+b. 9%
+c. 5%
+d. 4%
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** Fixed coupon 4% plus $$50\% \times (20\% - 10\%) = 5\%$$, giving 9% in total.
+**Answer: b.** Fixed coupon 4% plus $$50\% \times (20\% - 10\%) = 5\%$$, giving 9% in total.
 
 </details>
 
 **359. [Single choice]** A representative recommends a structured note without documenting the client’s risk profile. The primary compliance failure is:
 
-a. Failure to establish a reasonable basis for the recommendation
-b. Failure to hold a capital markets services licence
-c. Failure to publish a product highlights sheet
-d. Failure to notify MAS of the trade
+a. Failure to notify MAS of the trade
+b. Failure to establish a reasonable basis for the recommendation
+c. Failure to hold a capital markets services licence
+d. Failure to publish a product highlights sheet
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Suitability requires a documented understanding of the client before recommending. Without it there is no reasonable basis for the recommendation.
+**Answer: b.** Suitability requires a documented understanding of the client before recommending. Without it there is no reasonable basis for the recommendation.
 
 </details>
 
 **360. [Scenario]** A client holds a concentrated position in a single listed share and wants to protect it over three months without selling. Which is the most direct solution?
 
-a. Buy a put option on the share, or sell a futures contract on it
-b. Buy a call option on the share
-c. Buy more of the share
-d. Invest in a money market fund
+a. Buy more of the share
+b. Invest in a money market fund
+c. Buy a put option on the share, or sell a futures contract on it
+d. Buy a call option on the share
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Protecting a long position requires a short exposure: a protective put or a short futures position. A long call adds to the exposure rather than hedging it.
+**Answer: c.** Protecting a long position requires a short exposure: a protective put or a short futures position. A long call adds to the exposure rather than hedging it.
 
 </details>
 
@@ -5219,15 +5219,15 @@ d. The note is suitable for any client because participation exceeds 100%
 
 **363. [Calculation]** A client has SGD 200,000 and wants at least SGD 195,000 returned after one year. If a one-year zero-coupon instrument yields 3%, how much is left to spend on optionality?
 
-a. About SGD 5,000
-b. About SGD 10,680
-c. About SGD 15,534
-d. About SGD 19,417
+a. About SGD 15,534
+b. About SGD 19,417
+c. About SGD 5,000
+d. About SGD 10,680
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** The sum needed today to reach the 195,000 floor in one year is $$195{,}000 / 1.03 \approx 189{,}320$$. The residual available for optionality is $$200{,}000 - 189{,}320 \approx 10{,}680$$.
+**Answer: d.** The sum needed today to reach the 195,000 floor in one year is $$195{,}000 / 1.03 \approx 189{,}320$$. The residual available for optionality is $$200{,}000 - 189{,}320 \approx 10{,}680$$.
 
 </details>
 
@@ -5249,15 +5249,15 @@ d. 55.20
 
 **365. [Calculation]** An equity index futures contract has a multiplier of SGD 50 and a price of 3,200. How many contracts hedge a SGD 8 million portfolio with a beta of 0.9?
 
-a. 45
-b. 50
-c. 60
-d. 64
+a. 64
+b. 60
+c. 50
+d. 45
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** $$N = \frac{0.9 \times 8{,}000{,}000}{3{,}200 \times 50} = 45$$.
+**Answer: d.** $$N = \frac{0.9 \times 8{,}000{,}000}{3{,}200 \times 50} = 45$$.
 
 </details>
 
@@ -5277,15 +5277,15 @@ d. 175
 
 **367. [Calculation]** A CPPI portfolio is worth 500 with a floor of 450 and a multiplier of 4. What is the allocation to the risky asset?
 
-a. 50
-b. 100
-c. 200
-d. 450
+a. 450
+b. 200
+c. 100
+d. 50
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: c.** Cushion $$= 500 - 450 = 50$$, so the risky allocation is $$4 \times 50 = 200$$.
+**Answer: b.** Cushion $$= 500 - 450 = 50$$, so the risky allocation is $$4 \times 50 = 200$$.
 
 </details>
 
@@ -5305,15 +5305,15 @@ d. 6.00%
 
 **369. [Calculation]** A CBBC has an underlying at 1,100, a strike of 1,000 and a call price of 1,050. What is the theoretical price of the contract?
 
-a. 50
-b. 100
-c. 1,050
-d. 1,100
+a. 1,100
+b. 1,050
+c. 100
+d. 50
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** The theoretical price of a CBBC is the underlying less the call price: $$1{,}100 - 1{,}050 = 50$$.
+**Answer: d.** The theoretical price of a CBBC is the underlying less the call price: $$1{,}100 - 1{,}050 = 50$$.
 
 </details>
 
@@ -5349,15 +5349,15 @@ d. 940 and 160
 
 **372. [Calculation]** In the same CPPI example the risky asset instead rises 10%. What is the new portfolio value and the new risky allocation?
 
-a. 1,040 and 440
-b. 1,040 and 560
-c. 1,100 and 400
-d. 1,000 and 400
+a. 1,000 and 400
+b. 1,040 and 440
+c. 1,040 and 560
+d. 1,100 and 400
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Risky rises to 440, so the portfolio is $$440 + 600 = 1,040$$. The cushion becomes $$1{,}040 - 900 = 140$$, giving a risky allocation of $$4 \times 140 = 560$$. The allocation of 560 refers to the next period; the value after the move is 1,040 with 440 currently in the risky asset.
+**Answer: b.** Risky rises to 440, so the portfolio is $$440 + 600 = 1,040$$. The cushion becomes $$1{,}040 - 900 = 140$$, giving a risky allocation of $$4 \times 140 = 560$$. The allocation of 560 refers to the next period; the value after the move is 1,040 with 440 currently in the risky asset.
 
 </details>
 
@@ -5365,15 +5365,15 @@ d. 1,000 and 400
 
 **373. [Single choice]** A product highlights sheet for a structured product must present:
 
-a. The key features, risks and costs in a concise, standardised format
-b. Only the historical performance of the product
-c. Only the issuer’s credit rating
-d. The full text of the prospectus
+a. Only the issuer’s credit rating
+b. The full text of the prospectus
+c. The key features, risks and costs in a concise, standardised format
+d. Only the historical performance of the product
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** The highlights sheet is a short, standardised summary supporting comparison across products. It supplements rather than replaces the prospectus.
+**Answer: c.** The highlights sheet is a short, standardised summary supporting comparison across products. It supplements rather than replaces the prospectus.
 
 </details>
 
@@ -5395,15 +5395,15 @@ d. It supports comparison between similar products
 
 **375. [Calculation]** A futures contract has a multiplier of SGD 50 and a tick size of 0.2 index points. What is the value of one tick?
 
-a. SGD 0.20
-b. SGD 10
-c. SGD 50
-d. SGD 100
+a. SGD 100
+b. SGD 50
+c. SGD 10
+d. SGD 0.20
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Tick value $$= \text{tick size} \times \text{multiplier} = 0.2 \times 50 = 10$$.
+**Answer: c.** Tick value $$= \text{tick size} \times \text{multiplier} = 0.2 \times 50 = 10$$.
 
 </details>
 
@@ -5425,15 +5425,15 @@ d. SGD 2,000
 
 **377. [Single choice]** A review question asks which statements are true and then offers four lettered combinations. The question is testing:
 
-a. Recall of a single definition
-b. Whether each statement can be evaluated independently and the results then combined
-c. The ability to compute a price
-d. Knowledge of the examiner’s identity
+a. The ability to compute a price
+b. Knowledge of the examiner’s identity
+c. Recall of a single definition
+d. Whether each statement can be evaluated independently and the results then combined
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Combination questions reward evaluating each statement separately, then choosing the option that matches exactly the set of true statements.
+**Answer: d.** Combination questions reward evaluating each statement separately, then choosing the option that matches exactly the set of true statements.
 
 </details>
 
@@ -5455,15 +5455,15 @@ d. Choose the longest option because it is usually correct
 
 **379. [Single choice]** The essential readings listed for CM-SIP are best used:
 
-a. As a substitute for the study guide
-b. As the primary source whenever the guide summarises a detail
-c. Only after the examination has been sat
-d. As a list to memorise without reading the underlying documents
+a. As the primary source whenever the guide summarises a detail
+b. Only after the examination has been sat
+c. As a list to memorise without reading the underlying documents
+d. As a substitute for the study guide
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** The readings are the primary sources; the guide summarises them, so they are where ambiguous or examinable detail should be resolved.
+**Answer: a.** The readings are the primary sources; the guide summarises them, so they are where ambiguous or examinable detail should be resolved.
 
 </details>
 
@@ -5485,57 +5485,57 @@ d. The internal trading manual of a single bank
 
 **381. [Single choice]** Applied to a call option, "in the money" means:
 
-a. The underlying exceeds the strike
-b. The underlying is below the strike
-c. The option has already expired
-d. The premium exceeds the intrinsic value
+a. The premium exceeds the intrinsic value
+b. The underlying exceeds the strike
+c. The underlying is below the strike
+d. The option has already expired
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** A call is in the money when the underlying is above the strike, so exercise would produce a positive payoff.
+**Answer: b.** A call is in the money when the underlying is above the strike, so exercise would produce a positive payoff.
 
 </details>
 
 **382. [Single choice]** "Contango" describes a futures market in which:
 
-a. Futures prices fall as maturity lengthens
-b. Futures prices rise as maturity lengthens
-c. Spot exceeds futures at every maturity
-d. All contract months trade at the same price
+a. All contract months trade at the same price
+b. Futures prices fall as maturity lengthens
+c. Futures prices rise as maturity lengthens
+d. Spot exceeds futures at every maturity
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** Contango is an upward-sloping curve; backwardation is the reverse, with spot above futures.
+**Answer: c.** Contango is an upward-sloping curve; backwardation is the reverse, with spot above futures.
 
 </details>
 
 **383. [Single choice]** A "covered call" involves:
 
-a. Buying a call and holding cash
-b. Holding the underlying and selling a call against it
-c. Selling a put and buying the underlying
-d. Buying a put and selling a call
+a. Selling a put and buying the underlying
+b. Buying a put and selling a call
+c. Buying a call and holding cash
+d. Holding the underlying and selling a call against it
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** The long underlying covers the short call, capping upside in exchange for the premium received.
+**Answer: d.** The long underlying covers the short call, capping upside in exchange for the premium received.
 
 </details>
 
 **384. [Single choice]** The "notional amount" of a derivative is:
 
-a. The market value of the contract
-b. The reference amount on which payments are calculated
-c. The premium paid for the contract
-d. The margin posted with the clearing house
+a. The reference amount on which payments are calculated
+b. The premium paid for the contract
+c. The margin posted with the clearing house
+d. The market value of the contract
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: b.** The notional is a reference principal used to scale payments. It is usually not exchanged, and it is not the contract’s value.
+**Answer: a.** The notional is a reference principal used to scale payments. It is usually not exchanged, and it is not the contract’s value.
 
 </details>
 
@@ -5555,29 +5555,29 @@ d. The contract reaches its expiry date
 
 **386. [Single choice]** "Delta hedging" a short option position involves:
 
-a. Trading the underlying to offset the option’s delta exposure
-b. Buying an identical option to close the position
-c. Holding the position untouched until expiry
-d. Selling the underlying without regard to the option’s sensitivity
+a. Holding the position untouched until expiry
+b. Selling the underlying without regard to the option’s sensitivity
+c. Trading the underlying to offset the option’s delta exposure
+d. Buying an identical option to close the position
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** Delta hedging offsets the first-order sensitivity of the option position by trading the underlying in the quantity the delta implies.
+**Answer: c.** Delta hedging offsets the first-order sensitivity of the option position by trading the underlying in the quantity the delta implies.
 
 </details>
 
 **387. [Single choice]** A "participation rate" in a structured product expresses:
 
-a. The share of the underlying’s upside passed to the investor
-b. The issuer’s underwriting fee
-c. The probability that the issuer defaults
-d. The margin required against the position
+a. The issuer’s underwriting fee
+b. The probability that the issuer defaults
+c. The margin required against the position
+d. The share of the underlying’s upside passed to the investor
 
 <details>
 <summary>Show answer</summary>
 
-**Answer: a.** It is the proportion of an index or asset gain the note delivers, with the remainder funding the structure’s protection or margin.
+**Answer: d.** It is the proportion of an index or asset gain the note delivers, with the remainder funding the structure’s protection or margin.
 
 </details>
 

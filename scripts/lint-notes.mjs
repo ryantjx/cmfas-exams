@@ -48,6 +48,7 @@ function structureRatio(lines) {
 }
 
 let totalFindings = 0;
+let totalStrictFindings = 0;
 
 for (const exam of EXAMS) {
   // Lint the files as authored: each page is its own file now, so the findings can
@@ -77,7 +78,9 @@ for (const exam of EXAMS) {
 
   const words = countWords(lines);
   const findings = metaHits.length + merged.length + noCues.length + thinPages.length;
+  const blocking = metaHits.length + merged.length + noCues.length;
   totalFindings += findings;
+  totalStrictFindings += blocking;
 
   const status = findings === 0 ? 'PASS' : 'WARN';
   console.log(
@@ -107,5 +110,8 @@ for (const exam of EXAMS) {
   }
 }
 
+// Structure density is a heuristic, not a defect: a formulae sheet is legitimately
+// almost all formulas and no bullets, and a prose-heavy conduct chapter can still be
+// correct. Only the three defect classes fail `--strict`; density stays advisory.
 console.log(`\n${totalFindings} finding(s) across the three guides.`);
-if (strict && totalFindings > 0) process.exit(1);
+if (strict && totalStrictFindings > 0) process.exit(1);
