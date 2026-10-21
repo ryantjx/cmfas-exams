@@ -30,10 +30,9 @@ export const EXAMS = [
     bank: 'notes/cmsip/CMSIP_QUESTIONS.md',
     bankFormat: 'bold',
     chapterSource: 'heading',
-    // The guide is one markdown file per chapter; `guide` is the legacy monolith
-    // that `scripts/split-guides.mjs` splits from and that is deleted afterwards.
+    // The guide is one markdown file per chapter and appendix. There is no
+    // monolithic source any more: `notes/cmsip/guide/` is the only authority.
     guideDir: 'notes/cmsip/guide',
-    guide: 'notes/cmsip/CMSIP_AI.md',
     stub: 'notes/cmsip/CMSIP.md',
     guideIntroTitle: 'Introduction and exam orientation',
     expectedQuestions: 388,
@@ -71,7 +70,6 @@ export const EXAMS = [
     bankFormat: 'heading',
     chapterSource: 'heading',
     guideDir: 'notes/fmrp/guide',
-    guide: 'notes/fmrp/FMRP_AI.md',
     stub: 'notes/fmrp/FMRP.md',
     guideIntroTitle: 'Introduction and core learning sequence',
     expectedQuestions: 406,
@@ -109,10 +107,9 @@ export const EXAMS = [
     bankFormat: 'heading',
     chapterSource: 'sourceTag',
     guideDir: 'notes/res12b/guide',
-    guide: 'notes/res12b/RES12B_AI.md',
     stub: 'notes/res12b/RES12B.md',
     guideIntroTitle: 'Introduction and coverage map',
-    expectedQuestions: 477,
+    expectedQuestions: 476,
     realExam: {
       questions: 60,
       minutes: 90,

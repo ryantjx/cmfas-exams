@@ -561,8 +561,9 @@ export function parseBank(exam, lines, guideChapters) {
 
     if (exam.chapterSource === 'sourceTag' && block.sourceRef) {
       // `[RES 1B §1.3]` → chapter 1B-1; `[RES 1B Appendix A]` → 1B-appendix-A.
-      // RES 2B §7 is the chapter the guide states is shared with RES 1B, and its
-      // appendices are a single bullet-style group, so both are remapped.
+      // RES 2B §7 is the chapter the guide states is shared with RES 1B, so it is
+      // remapped. Both parts' appendices are now separate pages (A–G, A–H), so an
+      // appendix tag always resolves to `<part>-appendix-<letter>`.
       // `[RES 12B Final revision checklist]` addresses the closing section, which
       // carries no part and no number.
       if (/RES\s*12B\s*Final revision checklist/i.test(block.sourceRef)) {
@@ -578,8 +579,7 @@ export function parseBank(exam, lines, guideChapters) {
           const num = Number(tag[2]);
           chapterId = partId === '2B' && num === 7 ? '1B-7' : `${partId}-${num}`;
         } else {
-          chapterId =
-            partId === '2B' ? '2B-appendices' : `${partId}-appendix-${tag[3].toUpperCase()}`;
+          chapterId = `${partId}-appendix-${tag[3].toUpperCase()}`;
         }
       }
     } else if (block.context.chapterNum != null) {

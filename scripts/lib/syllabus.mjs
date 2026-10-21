@@ -1068,7 +1068,13 @@ export const SYLLABUS_APPENDICES = {
     '1B-appendix-F': 'Examples of Suspicious Transactions',
     '1B-appendix-G': 'Review Questions',
     '1B-appendix-H': 'Essential Readings',
-    '2B-appendices': 'Part II appendices (A–G)',
+    '2B-appendix-A': 'Criteria for the Assessment of a Customer Account Review',
+    '2B-appendix-B': 'Criteria for the Satisfaction of the Customer Knowledge Assessment',
+    '2B-appendix-C': 'Risk Warning Statement for Overseas-Listed Investment Products',
+    '2B-appendix-D': 'Excluded Investment Products',
+    '2B-appendix-E': 'Examples of Suspicious Transactions',
+    '2B-appendix-F': 'Review Questions',
+    '2B-appendix-G': 'Essential Readings',
   },
 };
 

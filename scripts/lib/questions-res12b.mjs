@@ -633,19 +633,13 @@ export const RES12B = [
     r: 'The note is due no later than the next business day after the transaction, or the next business day after any deferred detail becomes available.',
   },
   {
-    s: 'RES 2B Appendix H', t: 'Single choice',
+    s: 'RES 1B Appendix A', t: 'Single choice',
     q: 'Which document is the source of the fit and proper criteria for representatives?',
     o: ['The MAS Guidelines on Fit and Proper Criteria (FSG-01)', 'The MAS Guidelines on Criteria for the Grant of a CMS Licence (SFA 04-G01)', 'The MAS Notice on Reporting of Misconduct of Representatives (04-N11)', 'The SFA itself, without reference to any guideline'], a: 'A',
     r: 'FSG-01 sets the fit and proper criteria. SFA 04-G01 concerns licensing criteria for the firm, and 04-N11 concerns misconduct reporting.',
   },
 
   // ------------------------------------------------- Final revision checklist
-  {
-    s: 'RES 2B Appendix H', t: 'Multiple response',
-    q: 'Which are the three separate notices implementing the restriction on lending Singapore dollars to non-resident financial institutions?',
-    o: ['MAS 757 for banks', 'MAS 1105 for merchant banks', 'SFA 04-N04 for CMS licence holders', 'SFA 04-N12 for the sale of investment products'], a: 'A,B,C',
-    r: 'The restriction is implemented through three notices split by institution type. SFA 04-N12 concerns the sale of investment products and is unrelated.',
-  },
 
   // ============================================ Second wave: synthesis revision
   // These are cross-cutting questions that combine chapters, which is how the real

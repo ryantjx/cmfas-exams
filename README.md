@@ -53,10 +53,9 @@ slug: 'chapter-1b-3-market-conduct'
 
 `id`, `slug` and `order` are **pinned rather than derived from the title**, so
 correcting a chapter title to the official syllabus wording cannot move a URL or
-orphan its questions. Splitting the guides this way is what lets a single chapter
-be rewritten without touching a 1,200-line file; `scripts/split-guides.mjs`
-performed the one-off migration and asserted that every page still rendered
-identically afterwards.
+orphan its questions. One file per page is what lets a single chapter be rewritten
+without touching a 1,200-line file; there is no monolithic guide any more, so
+`notes/<exam>/guide/` is the only authority for guide prose.
 
 Each exam folder also holds the official provider PDF and the pre-generated
 `output/html` and `output/pdf` artefacts.
@@ -73,6 +72,7 @@ npm run dev        # generate + dev server (regenerates content first)
 npm run gen        # parse banks and regenerate the content tree
 npm run audit      # syllabus coverage + markdown defect check (--strict to fail)
 npm run audit:depth  # word-count compression of each guide against its source PDF
+npm run audit:numbers  # examinable parameters the guide never carries, per chapter
 npm run audit:banks  # duplicate stems, near-duplicates, and answer-key spread
 npm run test:parser  # assert bank invariants (counts, answer keys, chapters)
 npm run lint:notes   # audit the three teaching guides (advisory; --strict to fail)
@@ -98,6 +98,7 @@ scripts/build-banks.mjs     markdown → normalised question JSON
 scripts/build-content.mjs   markdown → Starlight pages, sidebar and PDF copies
 scripts/audit-guides.mjs    coverage vs the syllabus manifest + defect scan
 scripts/audit-depth.mjs     guide-vs-source word-count compression, per file
+scripts/audit-numbers.mjs   examinable parameters (percentages, dates, periods) the guide omits
 scripts/audit-banks.mjs     duplicate/near-duplicate stems + answer-key spread
 scripts/rebalance-answers.mjs  rotate option order to even out the answer key
 scripts/append-questions.mjs   re-emit the question-bank extension block
