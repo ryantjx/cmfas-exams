@@ -8,9 +8,21 @@ order: 12
 slug: 'chapter-12-case-studies'
 ---
 
-# Case Studies
+# Chapter 12 — Case Studies
 
 These cases are decision exercises, not product endorsements. A representative should establish suitability, knowledge, risk willingness, financial capacity, external exposure, internal limits, buffers, leverage, stop/offset discipline, profit targets and current market information before recommending a trade.
+
+The examination weights this chapter heavily: **6 case studies carry 18 questions**, about a fifth of the paper. Each case is worked end to end, and the question normally turns on one number or one obligation.
+
+## Learning Objectives
+
+The candidate should be able to:
+
+- Compute the payoff, conversion or accrual outcome in each case.
+- Identify the embedded option and the investor's obligation in each structure.
+- State the worst-case loss and what triggers it.
+- Match a market view to the structure that expresses it.
+- Recognise the product-specific trap in each case.
 
 ## 12.1 Enhanced yield with currency investments — Mrs Goh
 
@@ -79,9 +91,9 @@ Rising US rates may strengthen USD and weaken gold/silver, while political/equit
 
 Tracy expects the US yield curve to flatten/invert: short rates rise faster than long rates. A constant maturity swap (CMS) resets a floating leg against a long-term constant-maturity rate; unlike a vanilla IRS, the reference maturity/duration remains constant. It can express steepening/flattening views. To benefit from short rates rising faster, swap the long end for the short end — pay the long-end rate and receive the short-end rate — subject to the exact swap convention and market quotation.
 
-### Exam cues
+## Exam cues
 
-The case studies test the same method, not the products. For each, work the numbers and identify the embedded option and the investor’s obligation.
+The case studies test the same method, not the products. For each, work the numbers and identify the embedded option and the investor's obligation.
 
 - **DCI (Goh):** yield = option premium + deposit interest; conversion risk is the real exposure. A high headline yield does not prevent a base-currency loss.
 - **Downside volatility (Brian):** puts / put warrants cap loss at premium but decay; short futures and inverse/leveraged products add margin, daily reset and compounding risk.

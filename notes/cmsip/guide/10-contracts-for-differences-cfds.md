@@ -100,6 +100,8 @@ Liquidation converts the position to cash without the investor's consent. It is 
 
 All orders are **day orders** unless stated otherwise, and use the **underlying's bid and ask**.
 
+#### 10.6.5.1 Order Types and Execution
+
 - **Limit order.** A limit buy at **$10.00** when the ask is **$10.02** will not execute at 10.02; it queues at 10.00 or better.
 - **Market-to-limit (MTL).** Executes at the market and leaves any unfilled balance at the prior execution price. A buy filling partially at **$10.02** stays at 10.02; it is cancellable and valid only during market hours.
 - **Market order.** Matched to the **lowest ask** for a buy, or the **highest bid** for a sell.
@@ -132,7 +134,7 @@ All orders are **day orders** unless stated otherwise, and use the **underlying'
 
 A CFD with no fixed expiry is rolled periodically, and the provider charges or credits a rollover adjustment reflecting the financing and dividend differential between the contract periods.
 
-#### 10.6.7 Going Short
+### 10.6.7 Going Short
 
 Sell 10,000 at **$3.30**, cover at **$3.10**, commission **0.4%**, GST **8%**, **20%** margin and **6%** financing over five days.
 
@@ -143,13 +145,13 @@ Sell 10,000 at **$3.30**, cover at **$3.10**, commission **0.4%**, GST **8%**, *
 
 The second row is the point: a 4.5% adverse move in the underlying produced a **27.56%** loss on the margin.
 
-#### 10.6.8 Corporate Actions
+### 10.6.8 Corporate Actions
 
 - **Dividends.** Long equity positions may **receive** cash dividends; short positions **pay** them.
 - **Splits and reverse splits** adjust quantity and price.
 - **Scrip dividends, bonus issues and rights** may differ or require close-out, because the CFD cannot deliver the actual entitlement.
 
-#### 10.6.9 CFDs versus Futures
+### 10.6.9 CFDs versus Futures
 
 | Feature | CFDs | Equity futures |
 |---|---|---|

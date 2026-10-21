@@ -325,16 +325,6 @@ $$ \text{price} = \frac{(11.00 - 9.00) + \text{financial cost}}{1} = \$3.10 $$
 
 Exotics exchange a lower premium or a higher coupon for **conditionality**. The barrier level, its direction, the monitoring convention, any rebate, knock-in or knock-out status and the settlement basis determine the payoff. CBBCs add a mandatory call event and the Category N / Category R distinction; an investor can lose most or all of the capital quickly.
 
-## Chapter 6 Appendix — Average Price (Rate) Options (non-examinable)
-
-An **average price** or **Asian** option settles against the arithmetic mean of the underlying over a stated sampling period rather than a single point:
-
-$$ \text{Payoff}_{\text{call}} = \max\left\{S_{\text{avg}} - X,\ 0\right\} \qquad \text{Payoff}_{\text{put}} = \max\left\{X - S_{\text{avg}},\ 0\right\} $$
-
-Averaging **reduces** the option's sensitivity to a spike near expiry, so an average price option is **cheaper than the equivalent vanilla**. The longer the averaging window, the larger the discount. Sampling may be daily, monthly or quarterly.
-
-Structured products use them to neutralise **tail-end spikes**: an underlying that gaps on the observation date cannot move the settlement as much when that date is one of many in the average. The trade-off is that the investor also gives up the benefit of a favourable spike.
-
 ## Exam cues
 
 - **Path dependence is the defining feature.** A barrier does not change the final level; it changes whether the option is alive at that level. Two assets finishing at the same price can produce different outcomes.

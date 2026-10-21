@@ -246,25 +246,6 @@ Five factors determine whether the sale is sound: **liquidity** (can the client 
 
 Structured notes are debt plus derivatives. Ask whether principal is actually protected, **when, in which currency and by whom**. Callable, range, inverse-floater, ELN and CLN products shift market, rate, equity or credit risk into the investor's return; issuer or SPV credit and liquidity are as important as the reference asset.
 
-## Chapter 8 Appendix — Spread CDRANs, RAN Variations and PHS Content (non-examinable)
-
-### Spread CDRANs
-
-A spread range accrual pays on the **differential** between two points on a curve — for example the **30-year against the 10-year**. It pays while the curve is positive and fails on inversion. The investor is expressing a view on curve shape, not on the level of rates.
-
-### Variations of RANs
-
-- A **daily range accrual equity-linked note** observes an equity index rather than a rate. It typically carries **unprotected principal**, because the equity index can move far outside a range that a rate index would rarely breach.
-- A **basket accrual** requires **all** constituents to be inside their ranges, which materially lowers the probability of accrual and therefore raises the potential coupon.
-
-### Documentation
-
-A prospectus and PHS are prepared for each issue, though the requirement is **exempt** for offers to institutional or accredited investors.
-
-### PHS Contents
-
-A PHS should be at most a few pages, set in no smaller than **10-point** type, and must cover seven mandatory sections: the **product summary**; **suitability**; **key features**; **key risks** — business, legal, market, credit and liquidity; a **prominent warning** of possible loss of all principal, in bold or italic; **definitions**; and **contact information**. The framework applies to offers of debt securities, hybrid instruments and equity securities.
-
 ## Exam cues
 
 - **A note is a claim on the issuer or SPV**, not on the underlying. An SPV may be off balance sheet with no parent guarantee. Prospectus exemption threshold: **S$200,000**; accredited individual: **>S$2m** net personal assets, **>S$1m** financial assets, or **S$300,000** income; corporation **>S$10m** net assets.

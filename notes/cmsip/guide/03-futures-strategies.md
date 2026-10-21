@@ -313,13 +313,16 @@ $$ 2 \times \frac{100\text{m}}{1\text{m}} = \mathbf{200} \text{ contracts} $$
 
 Sell **200** contracts for the 180-day exposure. A 90-day exposure would need 100. Two further points: holding a stack of 90-day contracts against a 180-day exposure creates **basis risk at the roll**, and margin calls arise before the hedge pays off. The ratio must be recalculated when the stack is rolled.
 
-#### Strips and Stacks
-
-A **strip** uses sequential futures delivery months matched to the exposure periods — three-month, six-month, nine-month — so each resets against its own contract. A **stack** concentrates the whole exposure in one or deferred contracts and rolls them; it is cheaper and more liquid but carries roll and basis risk. Choose between them by **time horizon**: an interpolative hedge uses a contract expiring beyond the exposure and interpolates; an extrapolative hedge uses a contract expiring before it.
-
 ### 3.5.7 Strips and Stacks
 
-See the strip and stack definitions above: a strip matches sequential delivery months to the exposure periods, a stack concentrates the exposure in one contract or a deferred month and rolls it. Strips avoid roll risk but carry more contracts and lower liquidity per month; stacks are cheaper and more liquid but expose the hedger to basis at each roll.
+A **strip** uses sequential futures delivery months matched to the exposure periods — three-month, six-month, nine-month — so each resets against its own contract. A **stack** concentrates the whole exposure in one or in deferred contracts and rolls them; it is cheaper and more liquid but carries roll and basis risk.
+
+| Structure | Mechanics | Trade-off |
+|---|---|---|
+| **Strip** | Sequential delivery months matched to exposure periods | Avoids roll risk; more contracts and thinner liquidity per month |
+| **Stack** | Whole exposure in one or deferred contracts, rolled | Cheaper and more liquid; basis risk at every roll |
+
+Choose between them by **time horizon**: an **interpolative** hedge uses a contract expiring beyond the exposure and interpolates; an **extrapolative** hedge uses a contract expiring before it.
 
 ### 3.5.8 Hedging Long-Term Interest Rate Risk
 

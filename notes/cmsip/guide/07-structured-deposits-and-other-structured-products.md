@@ -252,25 +252,6 @@ Currency notes and basket structures are covered with the other structured notes
 
 Structured deposits may improve yield or customise currency and market exposure, but they can return less than a plain deposit, convert currency at an unfavourable level, be hard to exit, and expose the investor to bank credit risk. The client must understand the **worst case**, not only the headline yield.
 
-## Chapter 7 Appendix — Step-Down and Step-Up Digital Options (non-examinable)
-
-### Deposits with a Standard Option and a Step-Down Option
-
-Strike **114.50**, knock-out or step-down level **109.00**, minimum **2.00%**. Once the barrier is touched, the whole payoff **shifts down by 2.00%** — so the investor keeps a positive return rather than falling to zero. The step-down is a partial protection: the investor retains something, but the headline is no longer available.
-
-### Step-Up One-Touch Digital Option
-
-Rather than a single all-or-nothing payout, the payout steps with the level reached:
-
-| Level | Payout |
-|---|---|
-| EUR/USD ≤ **1.04** | **14.00%** |
-| 1.04–1.06 | **7.50%** |
-| 1.06–1.08 | **3.50%** |
-| > 1.08 | **1.00%** |
-
-With spot at **1.08** and a money-market rate of **1.75%**, the structure pays more the further the pair moves in the investor's favour, and never pays nothing. The stepped payoff is a ladder of digital options, each struck at a different level.
-
 ## Exam cues
 
 - **A structured deposit is a bank deposit**, but it is **not necessarily deposit-insured**, and early withdrawal may cost principal or return. Return depends on another instrument; the worst case may be principal back with **zero interest**.

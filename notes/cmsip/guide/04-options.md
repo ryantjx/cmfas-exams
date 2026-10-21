@@ -509,45 +509,6 @@ The full strategy map crosses the market view — yield, bullish, neutral, prote
 
 Options separate rights from obligations. Price is intrinsic plus time value, and volatility, time, rates and dividends drive the premium. Learn payoff, breakeven and maximum loss for each leg before combining legs. Parity explains synthetic positions and the Greeks explain risk management.
 
-## Chapter 4 Appendix — Additional Spreads (non-examinable)
-
-### Long Call Butterfly
-
-With strikes at **USD 10, 20 and 30**, buy one in-the-money call, sell two at-the-money calls and buy one out-of-the-money call. Maximum gain is USD 10 less the net outlay; maximum loss is the outlay.
-
-### Long Put Butterfly
-
-Strikes at **USD 15, 25 and 35**, the mirror construction. Maximum gain is USD 10 less the outlay.
-
-### Vertical, Horizontal and Diagonal Spreads
-
-A **vertical** spread uses the same expiry with different strikes. A **horizontal** or calendar spread uses the same strike with different expiries. A **diagonal** spread differs in both strike and expiry.
-
-### Condor Spread
-
-| | Long | Short |
-|---|---|---|
-| **Calls** | Buy the low strike, buy the high strike | Sell the two middle strikes |
-| **Puts** | Buy the low strike, buy the high strike | Sell the two middle strikes |
-
-### Ratio Hedge
-
-A 2:1 spread: two options sold against one bought. Upside is limited while downside can become very large.
-
-### Seagull Strategy
-
-A three-legged structure with zero net outlay. With USD/JPY at **113**, sell the 109 put, sell the 115 call and buy the 111 put. At a spot of 110 the position can be closed for a profit.
-
-To **re-centre**, buy back the 115 call and 109 put for **−1.50%**, then sell the 112 call and 107 put for **+1.35%**, for a net **−0.15%**, while retaining the in-the-money 111 put.
-
-### Protecting or Re-centring a Short Strangle
-
-A three-month roll and adjustment sequence: as the market moves against one leg, buy back the threatened option and sell a further out-of-the-money option to fund it, keeping the position short premium but re-centred on the new range.
-
-### Appendix Strategy Summary
-
-The appendix closes with a grid recording, for each structure, the market view, debit or credit, maximum gain and maximum loss.
-
 ## Exam cues
 
 - **Premium = intrinsic + time value.** Call IV = max(0, S − X); put IV = max(0, X − S). Time value is zero at expiry.
