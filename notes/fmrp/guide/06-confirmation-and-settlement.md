@@ -12,91 +12,109 @@ slug: 'chapter-6-confirmation-and-settlement'
 
 Controls over the trade after execution. Good confirmation and settlement reduce ambiguity, operational error, liquidity pressure, fraud and counterparty exposure. The examination tests the controls and the key data.
 
-## 6.1 Confirmation and Settlement Systems/Frameworks
+## Learning Objectives
+
+The candidate should be able to:
+
+- Explain the confirmation and settlement controls and why each exists.
+- State the timing requirement for a confirmation.
+- Identify the failures that STP and data-integrity controls prevent.
+- Recognise the settlement risks that arise from a processing failure.
+
+### 6.1 Confirmation and Settlement Systems/Frameworks
 
 Systems should support timely, accurate confirmation and settlement through the full transaction lifecycle. Capacity, straight-through processing and data integrity are control objectives, not merely technology preferences.
 
-## 6.1.1 Processing Capacity
+#### 6.1.1 Processing Capacity
 
 Capacity should handle normal and peak volumes, including market disruption. Capacity planning, testing, monitoring and contingency arrangements reduce operational and settlement risk.
 
-## 6.1.2 STP
+#### 6.1.2 STP
 
 Straight-through processing passes accurate data from trade capture to confirmation, settlement and accounting with minimal manual re-entry. Exceptions still require controlled human review.
 
-## 6.1.3 Data Integrity
+#### 6.1.3 Data Integrity
 
 Trade data should be complete, accurate, consistent, authorised and protected from unauthorised change. Reconciliations, validation and audit trails help detect corruption or processing errors.
 
-## 6.2 Confirmation Procedures
+### 6.2 Confirmation Procedures
 
 Confirmations should be generated as soon as practicable, independently checked where appropriate and matched against the counterparty. The procedure should address block trades, discrepancies and product-specific data.
 
-## 6.2.1 Segregated Functions
+#### 6.2.1 Segregated Functions
 
 The person who executes a trade should not have unrestricted control over confirmation, settlement and reconciliation. Segregation reduces the ability to hide errors or fraud.
 
-## 6.2.2 As Soon As Practicable
+#### 6.2.2 As Soon As Practicable
 
-Timely confirmation reduces uncertainty and allows errors to be corrected before value date. The appropriate timing depends on product and convention, but avoidable delay is a control weakness.
+Timely confirmation reduces uncertainty and lets errors be corrected **before value date**. Avoidable delay is itself a control weakness, because it shortens the window in which a mismatch can still be fixed without a failed settlement.
 
-## 6.2.3 Key Confirmation Data
+| Situation | Timing requirement |
+|---|---|
+| Standard executed trade | As soon as practicable after execution — normally the same business day |
+| Deferred detail (for example an allocation or an average price) | As soon as practicable after the detail becomes available |
+| Trade executed late in the day | No later than the next business day |
+| Month in a confirmation | Spelt out, so `05/06` cannot be read as two different dates |
+
+The month-in-full rule exists for exactly one reason: a numeric month is ambiguous between conventions, and an ambiguous confirmation defeats the purpose of confirming.
+
+#### 6.2.3 Key Confirmation Data
 
 Key data includes parties, capacity, product, amount, price or rate, trade and value dates, settlement currency, payment instructions, fees, netting and special terms. Missing data can change the economics.
 
-## 6.2.4 Single Party
+#### 6.2.4 Single Party
 
 Where a single party is responsible for producing a confirmation or matching record, the process should still include independent controls, counterparty communication and exception monitoring.
 
-## 6.2.5 Auto-Generated
+#### 6.2.5 Auto-Generated
 
 Auto-generated confirmations can improve speed and reduce re-keying, but only if source data, templates, access rights, change controls and exception handling are reliable.
 
-## 6.2.6 Block Transactions
+#### 6.2.6 Block Transactions
 
 Block trades need an allocation process that preserves the economics, identifies each beneficiary and controls the timing and accuracy of confirmations. Unallocated blocks should not be allowed to obscure exposure.
 
-## 6.2.7 Discrepancy Resolution
+#### 6.2.7 Discrepancy Resolution
 
 A mismatch should be investigated, documented and resolved by authorised staff. The firm should not silently amend records or let an unresolved discrepancy pass through settlement.
 
-## 6.2.8 Product-Specific
+#### 6.2.8 Product-Specific
 
 Confirmation content must reflect the product: options need exercise and premium terms, swaps need both legs, NDFs need fixing provisions, and securities need price and accrued-interest conventions.
 
-## 6.3 Settlement Procedures
+### 6.3 Settlement Procedures
 
 Settlement procedures reduce principal, liquidity, operational and counterparty risk through reliable instructions, controls, netting, payment authorisation and monitoring.
 
-## 6.3.1 Mitigating Settlement Risk
+#### 6.3.1 Mitigating Settlement Risk
 
 Use delivery-versus-payment where available, valid standing instructions, cut-off monitoring, segregation, confirmation matching and escalation of late or failed payments.
 
-## 6.3.2 Netting
+#### 6.3.2 Netting
 
 Netting reduces the number and value of payments when legally and operationally available. The firm must confirm enforceability, scope, currency, cut-off and the parties covered by the netting arrangement.
 
-## 6.3.3 Direct Payments
+#### 6.3.3 Direct Payments
 
 Payments should normally go to the counterparty or its approved account. A third-party payment requires a valid, documented reason, appropriate approval and controls against fraud and money laundering.
 
-## 6.4 Standing Settlement Instructions
+### 6.4 Standing Settlement Instructions
 
 SSIs should be verified, authorised, changed through controlled procedures and independently checked. A last-minute instruction change is a common fraud risk and must not be accepted casually.
 
-## 6.5 Nostro Balance Requirements
+### 6.5 Nostro Balance Requirements
 
 Nostro accounts must have sufficient balances and monitoring to make expected payments. Forecasts, intraday liquidity, cut-offs and escalation for shortfalls protect settlement performance.
 
-## 6.5.1 SGD Payments
+#### 6.5.1 SGD Payments
 
 SGD payments require attention to local settlement systems, MAS or market cut-offs, payment instructions and contingency procedures. A disruption should be managed with the agreed market process.
 
-## 6.6 Account Reconciliation
+### 6.6 Account Reconciliation
 
 Reconcile nostro, custody, trading and accounting records promptly. Breaks should be aged, investigated, assigned and escalated; a reconciliation that is only performed after a loss is not an effective control.
 
-## 6.7 Late-Payment Penalties
+### 6.7 Late-Payment Penalties
 
 Late-payment terms and penalties should be clear in the trade or governing agreement. The firm should calculate, communicate and settle them accurately, while escalating repeated failures.
 

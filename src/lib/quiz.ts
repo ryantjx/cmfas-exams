@@ -184,6 +184,71 @@ export function isCorrect(question: QuizQuestion, selected: readonly string[] | 
   return true;
 }
 
+/**
+ * Sample a mock exam to a blueprint rather than uniformly.
+ *
+ * A uniform draw does not resemble the real paper: CM-SIP's paper is 80 questions
+ * of which 18 are case-study questions, but the bank is only 6% case studies, so a
+ * random draw produces about five. RES 12B is a combined paper, and a random draw
+ * gives no guarantee that both constituent parts are represented.
+ *
+ * `quotas` maps `chapterId` to a target count. Each chapter is drawn up to its
+ * quota and no further; if a chapter cannot fill its quota the shortfall is
+ * reallocated across the chapters that still have unused questions, so the set is
+ * never short of `size`. The ordering of the result is shuffled, as with any other
+ * sample.
+ *
+ * Chapter ids missing from `quotas` are still eligible for the top-up, which
+ * covers appendices and the `mixed` group.
+ */
+export function sampleByBlueprint(
+  questions: readonly QuizQuestion[],
+  quotas: Readonly<Record<string, number>>,
+  size: number,
+  random: () => number = Math.random,
+): QuizQuestion[] {
+  const byChapter = new Map<string, QuizQuestion[]>();
+  for (const question of questions) {
+    const key = question.chapterId ?? 'unknown';
+    const bucket = byChapter.get(key);
+    if (bucket) bucket.push(question);
+    else byChapter.set(key, [question]);
+  }
+  // Shuffle each bucket once so repeated draws within a chapter vary.
+  for (const [key, bucket] of byChapter) byChapter.set(key, shuffleWith(bucket, random));
+
+  const picked: QuizQuestion[] = [];
+  const used = new Map<string, number>();
+
+  // 1. Honour each chapter's quota, capped at what the chapter actually holds.
+  for (const [chapterId, quota] of Object.entries(quotas)) {
+    const bucket = byChapter.get(chapterId);
+    if (!bucket || quota <= 0) continue;
+    const take = Math.min(quota, bucket.length);
+    picked.push(...bucket.slice(0, take));
+    used.set(chapterId, take);
+  }
+
+  // 2. Top up any shortfall across all remaining questions, preferring chapters
+  //    that were under-represented relative to their quota, then any other
+  //    chapter. Without this a thin chapter would shrink the whole paper.
+  if (picked.length < size) {
+    const leftovers: QuizQuestion[] = [];
+    for (const [chapterId, bucket] of byChapter) {
+      const start = used.get(chapterId) ?? 0;
+      leftovers.push(...bucket.slice(start));
+    }
+    const ordered = shuffleWith(leftovers, random);
+    picked.push(...ordered.slice(0, size - picked.length));
+  }
+
+  // 3. Never exceed the requested size, even if quotas were generous.
+  const capped = picked.slice(0, size);
+  return capped.length >= Math.min(size, questions.length)
+    ? shuffleWith(capped, random)
+    : sampleQuestions(questions, size, { shuffleQuestions: true });
+}
+
 export function formatClock(totalSeconds: number): string {
   const safe = Math.max(0, Math.floor(totalSeconds));
   const minutes = Math.floor(safe / 60);

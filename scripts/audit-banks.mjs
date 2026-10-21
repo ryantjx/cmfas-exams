@@ -16,7 +16,13 @@
  *   BALANCE     Questions per chapter and per answer key, so an over-weighted
  *               chapter or a bank where the answer is usually "b" is visible.
  *
- * Reads only. `--strict` exits non-zero if a hard duplicate is found.
+ *   POSITIONAL  Options whose meaning depends on where they sit ("all of the
+ *               above", "both a and b"). The quiz re-letters every option at
+ *               runtime (`shuffleOptions`), which silently invalidates them, so a
+ *               bank containing one would show a wrong answer on screen.
+ *
+ * Reads only. `--strict` exits non-zero if a hard duplicate or a positional
+ * option is found.
  */
 
 import { readFileSync } from 'node:fs';
@@ -25,6 +31,28 @@ import path from 'node:path';
 import { EXAMS } from './lib/exams.mjs';
 
 const strict = process.argv.includes('--strict');
+
+/**
+ * Refuse to audit stale JSON.
+ *
+ * `src/data/banks/*.json` is generated and gitignored, so it survives across
+ * checkouts and can describe content the markdown no longer contains. Auditing it
+ * silently would report on the wrong bank and make `--strict` look like a pass. The
+ * generated count is compared with the single source of truth (`expectedQuestions`).
+ */
+function assertFresh(exam) {
+  const file = path.join('src', 'data', 'banks', `${exam.id}.json`);
+  const bank = JSON.parse(readFileSync(file, 'utf8'));
+  const actual = bank.questions.length;
+  if (actual !== exam.expectedQuestions) {
+    console.error(
+      `\n${exam.name}: ${file} is stale — it holds ${actual} questions but ` +
+        `${exam.expectedQuestions} are expected.\nRun \`npm run gen\` before auditing.`,
+    );
+    process.exit(1);
+  }
+  return bank;
+}
 
 /** Normalise a stem for comparison: case, punctuation, whitespace, numerals. */
 function normalise(text) {
@@ -43,10 +71,18 @@ function opening(text, n = 9) {
 }
 
 let hardDuplicates = 0;
+let positionalOptions = 0;
+
+/**
+ * Option text that only makes sense in its original position, matched against the
+ * start of the option text. `shuffleOptions` re-letters options at runtime, so any
+ * of these would become wrong rather than merely reordered.
+ */
+const POSITIONAL =
+  /^\s*(all|none)\s+of\s+(the\s+)?(above|these|them)\b|^\s*(both|neither)\s+of\s+(the\s+)?(above|these)\b|^\s*[a-d]\s+and\s+[a-d]\s+only\b/i;
 
 for (const exam of EXAMS) {
-  const file = path.join('src', 'data', 'banks', `${exam.id}.json`);
-  const bank = JSON.parse(readFileSync(file, 'utf8'));
+  const bank = assertFresh(exam);
   const { questions, chapters } = bank;
 
   console.log(`\n${exam.name} — ${questions.length} questions`);
@@ -112,6 +148,19 @@ for (const exam of EXAMS) {
     if (near.length > 8) console.log(`    … ${near.length - 8} more`);
   }
 
+  // --- position-dependent options -----------------------------------------
+  const positional = questions.filter((q) =>
+    q.options.some((option) => POSITIONAL.test(option.text ?? '')),
+  );
+  positionalOptions += positional.length;
+  if (positional.length) {
+    console.log(`  POSITIONAL OPTIONS (break on shuffle): ${positional.length}`);
+    for (const q of positional.slice(0, 8)) console.log(`    Q${q.number}: ${q.stem.slice(0, 66)}`);
+    if (positional.length > 8) console.log(`    … ${positional.length - 8} more`);
+  } else {
+    console.log('  no position-dependent options');
+  }
+
   // --- answer-key balance -------------------------------------------------
   const keyCount = new Map();
   for (const q of questions) {
@@ -147,7 +196,8 @@ for (const exam of EXAMS) {
 }
 
 console.log(
-  `\n${hardDuplicates} hard duplicate group(s) across the three banks.` +
-    (strict && hardDuplicates ? '\nFailing under --strict.' : ''),
+  `\n${hardDuplicates} hard duplicate group(s), ${positionalOptions} position-dependent ` +
+    `question(s) across the three banks.` +
+    (strict && (hardDuplicates || positionalOptions) ? '\nFailing under --strict.' : ''),
 );
-if (strict && hardDuplicates > 0) process.exit(1);
+if (strict && (hardDuplicates > 0 || positionalOptions > 0)) process.exit(1);

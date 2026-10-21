@@ -98,7 +98,7 @@ Alternative settlement practices and procedures that can be applied:
 
 Market participants should **not perform unilateral suspension of settlements by not fulfilling settlement obligations to counterparties**. If a counterparty fails to receive cash or security on a settlement date, it **may in turn be unable to settle another transaction with another party**. This failed settlement generates **additional credit risk exposure to trade counterparties**, and the **chain effect of a series of failed settlements might trigger systemic risk**.
 
-The source illustration is the failure of **hedge funds to meet some settlement obligations**, which contributed to the **collapse of Lehman Brothers** and the chain effect on US and other global financial markets. Unilateral suspension should therefore be avoided.
+The canonical illustration is the failure of **hedge funds to meet settlement obligations**, which contributed to the **collapse of Lehman Brothers** and the chain effect on US and other global financial markets. Unilateral suspension should therefore be avoided.
 
 ### 7.6.3 SGD settlement disruptions
 
@@ -114,12 +114,12 @@ Market participants should **follow the applicable rules of the relevant CCP in 
 
 - **The definition of a market disruption turns on three elements**: normal trading **or** settlement is **inhibited, impossible or illegal**; the cause is **governmental action, natural catastrophe, civil disorder or other cause beyond any individual participant's control**; and the period **may or may not be determinable**.
 - **The three named event types** are unscheduled non-business days, unforeseen market events, and sudden changes of national practices or policies by a government or central bank.
-- **The Malaysian peg of MYR 3.8000 per USD during the 1997–1998 Asian financial crisis** is the source's example of a sudden policy change — a likely factual question.
+- **The Malaysian peg of MYR 3.8000 per USD during the 1997–1998 Asian financial crisis** is the standard example of a sudden policy change — a likely factual question.
 - **SFEMC's role is recommendatory, not binding.** It convenes, proposes, consults, issues statements and recommends fixing procedures — but participants still **negotiate bilaterally under their contracts**, albeit being **strongly encouraged** to adopt the recommendations.
 - **SFEMC dissemination channels**: website announcements, **MASNET** broadcasts, and direct telephone or e-mail contact with senior management; participants may also contact the **Secretary of the SFEMC**.
 - **Five SFEMC past actions** are examinable in sequence: convene, propose, consult regulators and participants, issue statements, recommend and monitor fixing procedures.
 - **Negotiations must be in utmost good faith and by properly authorised persons.** Withdrawing from an agreement because a representative **lacked authority** is expressly **bad practice**.
-- **Honour confirmed prices and rates even at a loss** — that is the source's ethical standard during disruption, not an aspiration.
+- **Honour confirmed prices and rates even at a loss** — that is the ethical standard during disruption, not an aspiration.
 - **Voice recorders and dealing systems serve as evidence** to resolve trade disputes; that evidentiary purpose is the examinable reason for the control.
 - **Five alternative settlement procedures for FX**: roll to next business day; agree value dates or split delivery where local practice allows; adjust the exchange rate to the prevailing **relevant swap mid-rate**; confirm swiftly; and apply extra due-diligence checks per SFEMC or MAS guidance before paying.
 - **Unilateral suspension is prohibited in substance**, on the reasoning that failed settlements create credit exposure and can cascade into systemic risk — the **Lehman Brothers** chain effect is the illustration.

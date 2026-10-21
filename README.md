@@ -12,8 +12,8 @@ A static study site for the Singapore capital markets exams — **RES 12B**,
 | --- | --- |
 | **Study guides** | One page per chapter and per appendix, split automatically from the repo's per-chapter teaching-guide markdown. |
 | **Chapter quiz** | Every question in a chosen chapter, untimed, with the answer and explanation revealed as you answer. |
-| **Daily quiz** | 30 questions drawn at random from the whole bank, re-rolled on every load. |
-| **Mock exam** | The real paper's length, timing and pass mark: strict timer, auto-submit, no feedback until the end, question navigator, flag-for-review, shuffled questions and options, and a score report with a per-chapter breakdown. |
+| **Daily quiz** | 30 questions spread across chapters, drawn from a seed fixed to the calendar date: the same set all day, a different one tomorrow. |
+| **Mock exam** | The real paper's length, timing and pass mark: strict timer, auto-submit, no feedback until the end, question navigator, flag-for-review, shuffled questions and options, and a score report with a per-chapter breakdown. Questions are drawn to a blueprint rather than uniformly, so the composition of the paper is preserved — CM-SIP spends 18 of its 80 questions on case studies, and RES 12B splits evenly across its two constituent parts. |
 
 Nothing is persisted — no accounts, no cookies, no `localStorage`. Progress lives
 only in the open page.
@@ -73,12 +73,13 @@ npm run gen        # parse banks and regenerate the content tree
 npm run audit      # syllabus coverage + markdown defect check (--strict to fail)
 npm run audit:depth  # word-count compression of each guide against its source PDF
 npm run audit:numbers  # examinable parameters the guide never carries, per chapter
-npm run audit:banks  # duplicate stems, near-duplicates, and answer-key spread
+npm run audit:banks  # duplicate stems, position-dependent options, answer-key spread
+npm run audit:coverage  # questions per syllabus section, against the coverage floor
 npm run test:parser  # assert bank invariants (counts, answer keys, chapters)
 npm run lint:notes   # audit the three teaching guides (advisory; --strict to fail)
 npm run check      # Astro/TypeScript diagnostics
 npm run build      # generate + static build into dist/
-npm run verify     # audit --strict + audit:banks --strict + test:parser + check + build
+npm run verify     # audit --strict + audit:banks --strict + audit:coverage --strict + check-answer-text + test:parser + check + build
 npm run pdf        # regenerate the printable HTML/PDF artefacts (needs pandoc)
 npm run preview    # serve dist/ locally
 ```
@@ -99,7 +100,9 @@ scripts/build-content.mjs   markdown → Starlight pages, sidebar and PDF copies
 scripts/audit-guides.mjs    coverage vs the syllabus manifest + defect scan
 scripts/audit-depth.mjs     guide-vs-source word-count compression, per file
 scripts/audit-numbers.mjs   examinable parameters (percentages, dates, periods) the guide omits
-scripts/audit-banks.mjs     duplicate/near-duplicate stems + answer-key spread
+scripts/audit-banks.mjs     duplicate/near-duplicate stems, position-dependent options
+scripts/audit-coverage.mjs  questions per syllabus section vs the coverage floor
+scripts/lib/blueprint.mjs   coverage floor and mock-exam composition, per exam
 scripts/rebalance-answers.mjs  rotate option order to even out the answer key
 scripts/append-questions.mjs   re-emit the question-bank extension block
 scripts/check-answer-text.mjs  assert quoted answers match their keyed option
@@ -131,10 +134,10 @@ bank stops parsing cleanly.
 
 ### Extending the banks
 
-The banks are much larger than the real papers — 388 / 406 / 477 questions
-against 80 / 100 / 60 — so that every syllabus section has enough practice to
-test understanding rather than recall. New questions are authored as **data**,
-not prose, so they stay numbered, chapter-mapped and auditable:
+The banks are much larger than the real papers (80 / 100 / 60 questions), so that
+every syllabus section has enough practice to test understanding rather than
+recall. New questions are authored as **data**, not prose, so they stay numbered,
+chapter-mapped and auditable:
 
 - `scripts/lib/questions-cmsip.mjs`, `questions-fmrp.mjs`, `questions-res12b.mjs`
   hold the items (`{ c: chapter, t: type, q, o: [4 options], a: keys, r }`).

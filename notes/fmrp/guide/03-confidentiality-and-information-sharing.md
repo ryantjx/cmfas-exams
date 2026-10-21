@@ -12,6 +12,15 @@ slug: 'chapter-3-confidentiality-and-information-sharing'
 
 Distinguishing useful market colour from protected information. The examination tests what is confidential, when disclosure is allowed and what must never be used as colour.
 
+## Learning Objectives
+
+The candidate should be able to:
+
+- Identify what information is confidential, and why.
+- State when disclosure is allowed and the prudence test before disclosing.
+- Apply the market-colour rules without compromising anonymity.
+- Explain the recording and training controls on communication.
+
 ## 3.1 Introduction
 
 Confidentiality protects customers, counterparties, the firm and the integrity of price formation. The relevant question is not simply whether information is interesting, but whether it identifies a party, order, position, strategy or protected business fact.
@@ -38,17 +47,37 @@ Designation is not the only source of the duty: information can be confidential 
 
 Access should be role-based, monitored and removed when no longer needed. Encryption, secure channels, clean-desk practices, access reviews and controlled information barriers reduce accidental or deliberate disclosure.
 
+**Worked example — related information.** A customer instructs a bank to buy a large amount of a bond, and the bank's own desk then observes that the customer is seeking a hedge for the resulting exposure. Even though the original instruction was never disclosed outside the permitted circle, the **hedging requirement reveals the customer's exposure** and is protected to the same standard. A dealer who trades on that inference is misusing related information produced by the participant.
+
+**Worked example — designated confidential information.** A firm classifies its pricing matrix and its internal counterparty assessments as confidential. The designation itself imposes handling controls, even where a reasonable outsider could not have guessed the content. Designation and inherent character are assessed separately: information may be confidential because it is labelled, because of what it is, or both.
+
 ## 3.3 Disclosure of Confidential Information
 
 Disclosure requires a legal, regulatory, contractual or legitimate business basis. A representative should disclose only what is necessary, to the right recipient, through an approved channel and with appropriate records.
 
 ## 3.3.1 Allowable Disclosures
 
-Allowable disclosures may include those required by law, regulators, courts, law-enforcement processes or a permitted business purpose. A request from another market participant is not, by itself, authority to disclose.
+Allowable disclosures may include those required by law, regulators, courts, law-enforcement processes or a permitted business purpose. A request from another market participant is **not, by itself, authority to disclose**.
+
+| Basis for disclosure | Test to apply |
+|---|---|
+| **Legal obligation** | A statute, court order or regulator's valid request compels it — disclose only the scope demanded |
+| **Law-enforcement process** | Valid process exists; escalate to compliance or legal before responding |
+| **Permitted business purpose** | The purpose is recognised — for example execution, settlement or risk control — and the recipient needs the specific information |
+| **Customer consent** | Consent is informed, specific and current; a general consent does not cover every future disclosure |
+| **A peer's request** | **Not a basis.** Another market participant asking is not authority; decline or escalate |
 
 ## 3.3.2 Prudence before Disclosure
 
-Before disclosing, confirm the recipient, authority, scope and sensitivity. When uncertain, pause and consult compliance or legal; do not invent a misleading answer merely to avoid giving the information.
+Before disclosing, confirm the **recipient**, the **authority**, the **scope** and the **sensitivity**. When uncertain, pause and consult compliance or legal; never invent a misleading answer merely to avoid giving the information, because a misleading answer is itself a conduct failure.
+
+| Question | Why it decides the disclosure |
+|---|---|
+| Who is asking, and in what capacity? | A known counterparty is still not entitled to another customer's order flow |
+| What is the legal or contractual basis? | No basis means no disclosure, however senior the request |
+| How much do they actually need? | Disclose the minimum consistent with the purpose, not the whole position |
+| Is the channel approved and recorded? | An unrecorded conversation cannot later be evidenced |
+| Would disclosure reveal a third party? | Aggregation and anonymity must survive the disclosure |
 
 ## 3.4 Communication Practices
 

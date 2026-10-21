@@ -13,22 +13,27 @@
  *
  * ---------------------------------------------------------------- unit choice
  *
- * `syllabus.mjs` prints 803 section rows, but they sit at three depths:
+ * `syllabus.mjs` prints 803 section rows at three depths: `x.y` (274), `x.y.z`
+ * (446) and `x.y.z.w` (83). Measuring coverage at the finest depth would be
+ * meaningless, because the banks do not tag questions that finely:
  *
- *   x.y        274 rows
- *   x.y.z      446 rows
- *   x.y.z.w     83 rows   (76 of them in CM-SIP §2.3/§4.10/§9.1)
+ *   RES 12B  tags `[RES 1B §2.3]`   — depth 2 only
+ *   CM-SIP   heading `### 1.1 …`    — depth 2 only
+ *   FMRP     tags `[FMRP §1.2.2]`   — depth 2-4, mostly 3
  *
- * The coverage unit is depth <= 3, giving 720 units. A fourth-level row such as
- * "Gold and Other Precious Metal Futures" beside "Base Metal and Ferrous Metal
- * Futures" is a sub-clause of one paragraph, not a separately examinable topic;
- * demanding two questions each would manufacture near-duplicates. `isUnit()`
- * encodes that rule so the audit and the blueprint cannot drift apart.
+ * A question tagged `2.3` genuinely covers one of `2.3.1 … 2.3.9`; which one is
+ * not recorded. Reporting `2.3.1` as uncovered would therefore manufacture a gap
+ * out of missing metadata rather than missing content.
+ *
+ * The coverage unit is consequently depth <= 2 — the level every bank tags at.
+ * `audit-coverage.mjs` reports how much of each chapter is attributable to a
+ * section at all, and declines to enumerate per-section gaps where that share is
+ * low, rather than printing gaps it cannot substantiate.
  *
  * ------------------------------------------------------------------- floors
  *
  * There is one floor: MIN_PER_UNIT questions per coverage unit. There is
- * deliberately no per-chapter absolute minimum. A chapter is only as "thin" as its
+ * deliberately no per-chapter absolute minimum. A chapter is only as thin as its
  * weakest section, and an absolute floor would force questions on
  * "participants in the derivatives market" that duplicate the securities chapter
  * covering the same institutions.
@@ -36,11 +41,18 @@
 
 import { SYLLABUS } from './syllabus.mjs';
 
-/** Questions each depth<=3 syllabus section should carry. */
+/** Questions each coverage unit (depth <= 2 syllabus section) should carry. */
 export const MIN_PER_UNIT = 2;
 
-/** Maximum depth that still counts as a coverage unit (`x.y.z` = 3). */
-export const UNIT_MAX_DEPTH = 3;
+/** Maximum section depth that counts as a coverage unit (`x.y` = 2). */
+export const UNIT_MAX_DEPTH = 2;
+
+/**
+ * How much of a chapter must carry a section number before its per-section gaps
+ * are reported. Below this the gaps would reflect missing tags, not missing
+ * questions, so the chapter is flagged for tagging instead.
+ */
+export const MIN_ATTRIBUTION = 0.9;
 
 /** Number of dots+1 in a section number, e.g. `4.7.1` -> 3. */
 export function sectionDepth(number) {

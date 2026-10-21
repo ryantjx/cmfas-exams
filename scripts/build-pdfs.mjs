@@ -142,7 +142,17 @@ for (const exam of EXAMS) {
   const css = path.join(tmp, 'print.css');
   writeFileSync(css, CSS);
 
-  const htmlBase = ['--metadata', `title=${title}`, '--css', css, '--embed-resources'];
+  const htmlBase = [
+    '--metadata',
+    `title=${title}`,
+    '--css',
+    css,
+    '--embed-resources',
+    // `$$…$$` is the guides' maths delimiter, which pandoc reads as display maths
+    // by default. `--mathml` renders it in the HTML artefact instead of leaving
+    // the raw delimiters visible; the PDF path already handles it via XeLaTeX.
+    '--mathml',
+  ];
 
   pandoc({
     input: guideSrc,
@@ -155,7 +165,7 @@ for (const exam of EXAMS) {
     input: bankSrc,
     out: path.join(htmlDir, `${name}_QUESTIONS.html`),
     to: 'html5',
-    extra: ['--metadata', `title=${bankTitle}`, '--css', css, '--embed-resources'],
+    extra: ['--metadata', `title=${bankTitle}`, '--css', css, '--embed-resources', '--mathml'],
     label: `${name}_QUESTIONS.html`,
   });
 

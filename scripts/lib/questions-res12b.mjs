@@ -913,5 +913,171 @@ export const RES12B = [
     o: ['The CAR applies to listed SIPs and the CKA to unlisted SIPs', 'The CAR applies to retail clients and the CKA to accredited clients', 'The CAR is optional and the CKA is mandatory', 'The CAR is conducted by MAS and the CKA by the firm'], a: 'A',
     r: 'The dividing line is the product, not the client: listed SIPs require a CAR and unlisted SIPs require a CKA. Both are conducted by the firm.',
   },
+
+  // --------------------------------------------- 1B-6 §6.5 opening the account
+  {
+    s: 'RES 1B §6.5', t: 'Single choice',
+    q: 'A member applying for a CPFIS Investment Account is asked which banks will accept the application and how many accounts may be held. The correct answer is:',
+    o: ['DBS, OCBC or UOB, and only one account at a time', 'DBS, OCBC or UOB, and one account with each bank', 'Any MAS-licensed bank, and only one account at a time', 'Any CPFIS-included bank, and up to two accounts'], a: 'A',
+    r: 'There are three agent banks — DBS, OCBC and UOB — and a member may hold only one CPF Investment Account at any time, regardless of how many banks offer the service.',
+  },
+  {
+    s: 'RES 1B §6.5', t: 'Multiple response',
+    q: 'A member attends a branch to open a CPFIS Investment Account. Which items does the guide describe the member as bringing for verification?',
+    o: ['An identity card', 'The SAQ status document', 'A CPF statement so the bank can verify the CPF account number', 'A statutory declaration of all existing investments'], a: 'A,B,C',
+    r: 'Identity, SAQ status and a CPF statement are the three items named. No statutory declaration of existing investments is required.',
+  },
+
+  // ---------------------------------------- 1B-6 §6.8 inclusion criteria
+  {
+    s: 'RES 1B §6.8', t: 'Single choice',
+    q: 'Which CPFIS investments require no application by the product provider and no review by the CPF Board?',
+    o: ['Singapore Government Bonds, Treasury Bills and gold products offered by CPF agent banks', 'Unit trusts and exchange-traded funds', 'Fixed deposits and statutory board bonds', 'Annuities and investment-linked policies'], a: 'A',
+    r: 'Government bonds, T-bills and agent-bank gold products are the stated exceptions. Everything else is included only on the provider\u2019s application and after CPF Board review, with unit trusts, ILPs and ETFs additionally evaluated by the Board\u2019s appointed investment consultant.',
+  },
+  {
+    s: 'RES 1B §6.8', t: 'Single choice',
+    q: 'An investor proposes to pledge CPFIS-included shares as security for a bank loan. Is that permitted?',
+    o: ['No, because CPFIS investments cannot be assigned, pledged or used as collateral', 'Yes, provided the loan is taken from a CPFIS-included bank', 'Yes, provided the member has set aside the Full Retirement Sum', 'Yes, but only after the investment account has been open for one year'], a: 'A',
+    r: 'CPFIS investments cannot be assigned, pledged or used as collateral. The restriction is absolute and is not cured by the identity of the lender or by the member\u2019s retirement sum.',
+  },
+
+  // ------------------------------------ 1B-6 §6.10 dividends and profits
+  {
+    s: 'RES 1B §6.10', t: 'Single choice',
+    q: 'A member receives dividends on CPFIS-OA shares. What may the member do with that money?',
+    o: ['It cannot be withdrawn as cash, but may be used for other CPF schemes subject to their terms', 'It may be withdrawn as cash from the agent bank at any time', 'It must be reinvested in the same counter within 30 days', 'It is automatically transferred to the Special Account'], a: 'A',
+    r: 'Dividends and profits cannot be withdrawn as cash because the scheme exists to grow retirement savings. They may be applied to other CPF schemes on those schemes\u2019 terms.',
+  },
+  {
+    s: 'RES 1B §6.10', t: 'Single choice',
+    q: 'A CPFIS investment loses 30% of its value. What does the member owe to the CPF account?',
+    o: ['Nothing, because losses do not need to be made good', 'The full loss, restored in cash on realisation', 'The loss, but only up to the amount of dividends received', 'The loss, deducted from the Retirement Account'], a: 'A',
+    r: 'Losses do not have to be made good. The member bears the investment risk; there is no restitution obligation back to the CPF account.',
+  },
+
+  // ----------------------------------------------- 1B-6 §6.11 charges
+  {
+    s: 'RES 1B §6.11', t: 'Single choice',
+    q: 'What is the current cap on a wrap fee charged through CPFIS, following the October 2020 changes?',
+    o: ['0.4%', '0.7%', '1.0%', 'There is no cap'], a: 'A',
+    r: 'October 2020 reduced the wrap fee cap to 0.4% and removed the sales charge cap altogether. The earlier figures were 1.0% and 1.5% (from October 2018) and 1% and 3% before that.',
+  },
+  {
+    s: 'RES 1B §6.11', t: 'Multiple response',
+    q: 'Which statements about CPFIS charges are correct?',
+    o: ['Charges may be paid from CPF savings', 'The agent bank may levy charges for the account and for settlement and accounting', 'The sales charge cap had been removed by October 2020', 'The wrap fee cap was removed in October 2020'], a: 'A,B,C',
+    r: 'The sales charge cap was removed and the wrap fee cap was reduced to 0.4% — it was not removed. Charges may be paid from CPF savings and may be levied by product and service providers as well as by the agent bank.',
+  },
+
+  // -------------------------------------------- 1B-6 §6.13 bankruptcy
+  {
+    s: 'RES 1B §6.13', t: 'Single choice',
+    q: 'An undischarged bankrupt holds existing CPFIS investments. Which statement is correct?',
+    o: ['The member may hold or liquidate existing investments but may not make new investments with CPF money', 'The member may neither hold nor liquidate the investments while undischarged', 'The member may make new investments provided the Official Assignee consents', 'The investments vest in the Official Assignee on the making of the bankruptcy order'], a: 'A',
+    r: 'Existing holdings may be held or liquidated, with proceeds credited back to the CPF Investment Account or Special Account. New investments using CPF money are prohibited.',
+  },
+  {
+    s: 'RES 1B §6.13', t: 'Single choice',
+    q: 'What protection do CPFIS investments and investment-account cash have while they remain within the scheme?',
+    o: ['They are protected from creditors and the Official Assignee', 'They are protected only after the member reaches 55', 'They are protected only if the member has set aside the Full Retirement Sum', 'They are unprotected and form part of the bankrupt estate'], a: 'A',
+    r: 'CPFIS investments and investment-account cash are protected from creditors and the Official Assignee while within the scheme. At 55 the FRS or BRS requirement still governs withdrawal, which is a separate question from creditor protection.',
+  },
+
+  // ------------------------------------------------- 1B-6 §6.14 death
+  {
+    s: 'RES 1B §6.14', t: 'Single choice',
+    q: 'A member dies holding CPFIS investments. What is the effect of a CPF nomination made under the CPF Act?',
+    o: ['It does not cover CPFIS investments, which form part of the estate', 'It transfers the CPFIS investments to the nominated beneficiaries directly', 'It transfers the investment-account cash only, and not the investments', 'It has effect only if the nomination is irrevocable'], a: 'A',
+    r: 'CPFIS investments and investment-account cash are not covered by CPF nomination and form part of the estate. The administrator or executor must produce Letters of Administration or a Grant of Probate to claim them.',
+  },
+  {
+    s: 'RES 1B §6.14', t: 'Multiple response',
+    q: 'Which statements about CPFIS insurance policies on the member\u2019s death are correct?',
+    o: ['A revocable nomination made with the insurer pays the nominated beneficiaries directly', 'Without a nomination, the proceeds are distributed with the rest of the estate', 'Irrevocable nomination is not allowed for CPFIS insurance policies', 'On death the CPFIS assets remain protected from the deceased\u2019s creditors'], a: 'A,B,C',
+    r: 'Revocable nomination bypasses the estate, and without one the proceeds fall into the estate. Irrevocable nomination is not permitted. The protection ends on death, so the assets may satisfy the deceased\u2019s creditors under the Probate and Administration Act.',
+  },
+
+  // ----------------------------------- 2B-3 §3.5 market manipulation (thin)
+  {
+    s: 'RES 2B §3.5', t: 'Single choice',
+    q: 'Which element distinguishes market manipulation under section 198 from ordinary trading that happens to move a price?',
+    o: ['Intentional interference with the free forces of supply and demand to deceive or defraud', 'The size of the position taken relative to the market', 'Execution on an organised market rather than over the counter', 'The profit actually realised by the trader'], a: 'A',
+    r: 'Market manipulation is defined by intentional interference with the free forces of supply and demand to deceive or defraud investors, or for other ulterior purposes. Size and realised profit are not the test.',
+  },
+
+  // ----------------------------- 2B-3 §3.6 false or misleading statements (thin)
+  {
+    s: 'RES 2B §3.6', t: 'Single choice',
+    q: 'A representative circulates an unverified rumour about a counterparty\u2019s funding position. Which mental element must accompany a false or misleading statement for the prohibition to be engaged?',
+    o: ['Not caring whether it is true or false, or knowing or having reason to know it is false or misleading', 'Intending to profit from the statement', 'Communicating it to more than one person', 'Repeating it after it has been denied'], a: 'A',
+    r: 'The prohibition applies where the person does not care whether the information is true or false, or knows or should have known that it is false or misleading in a material particular. Dissemination can be by newsletter, research paper, electronic means, media or word of mouth.',
+  },
+
+  // ------------------------ 2B-3 §3.9 manipulative and deceptive devices (none)
+  {
+    s: 'RES 2B §3.9', t: 'Single choice',
+    q: 'Why does the SFA contain a general provision on employing manipulative and deceptive devices when specific offences such as false trading already exist?',
+    o: ['Because the devices perpetrators may use cannot all be defined in advance, so a catch-all is needed', 'Because the specific offences apply only to securities and not to derivatives', 'Because the specific offences require proof of profit', 'Because the catch-all carries a lower penalty and is easier to prove'], a: 'A',
+    r: 'The SFA provides a general catch-all precisely because it is not possible to define every device perpetrators may employ. The Madoff Ponzi scheme is the guide\u2019s illustration.',
+  },
+  {
+    s: 'RES 2B §3.9', t: 'Multiple response',
+    q: 'Which acts fall within the prohibition on employing manipulative and deceptive devices in connection with a transaction in a capital markets product?',
+    o: ['Employing any device, scheme or artifice to defraud', 'Engaging in an act or course of business that operates or is likely to operate as a fraud or deception', 'Making a statement the person knows to be false in a material particular', 'Omitting a material fact necessary to make the statements made not misleading'], a: 'A,B,C,D',
+    r: 'All four limbs are stated in the provision. The omission limb matters because a statement can be misleading by what it leaves out rather than by what it says.',
+  },
+
+  // --------------- 2B-3 §3.11 information about illegal transactions (thin)
+  {
+    s: 'RES 2B §3.11', t: 'Single choice',
+    q: 'Person Z arranges for another to influence a share price by deceptive methods, then tells third parties so they can trade on the expected move, expecting a share of their profits. Which offence does this describe?',
+    o: ['Dissemination of information about illegal transactions', 'Bucketing', 'Front running', 'Pre-arranged trading'], a: 'A',
+    r: 'Circulating information about illegal transactions is an offence in its own right, because trading on the expected move can create or exacerbate the artificial conditions without the trader committing the underlying manipulation.',
+  },
+
+  // ---------------------- 2B-3 §3.13 withdrawal and withholding (none)
+  {
+    s: 'RES 2B §3.13', t: 'Single choice',
+    q: 'A representative holds back part of a customer\u2019s order so that a favoured client can trade ahead of it. Which prohibition is engaged?',
+    o: ['Withholding or withdrawing a customer\u2019s order for the benefit of the holder or another person', 'Churning', 'Cornering', 'Cross trading'], a: 'A',
+    r: 'Regulation 47(1) prohibits withholding or withdrawing from an organised market any order, or part of an order, for the holder\u2019s own benefit or to benefit any other person.',
+  },
+  {
+    s: 'RES 2B §3.13', t: 'Multiple response',
+    q: 'Which statements about a customer\u2019s order information are correct under the SFR(LCB)?',
+    o: ['It must be kept confidential', 'It may be disclosed where necessary for the effective execution of the order', 'It may be disclosed where permitted under the rules of the relevant exchange or clearing house', 'It may be disclosed where MAS requires it under the SFA or SFR(LCB)'], a: 'A,B,C,D',
+    r: 'Regulation 47(2) permits disclosure only on those three grounds, alongside the general confidentiality obligation. There is no ground of commercial convenience or customer relationship value.',
+  },
+
+  // ------------------------------ 2B-3 §3.14 trading against customer (thin)
+  {
+    s: 'RES 2B §3.14', t: 'Single choice',
+    q: 'A CMS licence holder wants to take the opposite side of a retail customer\u2019s futures order for its own account. What is required?',
+    o: ['The customer\u2019s prior consent, and compliance with the exchange\u2019s business rules and practices', 'Nothing, because a principal may always trade against its own customer', 'A written risk disclosure signed by the customer after the trade', 'Approval from MAS before the transaction'], a: 'A',
+    r: 'Regulation 47C(1) permits the firm to buy from or sell to its customer only with the customer\u2019s prior consent and in accordance with the business rules and practices of an approved exchange or recognised market operator.',
+  },
+
+  // ------------------------------------- 2B-3 §3.18 overtrading (none)
+  {
+    s: 'RES 2B §3.18', t: 'Single choice',
+    q: 'A representative maintains client positions that exceed the limits imposed by the sponsoring member or the exchange. What does the guide identify this as?',
+    o: ['Overtrading, for which the holder is responsible even as to customers\u2019 positions', 'Churning, because it generates commission', 'Bucketing, because the orders were not exposed', 'Pre-arranged trading, because the limits were agreed in advance'], a: 'A',
+    r: 'Candidates are prohibited from executing trades or maintaining positions that breach limits, and are responsible for keeping customers\u2019 positions within the prescribed limits. A breach may be notified to members, and steps must be taken to reduce the excess.',
+  },
+  {
+    s: 'RES 2B §3.18', t: 'Multiple response',
+    q: 'Which statements about position limits are correct?',
+    o: ['Limits may be imposed by sponsoring members, approved exchanges, clearing houses or regulatory authorities', 'The firm is responsible for keeping customers\u2019 positions within the prescribed limits', 'A limit breach may be notified by the exchange or clearing house to its members', 'A limit breach is cured by later reducing the position, so no notification is required'], a: 'A,B,C',
+    r: 'All three of the first statements are correct. Reducing an excess position is required, but it does not remove the breach or the notification obligation.',
+  },
+
+  // ------------------------------------ 2B-3 §3.20 penalties (thin)
+  {
+    s: 'RES 2B §3.20', t: 'Multiple response',
+    q: 'Beyond criminal and civil penalties, which consequences does the guide identify for market misconduct?',
+    o: ['Civil liability to compensate persons who traded similarly at the time and suffered losses', 'Reputational loss, including loss of customer confidence', 'Suspension or revocation of the firm\u2019s licence or the representative\u2019s registration', 'Automatic transfer of the representative\u2019s client accounts to another firm'], a: 'A,B,C',
+    r: 'The four consequence categories are criminal penalties, civil penalties, civil liability with financial and reputational loss, and suspension or loss of licence or registration. Client transfers are not among them.',
+  },
 ];
 

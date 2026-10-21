@@ -3,6 +3,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import {
   formatClock,
   isCorrect,
+  sampleByBlueprint,
   sampleByChapter,
   sampleQuestions,
   scoreByChapter,
@@ -24,6 +25,12 @@ type QuizBank = {
   title: string;
   dailySize: number;
   realExam: { questions: number; minutes: number; passPct: number; note: string };
+  /**
+   * Mock composition resolved by `scripts/lib/blueprint.mjs` at build time.
+   * Absent on an older bank payload, in which case the mock falls back to a
+   * uniform sample.
+   */
+  mock?: { examId: string; questions: number; quotas: Record<string, number>; fixed: string[] } | null;
   chapters: { id: string; title: string; questionCount: number }[];
   questions: QuizQuestion[];
 };
@@ -140,6 +147,17 @@ export default function QuizRunner({
       // "daily" quiz changed on each reload.
       const random = seededRandom(seedFromDate());
       chosen = sampleByChapter(bank.questions, size ?? bank.dailySize, random);
+    } else if (bank.mock?.quotas) {
+      // A mock is drawn to the paper's blueprint, not uniformly: the real papers
+      // weight chapters unevenly (CM-SIP spends 18 of 80 questions on case
+      // studies, RES 12B splits 50/50 across its two constituent parts), and a
+      // uniform draw from a bank whose composition is itself uneven does not
+      // resemble the paper being sat.
+      chosen = sampleByBlueprint(
+        bank.questions,
+        bank.mock.quotas,
+        size ?? bank.realExam.questions,
+      );
     } else {
       chosen = sampleQuestions(bank.questions, size ?? bank.realExam.questions);
     }

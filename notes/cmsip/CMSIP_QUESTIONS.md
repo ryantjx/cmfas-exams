@@ -990,7 +990,7 @@ d. `C + S = P − PV(X)`.
 
 </details>
 
-**69. [Multiple response]** Under parity, a synthetic long stock can be created by:
+**69. [Single choice]** Under parity, a synthetic long stock can be created by:
 
 a. A bond alone.
 b. Long call and short put, with the same strike/expiry.

@@ -5454,7 +5454,7 @@ d. Whether a CAR or a CKA applies, and what follows a failed assessment.
 
 ## Coverage audit
 
-This bank holds **332 questions** across both parts of the combined paper. It is deliberately larger than the 60-question examination format in `RES12B.md`, because the paper draws on fourteen chapters plus fifteen appendices.
+The bank is far larger than the 60-question examination format in `RES12B.md`, because the paper draws on fourteen chapters plus fifteen appendices. Run `npm run audit:banks` for the current count, and `npm run audit:coverage` for the per-section spread: a figure written here would go stale the moment an item is added, because everything below the extension marker is regenerated and everything above it is not.
 
 Coverage is verified mechanically rather than through a hand-written section-to-question table, which drifts with every edit:
 
@@ -5468,7 +5468,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 ## RES 1B — Extension
 
-### 333. **[Single choice | RES 1B §2.3]** [RES 1B §2.3] A representative has ceased to act for a principal for a continuous period of one month, and the principal has not notified MAS. What is the effect on the representative’s status?
+### 333. **[Single choice]** [RES 1B §2.3] A representative has ceased to act for a principal for a continuous period of one month, and the principal has not notified MAS. What is the effect on the representative’s status?
 
 - a. The status continues until the principal notifies MAS
 - b. The status ceases
@@ -5484,7 +5484,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 334. **[Single choice | RES 1B §2.3]** [RES 1B §2.3] A temporary representative may be appointed for a total of:
+### 334. **[Single choice]** [RES 1B §2.3] A temporary representative may be appointed for a total of:
 
 - a. 3 months within any 12-month period, each appointment not exceeding 3 months
 - b. 6 months within any 24-month period, each appointment not exceeding 3 months
@@ -5500,7 +5500,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 335. **[Single choice | RES 1B §2.3]** [RES 1B §2.3] A provisional representative is given a grace period to complete the requisite examinations of:
+### 335. **[Single choice]** [RES 1B §2.3] A provisional representative is given a grace period to complete the requisite examinations of:
 
 - a. One month
 - b. Three months
@@ -5516,7 +5516,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 336. **[Multiple response | RES 1B §2.3]** [RES 1B §2.3] Which are due diligence checks a principal must perform before appointing a representative?
+### 336. **[Multiple response]** [RES 1B §2.3] Which are due diligence checks a principal must perform before appointing a representative?
 
 - a. Verifying identity from a current NRIC, FIN or passport
 - b. Reference checks with previous employers about dismissal or material adverse records
@@ -5532,7 +5532,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 337. **[Single choice | RES 1B §2.3]** [RES 1B §2.3] The minimum education requirement for registration as a representative is:
+### 337. **[Single choice]** [RES 1B §2.3] The minimum education requirement for registration as a representative is:
 
 - a. At least 4 GCE O-Level credit passes
 - b. At least 2 GCE O-Level credit passes in all cases
@@ -5548,7 +5548,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 338. **[Single choice | RES 1B §2.4]** [RES 1B §2.4] Which statement is required on a product advertisement issued by a CMS licence holder?
+### 338. **[Single choice]** [RES 1B §2.4] Which statement is required on a product advertisement issued by a CMS licence holder?
 
 - a. "This advertisement has not been reviewed by the Monetary Authority of Singapore."
 - b. "Approved by the Monetary Authority of Singapore."
@@ -5564,7 +5564,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 339. **[Single choice | RES 1B §2.4]** [RES 1B §2.4] Before a product advertisement is disseminated, it must be:
+### 339. **[Single choice]** [RES 1B §2.4] Before a product advertisement is disseminated, it must be:
 
 - a. Approved in writing by a specified person who records the reasons for satisfaction
 - b. Approved verbally by the head of sales
@@ -5580,7 +5580,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 340. **[Multiple response | RES 1B §2.4]** [RES 1B §2.4] Which statements about non-product advertisements are correct?
+### 340. **[Multiple response]** [RES 1B §2.4] Which statements about non-product advertisements are correct?
 
 - a. They must not be false or misleading
 - b. They must not claim a service is free unless it genuinely is furnished without condition or obligation
@@ -5596,7 +5596,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 341. **[Single choice | RES 1B §2.6]** [RES 1B §2.6] A CMS licence holder sends monthly statements to clients. Which statement about the exemptions is correct?
+### 341. **[Single choice]** [RES 1B §2.6] A CMS licence holder sends monthly statements to clients. Which statement about the exemptions is correct?
 
 - a. No monthly statement is needed where there has been no change to the account during the month
 - b. No monthly statement is ever needed for a retail client
@@ -5612,7 +5612,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 342. **[Single choice | RES 1B §2.6]** [RES 1B §2.6] A monthly statement was sent for January and March but not for February. What must the CMS licence holder do at the end of March?
+### 342. **[Single choice]** [RES 1B §2.6] A monthly statement was sent for January and March but not for February. What must the CMS licence holder do at the end of March?
 
 - a. Send a quarterly statement, because March has a monthly statement so none is required
 - b. Send nothing, because a monthly statement was sent in March
@@ -5628,7 +5628,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 343. **[Single choice | RES 1B §2.6]** [RES 1B §2.6] A transaction is executed on Monday 23 April and requires the fixing price of 25 April. When must the contract note be issued?
+### 343. **[Single choice]** [RES 1B §2.6] A transaction is executed on Monday 23 April and requires the fixing price of 25 April. When must the contract note be issued?
 
 - a. By 24 April
 - b. By 26 April
@@ -5644,7 +5644,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 344. **[Multiple response | RES 1B §2.6]** [RES 1B §2.6] Which must appear on a contract note?
+### 344. **[Multiple response]** [RES 1B §2.6] Which must appear on a contract note?
 
 - a. The price per unit of the transaction
 - b. The amount of consideration for the transaction
@@ -5660,7 +5660,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 345. **[Single choice | RES 1B §2.7]** [RES 1B §2.7] A CMS licence holder’s books must be kept:
+### 345. **[Single choice]** [RES 1B §2.7] A CMS licence holder’s books must be kept:
 
 - a. For at least 5 years and in a manner that allows them to be conveniently and properly audited
 - b. For at least 7 years and in any language
@@ -5676,7 +5676,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 346. **[Single choice | RES 1B §2.7]** [RES 1B §2.7] An auditor of a CMS licence holder discovers a matter that may jeopardise client assets. The auditor must:
+### 346. **[Single choice]** [RES 1B §2.7] An auditor of a CMS licence holder discovers a matter that may jeopardise client assets. The auditor must:
 
 - a. Report in writing to MAS immediately
 - b. Report to the board at the next annual general meeting
@@ -5692,7 +5692,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 347. **[Single choice | RES 1B §2.8]** [RES 1B §2.8] For a retail customer in respect of OTC derivatives contracts, the customer’s money must be deposited in:
+### 347. **[Single choice]** [RES 1B §2.8] For a retail customer in respect of OTC derivatives contracts, the customer’s money must be deposited in:
 
 - a. A trust account
 - b. The firm’s own operating account
@@ -5708,7 +5708,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 348. **[Multiple response | RES 1B §2.8]** [RES 1B §2.8] Before depositing a retail customer’s money in a trust account, a CMS licence holder must disclose which of the following?
+### 348. **[Multiple response]** [RES 1B §2.8] Before depositing a retail customer’s money in a trust account, a CMS licence holder must disclose which of the following?
 
 - a. That the money is held by a specified financial institution on the holder’s behalf
 - b. Whether the money is commingled with other customers’ money, and the risk of that commingling
@@ -5724,7 +5724,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 349. **[Single choice | RES 1B §2.8]** [RES 1B §2.8] Moneys and assets received from customers must be deposited no later than:
+### 349. **[Single choice]** [RES 1B §2.8] Moneys and assets received from customers must be deposited no later than:
 
 - a. The same day
 - b. The next business day after receipt
@@ -5740,7 +5740,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 350. **[Multiple response | RES 1B §2.8]** [RES 1B §2.8] Which are permissible purposes for withdrawing money from a customer’s trust account?
+### 350. **[Multiple response]** [RES 1B §2.8] Which are permissible purposes for withdrawing money from a customer’s trust account?
 
 - a. Making a payment to a person entitled to it
 - b. Defraying the holder’s brokerage and other proper charges
@@ -5756,7 +5756,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 351. **[Single choice | RES 1B §2.8]** [RES 1B §2.8] The daily computation required for trust and custody accounts must be completed:
+### 351. **[Single choice]** [RES 1B §2.8] The daily computation required for trust and custody accounts must be completed:
 
 - a. Before noon of every business day
 - b. By the close of business each day
@@ -5772,7 +5772,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 352. **[Single choice | RES 1B §2.8]** [RES 1B §2.8] A CMS licence holder wishes to mortgage a retail customer’s assets to secure the customer’s debt. It may do so only:
+### 352. **[Single choice]** [RES 1B §2.8] A CMS licence holder wishes to mortgage a retail customer’s assets to secure the customer’s debt. It may do so only:
 
 - a. After informing the customer of the limit and the risks and obtaining written consent
 - b. With verbal consent from the customer
@@ -5788,7 +5788,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 353. **[Single choice | RES 1B §2.9]** [RES 1B §2.9] An interest in a listed specified product must be entered in the register within:
+### 353. **[Single choice]** [RES 1B §2.9] An interest in a listed specified product must be entered in the register within:
 
 - a. 7 days of acquisition
 - b. 14 days of acquisition
@@ -5804,7 +5804,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 354. **[Single choice | RES 1B §3.3]** [RES 1B §3.3] A trader places progressively higher bids to push the price to a level where stop-loss orders trigger, then sells into the resulting momentum. This practice is:
+### 354. **[Single choice]** [RES 1B §3.3] A trader places progressively higher bids to push the price to a level where stop-loss orders trigger, then sells into the resulting momentum. This practice is:
 
 - a. Hunting for stops, a form of false trading
 - b. A legitimate market-making activity
@@ -5820,7 +5820,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 355. **[Single choice | RES 1B §3.3]** [RES 1B §3.3] Two parties enter matching buy and sell orders at the same price for the same contract month, with no change in beneficial ownership, to create the appearance of volume. This is:
+### 355. **[Single choice]** [RES 1B §3.3] Two parties enter matching buy and sell orders at the same price for the same contract month, with no change in beneficial ownership, to create the appearance of volume. This is:
 
 - a. A wash trade
 - b. A cross trade
@@ -5836,7 +5836,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 356. **[Single choice | RES 1B §3.4]** [RES 1B §3.4] "Cornering" the underlying of a derivatives contract is achieved by:
+### 356. **[Single choice]** [RES 1B §3.4] "Cornering" the underlying of a derivatives contract is achieved by:
 
 - a. Buying the underlying in such volume as to gain a monopoly, forcing short sellers to pay an inflated price
 - b. Selling the underlying in volume to depress its price
@@ -5852,7 +5852,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 357. **[Multiple response | RES 1B §3.6]** [RES 1B §3.6] Which of the following are prohibited as dissemination of false or misleading statements?
+### 357. **[Multiple response]** [RES 1B §3.6] Which of the following are prohibited as dissemination of false or misleading statements?
 
 - a. Disseminating information the person does not care whether it is true or false
 - b. Disseminating information the person knew or should have known was false in a material particular
@@ -5868,7 +5868,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 358. **[Single choice | RES 1B §3.7]** [RES 1B §3.7] A broker receives an order to buy gold futures at 1,400 when the market is 1,395 bid / 1,405 offered. The broker withholds the order and fills the customer at 1,400 after buying at 1,398 for its own account. This is:
+### 358. **[Single choice]** [RES 1B §3.7] A broker receives an order to buy gold futures at 1,400 when the market is 1,395 bid / 1,405 offered. The broker withholds the order and fills the customer at 1,400 after buying at 1,398 for its own account. This is:
 
 - a. Bucketing
 - b. A legitimate principal trade with consent
@@ -5884,7 +5884,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 359. **[Multiple response | RES 1B §3.10]** [RES 1B §3.10] Which of the following are exceptions to the insider trading prohibition?
+### 359. **[Multiple response]** [RES 1B §3.10] Which of the following are exceptions to the insider trading prohibition?
 
 - a. Redemption of units by the trustee or manager of a collective investment scheme
 - b. Acts by an underwriter pursuant to its role
@@ -5900,7 +5900,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 360. **[Single choice | RES 1B §3.10]** [RES 1B §3.10] Information is "generally available" if:
+### 360. **[Single choice]** [RES 1B §3.10] Information is "generally available" if:
 
 - a. It consists of readily observable matter, or has been disseminated and a reasonable period has elapsed, or is a deduction from such information
 - b. It was shared with one other person
@@ -5916,7 +5916,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 361. **[Single choice | RES 1B §3.15]** [RES 1B §3.15] A representative learns of a large client buy order and buys for a personal account first. This is:
+### 361. **[Single choice]** [RES 1B §3.15] A representative learns of a large client buy order and buys for a personal account first. This is:
 
 - a. Front running, a breach of the obligation to give priority to customer orders
 - b. Permissible if the personal trade is later disclosed
@@ -5932,7 +5932,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 362. **[Single choice | RES 1B §3.16]** [RES 1B §3.16] The last traded price of a contract is 11,740 with no existing bid or offer. A cross trade arrives at 11,715 on both sides. Which order must be exposed first?
+### 362. **[Single choice]** [RES 1B §3.16] The last traded price of a contract is 11,740 with no existing bid or offer. A cross trade arrives at 11,715 on both sides. Which order must be exposed first?
 
 - a. The sell order, because it is more attractive relative to the last traded price
 - b. The buy order, because a bid is always exposed first
@@ -5948,7 +5948,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 363. **[Multiple response | RES 1B §3.20]** [RES 1B §3.20] What consequences may follow a contravention of the market conduct rules?
+### 363. **[Multiple response]** [RES 1B §3.20] What consequences may follow a contravention of the market conduct rules?
 
 - a. Criminal penalties including fines or imprisonment
 - b. Civil penalties and civil liability to affected persons
@@ -5964,7 +5964,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 364. **[Single choice | RES 1B §6.2]** [RES 1B §6.2] Under CPFIS, the proportion of Ordinary Account savings that may be invested in a restricted set of products including corporate bonds is:
+### 364. **[Single choice]** [RES 1B §6.2] Under CPFIS, the proportion of Ordinary Account savings that may be invested in a restricted set of products including corporate bonds is:
 
 - a. 35%
 - b. 50%
@@ -5980,7 +5980,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 365. **[Multiple response | RES 1B §6.2]** [RES 1B §6.2] Which of the following are agent banks under CPFIS?
+### 365. **[Multiple response]** [RES 1B §6.2] Which of the following are agent banks under CPFIS?
 
 - a. OCBC Bank
 - b. Maybank
@@ -5996,7 +5996,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 366. **[Single choice | RES 1B §6.2]** [RES 1B §6.2] A CPF member has less than the required balance in their CPF accounts and is not an undischarged bankrupt. Are they eligible to invest under CPFIS?
+### 366. **[Single choice]** [RES 1B §6.2] A CPF member has less than the required balance in their CPF accounts and is not an undischarged bankrupt. Are they eligible to invest under CPFIS?
 
 - a. No, because the balances do not meet the stipulated requirement
 - b. Yes, because they are not bankrupt
@@ -6012,7 +6012,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 367. **[Single choice | RES 1B §6.2]** [RES 1B §6.2] For an ETF to be included under CPFIS, it must:
+### 367. **[Single choice]** [RES 1B §6.2] For an ETF to be included under CPFIS, it must:
 
 - a. Be listed on SGX-ST and comply with the CPF Investment Guidelines
 - b. Be listed on any exchange and be denominated in SGD
@@ -6028,7 +6028,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 368. **[Single choice | RES 1B §6.2]** [RES 1B §6.2] Upon the death of a CPFIS member, which document entitles a claimant to residual CPFIS investments held by an agent bank or product provider?
+### 368. **[Single choice]** [RES 1B §6.2] Upon the death of a CPFIS member, which document entitles a claimant to residual CPFIS investments held by an agent bank or product provider?
 
 - a. Grant of Probate
 - b. Letter of Entitlement
@@ -6044,7 +6044,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 369. **[Multiple response | RES 1B §6.2]** [RES 1B §6.2] Which statements about CPFIS are correct?
+### 369. **[Multiple response]** [RES 1B §6.2] Which statements about CPFIS are correct?
 
 - a. The scheme is administered with agent banks acting as the interface for members
 - b. Eligible products include certain unit trusts and ETFs
@@ -6060,7 +6060,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 370. **[Single choice | RES 1B §7.2]** [RES 1B §7.2] Which statute is the principal legislation governing money laundering in Singapore?
+### 370. **[Single choice]** [RES 1B §7.2] Which statute is the principal legislation governing money laundering in Singapore?
 
 - a. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
 - b. The Securities and Futures Act
@@ -6076,7 +6076,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 371. **[Multiple response | RES 1B §7.2]** [RES 1B §7.2] Which are stages of the money laundering process?
+### 371. **[Multiple response]** [RES 1B §7.2] Which are stages of the money laundering process?
 
 - a. Placement
 - b. Layering
@@ -6092,7 +6092,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 372. **[Single choice | RES 1B §7.6]** [RES 1B §7.6] Under the AML/CFT notice for capital markets intermediaries, records must be retained for at least:
+### 372. **[Single choice]** [RES 1B §7.6] Under the AML/CFT notice for capital markets intermediaries, records must be retained for at least:
 
 - a. 5 years
 - b. 3 years
@@ -6108,7 +6108,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 373. **[Multiple response | RES 1B §7.6]** [RES 1B §7.6] Which steps are critical when applying KYC procedures to a new brokerage client?
+### 373. **[Multiple response]** [RES 1B §7.6] Which steps are critical when applying KYC procedures to a new brokerage client?
 
 - a. Properly identifying and verifying the client’s identity
 - b. Identifying the client’s source of funds
@@ -6124,7 +6124,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 374. **[Single choice | RES 1B §7.9]** [RES 1B §7.9] A representative learns that a client appears on a money laundering sanctions list. The representative must:
+### 374. **[Single choice]** [RES 1B §7.9] A representative learns that a client appears on a money laundering sanctions list. The representative must:
 
 - a. Freeze the account and report the matter to the authorities
 - b. Freeze the account and delete the relevant records
@@ -6140,7 +6140,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 375. **[Multiple response | RES 1B §7.9]** [RES 1B §7.9] Which are suspicious transaction indicators relating to cash?
+### 375. **[Multiple response]** [RES 1B §7.9] Which are suspicious transaction indicators relating to cash?
 
 - a. Frequent large cash withdrawals not justified by the client’s business
 - b. Numerous small cash credits that individually are not substantial but in total are
@@ -6156,7 +6156,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 376. **[Single choice | RES 1B §7.9]** [RES 1B §7.9] For the purposes of the suspicious transaction guidance, a substantial cash amount is generally taken to exceed:
+### 376. **[Single choice]** [RES 1B §7.9] For the purposes of the suspicious transaction guidance, a substantial cash amount is generally taken to exceed:
 
 - a. S$20,000 or its equivalent
 - b. S$5,000 or its equivalent
@@ -6172,7 +6172,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 377. **[Multiple response | RES 1B §1.3]** [RES 1B §1.3] Which functions are performed by CDP rather than by SGX-ST?
+### 377. **[Multiple response]** [RES 1B §1.3] Which functions are performed by CDP rather than by SGX-ST?
 
 - a. Holding securities as a bare trustee for depositors
 - b. Settling trades on a delivery-versus-payment basis
@@ -6188,7 +6188,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 378. **[Single choice | RES 1B §1.3]** [RES 1B §1.3] SGX RegCo exists in order to:
+### 378. **[Single choice]** [RES 1B §1.3] SGX RegCo exists in order to:
 
 - a. Separate the exchange’s regulatory functions from its commercial and operating activities
 - b. Operate the derivatives clearing house
@@ -6204,7 +6204,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 379. **[Multiple response | RES 1B §1.5]** [RES 1B §1.5] Which statements about accredited, expert and institutional investors are correct?
+### 379. **[Multiple response]** [RES 1B §1.5] Which statements about accredited, expert and institutional investors are correct?
 
 - a. An institutional investor is a defined class that includes banks, insurers and licensed fund managers
 - b. An expert investor may be a person whose only experience is in a specified product
@@ -6220,7 +6220,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 380. **[Single choice | RES 1B §1.5]** [RES 1B §1.5] A customer wants to be treated as an expert investor in respect of a specific product. The firm should:
+### 380. **[Single choice]** [RES 1B §1.5] A customer wants to be treated as an expert investor in respect of a specific product. The firm should:
 
 - a. Assess and document whether the customer has the relevant experience and knowledge for that product
 - b. Accept the customer’s self-certification without further enquiry
@@ -6236,7 +6236,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 381. **[Single choice | RES 1B §2.5]** [RES 1B §2.5] The Do Not Call registry must be checked:
+### 381. **[Single choice]** [RES 1B §2.5] The Do Not Call registry must be checked:
 
 - a. Before making a marketing call to a Singapore telephone number
 - b. After the marketing call if the customer objects
@@ -6252,7 +6252,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 382. **[Multiple response | RES 1B §2.5]** [RES 1B §2.5] Which statements about the Personal Data Protection Act are correct?
+### 382. **[Multiple response]** [RES 1B §2.5] Which statements about the Personal Data Protection Act are correct?
 
 - a. It governs the collection, use and disclosure of personal data
 - b. Consent is generally required before collecting personal data
@@ -6268,7 +6268,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 383. **[Single choice | RES 1B §2.6]** [RES 1B §2.6] A retail customer wants to trade a leveraged FX contract. Before the account is opened the firm must:
+### 383. **[Single choice]** [RES 1B §2.6] A retail customer wants to trade a leveraged FX contract. Before the account is opened the firm must:
 
 - a. Provide a separate written risk disclosure document and obtain a signed and dated acknowledgement
 - b. Obtain MAS approval for the account
@@ -6284,7 +6284,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 384. **[Single choice | RES 1B §3.12]** [RES 1B §3.12] A CMS licence holder may disclose information about a customer’s order where the disclosure is:
+### 384. **[Single choice]** [RES 1B §3.12] A CMS licence holder may disclose information about a customer’s order where the disclosure is:
 
 - a. Necessary for the effective execution of that order
 - b. Requested by a journalist
@@ -6300,7 +6300,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 385. **[Single choice | RES 1B §3.13]** [RES 1B §3.13] A representative withdraws a customer’s order from the market in order to benefit a proprietary position. This is:
+### 385. **[Single choice]** [RES 1B §3.13] A representative withdraws a customer’s order from the market in order to benefit a proprietary position. This is:
 
 - a. Prohibited, because an order may not be withdrawn for the firm’s or another person’s benefit
 - b. Permitted if the customer is told afterwards
@@ -6316,7 +6316,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 386. **[Multiple response | RES 1B §4.2]** [RES 1B §4.2] Which are threats to ethical judgement identified in the standards?
+### 386. **[Multiple response]** [RES 1B §4.2] Which are threats to ethical judgement identified in the standards?
 
 - a. Self-interest
 - b. Self-review
@@ -6332,7 +6332,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 387. **[Single choice | RES 1B §4.3]** [RES 1B §4.3] A representative is offered an all-expenses-paid overseas trip by a product provider whose products he recommends. Under the standards of professional conduct he should:
+### 387. **[Single choice]** [RES 1B §4.3] A representative is offered an all-expenses-paid overseas trip by a product provider whose products he recommends. Under the standards of professional conduct he should:
 
 - a. Decline or obtain written consent from all parties, because the benefit may compromise independence and objectivity
 - b. Accept it, because it is not cash
@@ -6348,7 +6348,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 388. **[Multiple response | RES 1B §5.2]** [RES 1B §5.2] Which practices support best execution?
+### 388. **[Multiple response]** [RES 1B §5.2] Which practices support best execution?
 
 - a. Considering price, cost, speed, likelihood of execution and settlement, size and quality holistically
 - b. Having written policies and procedures commensurate with the nature and scale of the business
@@ -6364,7 +6364,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 389. **[Single choice | RES 1B §5.3]** [RES 1B §5.3] A representative executes a large client order ahead of a smaller one received earlier at the same price. This breaches:
+### 389. **[Single choice]** [RES 1B §5.3] A representative executes a large client order ahead of a smaller one received earlier at the same price. This breaches:
 
 - a. The obligation to execute comparable customer orders in accordance with the time of receipt
 - b. The obligation to obtain best execution
@@ -6380,7 +6380,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 390. **[Multiple response | RES 1B §6.3]** [RES 1B §6.3] Which investments are eligible under CPFIS?
+### 390. **[Multiple response]** [RES 1B §6.3] Which investments are eligible under CPFIS?
 
 - a. Certain unit trusts approved for the scheme
 - b. Singapore Government Securities
@@ -6396,7 +6396,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 391. **[Single choice | RES 1B §7.3]** [RES 1B §7.3] Under the CDSA, a person who knows or has reasonable grounds to suspect that property represents criminal proceeds must:
+### 391. **[Single choice]** [RES 1B §7.3] Under the CDSA, a person who knows or has reasonable grounds to suspect that property represents criminal proceeds must:
 
 - a. File a suspicious transaction report and not tip off the customer
 - b. Confront the customer and seek an explanation before reporting
@@ -6412,7 +6412,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 392. **[Multiple response | RES 1B §7.4]** [RES 1B §7.4] Which are elements of a risk-based approach to AML/CFT?
+### 392. **[Multiple response]** [RES 1B §7.4] Which are elements of a risk-based approach to AML/CFT?
 
 - a. Customer risk profiling
 - b. Enhanced due diligence for higher-risk customers
@@ -6428,7 +6428,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 393. **[Single choice | RES 1B §7.9]** [RES 1B §7.9] A customer repeatedly structures deposits just below the reporting threshold. This is best described as:
+### 393. **[Single choice]** [RES 1B §7.9] A customer repeatedly structures deposits just below the reporting threshold. This is best described as:
 
 - a. Structuring, a recognised suspicious transaction indicator
 - b. A legitimate cash management technique
@@ -6444,7 +6444,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 394. **[Scenario | RES 1B §3.20]** [RES 1B §3.20] A representative places matched buy and sell orders in the same contract month for accounts he controls, at the same price, to create volume. Which offence best describes this?
+### 394. **[Scenario]** [RES 1B §3.20] A representative places matched buy and sell orders in the same contract month for accounts he controls, at the same price, to create volume. Which offence best describes this?
 
 - a. False trading by means of a wash trade
 - b. Bucketing
@@ -6460,7 +6460,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 395. **[Scenario | RES 1B §3.20]** [RES 1B §3.20] A representative, learning that a client is about to place a large buy order, purchases for a personal account first. Which offence best describes this?
+### 395. **[Scenario]** [RES 1B §3.20] A representative, learning that a client is about to place a large buy order, purchases for a personal account first. Which offence best describes this?
 
 - a. Front running, breaching the priority of customer orders
 - b. False trading
@@ -6476,7 +6476,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 396. **[Scenario | RES 1B §7.9]** [RES 1B §7.9] A client asks a representative why a large transfer to an unrelated overseas party was queried by the firm. The representative should:
+### 396. **[Scenario]** [RES 1B §7.9] A client asks a representative why a large transfer to an unrelated overseas party was queried by the firm. The representative should:
 
 - a. Give a neutral explanation that queries are routine, without revealing that a suspicious transaction report may have been filed
 - b. Explain that a suspicious transaction report has been filed
@@ -6492,9 +6492,201 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
+### 397. **[Single choice]** [RES 1B §6.5] A member applying for a CPFIS Investment Account is asked which banks will accept the application and how many accounts may be held. The correct answer is:
+
+- a. DBS, OCBC or UOB, and only one account at a time
+- b. DBS, OCBC or UOB, and one account with each bank
+- c. Any MAS-licensed bank, and only one account at a time
+- d. Any CPFIS-included bank, and up to two accounts
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. DBS, OCBC or UOB, and only one account at a time
+
+**Rationale:** There are three agent banks — DBS, OCBC and UOB — and a member may hold only one CPF Investment Account at any time, regardless of how many banks offer the service.
+
+</details>
+
+### 398. **[Multiple response]** [RES 1B §6.5] A member attends a branch to open a CPFIS Investment Account. Which items does the guide describe the member as bringing for verification?
+
+- a. An identity card
+- b. The SAQ status document
+- c. A CPF statement so the bank can verify the CPF account number
+- d. A statutory declaration of all existing investments
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** Identity, SAQ status and a CPF statement are the three items named. No statutory declaration of existing investments is required.
+
+</details>
+
+### 399. **[Single choice]** [RES 1B §6.8] Which CPFIS investments require no application by the product provider and no review by the CPF Board?
+
+- a. Singapore Government Bonds, Treasury Bills and gold products offered by CPF agent banks
+- b. Unit trusts and exchange-traded funds
+- c. Fixed deposits and statutory board bonds
+- d. Annuities and investment-linked policies
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Singapore Government Bonds, Treasury Bills and gold products offered by CPF agent banks
+
+**Rationale:** Government bonds, T-bills and agent-bank gold products are the stated exceptions. Everything else is included only on the provider’s application and after CPF Board review, with unit trusts, ILPs and ETFs additionally evaluated by the Board’s appointed investment consultant.
+
+</details>
+
+### 400. **[Single choice]** [RES 1B §6.8] An investor proposes to pledge CPFIS-included shares as security for a bank loan. Is that permitted?
+
+- a. No, because CPFIS investments cannot be assigned, pledged or used as collateral
+- b. Yes, provided the loan is taken from a CPFIS-included bank
+- c. Yes, provided the member has set aside the Full Retirement Sum
+- d. Yes, but only after the investment account has been open for one year
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. No, because CPFIS investments cannot be assigned, pledged or used as collateral
+
+**Rationale:** CPFIS investments cannot be assigned, pledged or used as collateral. The restriction is absolute and is not cured by the identity of the lender or by the member’s retirement sum.
+
+</details>
+
+### 401. **[Single choice]** [RES 1B §6.10] A member receives dividends on CPFIS-OA shares. What may the member do with that money?
+
+- a. It cannot be withdrawn as cash, but may be used for other CPF schemes subject to their terms
+- b. It may be withdrawn as cash from the agent bank at any time
+- c. It must be reinvested in the same counter within 30 days
+- d. It is automatically transferred to the Special Account
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. It cannot be withdrawn as cash, but may be used for other CPF schemes subject to their terms
+
+**Rationale:** Dividends and profits cannot be withdrawn as cash because the scheme exists to grow retirement savings. They may be applied to other CPF schemes on those schemes’ terms.
+
+</details>
+
+### 402. **[Single choice]** [RES 1B §6.10] A CPFIS investment loses 30% of its value. What does the member owe to the CPF account?
+
+- a. Nothing, because losses do not need to be made good
+- b. The full loss, restored in cash on realisation
+- c. The loss, but only up to the amount of dividends received
+- d. The loss, deducted from the Retirement Account
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Nothing, because losses do not need to be made good
+
+**Rationale:** Losses do not have to be made good. The member bears the investment risk; there is no restitution obligation back to the CPF account.
+
+</details>
+
+### 403. **[Single choice]** [RES 1B §6.11] What is the current cap on a wrap fee charged through CPFIS, following the October 2020 changes?
+
+- a. 0.4%
+- b. 0.7%
+- c. 1.0%
+- d. There is no cap
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. 0.4%
+
+**Rationale:** October 2020 reduced the wrap fee cap to 0.4% and removed the sales charge cap altogether. The earlier figures were 1.0% and 1.5% (from October 2018) and 1% and 3% before that.
+
+</details>
+
+### 404. **[Multiple response]** [RES 1B §6.11] Which statements about CPFIS charges are correct?
+
+- a. Charges may be paid from CPF savings
+- b. The agent bank may levy charges for the account and for settlement and accounting
+- c. The sales charge cap had been removed by October 2020
+- d. The wrap fee cap was removed in October 2020
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** The sales charge cap was removed and the wrap fee cap was reduced to 0.4% — it was not removed. Charges may be paid from CPF savings and may be levied by product and service providers as well as by the agent bank.
+
+</details>
+
+### 405. **[Single choice]** [RES 1B §6.13] An undischarged bankrupt holds existing CPFIS investments. Which statement is correct?
+
+- a. The member may hold or liquidate existing investments but may not make new investments with CPF money
+- b. The member may neither hold nor liquidate the investments while undischarged
+- c. The member may make new investments provided the Official Assignee consents
+- d. The investments vest in the Official Assignee on the making of the bankruptcy order
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. The member may hold or liquidate existing investments but may not make new investments with CPF money
+
+**Rationale:** Existing holdings may be held or liquidated, with proceeds credited back to the CPF Investment Account or Special Account. New investments using CPF money are prohibited.
+
+</details>
+
+### 406. **[Single choice]** [RES 1B §6.13] What protection do CPFIS investments and investment-account cash have while they remain within the scheme?
+
+- a. They are protected from creditors and the Official Assignee
+- b. They are protected only after the member reaches 55
+- c. They are protected only if the member has set aside the Full Retirement Sum
+- d. They are unprotected and form part of the bankrupt estate
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. They are protected from creditors and the Official Assignee
+
+**Rationale:** CPFIS investments and investment-account cash are protected from creditors and the Official Assignee while within the scheme. At 55 the FRS or BRS requirement still governs withdrawal, which is a separate question from creditor protection.
+
+</details>
+
+### 407. **[Single choice]** [RES 1B §6.14] A member dies holding CPFIS investments. What is the effect of a CPF nomination made under the CPF Act?
+
+- a. It does not cover CPFIS investments, which form part of the estate
+- b. It transfers the CPFIS investments to the nominated beneficiaries directly
+- c. It transfers the investment-account cash only, and not the investments
+- d. It has effect only if the nomination is irrevocable
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. It does not cover CPFIS investments, which form part of the estate
+
+**Rationale:** CPFIS investments and investment-account cash are not covered by CPF nomination and form part of the estate. The administrator or executor must produce Letters of Administration or a Grant of Probate to claim them.
+
+</details>
+
+### 408. **[Multiple response]** [RES 1B §6.14] Which statements about CPFIS insurance policies on the member’s death are correct?
+
+- a. A revocable nomination made with the insurer pays the nominated beneficiaries directly
+- b. Without a nomination, the proceeds are distributed with the rest of the estate
+- c. Irrevocable nomination is not allowed for CPFIS insurance policies
+- d. On death the CPFIS assets remain protected from the deceased’s creditors
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** Revocable nomination bypasses the estate, and without one the proceeds fall into the estate. Irrevocable nomination is not permitted. The protection ends on death, so the assets may satisfy the deceased’s creditors under the Probate and Administration Act.
+
+</details>
+
 ## RES 2B — Extension
 
-### 397. **[Single choice | RES 2B §2.2]** [RES 2B §2.2] A corporation dealing in exchange-traded derivatives as a clearing member must maintain base capital of at least:
+### 409. **[Single choice]** [RES 2B §2.2] A corporation dealing in exchange-traded derivatives as a clearing member must maintain base capital of at least:
 
 - a. S$5 million
 - b. S$1 million
@@ -6510,7 +6702,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 398. **[Single choice | RES 2B §2.2]** [RES 2B §2.2] A non-clearing member dealing in OTC derivatives with retail clients requires base capital of:
+### 410. **[Single choice]** [RES 2B §2.2] A non-clearing member dealing in OTC derivatives with retail clients requires base capital of:
 
 - a. S$5 million
 - b. S$1 million
@@ -6526,7 +6718,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 399. **[Single choice | RES 2B §2.2]** [RES 2B §2.2] A restricted broker dealing only in specified commodity futures contracts requires base capital of:
+### 411. **[Single choice]** [RES 2B §2.2] A restricted broker dealing only in specified commodity futures contracts requires base capital of:
 
 - a. S$250,000
 - b. S$500,000
@@ -6542,7 +6734,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 400. **[Multiple response | RES 2B §2.2]** [RES 2B §2.2] Which statements about the board and senior management of a CMS licence applicant are correct?
+### 412. **[Multiple response]** [RES 2B §2.2] Which statements about the board and senior management of a CMS licence applicant are correct?
 
 - a. The board must have at least two members
 - b. At least one board member must be resident in Singapore
@@ -6558,7 +6750,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 401. **[Single choice | RES 2B §2.2]** [RES 2B §2.2] A CMS licence holder must inform MAS of a change in the address of its principal place of business within:
+### 413. **[Single choice]** [RES 2B §2.2] A CMS licence holder must inform MAS of a change in the address of its principal place of business within:
 
 - a. 14 days
 - b. 7 days
@@ -6574,7 +6766,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 402. **[Multiple response | RES 2B §2.2]** [RES 2B §2.2] Which are duties of a CMS licence holder under the internal control requirements?
+### 414. **[Multiple response]** [RES 2B §2.2] Which are duties of a CMS licence holder under the internal control requirements?
 
 - a. Implementing effective written policies across all operational areas
 - b. Setting out in writing the limits of discretionary powers of officers and committees
@@ -6590,7 +6782,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 403. **[Multiple response | RES 2B §2.6]** [RES 2B §2.6] Which statements about the monthly statement for a derivatives account are correct?
+### 415. **[Multiple response]** [RES 2B §2.6] Which statements about the monthly statement for a derivatives account are correct?
 
 - a. It must show outstanding positions, the prices at which they were established and net unrealised profit or loss marked to market
 - b. It must show the status of every asset held in custody
@@ -6606,7 +6798,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 404. **[Single choice | RES 2B §2.6]** [RES 2B §2.6] For an OTC derivatives transaction, the CMS licence holder may avoid issuing a contract note if it provides a confirmation stating:
+### 416. **[Single choice]** [RES 2B §2.6] For an OTC derivatives transaction, the CMS licence holder may avoid issuing a contract note if it provides a confirmation stating:
 
 - a. The name of the holder, the name of the recipient, principal capacity where applicable, the trade date and the type and notional value
 - b. Only the trade date
@@ -6622,7 +6814,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 405. **[Multiple response | RES 2B §2.8]** [RES 2B §2.8] Which are permissible depositories for a trust or custody account?
+### 417. **[Multiple response]** [RES 2B §2.8] Which are permissible depositories for a trust or custody account?
 
 - a. A bank or merchant bank licensed under the Banking Act
 - b. A finance company licensed under the Finance Companies Act
@@ -6638,7 +6830,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 406. **[Single choice | RES 2B §2.8]** [RES 2B §2.8] Where a CMS licence holder opens a trust account with a custodian outside Singapore, it must:
+### 418. **[Single choice]** [RES 2B §2.8] Where a CMS licence holder opens a trust account with a custodian outside Singapore, it must:
 
 - a. Give written notice to the custodian and obtain a similar acknowledgement that the assets are held on trust and cannot be used to offset the holder’s debts
 - b. Rely on the overseas custodian’s standard terms
@@ -6654,7 +6846,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 407. **[Single choice | RES 2B §2.8]** [RES 2B §2.8] For moneys held in a customer trust account, interest earned and returns from permitted investments:
+### 419. **[Single choice]** [RES 2B §2.8] For moneys held in a customer trust account, interest earned and returns from permitted investments:
 
 - a. Accrue to the customer
 - b. Belong to the CMS licence holder
@@ -6670,7 +6862,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 408. **[Single choice | RES 2B §3.2]** [RES 2B §3.2] A person in Tokyo manipulates the price of a futures contract listed on a Singapore exchange. For the purposes of the market conduct provisions, the act is:
+### 420. **[Single choice]** [RES 2B §3.2] A person in Tokyo manipulates the price of a futures contract listed on a Singapore exchange. For the purposes of the market conduct provisions, the act is:
 
 - a. Regarded as having taken place in Singapore
 - b. Outside the reach of the SFA because it occurred abroad
@@ -6686,7 +6878,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 409. **[Multiple response | RES 2B §3.2]** [RES 2B §3.2] Which of the following are securities-based derivatives contracts?
+### 421. **[Multiple response]** [RES 2B §3.2] Which of the following are securities-based derivatives contracts?
 
 - a. Futures on an equity index
 - b. Options on an equity index
@@ -6702,7 +6894,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 410. **[Single choice | RES 2B §3.3]** [RES 2B §3.3] Which element distinguishes false trading from a legitimate trade?
+### 422. **[Single choice]** [RES 2B §3.3] Which element distinguishes false trading from a legitimate trade?
 
 - a. The absence of a genuine investment objective and the intention to create a false impression of activity or price
 - b. The size of the trade
@@ -6718,7 +6910,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 411. **[Multiple response | RES 2B §3.10]** [RES 2B §3.10] Which are effective defences to a charge of insider trading?
+### 423. **[Multiple response]** [RES 2B §3.10] Which are effective defences to a charge of insider trading?
 
 - a. The information had been made known in a manner likely to bring it to the attention of persons who commonly invest
 - b. The counterparty knew or ought reasonably to have known of the information before the transaction
@@ -6734,7 +6926,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 412. **[Single choice | RES 2B §3.14]** [RES 2B §3.14] A CMS licence holder wishes to take the opposite side of a customer’s futures order. It may do so only:
+### 424. **[Single choice]** [RES 2B §3.14] A CMS licence holder wishes to take the opposite side of a customer’s futures order. It may do so only:
 
 - a. With the customer’s prior consent and in accordance with the business rules of the exchange
 - b. If the trade is profitable for the customer
@@ -6750,7 +6942,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 413. **[Multiple response | RES 2B §3.17]** [RES 2B §3.17] Which statements about churning and overtrading are correct?
+### 425. **[Multiple response]** [RES 2B §3.17] Which statements about churning and overtrading are correct?
 
 - a. Churning is executing trades to generate commission without sound market opportunities
 - b. Overtrading includes maintaining positions that breach limits imposed by an exchange or clearing house
@@ -6766,7 +6958,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 414. **[Single choice | RES 2B §3.19]** [RES 2B §3.19] Pre-arranged trading at an agreed price between dealers is prohibited because it:
+### 426. **[Single choice]** [RES 2B §3.19] Pre-arranged trading at an agreed price between dealers is prohibited because it:
 
 - a. Violates the principle of fair and transparent markets by letting selected participants benefit from premeditated prices
 - b. Is always unprofitable
@@ -6782,7 +6974,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 415. **[Multiple response | RES 2B §4.2]** [RES 2B §4.2] Which of the following are "specified persons" for the OTC derivatives reporting regime?
+### 427. **[Multiple response]** [RES 2B §4.2] Which of the following are "specified persons" for the OTC derivatives reporting regime?
 
 - a. Banks and merchant banks
 - b. Finance companies and insurers
@@ -6798,7 +6990,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 416. **[Single choice | RES 2B §4.2]** [RES 2B §4.2] Under section 129C of the SFA, a specified person who is party to a specified derivatives contract must:
+### 428. **[Single choice]** [RES 2B §4.2] Under section 129C of the SFA, a specified person who is party to a specified derivatives contract must:
 
 - a. Clear the contract with an approved or recognised clearing house
 - b. Report the contract to MAS
@@ -6814,7 +7006,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 417. **[Multiple response | RES 2B §4.2]** [RES 2B §4.2] Which asset classes of derivatives are prescribed for the reporting regime when traded or booked in Singapore?
+### 429. **[Multiple response]** [RES 2B §4.2] Which asset classes of derivatives are prescribed for the reporting regime when traded or booked in Singapore?
 
 - a. Interest rate derivatives
 - b. Credit derivatives
@@ -6830,7 +7022,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 418. **[Single choice | RES 2B §4.3]** [RES 2B §4.3] OTC commodity derivatives are registered for clearing through:
+### 430. **[Single choice]** [RES 2B §4.3] OTC commodity derivatives are registered for clearing through:
 
 - a. The Titan OTC system
 - b. CDP
@@ -6846,7 +7038,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 419. **[Single choice | RES 2B §4.4]** [RES 2B §4.4] Which form is the prescribed derivatives risk disclosure statement?
+### 431. **[Single choice]** [RES 2B §4.4] Which form is the prescribed derivatives risk disclosure statement?
 
 - a. Form 13
 - b. Form 14
@@ -6862,7 +7054,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 420. **[Multiple response | RES 2B §4.5]** [RES 2B §4.5] Which terms are typically addressed in an ISDA Master Agreement?
+### 432. **[Multiple response]** [RES 2B §4.5] Which terms are typically addressed in an ISDA Master Agreement?
 
 - a. Governing law
 - b. Netting
@@ -6878,7 +7070,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 421. **[Single choice | RES 2B §4.5]** [RES 2B §4.5] Where a broker cannot substantiate a quotation and a difference is payable to the principal, the broker should:
+### 433. **[Single choice]** [RES 2B §4.5] Where a broker cannot substantiate a quotation and a difference is payable to the principal, the broker should:
 
 - a. Close the position at the next available price and settle the difference with the principal
 - b. Cancel the trade
@@ -6894,7 +7086,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 422. **[Single choice | RES 2B §5.2]** [RES 2B §5.2] A representative recommends a product unsuitable for the client in order to meet a commission target. Which threat category does this illustrate?
+### 434. **[Single choice]** [RES 2B §5.2] A representative recommends a product unsuitable for the client in order to meet a commission target. Which threat category does this illustrate?
 
 - a. Self-interest
 - b. Self-review
@@ -6910,7 +7102,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 423. **[Single choice | RES 2B §5.4]** [RES 2B §5.4] Where the laws of two jurisdictions conflict, a representative must comply with:
+### 435. **[Single choice]** [RES 2B §5.4] Where the laws of two jurisdictions conflict, a representative must comply with:
 
 - a. The stricter law, rule or regulation
 - b. The law of Singapore in all cases
@@ -6926,7 +7118,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 424. **[Multiple response | RES 2B §5.4]** [RES 2B §5.4] Which are exceptions to the duty of confidentiality to a client?
+### 436. **[Multiple response]** [RES 2B §5.4] Which are exceptions to the duty of confidentiality to a client?
 
 - a. The information concerns illegal activity by the client
 - b. Disclosure is required by law
@@ -6942,7 +7134,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 425. **[Single choice | RES 2B §5.4]** [RES 2B §5.4] A representative acts for a client while holding a personal position directly opposed to the client’s interest. The correct response is to:
+### 437. **[Single choice]** [RES 2B §5.4] A representative acts for a client while holding a personal position directly opposed to the client’s interest. The correct response is to:
 
 - a. Avoid the conflict, or make full and fair disclosure before the transaction
 - b. Say nothing because the client has not asked
@@ -6958,7 +7150,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 426. **[Multiple response | RES 2B §5.4]** [RES 2B §5.4] Which duties does a representative owe to an employer?
+### 438. **[Multiple response]** [RES 2B §5.4] Which duties does a representative owe to an employer?
 
 - a. Not to solicit the employer’s clients after resigning without permission
 - b. Not to misappropriate the client list
@@ -6974,7 +7166,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 427. **[Single choice | RES 2B §5.4]** [RES 2B §5.4] A representative holds material non-public information about a security and refrains from dealing, but tells a friend who deals. The representative has:
+### 439. **[Single choice]** [RES 2B §5.4] A representative holds material non-public information about a security and refrains from dealing, but tells a friend who deals. The representative has:
 
 - a. Contravened the prohibition by causing another to act on the information
 - b. Acted lawfully because he did not deal himself
@@ -6990,7 +7182,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 428. **[Single choice | RES 2B §5.5]** [RES 2B §5.5] Payment for order flow is prohibited because it:
+### 440. **[Single choice]** [RES 2B §5.5] Payment for order flow is prohibited because it:
 
 - a. Creates a conflict of interest, since routing may be driven by the payment rather than by best execution
 - b. Is always unprofitable for the firm
@@ -7006,7 +7198,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 429. **[Multiple response | RES 2B §5.5]** [RES 2B §5.5] Which statements about best execution are correct?
+### 441. **[Multiple response]** [RES 2B §5.5] Which statements about best execution are correct?
 
 - a. It requires considering price, cost, speed, likelihood of execution and settlement, size and quality holistically
 - b. Not executing at the best possible price is not automatically a breach
@@ -7022,7 +7214,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 430. **[Single choice | RES 2B §5.5]** [RES 2B §5.5] The FX Global Code is organised around:
+### 442. **[Single choice]** [RES 2B §5.5] The FX Global Code is organised around:
 
 - a. Six leading principles covering ethics, governance, information sharing, execution, risk management and compliance, and confirmation and settlement
 - b. Five codes of conduct covering dealing principles, ethics, governance, back office and instruments
@@ -7038,7 +7230,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 431. **[Single choice | RES 2B §6.2]** [RES 2B §6.2] For a client investing in equities with a long-term horizon, the analysis most suited to developing the strategy is:
+### 443. **[Single choice]** [RES 2B §6.2] For a client investing in equities with a long-term horizon, the analysis most suited to developing the strategy is:
 
 - a. Fundamental analysis
 - b. Technical analysis
@@ -7054,7 +7246,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 432. **[Multiple response | RES 2B §6.3]** [RES 2B §6.3] Which are constraints that must be addressed when formulating a trading strategy?
+### 444. **[Multiple response]** [RES 2B §6.3] Which are constraints that must be addressed when formulating a trading strategy?
 
 - a. Time horizon of the position
 - b. Liquidity needs of the client
@@ -7070,7 +7262,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 433. **[Single choice | RES 2B §6.3]** [RES 2B §6.3] Shifting portfolio weightings to take advantage of a sector expected to outperform is known as:
+### 445. **[Single choice]** [RES 2B §6.3] Shifting portfolio weightings to take advantage of a sector expected to outperform is known as:
 
 - a. Tactical asset allocation
 - b. Strategic asset allocation
@@ -7086,7 +7278,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 434. **[Multiple response | RES 2B §6.4]** [RES 2B §6.4] Which are risk management tools available to a dealing representative?
+### 446. **[Multiple response]** [RES 2B §6.4] Which are risk management tools available to a dealing representative?
 
 - a. Stop-loss levels
 - b. Daily loss limits
@@ -7102,7 +7294,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 435. **[Single choice | RES 2B §6.4]** [RES 2B §6.4] A daily loss limit is reached. The representative must:
+### 447. **[Single choice]** [RES 2B §6.4] A daily loss limit is reached. The representative must:
 
 - a. Liquidate all positions or be prevented from entering new ones
 - b. Continue trading to recoup the loss
@@ -7118,7 +7310,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 436. **[Single choice | RES 2B §6.6]** [RES 2B §6.6] A retail customer is deemed to have sufficient knowledge for a customer account review in respect of listed SIPs if they have transacted in listed SIPs at least:
+### 448. **[Single choice]** [RES 2B §6.6] A retail customer is deemed to have sufficient knowledge for a customer account review in respect of listed SIPs if they have transacted in listed SIPs at least:
 
 - a. 6 times in the preceding 3 years
 - b. 3 times in the preceding 5 years
@@ -7134,7 +7326,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 437. **[Multiple response | RES 2B §6.6]** [RES 2B §6.6] Which may substitute for the transaction or experience route to deemed knowledge?
+### 449. **[Multiple response]** [RES 2B §6.6] Which may substitute for the transaction or experience route to deemed knowledge?
 
 - a. A diploma or higher qualification in a listed discipline such as accountancy, actuarial science or finance
 - b. A CFA or ACCA qualification
@@ -7150,7 +7342,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 438. **[Single choice | RES 2B §6.6]** [RES 2B §6.6] The outcome of a customer account review for a listed SIP remains valid for:
+### 450. **[Single choice]** [RES 2B §6.6] The outcome of a customer account review for a listed SIP remains valid for:
 
 - a. 3 years, extended only if the customer has transacted more than once in each 3-year period
 - b. 1 year
@@ -7166,7 +7358,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 439. **[Single choice | RES 2B §6.6]** [RES 2B §6.6] A customer does not provide adequate information for a customer account review. The CMS licence holder must:
+### 451. **[Single choice]** [RES 2B §6.6] A customer does not provide adequate information for a customer account review. The CMS licence holder must:
 
 - a. Deem the customer not to possess knowledge or experience in derivatives
 - b. Assume knowledge because the customer declined to answer
@@ -7182,7 +7374,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 440. **[Multiple response | RES 2B §6.7]** [RES 2B §6.7] Which statements about operational risk are correct?
+### 452. **[Multiple response]** [RES 2B §6.7] Which statements about operational risk are correct?
 
 - a. It arises from inadequate or failed internal processes, systems and people
 - b. It is independent of financial, systematic and market-wide risk
@@ -7198,7 +7390,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 441. **[Single choice | RES 2B §6.7]** [RES 2B §6.7] The maximum unscheduled downtime permitted for critical IT systems of a CMS licence holder is:
+### 453. **[Single choice]** [RES 2B §6.7] The maximum unscheduled downtime permitted for critical IT systems of a CMS licence holder is:
 
 - a. 4 hours within any 12-month period
 - b. 4 hours per month
@@ -7214,7 +7406,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 442. **[Single choice | RES 2B §6.7]** [RES 2B §6.7] In a margin trading account, capital risk means that the client may:
+### 454. **[Single choice]** [RES 2B §6.7] In a margin trading account, capital risk means that the client may:
 
 - a. Lose more than the principal invested, because the position is funded by borrowed capital
 - b. Lose only the commission
@@ -7230,7 +7422,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 443. **[Multiple response | RES 2B §6.7]** [RES 2B §6.7] Which statements about gap risk are correct?
+### 455. **[Multiple response]** [RES 2B §6.7] Which statements about gap risk are correct?
 
 - a. Prices move from one level to another with no trading in between
 - b. A stop-loss may be executed well below the stop level because of a gap
@@ -7246,7 +7438,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 444. **[Multiple response | RES 2B §1.4]** [RES 2B §1.4] Which statements about the SGX-DC clearing of OTC commodity derivatives are correct?
+### 456. **[Multiple response]** [RES 2B §1.4] Which statements about the SGX-DC clearing of OTC commodity derivatives are correct?
 
 - a. Contracts are registered through Titan OTC
 - b. Clearing members post margin at rates prescribed by SGX-DC
@@ -7262,7 +7454,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 445. **[Single choice | RES 2B §2.3]** [RES 2B §2.3] A representative wishes to act for a second principal. This requires:
+### 457. **[Single choice]** [RES 2B §2.3] A representative wishes to act for a second principal. This requires:
 
 - a. MAS approval, unless the principals are related corporations
 - b. No approval, provided the firms agree
@@ -7278,7 +7470,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 446. **[Multiple response | RES 2B §2.4]** [RES 2B §2.4] Which statements about the Representative Notification Framework are correct?
+### 458. **[Multiple response]** [RES 2B §2.4] Which statements about the Representative Notification Framework are correct?
 
 - a. Notifications are lodged electronically by the principal
 - b. The principal certifies that the representative is fit and proper
@@ -7294,7 +7486,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 447. **[Single choice | RES 2B §2.5]** [RES 2B §2.5] Which statement about customer confidentiality under the SFR(LCB) is correct?
+### 459. **[Single choice]** [RES 2B §2.5] Which statement about customer confidentiality under the SFR(LCB) is correct?
 
 - a. Information about a customer’s order may not be divulged except for effective execution, under exchange rules, or when required by MAS
 - b. Confidentiality ceases when the customer relationship ends
@@ -7310,7 +7502,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 448. **[Multiple response | RES 2B §3.4]** [RES 2B §3.4] Which are prohibited under the market conduct provisions for derivatives?
+### 460. **[Multiple response]** [RES 2B §3.4] Which are prohibited under the market conduct provisions for derivatives?
 
 - a. Manipulating the price of a derivatives contract traded on an organised market
 - b. Cornering the underlying of a derivatives contract
@@ -7326,7 +7518,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 449. **[Single choice | RES 2B §3.8]** [RES 2B §3.8] A broker publishes a research note that recklessly conceals material facts in order to induce dealing. This is:
+### 461. **[Single choice]** [RES 2B §3.8] A broker publishes a research note that recklessly conceals material facts in order to induce dealing. This is:
 
 - a. Fraudulently inducing persons to deal in capital markets products
 - b. Bucketing
@@ -7342,7 +7534,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 450. **[Single choice | RES 2B §4.2]** [RES 2B §4.2] A CMS licence holder enters into a prescribed interest rate swap booked in Singapore. Which obligations arise?
+### 462. **[Single choice]** [RES 2B §4.2] A CMS licence holder enters into a prescribed interest rate swap booked in Singapore. Which obligations arise?
 
 - a. Both the reporting obligation under Part 6A and the clearing obligation under section 129C
 - b. The reporting obligation only
@@ -7358,7 +7550,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 451. **[Multiple response | RES 2B §4.4]** [RES 2B §4.4] Which statements about risk disclosure for derivatives are correct?
+### 463. **[Multiple response]** [RES 2B §4.4] Which statements about risk disclosure for derivatives are correct?
 
 - a. Form 13 must be furnished before the account is set up
 - b. A client acknowledgement of the Form 13 disclosure must be obtained
@@ -7374,7 +7566,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 452. **[Single choice | RES 2B §5.4]** [RES 2B §5.4] A representative has a personal account position in a security that a client also holds. Under the conflicts standards he must:
+### 464. **[Single choice]** [RES 2B §5.4] A representative has a personal account position in a security that a client also holds. Under the conflicts standards he must:
 
 - a. Avoid the conflict, or make full and fair disclosure before acting, and give client orders priority
 - b. Close the personal position immediately in all cases
@@ -7390,7 +7582,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 453. **[Multiple response | RES 2B §5.5]** [RES 2B §5.5] Which statements about payment for order flow are correct?
+### 465. **[Multiple response]** [RES 2B §5.5] Which statements about payment for order flow are correct?
 
 - a. It is prohibited for a CMS licence holder placing or executing customer orders
 - b. It creates a conflict because routing may be driven by the payment rather than best execution
@@ -7406,7 +7598,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 454. **[Multiple response | RES 2B §6.6]** [RES 2B §6.6] Which statements about the approval to open a SIP trading account are correct?
+### 466. **[Multiple response]** [RES 2B §6.6] Which statements about the approval to open a SIP trading account are correct?
 
 - a. Approval must come from senior management not involved in that account opening
 - b. The approving person must not be a connected person of the customer
@@ -7422,7 +7614,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 455. **[Single choice | RES 2B §6.6]** [RES 2B §6.6] A customer is assessed as not possessing knowledge of unlisted SIPs but insists on proceeding. The firm may transact on the customer’s behalf only if:
+### 467. **[Single choice]** [RES 2B §6.6] A customer is assessed as not possessing knowledge of unlisted SIPs but insists on proceeding. The firm may transact on the customer’s behalf only if:
 
 - a. The firm is also an exempt financial adviser and provides advice in accordance with FAA-N16
 - b. The customer signs a waiver
@@ -7438,7 +7630,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 456. **[Multiple response | RES 2B §6.7]** [RES 2B §6.7] Which statements about CRAFT and MAS supervision are correct?
+### 468. **[Multiple response]** [RES 2B §6.7] Which statements about CRAFT and MAS supervision are correct?
 
 - a. CRAFT is a risk-based supervisory framework using an impact and risk model
 - b. MAS prioritises supervisory resources toward firms posing the greatest potential impact
@@ -7454,7 +7646,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 457. **[Single choice | RES 2B §6.7]** [RES 2B §6.7] A firm’s systems fail and it cannot confirm trades for several hours. Which risk category does this primarily illustrate?
+### 469. **[Single choice]** [RES 2B §6.7] A firm’s systems fail and it cannot confirm trades for several hours. Which risk category does this primarily illustrate?
 
 - a. Operational risk
 - b. Market risk
@@ -7470,7 +7662,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 458. **[Multiple response | RES 2B §6.7]** [RES 2B §6.7] Which statements about liquidity risk for a dealing representative are correct?
+### 470. **[Multiple response]** [RES 2B §6.7] Which statements about liquidity risk for a dealing representative are correct?
 
 - a. It can arise when closing out a position in a thinly traded product
 - b. Bid-ask spreads typically widen when trading volume is low
@@ -7486,7 +7678,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 459. **[Scenario | RES 2B §3.16]** [RES 2B §3.16] A trader executes as many trades as possible in a small client account with no sound market rationale, generating substantial commission. Which offence best describes this?
+### 471. **[Scenario]** [RES 2B §3.16] A trader executes as many trades as possible in a small client account with no sound market rationale, generating substantial commission. Which offence best describes this?
 
 - a. Churning
 - b. Bucketing
@@ -7502,7 +7694,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 460. **[Scenario | RES 2B §2.8]** [RES 2B §2.8] A firm deposits retail customer money for OTC derivatives into its own operating account overnight, then transfers it to a trust account the next morning. Is this acceptable?
+### 472. **[Scenario]** [RES 2B §2.8] A firm deposits retail customer money for OTC derivatives into its own operating account overnight, then transfers it to a trust account the next morning. Is this acceptable?
 
 - a. No; retail customer money for OTC derivatives must be deposited into a trust account
 - b. Yes; next-business-day deposit meets the requirement
@@ -7518,7 +7710,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 461. **[Scenario | RES 2B §6.6]** [RES 2B §6.6] A customer completed a CAR for listed SIPs two years ago and has not traded since. May the firm let him trade a listed SIP today?
+### 473. **[Scenario]** [RES 2B §6.6] A customer completed a CAR for listed SIPs two years ago and has not traded since. May the firm let him trade a listed SIP today?
 
 - a. Yes, because the CAR remains valid for three years from the date it was conducted
 - b. No, because a CAR lapses after one year
@@ -7534,7 +7726,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 462. **[Multiple response | RES 12B Final revision checklist]** [RES 12B Final revision checklist] Which distinctions must be clear before sitting the paper?
+### 474. **[Multiple response]** [RES 12B Final revision checklist] Which distinctions must be clear before sitting the paper?
 
 - a. A customer account review from a customer knowledge assessment
 - b. An excluded investment product from a specified investment product
@@ -7550,7 +7742,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 463. **[Single choice | RES 12B Final revision checklist]** [RES 12B Final revision checklist] Which pair is most often confused because both concern product complexity?
+### 475. **[Single choice]** [RES 12B Final revision checklist] Which pair is most often confused because both concern product complexity?
 
 - a. An excluded investment product and a specified investment product
 - b. A trading member and a clearing member
@@ -7566,7 +7758,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 464. **[Multiple response | RES 12B Final revision checklist]** [RES 12B Final revision checklist] Which conduct offences turn on the absence of a genuine commercial purpose rather than on the price achieved?
+### 476. **[Multiple response]** [RES 12B Final revision checklist] Which conduct offences turn on the absence of a genuine commercial purpose rather than on the price achieved?
 
 - a. False trading
 - b. Wash trading
@@ -7582,7 +7774,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 465. **[Single choice | RES 12B Final revision checklist]** [RES 12B Final revision checklist] Which risk category is defined by failed internal processes, systems and people rather than by market or credit events?
+### 477. **[Single choice]** [RES 12B Final revision checklist] Which risk category is defined by failed internal processes, systems and people rather than by market or credit events?
 
 - a. Operational risk
 - b. Market risk
@@ -7598,7 +7790,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 466. **[Multiple response | RES 12B Final revision checklist]** [RES 12B Final revision checklist] Which are the stages of money laundering?
+### 478. **[Multiple response]** [RES 12B Final revision checklist] Which are the stages of money laundering?
 
 - a. Placement
 - b. Layering
@@ -7614,7 +7806,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 467. **[Single choice | RES 12B Final revision checklist]** [RES 12B Final revision checklist] Which best distinguishes a customer account review from a customer knowledge assessment?
+### 479. **[Single choice]** [RES 12B Final revision checklist] Which best distinguishes a customer account review from a customer knowledge assessment?
 
 - a. The CAR applies to listed SIPs and the CKA to unlisted SIPs
 - b. The CAR applies to retail clients and the CKA to accredited clients
@@ -7630,9 +7822,185 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
+### 480. **[Single choice]** [RES 2B §3.5] Which element distinguishes market manipulation under section 198 from ordinary trading that happens to move a price?
+
+- a. Intentional interference with the free forces of supply and demand to deceive or defraud
+- b. The size of the position taken relative to the market
+- c. Execution on an organised market rather than over the counter
+- d. The profit actually realised by the trader
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Intentional interference with the free forces of supply and demand to deceive or defraud
+
+**Rationale:** Market manipulation is defined by intentional interference with the free forces of supply and demand to deceive or defraud investors, or for other ulterior purposes. Size and realised profit are not the test.
+
+</details>
+
+### 481. **[Single choice]** [RES 2B §3.6] A representative circulates an unverified rumour about a counterparty’s funding position. Which mental element must accompany a false or misleading statement for the prohibition to be engaged?
+
+- a. Not caring whether it is true or false, or knowing or having reason to know it is false or misleading
+- b. Intending to profit from the statement
+- c. Communicating it to more than one person
+- d. Repeating it after it has been denied
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Not caring whether it is true or false, or knowing or having reason to know it is false or misleading
+
+**Rationale:** The prohibition applies where the person does not care whether the information is true or false, or knows or should have known that it is false or misleading in a material particular. Dissemination can be by newsletter, research paper, electronic means, media or word of mouth.
+
+</details>
+
+### 482. **[Single choice]** [RES 2B §3.9] Why does the SFA contain a general provision on employing manipulative and deceptive devices when specific offences such as false trading already exist?
+
+- a. Because the devices perpetrators may use cannot all be defined in advance, so a catch-all is needed
+- b. Because the specific offences apply only to securities and not to derivatives
+- c. Because the specific offences require proof of profit
+- d. Because the catch-all carries a lower penalty and is easier to prove
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Because the devices perpetrators may use cannot all be defined in advance, so a catch-all is needed
+
+**Rationale:** The SFA provides a general catch-all precisely because it is not possible to define every device perpetrators may employ. The Madoff Ponzi scheme is the guide’s illustration.
+
+</details>
+
+### 483. **[Multiple response]** [RES 2B §3.9] Which acts fall within the prohibition on employing manipulative and deceptive devices in connection with a transaction in a capital markets product?
+
+- a. Employing any device, scheme or artifice to defraud
+- b. Engaging in an act or course of business that operates or is likely to operate as a fraud or deception
+- c. Making a statement the person knows to be false in a material particular
+- d. Omitting a material fact necessary to make the statements made not misleading
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C, D
+
+**Rationale:** All four limbs are stated in the provision. The omission limb matters because a statement can be misleading by what it leaves out rather than by what it says.
+
+</details>
+
+### 484. **[Single choice]** [RES 2B §3.11] Person Z arranges for another to influence a share price by deceptive methods, then tells third parties so they can trade on the expected move, expecting a share of their profits. Which offence does this describe?
+
+- a. Dissemination of information about illegal transactions
+- b. Bucketing
+- c. Front running
+- d. Pre-arranged trading
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Dissemination of information about illegal transactions
+
+**Rationale:** Circulating information about illegal transactions is an offence in its own right, because trading on the expected move can create or exacerbate the artificial conditions without the trader committing the underlying manipulation.
+
+</details>
+
+### 485. **[Single choice]** [RES 2B §3.13] A representative holds back part of a customer’s order so that a favoured client can trade ahead of it. Which prohibition is engaged?
+
+- a. Withholding or withdrawing a customer’s order for the benefit of the holder or another person
+- b. Churning
+- c. Cornering
+- d. Cross trading
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Withholding or withdrawing a customer’s order for the benefit of the holder or another person
+
+**Rationale:** Regulation 47(1) prohibits withholding or withdrawing from an organised market any order, or part of an order, for the holder’s own benefit or to benefit any other person.
+
+</details>
+
+### 486. **[Multiple response]** [RES 2B §3.13] Which statements about a customer’s order information are correct under the SFR(LCB)?
+
+- a. It must be kept confidential
+- b. It may be disclosed where necessary for the effective execution of the order
+- c. It may be disclosed where permitted under the rules of the relevant exchange or clearing house
+- d. It may be disclosed where MAS requires it under the SFA or SFR(LCB)
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C, D
+
+**Rationale:** Regulation 47(2) permits disclosure only on those three grounds, alongside the general confidentiality obligation. There is no ground of commercial convenience or customer relationship value.
+
+</details>
+
+### 487. **[Single choice]** [RES 2B §3.14] A CMS licence holder wants to take the opposite side of a retail customer’s futures order for its own account. What is required?
+
+- a. The customer’s prior consent, and compliance with the exchange’s business rules and practices
+- b. Nothing, because a principal may always trade against its own customer
+- c. A written risk disclosure signed by the customer after the trade
+- d. Approval from MAS before the transaction
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. The customer’s prior consent, and compliance with the exchange’s business rules and practices
+
+**Rationale:** Regulation 47C(1) permits the firm to buy from or sell to its customer only with the customer’s prior consent and in accordance with the business rules and practices of an approved exchange or recognised market operator.
+
+</details>
+
+### 488. **[Single choice]** [RES 2B §3.18] A representative maintains client positions that exceed the limits imposed by the sponsoring member or the exchange. What does the guide identify this as?
+
+- a. Overtrading, for which the holder is responsible even as to customers’ positions
+- b. Churning, because it generates commission
+- c. Bucketing, because the orders were not exposed
+- d. Pre-arranged trading, because the limits were agreed in advance
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Overtrading, for which the holder is responsible even as to customers’ positions
+
+**Rationale:** Candidates are prohibited from executing trades or maintaining positions that breach limits, and are responsible for keeping customers’ positions within the prescribed limits. A breach may be notified to members, and steps must be taken to reduce the excess.
+
+</details>
+
+### 489. **[Multiple response]** [RES 2B §3.18] Which statements about position limits are correct?
+
+- a. Limits may be imposed by sponsoring members, approved exchanges, clearing houses or regulatory authorities
+- b. The firm is responsible for keeping customers’ positions within the prescribed limits
+- c. A limit breach may be notified by the exchange or clearing house to its members
+- d. A limit breach is cured by later reducing the position, so no notification is required
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** All three of the first statements are correct. Reducing an excess position is required, but it does not remove the breach or the notification obligation.
+
+</details>
+
+### 490. **[Multiple response]** [RES 2B §3.20] Beyond criminal and civil penalties, which consequences does the guide identify for market misconduct?
+
+- a. Civil liability to compensate persons who traded similarly at the time and suffered losses
+- b. Reputational loss, including loss of customer confidence
+- c. Suspension or revocation of the firm’s licence or the representative’s registration
+- d. Automatic transfer of the representative’s client accounts to another firm
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A, B, C
+
+**Rationale:** The four consequence categories are criminal penalties, civil penalties, civil liability with financial and reputational loss, and suspension or loss of licence or registration. Client transfers are not among them.
+
+</details>
+
 ## RES 2B — Appendices
 
-### 468. **[Single choice | RES 2B Appendix A]** [RES 2B Appendix A] In the criteria for assessment of a customer account review, which of the following is relevant to the assessment?
+### 491. **[Single choice]** [RES 2B Appendix A] In the criteria for assessment of a customer account review, which of the following is relevant to the assessment?
 
 - a. The customer’s educational qualifications, investment experience and work experience
 - b. The customer’s marital status
@@ -7648,7 +8016,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 469. **[Single choice | RES 2B Appendix B]** [RES 2B Appendix B] For a customer to satisfy the customer knowledge assessment in respect of unlisted specified investment products, the qualifying transaction count refers to:
+### 492. **[Single choice]** [RES 2B Appendix B] For a customer to satisfy the customer knowledge assessment in respect of unlisted specified investment products, the qualifying transaction count refers to:
 
 - a. Unlisted CIS or ILPs, or other unlisted SIPs, at least 6 times in the preceding 3 years
 - b. Listed SIPs at least 6 times in the preceding 3 years
@@ -7664,7 +8032,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 470. **[Multiple response | RES 2B Appendix C]** [RES 2B Appendix C] Which risks must the overseas-listed investment product risk warning statement draw to the customer’s attention?
+### 493. **[Multiple response]** [RES 2B Appendix C] Which risks must the overseas-listed investment product risk warning statement draw to the customer’s attention?
 
 - a. Differences in the level of investor protection in the foreign jurisdiction
 - b. Differences between the foreign legal system and Singapore’s, including the difficulty of predicting outcomes
@@ -7680,7 +8048,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 471. **[Single choice | RES 2B Appendix C]** [RES 2B Appendix C] The overseas-listed product risk warning statement requirement is found in:
+### 494. **[Single choice]** [RES 2B Appendix C] The overseas-listed product risk warning statement requirement is found in:
 
 - a. Paragraph 29D of the MAS Notice on Sale of Investment Products (SFA 04-N12)
 - b. Section 129C of the SFA
@@ -7696,7 +8064,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 472. **[Single choice | RES 2B Appendix E]** [RES 2B Appendix E] Which of the following is an excluded investment product?
+### 495. **[Single choice]** [RES 2B Appendix E] Which of the following is an excluded investment product?
 
 - a. An ordinary share listed on an exchange
 - b. A structured note
@@ -7712,7 +8080,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 473. **[Multiple response | RES 2B Appendix E]** [RES 2B Appendix E] Which statements about excluded investment products are correct?
+### 496. **[Multiple response]** [RES 2B Appendix E] Which statements about excluded investment products are correct?
 
 - a. Dealing in an EIP does not require a customer account review
 - b. Debentures are EIPs except asset-backed securities and structured notes
@@ -7728,7 +8096,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 474. **[Single choice | RES 2B Appendix F]** [RES 2B Appendix F] The list of suspicious transaction examples is described in the guidance as:
+### 497. **[Single choice]** [RES 2B Appendix F] The list of suspicious transaction examples is described in the guidance as:
 
 - a. An aid to judgement that must not be applied as a routine instrument in place of common sense
 - b. An exhaustive and definitive list of offences
@@ -7744,7 +8112,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 475. **[Single choice | RES 2B Appendix G]** [RES 2B Appendix G] A trade is executed on a Monday with no intervening market holiday. When must the contract note be issued?
+### 498. **[Single choice]** [RES 2B Appendix G] A trade is executed on a Monday with no intervening market holiday. When must the contract note be issued?
 
 - a. By the next business day, Tuesday
 - b. On the trade date
@@ -7762,7 +8130,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 ## RES 1B — Appendices
 
-### 476. **[Single choice | RES 1B Appendix A]** [RES 1B Appendix A] Which document is the source of the fit and proper criteria for representatives?
+### 499. **[Single choice]** [RES 1B Appendix A] Which document is the source of the fit and proper criteria for representatives?
 
 - a. The MAS Guidelines on Fit and Proper Criteria (FSG-01)
 - b. The MAS Guidelines on Criteria for the Grant of a CMS Licence (SFA 04-G01)

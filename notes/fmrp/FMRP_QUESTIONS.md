@@ -5331,7 +5331,7 @@ d. May do so if the recorded line is busy.
 
 ## Coverage audit
 
-This bank holds **317 questions**: 48 source-reference questions (1–48) reproducing the themes of Appendix A, followed by original questions (49–317) distributed across the eight chapters and their numbered subsections.
+The bank is far larger than the examination, which asks 100 questions. It opens with source-reference questions reproducing the themes of Appendix A, followed by original questions distributed across the eight chapters and their numbered subsections. Run `npm run audit:banks` for the current count and the per-chapter spread: a figure written here would go stale the moment an item is added, because everything below the extension marker is regenerated and everything above it is not.
 
 Every official numbered section is covered, the coverage having been restored from a summary-only appendix to a complete set of chapter questions. Rather than maintain a hand-written section-to-question table that drifts with every edit, coverage is verified mechanically:
 

@@ -109,7 +109,7 @@ export const EXAMS = [
     guideDir: 'notes/res12b/guide',
     stub: 'notes/res12b/RES12B.md',
     guideIntroTitle: 'Introduction and coverage map',
-    expectedQuestions: 476,
+    expectedQuestions: 499,
     realExam: {
       questions: 60,
       minutes: 90,

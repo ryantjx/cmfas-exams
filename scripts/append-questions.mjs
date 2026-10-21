@@ -73,7 +73,18 @@ function renderCmsip(items, startNumber, guideTitles) {
       : `## Appendix ${chapter.split('-')[1]} — ${stripLeadingNumber(title)}`;
     parts.push(heading, '');
 
+    // Items may carry `sec` (a syllabus section number such as `4.7`). Emitting it
+    // as a `### <num>` subheading is what lets the parser attribute the question to
+    // a syllabus row, so per-section coverage becomes measurable. A bare number is
+    // enough: `parseBank` keys on the number and the guide carries the title. Items
+    // without `sec` stay directly under the chapter heading, as before.
+    let currentSec = null;
     for (const item of group) {
+      const sec = item.sec ?? null;
+      if (sec !== currentSec) {
+        currentSec = sec;
+        if (sec) parts.push(`### ${sec}`, '');
+      }
       // Option letters are lower-case in this bank, so the answer keys are
       // normalised here: the data file uses whatever case reads naturally, but the
       // emitted markup and the parser both expect `a`..`d`.
@@ -137,7 +148,7 @@ function stripLeadingNumber(title) {
  * answer payload; a bare letter is not enough for this format.
  */
 function renderHeadingStyle(items, startNumber, opts) {
-  const { sourceRefFor, groupingKey } = opts;
+  const { sourceRefFor, groupingKey, subtypeFor } = opts;
   const groups = new Map();
   for (const item of items) {
     const key = groupingKey(item);
@@ -153,7 +164,12 @@ function renderHeadingStyle(items, startNumber, opts) {
     for (const item of group) {
       const keys = item.a.split(',').map((k) => k.trim().toUpperCase());
       const ref = sourceRefFor(item);
-      const typeTag = `${item.t} | ${item.s ?? 'Single choice'}`;
+      // `subtypeFor` is deliberately separate from `sourceRefFor`: in the RES 12B
+      // data `s` *is* the source tag, so deriving the subtype from it stamped
+      // `Single choice | RES 1B §2.3` into the type field and repeated the tag. A
+      // null subtype emits the bare type, which is what the other banks show.
+      const subtype = subtypeFor ? subtypeFor(item) : null;
+      const typeTag = subtype ? `${item.t} | ${subtype}` : item.t;
       parts.push(`### ${n}. **[${typeTag}]**${ref ? ` [${ref}]` : ''} ${clean(item.q)}`, '');
       item.o.forEach((opt, i) => {
         parts.push(`- ${LETTERS[i]}. ${clean(opt)}`);
@@ -232,6 +248,10 @@ const JOBS = [
       renderHeadingStyle(items, start, {
 
         sourceRefFor: fmrpSourceRef,
+        // FMRP keeps its `Original | Multiple response` subtype, which is
+        // meaningful: it records whether the item was adapted from the source's
+        // Appendix A or written fresh.
+        subtypeFor: (item) => item.s ?? 'Single choice',
         groupingKey: (item) => {
           const title = titles.get(item.c) ?? item.c;
           if (/^appendix-/i.test(item.c)) {
@@ -250,6 +270,10 @@ const JOBS = [
     render: (items, start) =>
       renderHeadingStyle(items, start, {
         sourceRefFor: (item) => item.s,
+        // No subtype: `item.s` is the source tag, already emitted as the reference,
+        // so repeating it in the type tag duplicated the reference and put
+        // `Single choice | RES 1B §2.3` in the UI badge.
+        subtypeFor: () => null,
         groupingKey: (item) => {
           // RES 12B assigns the chapter from the source tag, so a single heading is
           // enough and keeps the appended block compact.

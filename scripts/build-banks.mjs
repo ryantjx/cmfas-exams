@@ -14,6 +14,7 @@ import { mkdirSync, rmSync, writeFileSync } from 'node:fs';
 import path from 'node:path';
 
 import { EXAMS, DAILY_QUIZ_SIZE } from './lib/exams.mjs';
+import { resolveBlueprint } from './lib/blueprint.mjs';
 import { extractGuideChapters } from './lib/guide.mjs';
 import { parseBank } from './lib/questions.mjs';
 import { REPO_ROOT, chapterLabel, readLines } from './lib/util.mjs';
@@ -109,6 +110,9 @@ for (const exam of EXAMS) {
     title: exam.title,
     dailySize: DAILY_QUIZ_SIZE,
     realExam: exam.realExam,
+    // The mock's composition, resolved at build time so the quiz island can sample
+    // to it without a second fetch and without depending on the syllabus manifest.
+    mock: resolveBlueprint(exam.id),
     chapters,
     questions,
     generated: {

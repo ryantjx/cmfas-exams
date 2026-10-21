@@ -46,6 +46,12 @@ const ANSWER_LINE = /^\*\*Answer:?\s*(.*)$/;
 const RATIONALE_LINE = /^\*\*Rationale:?\*\*\s*(.*)$/;
 const INLINE_SPLIT = /\s(?=[a-dA-D]\.\s)/;
 
+// A subsection heading such as `### 1.1 Introduction and 1.2 Underlying asset
+// classes` or `### 4.1–4.2 Basics and definitions`. The leading section number is
+// all that is needed: it is what `syllabus.mjs` keys on, so it makes per-section
+// coverage measurable. A range keeps its first number.
+const SECTION_HEADING = /^(\d+\.\d+(?:\.\d+)*)(?:\s*[–—-]\s*\d+\.\d+(?:\.\d+)*)?\b/;
+
 /* ------------------------------------------------------------------ helpers */
 
 /** Split `a. foo b. bar c. baz d. qux` onto separate options, or null. */
@@ -160,6 +166,18 @@ function matchOptionLike(line) {
   return null;
 }
 
+/**
+ * Extract the bare dotted section number from a source tag.
+ *   '[RES 1B §2.3]'       → '2.3'
+ *   '[RES 1B Appendix A]' → null   (appendices carry no numbered section)
+ *   '[FMRP §1.2.2]'       → '1.2.2'
+ */
+function sectionNumber(sourceRef) {
+  if (!sourceRef) return null;
+  const m = String(sourceRef).match(/§\s*(\d+(?:\.\d+)*)/);
+  return m ? m[1] : null;
+}
+
 /* ---------------------------------------------------------------- bank scan */
 
 /** Walk the bank collecting question blocks plus heading context. */
@@ -167,7 +185,15 @@ function scanBlocks(format, lines) {
   const blocks = [];
   let current = null;
   let inDetails = false;
-  let context = { chapterNum: null, chapterTitle: null, groupId: null, groupTitle: null, part: null, setId: null };
+  let context = {
+    chapterNum: null,
+    chapterTitle: null,
+    groupId: null,
+    groupTitle: null,
+    part: null,
+    setId: null,
+    sectionRef: null,
+  };
 
   for (const raw of lines) {
     const line = raw.replace(/\s+$/, '');
@@ -189,7 +215,7 @@ function scanBlocks(format, lines) {
 
         const part = text.match(/^Part\s+(I|II)\s*[—–-]\s*(.+)$/);
         if (part && level === 1) {
-          context = { ...context, part: text, chapterNum: null, chapterTitle: null };
+          context = { ...context, part: text, chapterNum: null, chapterTitle: null, sectionRef: null };
           continue;
         }
         const chapter = text.match(/^Chapter\s+(\d+)\s*[—–-]\s*(.+)$/i);
@@ -200,6 +226,7 @@ function scanBlocks(format, lines) {
             chapterTitle: chapter[2].trim(),
             groupId: null,
             groupTitle: null,
+            sectionRef: null,
           };
           continue;
         }
@@ -250,9 +277,15 @@ function scanBlocks(format, lines) {
           continue;
         }
         if (/^(Coverage audit|How to use this bank)\b/i.test(text)) {
-          context = { ...context, chapterNum: null, chapterTitle: null, groupId: null, groupTitle: null };
+          context = { ...context, chapterNum: null, chapterTitle: null, groupId: null, groupTitle: null, sectionRef: null };
           continue;
         }
+        // Subsection heading inside the current chapter: `### 1.1 Introduction`,
+        // `### 4.1–4.2 Basics`. Record the number so the item can be mapped back to
+        // a syllabus row. Any other heading clears it, because a question under an
+        // unnumbered heading cannot be attributed to a section.
+        const section = text.match(SECTION_HEADING);
+        context = { ...context, sectionRef: section ? section[1] : null };
         continue;
       }
     }
@@ -638,6 +671,11 @@ export function parseBank(exam, lines, guideChapters) {
       chapterTitle: chapterTitle ?? null,
       type: block.type ?? null,
       sourceRef: block.sourceRef ?? null,
+      // Bare dotted section number, for per-section coverage (`1.1`, `2.3.1`).
+      // RES 12B carries it in the tag (`[RES 1B §2.3]`); CM-SIP and FMRP carry it
+      // in the subsection heading above the question. `null` when neither exists,
+      // which is why coverage is reported per chapter as well as per section.
+      sectionRef: sectionNumber(block.sourceRef) ?? block.context.sectionRef ?? null,
       stem,
       statements,
       options,
