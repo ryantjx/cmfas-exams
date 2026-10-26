@@ -19,6 +19,9 @@
  *   node scripts/rebalance-answers.mjs              # dry run, CM-SIP
  *   node scripts/rebalance-answers.mjs --write      # apply, CM-SIP
  *   node scripts/rebalance-answers.mjs --exam res12b --write
+ *
+ * CM-EIP is not handled here: its bank is regenerated from
+ * `scripts/lib/questions-cmeip.mjs`, so use `rebalance-cmeip-source.mjs`.
  */
 
 import { readFileSync, writeFileSync } from 'node:fs';
@@ -56,9 +59,26 @@ const FORMATS = {
   },
 };
 
-if (EXAM === 'fmrp' || EXAM === 'res12b') {
-  FORMATS.heading.file =
-    EXAM === 'fmrp' ? 'notes/fmrp/FMRP_QUESTIONS.md' : 'notes/res12b/RES12B_QUESTIONS.md';
+/** Per-bank file paths for the `heading` markup, keyed by exam id. */
+const HEADING_FILES = {
+  fmrp: 'notes/fmrp/FMRP_QUESTIONS.md',
+  res12b: 'notes/res12b/RES12B_QUESTIONS.md',
+};
+
+if (HEADING_FILES[EXAM]) {
+  FORMATS.heading.file = HEADING_FILES[EXAM];
+}
+
+// CM-EIP has no hand-written block: its whole bank is regenerated from
+// `scripts/lib/questions-cmeip.mjs` on every `append-questions` run, so rotating
+// the rendered markdown here would be silently discarded. Point at the script
+// that edits the source instead of producing a change that cannot survive.
+if (EXAM === 'cmeip') {
+  console.error(
+    'CM-EIP is generated from scripts/lib/questions-cmeip.mjs.\n' +
+      'Use: node scripts/rebalance-cmeip-source.mjs --write',
+  );
+  process.exit(1);
 }
 
 const FMT = EXAM === 'cmsip' ? FORMATS.cmsip : FORMATS.heading;

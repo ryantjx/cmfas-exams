@@ -275,6 +275,6 @@ for (const exam of EXAMS) {
 }
 
 const expectedTotal = EXAMS.reduce((sum, e) => sum + sectionCount(e.id), 0);
-console.log(`\n${expectedTotal} syllabus sections across the three guides.`);
+console.log(`\n${expectedTotal} syllabus sections across the four guides.`);
 console.log(`${totalFindings} finding(s); ${totalStrictFindings} blocking under --strict.`);
 if (strict && totalStrictFindings > 0) process.exit(1);

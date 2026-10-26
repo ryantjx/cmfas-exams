@@ -141,6 +141,17 @@ export const MOCK_BLUEPRINTS = {
     fixed: [],
     proportional: [],
   },
+  cmeip: {
+    questions: 90,
+    // The paper states 3 case studies carrying 9 questions, but the official guide
+    // does not say how many of the remaining 81 are drawn from each chapter, and no
+    // third-party source publishes a weighting. A proportional draw weighted by
+    // coverage units is used rather than importing numbers that could be wrong.
+    // Chapter 12 (Case Studies) is included in the proportional pool, so it is
+    // represented in every mock in proportion to its ten case studies.
+    fixed: [],
+    proportional: ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12'],
+  },
 };
 
 /**

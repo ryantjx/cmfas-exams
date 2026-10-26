@@ -3,7 +3,7 @@
  * Study-guide audit. Run with `npm run lint:notes` (advisory) or
  * `npm run lint:notes -- --strict` (non-zero exit on any finding).
  *
- * The three teaching guides are meant to read as a full-but-condensed version of
+ * The four teaching guides are meant to read as a full-but-condensed version of
  * the official guide, not a flat word-dump. This checks the properties that
  * matter and that the chapter splitter depends on:
  *
@@ -113,5 +113,5 @@ for (const exam of EXAMS) {
 // Structure density is a heuristic, not a defect: a formulae sheet is legitimately
 // almost all formulas and no bullets, and a prose-heavy conduct chapter can still be
 // correct. Only the three defect classes fail `--strict`; density stays advisory.
-console.log(`\n${totalFindings} finding(s) across the three guides.`);
+console.log(`\n${totalFindings} finding(s) across the four guides.`);
 if (strict && totalStrictFindings > 0) process.exit(1);

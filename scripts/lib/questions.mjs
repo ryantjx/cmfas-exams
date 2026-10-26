@@ -1,7 +1,7 @@
 /**
  * Markdown question-bank and teaching-guide parsers.
  *
- * The repo contains three hand-maintained question banks with three different
+ * The repo contains four hand-maintained question banks with three different
  * markup conventions. Nothing in the repo is rewritten by these parsers — they
  * only read.
  *
@@ -272,6 +272,19 @@ function scanBlocks(format, lines) {
             chapterNum: null,
             chapterTitle: text,
             groupId: 'final-revision-checklist',
+            groupTitle: text,
+          };
+          continue;
+        }
+        // CM-EIP's closing page combines the exam method with the revision
+        // checklist, so it needs its own rule rather than matching either of the
+        // two above.
+        if (/^Exam method and final revision checklist\b/i.test(text)) {
+          context = {
+            ...context,
+            chapterNum: null,
+            chapterTitle: text,
+            groupId: 'exam-method',
             groupTitle: text,
           };
           continue;

@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Parse the three question banks into normalised JSON.
+ * Parse the four question banks into normalised JSON.
  *
  * Outputs:
  *   src/data/banks/<exam>.json   — consumed at build time by the practice pages

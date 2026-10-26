@@ -1,7 +1,7 @@
 # CMFAS Exams — study site
 
 A static study site for the Singapore capital markets exams — **RES 12B**,
-**FMRP** and **CM-SIP** — built with [Astro](https://astro.build) and
+**FMRP**, **CM-SIP** and **CM-EIP** — built with [Astro](https://astro.build) and
 [Starlight](https://starlight.astro.build), deployed to GitHub Pages.
 
 **Live site:** <https://ryantjx.github.io/cmfas-exams/>
@@ -21,6 +21,7 @@ only in the open page.
 CMSIP: `notes/cmsip/CM-SIP Study Guide v1.1 - January 2026 (FINAL).pdf`
 RES12B: `notes/res12b/RES 12B Combined.pdf`
 FMRP: `notes/fmrp/FMRP Study Guide v3.2.pdf`
+CMEIP: `notes/cmeip/CM-EIP Study Guide v1.1(Mar25)wcover.pdf`
 
 Reference
 
@@ -39,6 +40,7 @@ notes/
   cmsip/    CMSIP.md   CMSIP_QUESTIONS.md   guide/*.md
   fmrp/     FMRP.md    FMRP_QUESTIONS.md    guide/*.md
   res12b/   RES12B.md  RES12B_QUESTIONS.md  guide/*.md
+  cmeip/    CMEIP.md   CMEIP_QUESTIONS.md   guide/*.md
 ```
 
 Each exam's teaching guide is **one markdown file per chapter, appendix and
@@ -82,7 +84,7 @@ npm run audit:numbers  # examinable parameters the guide never carries, per chap
 npm run audit:banks  # duplicate stems, position-dependent options, answer-key spread
 npm run audit:coverage  # questions per syllabus section, against the coverage floor
 npm run test:parser  # assert bank invariants (counts, answer keys, chapters)
-npm run lint:notes   # audit the three teaching guides (advisory; --strict to fail)
+npm run lint:notes   # audit the four teaching guides (advisory; --strict to fail)
 npm run check      # Astro/TypeScript diagnostics
 npm run build      # generate + static build into dist/
 npm run verify     # audit --strict + audit:banks --strict + audit:coverage --strict + check-answer-text + test:parser + check + build
@@ -99,7 +101,7 @@ Locally the site is served under the base path:
 scripts/lib/exams.mjs       exam config, real-exam facts, PDF sources
 scripts/lib/guide.mjs       per-chapter guide loader + frontmatter contract
 scripts/lib/syllabus.mjs    canonical official section manifest (coverage baseline)
-scripts/lib/questions.mjs   the three question-bank parsers
+scripts/lib/questions.mjs   the question-bank parser (all four banks)
 scripts/lib/util.mjs        filesystem and slug helpers
 scripts/build-banks.mjs     markdown → normalised question JSON
 scripts/build-content.mjs   markdown → Starlight pages, sidebar and PDF copies
@@ -110,6 +112,7 @@ scripts/audit-banks.mjs     duplicate/near-duplicate stems, position-dependent o
 scripts/audit-coverage.mjs  questions per syllabus section vs the coverage floor
 scripts/lib/blueprint.mjs   coverage floor and mock-exam composition, per exam
 scripts/rebalance-answers.mjs  rotate option order to even out the answer key
+scripts/rebalance-cmeip-source.mjs  the same rotation, applied to the CM-EIP source module
 scripts/append-questions.mjs   re-emit the question-bank extension block
 scripts/check-answer-text.mjs  assert quoted answers match their keyed option
 scripts/lib/questions-*.mjs    the extension items, one file per exam
@@ -132,32 +135,36 @@ Forwards and Swaps* — and the navigation can never drift from the content tree
 Chapter labels carry the syllabus number; the URL slugs do not, so links stay
 stable.
 
-The three question banks use **three different markdown conventions**
-(`**1. [Type]**` for CM-SIP; `### 1. **[Type]** [REF]` for FMRP and RES 12B,
-with `Choose one:` combination blocks and uppercase/lowercase answer styles).
-`scripts/test-parser.mjs` guards all of it — `npm run verify` fails the build if a
-bank stops parsing cleanly.
+The four question banks use **three different markdown conventions**
+(`**1. [Type]**` for CM-SIP; `### 1. **[Type]** [REF]` for FMRP, RES 12B and
+CM-EIP, with `Choose one:` combination blocks and uppercase/lowercase answer
+styles). `scripts/test-parser.mjs` guards all of it — `npm run verify` fails the
+build if a bank stops parsing cleanly.
 
 ### Extending the banks
 
-The banks are much larger than the real papers (80 / 100 / 60 questions), so that
-every syllabus section has enough practice to test understanding rather than
+The banks are much larger than the real papers (80 / 100 / 60 / 90 questions), so
+that every syllabus section has enough practice to test understanding rather than
 recall. New questions are authored as **data**, not prose, so they stay numbered,
 chapter-mapped and auditable:
 
 - `scripts/lib/questions-cmsip.mjs`, `questions-fmrp.mjs`, `questions-res12b.mjs`
-  hold the items (`{ c: chapter, t: type, q, o: [4 options], a: keys, r }`).
+  and `questions-cmeip.mjs` hold the items
+  (`{ c: chapter, t: type, q, o: [4 options], a: keys, r }`).
 - `node scripts/append-questions.mjs --write` re-emits everything below the
   extension marker, continuing the numbering from the last hand-written question.
-  Content above the marker is never touched.
+  Content above the marker is never touched. CM-EIP has no hand-written block, so
+  its whole bank is generated from `questions-cmeip.mjs`.
 - `node scripts/rebalance-answers.mjs --exam <id> --write` evens the answer-key
   spread by rotating option *order* (never shuffling), so distractors keep their
   relative order and numeric sets stay sorted. Position-dependent options
-  ("all of the above") are left frozen.
+  ("all of the above") are left frozen. For CM-EIP use
+  `node scripts/rebalance-cmeip-source.mjs --write` instead: it rotates the
+  options in the source module, because the rendered bank is regenerated.
 - `node scripts/check-answer-text.mjs` asserts that each single-answer question's
   quoted answer still matches the option its key points at.
 
-Add items, re-run those three commands in that order, then bump
+Add items, re-run those commands in that order, then bump
 `expectedQuestions` in `scripts/lib/exams.mjs` (the parser test derives its
 totals from there, so the count lives in exactly one place).
 

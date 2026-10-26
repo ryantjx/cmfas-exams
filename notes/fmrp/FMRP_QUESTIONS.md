@@ -5346,15 +5346,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 318. **[Original | Single choice]** [FMRP §1] The FX Global Code is best described as:
 
-- a. A rulebook issued by MAS under the SFA
-- b. A treaty obligation of central banks
-- c. A global set of principles of good practice for the wholesale FX market that supplements local rules
-- d. A statute binding on all Singapore dealers
+- a. A global set of principles of good practice for the wholesale FX market that supplements local rules
+- b. A statute binding on all Singapore dealers
+- c. A rulebook issued by MAS under the SFA
+- d. A treaty obligation of central banks
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** C. A global set of principles of good practice for the wholesale FX market that supplements local rules
+**Answer:** A. A global set of principles of good practice for the wholesale FX market that supplements local rules
 
 **Rationale:** The Code is produced by the Global Foreign Exchange Committee and is explicitly a supplement to local law and regulation, not a substitute for it.
 
@@ -5378,15 +5378,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 320. **[Original | Single choice]** [FMRP §1] The Blue Book is produced by which body?
 
-- a. The Association of Banks in Singapore
-- b. The Bank for International Settlements
-- c. The Monetary Authority of Singapore
-- d. The Singapore Foreign Exchange Market Committee
+- a. The Monetary Authority of Singapore
+- b. The Singapore Foreign Exchange Market Committee
+- c. The Association of Banks in Singapore
+- d. The Bank for International Settlements
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** D. The Singapore Foreign Exchange Market Committee
+**Answer:** B. The Singapore Foreign Exchange Market Committee
 
 **Rationale:** The Singapore Guide to Conduct and Market Practices for the Wholesale Financial Markets is produced by SFEMC. The BIS produces the FX Global Code; MAS produces notices and guidelines.
 
@@ -5508,15 +5508,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 328. **[Original | Single choice]** [FMRP §2] A representative wishes to deal for a personal account. Which control is fundamental?
 
-- a. Dealing only in securities the firm does not cover
-- b. Informing a colleague on the desk before dealing
-- c. Pre-clearance from compliance and a prohibition on dealing ahead of a client order
-- d. Dealing only through an external broker
+- a. Informing a colleague on the desk before dealing
+- b. Pre-clearance from compliance and a prohibition on dealing ahead of a client order
+- c. Dealing only through an external broker
+- d. Dealing only in securities the firm does not cover
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** C. Pre-clearance from compliance and a prohibition on dealing ahead of a client order
+**Answer:** B. Pre-clearance from compliance and a prohibition on dealing ahead of a client order
 
 **Rationale:** Pre-clearance plus a front-running prohibition addresses both the conflict and the misuse of client order information. Dealing through an external broker does not remove either risk.
 
@@ -5540,15 +5540,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 330. **[Original | Single choice]** [FMRP §2] Client money received by a Market Participant may be used:
 
-- a. To meet the firm’s short-term liquidity needs if repaid within a week
-- b. To fund margin on the firm’s proprietary positions
-- c. For any purpose approved by the head of trading
-- d. Only for the purposes for which the client has provided it
+- a. For any purpose approved by the head of trading
+- b. Only for the purposes for which the client has provided it
+- c. To meet the firm’s short-term liquidity needs if repaid within a week
+- d. To fund margin on the firm’s proprietary positions
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** D. Only for the purposes for which the client has provided it
+**Answer:** B. Only for the purposes for which the client has provided it
 
 **Rationale:** Client money is held for the client’s purpose. Internal approval and short-term repayment do not create a right to use it, and using it as proprietary margin is a plain misapplication.
 
@@ -5620,15 +5620,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 335. **[Original | Single choice]** [FMRP §2] A representative is asked to accept a gift from a client that exceeds the firm’s permitted limit. The representative should:
 
-- a. Accept it and share it with the desk
-- b. Accept it if the client insists
-- c. Decline it and record the offer
-- d. Accept it and disclose at the next attestation
+- a. Decline it and record the offer
+- b. Accept it and disclose at the next attestation
+- c. Accept it and share it with the desk
+- d. Accept it if the client insists
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** C. Decline it and record the offer
+**Answer:** A. Decline it and record the offer
 
 **Rationale:** Declining and recording protects both the individual and the firm, and creates the evidence that the limit was applied.
 
@@ -5636,15 +5636,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 336. **[Original | Scenario]** [FMRP §2] A client asks a representative to take a large position that would breach the firm’s limit for that counterparty. The representative should:
 
-- a. Execute the full amount and seek approval afterwards
-- b. Split the order across several days to avoid the limit
-- c. Execute it under a different client code
-- d. Decline the excess, explain the limit, and escalate for a limit decision before trading
+- a. Decline the excess, explain the limit, and escalate for a limit decision before trading
+- b. Execute the full amount and seek approval afterwards
+- c. Split the order across several days to avoid the limit
+- d. Execute it under a different client code
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** D. Decline the excess, explain the limit, and escalate for a limit decision before trading
+**Answer:** A. Decline the excess, explain the limit, and escalate for a limit decision before trading
 
 **Rationale:** The limit exists to cap exposure. Splitting the order or using another code circumvents the control and is a serious breach in its own right.
 
@@ -5654,15 +5654,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 337. **[Original | Single choice]** [FMRP §3] A Market Participant receives a request from another bank for details of a client’s trades. The correct response is to:
 
-- a. Refuse unless a permitted disclosure route applies, such as client consent or a legal requirement
-- b. Provide the information but ask the recipient to keep it confidential
-- c. Provide only the client’s name but not the trade details
-- d. Provide the information as a professional courtesy
+- a. Provide the information as a professional courtesy
+- b. Refuse unless a permitted disclosure route applies, such as client consent or a legal requirement
+- c. Provide the information but ask the recipient to keep it confidential
+- d. Provide only the client’s name but not the trade details
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** A. Refuse unless a permitted disclosure route applies, such as client consent or a legal requirement
+**Answer:** B. Refuse unless a permitted disclosure route applies, such as client consent or a legal requirement
 
 **Rationale:** A request from another market participant is not a lawful basis for disclosure. Confidentiality yields only to consent, law, or a specifically permitted route.
 
@@ -5686,15 +5686,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 339. **[Original | Single choice]** [FMRP §3] Which statement about "market colour" is correct?
 
-- a. Market colour may be shared if the recipient is a regulated firm
-- b. Describing aggregated flows without naming counterparties is generally acceptable
-- c. Naming the counterparty is acceptable if the flow has already been executed
-- d. Market colour may never be shared in any form
+- a. Describing aggregated flows without naming counterparties is generally acceptable
+- b. Naming the counterparty is acceptable if the flow has already been executed
+- c. Market colour may never be shared in any form
+- d. Market colour may be shared if the recipient is a regulated firm
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** B. Describing aggregated flows without naming counterparties is generally acceptable
+**Answer:** A. Describing aggregated flows without naming counterparties is generally acceptable
 
 **Rationale:** Aggregated, anonymous colour conveys market information without identifying a client. Naming a counterparty, even after execution, discloses confidential information.
 
@@ -5718,15 +5718,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 341. **[Original | Single choice]** [FMRP §3] A firm outsources part of its client onboarding to a third party. Responsibility for confidentiality of the client data remains with:
 
-- a. The regulator
-- b. The third party alone
-- c. The Market Participant, which must ensure the arrangement protects the data
-- d. The client
+- a. The third party alone
+- b. The Market Participant, which must ensure the arrangement protects the data
+- c. The client
+- d. The regulator
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** C. The Market Participant, which must ensure the arrangement protects the data
+**Answer:** B. The Market Participant, which must ensure the arrangement protects the data
 
 **Rationale:** Outsourcing transfers the activity, not the regulatory responsibility. The firm remains accountable for the protection of client data.
 
@@ -5734,15 +5734,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 342. **[Original | Single choice]** [FMRP §3] Customer data may be disclosed:
 
-- a. Whenever a colleague in another department asks for it
-- b. Whenever it would help the firm win a mandate
-- c. Only with the approval of the head of trading
-- d. In accordance with applicable laws and regulations
+- a. In accordance with applicable laws and regulations
+- b. Whenever a colleague in another department asks for it
+- c. Whenever it would help the firm win a mandate
+- d. Only with the approval of the head of trading
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** D. In accordance with applicable laws and regulations
+**Answer:** A. In accordance with applicable laws and regulations
 
 **Rationale:** Lawful and regulatory bases govern disclosure. Internal curiosity, commercial advantage and trading-desk approval are none of them.
 
@@ -5784,15 +5784,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 345. **[Original | Single choice]** [FMRP §4] Which is the most effective control against a rogue trader concealing losses?
 
-- a. Sharing system access across front, middle and back office
-- b. Requiring dealers to take annual leave of at least one continuous week
-- c. Requiring front office staff to reconcile their own positions daily
-- d. Allowing the dealer to settle their own trades for speed
+- a. Requiring dealers to take annual leave of at least one continuous week
+- b. Requiring front office staff to reconcile their own positions daily
+- c. Allowing the dealer to settle their own trades for speed
+- d. Sharing system access across front, middle and back office
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** B. Requiring dealers to take annual leave of at least one continuous week
+**Answer:** A. Requiring dealers to take annual leave of at least one continuous week
 
 **Rationale:** Mandatory consecutive leave is a recognised detective control precisely because concealment requires continuous presence. Letting a dealer settle their own trades removes the separation that caught Barings.
 
@@ -5816,15 +5816,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 347. **[Original | Single choice]** [FMRP §4] A customer fails to meet a margin call. The action that best minimises loss is to:
 
-- a. Extend further credit to allow time to recover
-- b. Wait for the customer to make contact
-- c. Close out the customer’s positions once the margin call remains unanswered within the agreed time
-- d. Open an offsetting position for the customer
+- a. Wait for the customer to make contact
+- b. Close out the customer’s positions once the margin call remains unanswered within the agreed time
+- c. Open an offsetting position for the customer
+- d. Extend further credit to allow time to recover
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** C. Close out the customer’s positions once the margin call remains unanswered within the agreed time
+**Answer:** B. Close out the customer’s positions once the margin call remains unanswered within the agreed time
 
 **Rationale:** Enforcing the close-out is the contractual remedy and caps the exposure. Extending credit increases it; offsetting without instruction creates a new position.
 
@@ -5832,15 +5832,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 348. **[Original | Single choice]** [FMRP §4] Which is the most important objective of business continuity planning for a Market Participant?
 
-- a. Ensuring staff can work from home
-- b. Ensuring all payments are withheld during a disruption
-- c. Ensuring front office can keep dealing
-- d. Ensuring treasury operations across front, middle and back office can continue
+- a. Ensuring front office can keep dealing
+- b. Ensuring treasury operations across front, middle and back office can continue
+- c. Ensuring staff can work from home
+- d. Ensuring all payments are withheld during a disruption
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** D. Ensuring treasury operations across front, middle and back office can continue
+**Answer:** B. Ensuring treasury operations across front, middle and back office can continue
 
 **Rationale:** Continuity has to cover the whole processing chain, because a front office that can trade but cannot settle is worse than one that pauses. Withholding all payments contradicts the prohibition on unilateral suspension.
 
@@ -5880,15 +5880,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 351. **[Original | Single choice]** [FMRP §4] Before executing an OTC derivative trade governed by a Master Agreement, a Market Participant should obtain its own legal, tax and accounting advice in order to:
 
-- a. Clarify enforceability, tax treatment and accounting consequences, including on a market disruption
-- b. Confirm that the counterparty has a licence
-- c. Set the price of the trade
-- d. Establish the credit risk of the counterparty
+- a. Establish the credit risk of the counterparty
+- b. Clarify enforceability, tax treatment and accounting consequences, including on a market disruption
+- c. Confirm that the counterparty has a licence
+- d. Set the price of the trade
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** A. Clarify enforceability, tax treatment and accounting consequences, including on a market disruption
+**Answer:** B. Clarify enforceability, tax treatment and accounting consequences, including on a market disruption
 
 **Rationale:** Legal, tax and accounting advice addresses the firm’s own position under the documentation. Credit assessment and pricing are separate disciplines.
 
@@ -5928,15 +5928,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 354. **[Original | Single choice]** [FMRP §4] A firm discovers that a dealer has been booking fictitious trades. The most important immediate control failure to address is:
 
-- a. The firm’s marketing approach
-- b. Inadequate segregation between dealing and trade processing or reconciliation
-- c. The dealer’s level of product knowledge
-- d. The commission structure alone
+- a. Inadequate segregation between dealing and trade processing or reconciliation
+- b. The dealer’s level of product knowledge
+- c. The commission structure alone
+- d. The firm’s marketing approach
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** B. Inadequate segregation between dealing and trade processing or reconciliation
+**Answer:** A. Inadequate segregation between dealing and trade processing or reconciliation
 
 **Rationale:** Fictitious trades survive only where the same person can both create and confirm them. Segregation and independent reconciliation are the controls that detect them.
 
@@ -5944,15 +5944,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 355. **[Original | Scenario]** [FMRP §4] A dealer’s daily profit and loss report is produced by the dealer and sent straight to finance. Which control is missing?
 
-- a. Only a second signature on the report
-- b. Only an annual audit
-- c. Independent reconciliation of the profit and loss by a function separate from the dealer
-- d. Nothing, if the dealer is experienced
+- a. Independent reconciliation of the profit and loss by a function separate from the dealer
+- b. Nothing, if the dealer is experienced
+- c. Only a second signature on the report
+- d. Only an annual audit
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** C. Independent reconciliation of the profit and loss by a function separate from the dealer
+**Answer:** A. Independent reconciliation of the profit and loss by a function separate from the dealer
 
 **Rationale:** A self-reported profit and loss is not a control. Independence between the front office and the reporting or reconciliation function is what detects error and concealment.
 
@@ -5962,15 +5962,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 356. **[Original | Single choice]** [FMRP §5] An IDB receives an order from a principal subject to special conditions. The IDB must:
 
-- a. Advise the principal not to impose the conditions
-- b. Strip the conditions to make the order easier to fill
-- c. Charge more brokerage for the extra work
-- d. Relay the special conditions accurately to the counterparty
+- a. Relay the special conditions accurately to the counterparty
+- b. Advise the principal not to impose the conditions
+- c. Strip the conditions to make the order easier to fill
+- d. Charge more brokerage for the extra work
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** D. Relay the special conditions accurately to the counterparty
+**Answer:** A. Relay the special conditions accurately to the counterparty
 
 **Rationale:** The IDB is a conduit. It must convey the order as given; altering or dropping conditions misrepresents the principal’s instruction.
 
@@ -5994,15 +5994,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 358. **[Original | Single choice]** [FMRP §5] A price maker’s quotation is dealt simultaneously by several IDBs. Subject to its limit, the price maker must:
 
-- a. Honour only the first IDB to deal
-- b. Honour the quotation with each IDB, up to its limit
-- c. Choose which IDB to honour
-- d. Split the amount equally among the IDBs
+- a. Honour the quotation with each IDB, up to its limit
+- b. Choose which IDB to honour
+- c. Split the amount equally among the IDBs
+- d. Honour only the first IDB to deal
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** B. Honour the quotation with each IDB, up to its limit
+**Answer:** A. Honour the quotation with each IDB, up to its limit
 
 **Rationale:** A firm quotation is a commitment, so the price maker must honour it with each IDB subject to its limit. Choosing counterparties or splitting equally would breach the firmness of the quote.
 
@@ -6010,15 +6010,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 359. **[Original | Single choice]** [FMRP §5] Jane, an FX dealer, is asked to transact an off-market rate with a corporate customer. Before doing so she should:
 
-- a. Notify MAS in advance
-- b. Seek the approval of SFEMC
-- c. Obtain the express approval of her own senior management
-- d. Obtain the approval of the customer’s board
+- a. Obtain the express approval of her own senior management
+- b. Obtain the approval of the customer’s board
+- c. Notify MAS in advance
+- d. Seek the approval of SFEMC
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** C. Obtain the express approval of her own senior management
+**Answer:** A. Obtain the express approval of her own senior management
 
 **Rationale:** An off-market rate transfers value and requires internal senior approval, which also creates the record that the rate was deliberate and authorised.
 
@@ -6026,15 +6026,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 360. **[Original | Single choice]** [FMRP §5] A Market Participant lacks the limit to fill a counterparty’s full amount but is trying to raise it. The appropriate response is to:
 
-- a. Ask the IDB to commit the trade and sort out the limit later
-- b. Execute and seek credit approval afterwards
-- c. Say nothing until the limit is raised
-- d. Indicate the minimum amount that can be done
+- a. Indicate the minimum amount that can be done
+- b. Ask the IDB to commit the trade and sort out the limit later
+- c. Execute and seek credit approval afterwards
+- d. Say nothing until the limit is raised
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** D. Indicate the minimum amount that can be done
+**Answer:** A. Indicate the minimum amount that can be done
 
 **Rationale:** Stating what can be done lets the counterparty decide with accurate information. Committing without limit, or executing first, creates an unauthorised exposure.
 
@@ -6058,15 +6058,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 362. **[Original | Single choice]** [FMRP §5] In Singapore Government Securities, confirmation of a transaction must be sent:
 
-- a. Within five business days
-- b. No later than the next business day
-- c. On trade date via MEPS+
-- d. On trade date via SWIFT
+- a. No later than the next business day
+- b. On trade date via MEPS+
+- c. On trade date via SWIFT
+- d. Within five business days
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** B. No later than the next business day
+**Answer:** A. No later than the next business day
 
 **Rationale:** The standard is confirmation no later than the following business day, which permits end-of-day batch confirmation.
 
@@ -6074,15 +6074,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 363. **[Original | Single choice]** [FMRP §5] To avoid misunderstanding when quoting a money market transaction, a Market Participant should clearly state:
 
-- a. The precise settlement amount only
-- b. The counterparty’s credit rating
-- c. The settlement dates of the transaction
-- d. The trade date only
+- a. The settlement dates of the transaction
+- b. The trade date only
+- c. The precise settlement amount only
+- d. The counterparty’s credit rating
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** C. The settlement dates of the transaction
+**Answer:** A. The settlement dates of the transaction
 
 **Rationale:** Money market quotes are convention-driven, so the one thing that must be explicit is the value or settlement date, which determines the accrual and the amount.
 
@@ -6090,15 +6090,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 364. **[Original | Single choice]** [FMRP §5] Market convention for delta hedging of interest rate options assumes that:
 
-- a. A simultaneous delta hedge will be entered into
-- b. Delta hedging does not apply to interest rate options
-- c. No convention exists and the terms must always state it
-- d. A simultaneous delta hedge will not be entered into
+- a. A simultaneous delta hedge will not be entered into
+- b. A simultaneous delta hedge will be entered into
+- c. Delta hedging does not apply to interest rate options
+- d. No convention exists and the terms must always state it
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** D. A simultaneous delta hedge will not be entered into
+**Answer:** A. A simultaneous delta hedge will not be entered into
 
 **Rationale:** The convention assumes the hedge is not run simultaneously with the trade, which is why the delta quoted differs from a fully hedged economic exposure.
 
@@ -6138,15 +6138,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 367. **[Original | Single choice]** [FMRP §5] The FX market is conventionally described as trading:
 
-- a. From 0900 Sydney on Monday to 1700 New York on Friday
-- b. From 0500 Sydney on Monday to 1700 New York on Friday
-- c. From 0900 to 1700 each business day
-- d. Continuously, including the weekend
+- a. From 0500 Sydney on Monday to 1700 New York on Friday
+- b. From 0900 to 1700 each business day
+- c. Continuously, including the weekend
+- d. From 0900 Sydney on Monday to 1700 New York on Friday
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** B. From 0500 Sydney on Monday to 1700 New York on Friday
+**Answer:** A. From 0500 Sydney on Monday to 1700 New York on Friday
 
 **Rationale:** The market opens with Sydney at 0500 and closes with New York at 1700 on Friday, running continuously in between.
 
@@ -6170,15 +6170,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 369. **[Original | Scenario]** [FMRP §5] A principal instructs an IDB with an order subject to a maximum price. In relaying it, the IDB omits the maximum. What has gone wrong?
 
-- a. The principal should have used a limit order on exchange
-- b. The IDB acted correctly to make the order fillable
-- c. The IDB failed to relay the principal’s special conditions accurately
-- d. Nothing, because the maximum is implied by the market
+- a. The IDB failed to relay the principal’s special conditions accurately
+- b. Nothing, because the maximum is implied by the market
+- c. The principal should have used a limit order on exchange
+- d. The IDB acted correctly to make the order fillable
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** C. The IDB failed to relay the principal’s special conditions accurately
+**Answer:** A. The IDB failed to relay the principal’s special conditions accurately
 
 **Rationale:** An IDB is a conduit for the principal’s terms; dropping a condition changes the order and can cause the principal to trade on terms they never agreed.
 
@@ -6204,15 +6204,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 371. **[Original | Single choice]** [FMRP §6] A third party payment is requested by a counterparty. A Market Participant may make it:
 
-- a. Never, under any circumstances
-- b. Wherever the counterparty verbally requests it
-- c. Only with MAS approval in each case
-- d. Where the counterparty instructs it with a valid reason and supporting documentation
+- a. Where the counterparty instructs it with a valid reason and supporting documentation
+- b. Never, under any circumstances
+- c. Wherever the counterparty verbally requests it
+- d. Only with MAS approval in each case
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** D. Where the counterparty instructs it with a valid reason and supporting documentation
+**Answer:** A. Where the counterparty instructs it with a valid reason and supporting documentation
 
 **Rationale:** Third party payments are permitted where there is a genuine commercial reason and documentation supports it; the control is evidence, not a blanket prohibition.
 
@@ -6236,15 +6236,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 373. **[Original | Single choice]** [FMRP §6] The core documents of an ISDA Master Agreement structure are:
 
-- a. The Master Agreement and the credit support deed
-- b. The Master Agreement and the Schedule
-- c. The Credit Support Annex and the confirmation template
-- d. The Schedule and the Credit Support Annex
+- a. The Master Agreement and the Schedule
+- b. The Credit Support Annex and the confirmation template
+- c. The Schedule and the Credit Support Annex
+- d. The Master Agreement and the credit support deed
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** B. The Master Agreement and the Schedule
+**Answer:** A. The Master Agreement and the Schedule
 
 **Rationale:** The Master Agreement and the Schedule are the core; the Credit Support Annex and confirmations are supplements that sit on top of that framework.
 
@@ -6268,15 +6268,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 375. **[Original | Single choice]** [FMRP §6] A trade is agreed on Monday with no market holiday in the following week. Settlement is due on Wednesday. Confirmation should be issued:
 
-- a. Within five business days
-- b. Only if the counterparty requests it
-- c. By the next business day, Tuesday
-- d. On Wednesday, at settlement
+- a. By the next business day, Tuesday
+- b. On Wednesday, at settlement
+- c. Within five business days
+- d. Only if the counterparty requests it
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** C. By the next business day, Tuesday
+**Answer:** A. By the next business day, Tuesday
 
 **Rationale:** Confirmation is due no later than the next business day after the trade, which gives time to detect and correct errors before settlement.
 
@@ -6284,15 +6284,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 376. **[Original | Single choice]** [FMRP §6] A confirmation is sent and the counterparty disputes a material term. The correct response is to:
 
-- a. Ignore the dispute until settlement
-- b. Settle and correct the record afterwards
-- c. Cancel the trade unilaterally
-- d. Investigate and resolve before settlement, escalating through the documentation process
+- a. Investigate and resolve before settlement, escalating through the documentation process
+- b. Ignore the dispute until settlement
+- c. Settle and correct the record afterwards
+- d. Cancel the trade unilaterally
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** D. Investigate and resolve before settlement, escalating through the documentation process
+**Answer:** A. Investigate and resolve before settlement, escalating through the documentation process
 
 **Rationale:** The confirmation exists to catch exactly this before settlement. Settling first or cancelling unilaterally both convert a documentation issue into a loss or a dispute.
 
@@ -6366,15 +6366,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 381. **[Original | Single choice]** [FMRP §7] A party considers suspending settlement unilaterally because its own systems have failed. It should:
 
-- a. Suspend and inform the counterparty afterwards
-- b. Not suspend unilaterally, because failed settlements create credit exposure and can cascade into systemic risk
-- c. Suspend immediately to protect its own position
-- d. Suspend only for its largest counterparty
+- a. Not suspend unilaterally, because failed settlements create credit exposure and can cascade into systemic risk
+- b. Suspend immediately to protect its own position
+- c. Suspend only for its largest counterparty
+- d. Suspend and inform the counterparty afterwards
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** B. Not suspend unilaterally, because failed settlements create credit exposure and can cascade into systemic risk
+**Answer:** A. Not suspend unilaterally, because failed settlements create credit exposure and can cascade into systemic risk
 
 **Rationale:** The chain effect of failed settlements is why unilateral suspension is to be avoided; the remedy is coordination, not self-protection.
 
@@ -6382,15 +6382,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 382. **[Original | Single choice]** [FMRP §7] Where Singapore dollar settlement has been disrupted, a Market Participant should:
 
-- a. Apply its own bilateral arrangements
-- b. Wait for the counterparty to initiate
-- c. Follow the settlement instructions issued by MAS
-- d. Follow only the SFEMC guidelines
+- a. Follow the settlement instructions issued by MAS
+- b. Follow only the SFEMC guidelines
+- c. Apply its own bilateral arrangements
+- d. Wait for the counterparty to initiate
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** C. Follow the settlement instructions issued by MAS
+**Answer:** A. Follow the settlement instructions issued by MAS
 
 **Rationale:** For SGD settlement the guidance is specific: follow MAS instructions, which take precedence over general SFEMC recommendations.
 
@@ -6398,15 +6398,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 383. **[Original | Single choice]** [FMRP §7] A representative negotiated a deal during a disruption and now wishes to withdraw, saying he lacked authority. This is:
 
-- a. Acceptable if the counterparty is told promptly
-- b. A matter for the compliance department alone
-- c. Acceptable, because authority is a legal precondition
-- d. Bad practice; negotiations must be conducted by properly authorised persons in utmost good faith
+- a. Acceptable, because authority is a legal precondition
+- b. Bad practice; negotiations must be conducted by properly authorised persons in utmost good faith
+- c. Acceptable if the counterparty is told promptly
+- d. A matter for the compliance department alone
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** D. Bad practice; negotiations must be conducted by properly authorised persons in utmost good faith
+**Answer:** B. Bad practice; negotiations must be conducted by properly authorised persons in utmost good faith
 
 **Rationale:** Withdrawing on the ground of a lack of authority is expressly deemed bad practice; the firm must ensure the right people are at the table.
 
@@ -6430,15 +6430,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 385. **[Original | Single choice]** [FMRP §7] Central banks mandated central clearing of long-dated FX forwards and interest rate swaps principally in order to:
 
-- a. Reduce pre-settlement risk through a central counterparty backed by margin
-- b. Eliminate all risk from the market
-- c. Standardise the pricing of the contracts
-- d. Increase the profitability of clearing houses
+- a. Increase the profitability of clearing houses
+- b. Reduce pre-settlement risk through a central counterparty backed by margin
+- c. Eliminate all risk from the market
+- d. Standardise the pricing of the contracts
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** A. Reduce pre-settlement risk through a central counterparty backed by margin
+**Answer:** B. Reduce pre-settlement risk through a central counterparty backed by margin
 
 **Rationale:** The objective is to reduce pre-settlement risk by interposing a CCP that collects margin proportionate to exposure. It reduces but does not eliminate risk.
 
@@ -6462,15 +6462,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 387. **[Original | Single choice]** [FMRP §7] A disruption affects one leg of an FX swap value date. The parties should:
 
-- a. Suspend all settlement until the market reopens
-- b. Establish a clear understanding before the value date and agree an adjustment such as rolling to the next business day
-- c. Cancel the swap
-- d. Wait for the value date to pass and then decide
+- a. Establish a clear understanding before the value date and agree an adjustment such as rolling to the next business day
+- b. Cancel the swap
+- c. Wait for the value date to pass and then decide
+- d. Suspend all settlement until the market reopens
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** B. Establish a clear understanding before the value date and agree an adjustment such as rolling to the next business day
+**Answer:** A. Establish a clear understanding before the value date and agree an adjustment such as rolling to the next business day
 
 **Rationale:** The guidance is to communicate before the value date and agree an adjustment, which may include rolling the date or adjusting to the relevant swap mid-rate.
 
@@ -6478,15 +6478,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 388. **[Original | Scenario]** [FMRP §7] A typhoon closes the exchange for two days and an FX forward matures on the first closed day. What is the most appropriate immediate action?
 
-- a. Declare the counterparty in default
-- b. Settle on the original date regardless
-- c. Contact the counterparty to agree an adjusted value date under the contract, and record the agreement
-- d. Wait for the exchange to reopen and settle then without discussion
+- a. Contact the counterparty to agree an adjusted value date under the contract, and record the agreement
+- b. Wait for the exchange to reopen and settle then without discussion
+- c. Declare the counterparty in default
+- d. Settle on the original date regardless
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** C. Contact the counterparty to agree an adjusted value date under the contract, and record the agreement
+**Answer:** A. Contact the counterparty to agree an adjusted value date under the contract, and record the agreement
 
 **Rationale:** A market disruption is not a default. The documented response is to communicate and agree an adjustment, such as rolling to the next business day, and to record what was agreed.
 
@@ -6496,15 +6496,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 389. **[Original | Single choice]** [FMRP §8] Which parties are involved in the benchmark rate setting process?
 
-- a. The Association of Banks in Singapore and the Monetary Authority of Singapore
-- b. The benchmark administrator and the exchange
-- c. The submitter and the clearing house
-- d. The benchmark administrator and the benchmark submitter
+- a. The benchmark administrator and the benchmark submitter
+- b. The Association of Banks in Singapore and the Monetary Authority of Singapore
+- c. The benchmark administrator and the exchange
+- d. The submitter and the clearing house
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** D. The benchmark administrator and the benchmark submitter
+**Answer:** A. The benchmark administrator and the benchmark submitter
 
 **Rationale:** The process itself involves the administrator, which oversees it, and the submitters, who contribute the inputs. Regulators and industry bodies set the framework rather than producing the rate.
 
@@ -6528,15 +6528,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 391. **[Original | Single choice]** [FMRP §8] A dealer is responsible for both benchmark contributions and opinions on benchmarks. To manage the conflict he should:
 
-- a. Ask a colleague to submit the contribution on his behalf
-- b. Declare the conflict and express opinions only after the benchmark is published
-- c. Provide opinions freely as long as they are not published
-- d. Stop providing opinions entirely
+- a. Declare the conflict and express opinions only after the benchmark is published
+- b. Provide opinions freely as long as they are not published
+- c. Stop providing opinions entirely
+- d. Ask a colleague to submit the contribution on his behalf
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** B. Declare the conflict and express opinions only after the benchmark is published
+**Answer:** A. Declare the conflict and express opinions only after the benchmark is published
 
 **Rationale:** Declaring the conflict and waiting until publication removes the possibility of influencing the rate he is contributing to. Delegating the submission does not address the conflict.
 
@@ -6544,15 +6544,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 392. **[Original | Single choice]** [FMRP §8] Which is the best practice for a dealer who determines a benchmark contribution?
 
-- a. Avoid attending any economist briefing given within the firm
-- b. Sit in a separate building from the trading room
-- c. Not provide information on contributions to anyone outside the benchmark contribution process
-- d. Retain submission records for 90 days only
+- a. Not provide information on contributions to anyone outside the benchmark contribution process
+- b. Retain submission records for 90 days only
+- c. Avoid attending any economist briefing given within the firm
+- d. Sit in a separate building from the trading room
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** C. Not provide information on contributions to anyone outside the benchmark contribution process
+**Answer:** A. Not provide information on contributions to anyone outside the benchmark contribution process
 
 **Rationale:** Contribution information is confidential to the process. Record retention is far longer than 90 days, briefings are legitimate inputs, and physical separation is not the control that matters.
 
@@ -6576,15 +6576,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 394. **[Original | Single choice]** [FMRP §8] The hierarchy of evidence for a benchmark with limited liquidity prioritises:
 
-- a. Whatever rate the submitter considers reasonable on the day
-- b. The rate implied by the firm’s own book
-- c. The previous day’s submission
-- d. Transactions that are observable and verifiable, moving progressively to less direct evidence
+- a. Transactions that are observable and verifiable, moving progressively to less direct evidence
+- b. Whatever rate the submitter considers reasonable on the day
+- c. The rate implied by the firm’s own book
+- d. The previous day’s submission
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** D. Transactions that are observable and verifiable, moving progressively to less direct evidence
+**Answer:** A. Transactions that are observable and verifiable, moving progressively to less direct evidence
 
 **Rationale:** The hierarchy moves from directly observable transactions down to expert judgement, precisely so that judgement is used only as far down the hierarchy as necessary.
 
@@ -6640,15 +6640,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 398. **[Original | Single choice]** [FMRP §8] A submitter is asked by a colleague on the trading desk for the level they intend to submit. The submitter should:
 
-- a. Provide an approximate figure
-- b. Decline, because contribution information is confidential to the benchmark process
-- c. Provide it, because they are colleagues at the same firm
-- d. Provide it after the benchmark is published only
+- a. Decline, because contribution information is confidential to the benchmark process
+- b. Provide it, because they are colleagues at the same firm
+- c. Provide it after the benchmark is published only
+- d. Provide an approximate figure
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** B. Decline, because contribution information is confidential to the benchmark process
+**Answer:** A. Decline, because contribution information is confidential to the benchmark process
 
 **Rationale:** Contribution information must not be shared with anyone outside the process, including colleagues whose positions could benefit. Publishing it first would still allow the desk to trade on it.
 
@@ -6658,15 +6658,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 399. **[Original | Single choice]** [FMRP Appendix A] A source-reference question asks which two statements are correct and offers four lettered combinations. The most reliable technique is to:
 
-- a. Select the option that repeats wording from the chapter
-- b. Pick the same letter as the previous question
-- c. Judge each statement true or false first, then select the combination that matches
-- d. Choose the combination containing the longest statements
+- a. Judge each statement true or false first, then select the combination that matches
+- b. Choose the combination containing the longest statements
+- c. Select the option that repeats wording from the chapter
+- d. Pick the same letter as the previous question
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** C. Judge each statement true or false first, then select the combination that matches
+**Answer:** A. Judge each statement true or false first, then select the combination that matches
 
 **Rationale:** Combination items are constructed from independently true or false statements, so evaluating each statement is the only route that does not rely on test-taking guesswork.
 
@@ -6674,15 +6674,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 400. **[Original | Single choice]** [FMRP Appendix A] In the review questions, a question on which of the following is an action a Market Participant may take in relation to customer money illustrates that:
 
-- a. Any internal approval suffices
-- b. Client money may be used if repaid
-- c. Client money may never be held
-- d. External approval does not widen the permitted use of client money
+- a. External approval does not widen the permitted use of client money
+- b. Any internal approval suffices
+- c. Client money may be used if repaid
+- d. Client money may never be held
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** D. External approval does not widen the permitted use of client money
+**Answer:** A. External approval does not widen the permitted use of client money
 
 **Rationale:** Client money is applied only as the client directs. Compliance or trading-desk approval does not create a wider power to use it.
 
@@ -6724,15 +6724,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 403. **[Original | Single choice]** [FMRP Appendix B] The FX Global Code differs from the Blue Book principally because the FX Global Code:
 
-- a. Applies only to spot FX
-- b. Is a global set of principles for the wholesale FX market, while the Blue Book is Singapore-specific and covers multiple wholesale instruments
-- c. Is issued by MAS
-- d. Is legally binding on all Singapore firms
+- a. Is a global set of principles for the wholesale FX market, while the Blue Book is Singapore-specific and covers multiple wholesale instruments
+- b. Is issued by MAS
+- c. Is legally binding on all Singapore firms
+- d. Applies only to spot FX
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** B. Is a global set of principles for the wholesale FX market, while the Blue Book is Singapore-specific and covers multiple wholesale instruments
+**Answer:** A. Is a global set of principles for the wholesale FX market, while the Blue Book is Singapore-specific and covers multiple wholesale instruments
 
 **Rationale:** Both are industry codes, but the Code is global and FX-focused while the Blue Book is Singapore-specific and spans FX, money markets, debt securities and derivatives.
 
@@ -6742,15 +6742,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 404. **[Original | Single choice]** A question asks what a dealer should do *before* transacting an off-market rate. Reading it as asking what to do *after* the trade is an error of:
 
-- a. Terminology only
-- b. Nothing, because the answer is the same
-- c. Timing, which changes the control being tested
-- d. Arithmetic
+- a. Timing, which changes the control being tested
+- b. Arithmetic
+- c. Terminology only
+- d. Nothing, because the answer is the same
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** C. Timing, which changes the control being tested
+**Answer:** A. Timing, which changes the control being tested
 
 **Rationale:** Many conduct questions turn on sequencing — before, during or after execution. Substituting one for another selects the wrong control.
 
@@ -6774,15 +6774,15 @@ The source Appendix A questions (2 on Chapter 1, 6 on Chapter 2, 5 on Chapter 3,
 
 ### 406. **[Original | Single choice]** A question asks which action is "most important" during a disruption. The best approach is to:
 
-- a. Prefer the most extreme option
-- b. Prefer the option mentioning the most parties
-- c. Prefer the longest option
-- d. Prefer the option that reflects the stated principle rather than the most dramatic action
+- a. Prefer the option that reflects the stated principle rather than the most dramatic action
+- b. Prefer the most extreme option
+- c. Prefer the option mentioning the most parties
+- d. Prefer the longest option
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** D. Prefer the option that reflects the stated principle rather than the most dramatic action
+**Answer:** A. Prefer the option that reflects the stated principle rather than the most dramatic action
 
 **Rationale:** Superlative questions reward the option aligned with the governing principle — here, effective communication — not the most dramatic or widest-ranging response.
 

@@ -38,6 +38,8 @@ const MAX_RATIO = 4.0;
 const BOILERPLATE = [
   /Capital Markets and Financial Advisory Services Examination/i,
   /Capital Markets - Specified Investment Products - Derivatives and Collective Investment Schemes/i,
+  /Capital Markets\s*[-–]\s*Excluded Investment Products/i,
+  /Collective Investment Schemes \(EIP\) and Foreign Exchange/i,
   /Financial Markets Regulatory Practices \(FMRP\) Examination/i,
   /RES 1B\s*[–-]\s*Rules, Ethics and Skills for Securities Dealers of Non-Exchange Members/i,
   /RES 2B\s*[-–]\s*Rules, Ethics and Skills for Derivatives Dealers for Non-Exchange Members/i,

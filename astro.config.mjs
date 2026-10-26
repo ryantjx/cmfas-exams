@@ -45,7 +45,7 @@ export default defineConfig({
     starlight({
       title: 'CMFAS Exams',
       description:
-        'Study guides, chapter quizzes, daily quizzes and mock exams for RES 12B, FMRP and CM-SIP.',
+        'Study guides, chapter quizzes, daily quizzes and mock exams for RES 12B, FMRP, CM-SIP and CM-EIP.',
       lastUpdated: false,
       pagination: true,
       pagefind: true,

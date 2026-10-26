@@ -43,6 +43,8 @@ const MIN_COVERAGE = Number(process.env.NUMERIC_MIN_COVERAGE ?? 0.85);
 const FURNITURE = [
   /Capital Markets and Financial Advisory Services Examination/i,
   /Capital Markets\s*[-–]\s*Specified Investment Products/i,
+  /Capital Markets\s*[-–]\s*Excluded Investment Products/i,
+  /Collective Investment Schemes \(EIP\) and Foreign Exchange/i,
   /Financial Markets Regulatory Practices \(FMRP\) Examination/i,
   /RES [12]B\s*[-–]\s*Rules, Ethics and Skills/i,
   /^\s*Restricted\s*$/i,

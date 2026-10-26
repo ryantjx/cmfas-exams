@@ -8,6 +8,9 @@
  *              discrepancy; the real mark is used for the mock's pass gate).
  *   - CM-SIP :  80 MCQ / 2.5 h / 70% pass (includes 6 case studies, 18 Q).
  *   - RES 12B:  60 MCQ / 1.5 h / 75% pass.
+ *   - CM-EIP :  90 MCQ / 2.5 h / 70% pass (includes 3 case studies, 9 Q). Verified
+ *              against the official study guide's "Important Notes about the
+ *              Examination" (v1.1, March 2025) and the IBF/CMFAS Academy listings.
  *
  * `bankFormat` selects the question parser:
  *   - 'bold'    → `**1. [Type]** stem`            (CM-SIP)
@@ -134,20 +137,57 @@ export const EXAMS = [
       },
     ],
   },
+  {
+    id: 'cmeip',
+    name: 'CM-EIP',
+    shortName: 'CM-EIP',
+    title: 'CM-EIP — Securities, Collective Investment Schemes and Foreign Exchange',
+    subtitle: 'Excluded Investment Products: securities, CIS and foreign exchange',
+    bank: 'notes/cmeip/CMEIP_QUESTIONS.md',
+    bankFormat: 'heading',
+    chapterSource: 'heading',
+    guideDir: 'notes/cmeip/guide',
+    stub: 'notes/cmeip/CMEIP.md',
+    guideIntroTitle: 'Introduction and exam orientation',
+    expectedQuestions: 629,
+    realExam: {
+      questions: 90,
+      minutes: 150,
+      passPct: 70,
+      note: '90 MCQ including 3 case studies (9 questions), 2.5 hours, 70% pass. 365-day convention for Singapore Government Securities, 360-day for all other products.',
+    },
+    pdfs: [
+      {
+        src: 'notes/cmeip/CM-EIP Study Guide v1.1(Mar25)wcover.pdf',
+        name: 'CM-EIP Official Study Guide v1.1 (March 2025)',
+        kind: 'official',
+      },
+      {
+        src: 'notes/cmeip/output/pdf/CMEIP_AI.pdf',
+        name: 'CM-EIP Study Guide (printable PDF)',
+        kind: 'generated',
+      },
+      {
+        src: 'notes/cmeip/output/pdf/CMEIP_QUESTIONS.pdf',
+        name: 'CM-EIP Question Bank (printable PDF, questions only)',
+        kind: 'generated',
+      },
+    ],
+  },
 ];
 
 export const STUDY_PLAN = {
   src: 'notes/121026_EXAMS.md',
   title: 'Study plan',
   description:
-    'Exam sequencing, booking windows, study load and sitting strategy across RES 12B, FMRP and CM-SIP.',
+    'Exam sequencing, booking windows, study load and sitting strategy across RES 12B, FMRP, CM-SIP and CM-EIP.',
   pdf: { src: 'notes/121026_EXAMS.pdf', name: 'Study plan (printable PDF)' },
 };
 
 export const HOME = {
   title: 'CMFAS / IBF Exam Study Site',
   description:
-    'Study guides, chapter quizzes, daily quizzes and full mock exams for the Singapore capital markets exams: RES 12B, FMRP and CM-SIP.',
+    'Study guides, chapter quizzes, daily quizzes and full mock exams for the Singapore capital markets exams: RES 12B, FMRP, CM-SIP and CM-EIP.',
 };
 
 export function getExam(id) {

@@ -26,9 +26,9 @@
  *            tagging is good enough to substantiate the claim. This is the
  *            authoring list.
  *
- * Strictness follows the exam, not the run: RES 12B and CM-SIP gate `npm run
- * verify`; FMRP is advisory because it is outside the study plan. Exempt pages are
- * printed with their reason so an exemption is a decision on the record.
+ * Strictness follows the exam, not the run: RES 12B, CM-SIP and CM-EIP gate
+ * `npm run verify`; FMRP is advisory because it is outside the study plan. Exempt
+ * pages are printed with their reason so an exemption is a decision on the record.
  */
 
 import { readFileSync } from 'node:fs';
@@ -42,7 +42,7 @@ const strict = process.argv.includes('--strict');
 const showAll = process.argv.includes('--all');
 
 /** Exams whose coverage gates the build. FMRP is audited but does not gate. */
-const GATING = new Set(['cmsip', 'res12b']);
+const GATING = new Set(['cmsip', 'res12b', 'cmeip']);
 
 /** Pages that hold no numbered sections of their own: appendices, shared, mixed. */
 function isSectionedChapter(examId, chapterId) {
@@ -204,4 +204,4 @@ if (strict && gatingFailures) {
   console.log(`Coverage below the floor in ${gatingFailures} gating exam(s).`);
   process.exit(1);
 }
-if (strict) console.log('Coverage gate passed for gating exams (CM-SIP, RES 12B).');
+if (strict) console.log('Coverage gate passed for gating exams (CM-SIP, RES 12B, CM-EIP).');

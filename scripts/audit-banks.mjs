@@ -197,7 +197,7 @@ for (const exam of EXAMS) {
 
 console.log(
   `\n${hardDuplicates} hard duplicate group(s), ${positionalOptions} position-dependent ` +
-    `question(s) across the three banks.` +
+    `question(s) across the four banks.` +
     (strict && (hardDuplicates || positionalOptions) ? '\nFailing under --strict.' : ''),
 );
 if (strict && (hardDuplicates > 0 || positionalOptions > 0)) process.exit(1);

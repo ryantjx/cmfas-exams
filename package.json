@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Static study site (guides, quizzes, mock exams) for the Singapore CMFAS / IBF capital markets exams: RES 12B, FMRP and CM-SIP.",
+  "description": "Static study site (guides, quizzes, mock exams) for the Singapore CMFAS / IBF capital markets exams: RES 12B, FMRP, CM-SIP and CM-EIP.",
   "scripts": {
     "gen": "node scripts/build-banks.mjs && node scripts/build-content.mjs",
     "predev": "npm run gen",
@@ -21,7 +21,7 @@
     "audit:coverage": "node scripts/audit-coverage.mjs",
     "pdf": "node scripts/build-pdfs.mjs",
     "questions:extend": "node scripts/append-questions.mjs --write",
-    "questions:rebalance": "node scripts/rebalance-answers.mjs --exam cmsip --write && node scripts/rebalance-answers.mjs --exam fmrp --write && node scripts/rebalance-answers.mjs --exam res12b --write",
+    "questions:rebalance": "node scripts/rebalance-answers.mjs --exam cmsip --write && node scripts/rebalance-answers.mjs --exam fmrp --write && node scripts/rebalance-answers.mjs --exam res12b --write && node scripts/rebalance-cmeip-source.mjs --write",
     "questions:check": "node scripts/check-answer-text.mjs",
     "verify": "node scripts/audit-guides.mjs --strict && node scripts/audit-banks.mjs --strict && node scripts/audit-coverage.mjs --strict && node scripts/lint-notes.mjs --strict && node scripts/check-answer-text.mjs && npm run test:parser && npm run check && npm run build"
   },

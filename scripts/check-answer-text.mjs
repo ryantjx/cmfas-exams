@@ -9,7 +9,7 @@
  * The two bank conventions state the answer differently, so they are checked
  * differently:
  *
- *   heading banks (FMRP, RES 12B)   `**Answer:** C. the correct option text`
+ *   heading banks (FMRP, RES 12B, CM-EIP)   `**Answer:** C. the correct option text`
  *       The text is quoted back, so the check compares the quoted text with the
  *       keyed option. Only single-answer questions are comparable: a combination
  *       answer quotes a list such as `(a), (b) and (d)`, which never equals one
@@ -31,6 +31,7 @@ const FORMATS = [
   ['cmsip', 'CM-SIP', 'bold'],
   ['fmrp', 'FMRP', 'heading'],
   ['res12b', 'RES 12B', 'heading'],
+  ['cmeip', 'CM-EIP', 'heading'],
 ];
 
 let totalBad = 0;

@@ -150,7 +150,7 @@ write(
 
 ## Study for the Singapore capital markets exams
 
-Three exams, three ways to practise each of them. The study guide is split one
+Four exams, three ways to practise each of them. The study guide is split one
 page per chapter, and every question bank is available as a **chapter quiz**, a
 **daily quiz** (30 mixed questions) and a full **mock exam** that mirrors the real
 paper's length, timing and pass mark.
@@ -172,7 +172,7 @@ in the current page. Reload to start a fresh set.
 </Aside>
 
 See the [study plan](${link('/study-plan/')}) for sequencing, booking windows and sitting
-strategy across the three exams.
+strategy across the four exams.
 `,
 );
 
@@ -388,7 +388,7 @@ write(
   'practice/index.mdx',
   `${frontmatter({
     title: 'Practice',
-    description: 'Chapter quizzes, daily quizzes and mock exams for RES 12B, FMRP and CM-SIP.',
+    description: 'Chapter quizzes, daily quizzes and mock exams for RES 12B, FMRP, CM-SIP and CM-EIP.',
   })}import PracticePicker from '@components/PracticePicker.tsx';
 
 # Practice
