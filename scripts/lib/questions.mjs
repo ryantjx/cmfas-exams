@@ -10,16 +10,17 @@
  *     a. ...
  *     <details><summary>Show answer</summary>**Answer: b.** short note</details>
  *
- *   FMRP / RES 12B (bankFormat: 'heading')
+ *   FMRP / RES 12B / CM-EIP (bankFormat: 'heading')
  *     ### 1. **[Single choice]** [RES 1B §1.1] stem
- *     - a. ...            (FMRP originals / RES 12B plain options)
+ *     - a. ...            (FMRP originals / RES 12B / CM-EIP plain options)
  *     - (a) ...           (FMRP source-reference statements)
  *     Choose one:         ← separates statements (context) from options
  *     - A. (a) and (b)    (combination options)
  *     <details><summary>Show answer</summary>**Answer:** A. ...</details>
  *
  * Answer payload shapes differ too: `**Answer: b.** why` (CM-SIP, rationale
- * inline) versus `**Answer:** A. choice` + `**Rationale:** why` (FMRP, RES 12B).
+ * inline) versus `**Answer:** A. choice` + `**Rationale:** why` (FMRP, RES 12B,
+ * CM-EIP).
  *
  * NOTE on combination questions: statement keys (`a`) and option keys (`A`) both
  * lowercase to `a`, so the `Choose one:` marker is what distinguishes selectable

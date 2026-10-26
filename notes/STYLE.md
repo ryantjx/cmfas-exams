@@ -1,11 +1,11 @@
 # Study-guide house style
 
-Applies to the three teaching guides in `cmsip/guide/`, `fmrp/guide/` and
-`res12b/guide/` — **one markdown file per chapter, appendix and closing
-section**, assembled in `order` by `scripts/lib/guide.mjs`. Each guide is a
-**full version** of the official study guide: the same coverage, the official
-guide's instructional voice, without the flat word-dump, meta-commentary and
-repeated caveats.
+Applies to the four teaching guides in `cmsip/guide/`, `fmrp/guide/`,
+`res12b/guide/` and `cmeip/guide/` — **one markdown file per chapter, appendix
+and closing section**, assembled in `order` by `scripts/lib/guide.mjs`. Each
+guide is a **full version** of the official study guide: the same coverage, the
+official guide's instructional voice, without the flat word-dump,
+meta-commentary and repeated caveats.
 
 ## Voice
 
