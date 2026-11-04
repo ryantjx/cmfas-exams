@@ -12,7 +12,7 @@ A static study site for the Singapore capital markets exams — **RES 12B**,
 | --- | --- |
 | **Study guides** | One page per chapter and per appendix, split automatically from the repo's per-chapter teaching-guide markdown. |
 | **Chapter quiz** | Every question in a chosen chapter, untimed, with the answer and explanation revealed as you answer. |
-| **Daily quiz** | 30 questions spread across chapters, drawn from a seed fixed to the calendar date: the same set all day, a different one tomorrow. |
+| **Daily quiz** | 30 questions spread across chapters, drawn from a seed fixed to the calendar date: the same set all day, a different one tomorrow. "Start a new set" folds an attempt counter into the seed, so a retry draws a fresh set without touching the day's original. |
 | **Mock exam** | The real paper's length, timing and pass mark: strict timer, auto-submit, no feedback until the end, question navigator, flag-for-review, shuffled questions and options, and a score report with a per-chapter breakdown. Questions are drawn to a blueprint rather than uniformly, so the composition of the paper is preserved — CM-SIP spends 18 of its 80 questions on case studies, and RES 12B splits evenly across its two constituent parts. |
 
 Nothing is persisted — no accounts, no cookies, no `localStorage`. Progress lives

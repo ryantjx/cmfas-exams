@@ -39,8 +39,18 @@ const MODES: { mode: QuizMode; label: string; blurb: string }[] = [
   },
 ];
 
-const isMode = (value: string | null): value is QuizMode =>
-  value === 'chapter' || value === 'daily' || value === 'mock';
+/**
+ * Coerce a `?type=` value to a quiz mode, or null.
+ *
+ * Starlight appends a trailing slash to sidebar links (`trailingSlash: 'always'`
+ * in astro.config.mjs), so a sidebar entry written as `?type=daily` arrives as
+ * `?type=daily/`. Without stripping it the deep link fails the mode match and
+ * dumps the reader on the type picker instead of the quiz.
+ */
+const asMode = (value: string | null): QuizMode | null => {
+  const mode = value === null ? null : value.replace(/\/+$/, '');
+  return mode === 'chapter' || mode === 'daily' || mode === 'mock' ? mode : null;
+};
 
 /**
  * Entry point for the practice section.
@@ -85,8 +95,8 @@ export default function PracticePicker({ base, examId: deepLinkExamId }: Practic
     const requestedExam = params.get('exam');
     if (!deepLinkExamId && requestedExam) setExamId(requestedExam);
 
-    const requestedMode = params.get('type');
-    if (isMode(requestedMode)) setMode(requestedMode);
+    const requestedMode = asMode(params.get('type'));
+    if (requestedMode) setMode(requestedMode);
 
     const requestedChapter = params.get('chapter');
     if (requestedChapter) setChapterId(requestedChapter);
