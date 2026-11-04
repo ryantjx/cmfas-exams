@@ -28,6 +28,12 @@ const MODES: { mode: QuizMode; label: string; blurb: string }[] = [
     blurb: 'One chapter at a time. The answer and explanation appear as soon as you answer.',
   },
   {
+    mode: 'random',
+    label: 'Random quiz',
+    blurb:
+      '30 questions from every chapter, drawn fresh each time. The answer appears as soon as you answer.',
+  },
+  {
     mode: 'daily',
     label: 'Daily quiz',
     blurb: '30 questions from across the whole bank, reordered every day. The answer appears as soon as you answer.',
@@ -49,7 +55,7 @@ const MODES: { mode: QuizMode; label: string; blurb: string }[] = [
  */
 const asMode = (value: string | null): QuizMode | null => {
   const mode = value === null ? null : value.replace(/\/+$/, '');
-  return mode === 'chapter' || mode === 'daily' || mode === 'mock' ? mode : null;
+  return mode === 'chapter' || mode === 'random' || mode === 'daily' || mode === 'mock' ? mode : null;
 };
 
 /**
@@ -194,6 +200,17 @@ export default function PracticePicker({ base, examId: deepLinkExamId }: Practic
           <p className="quiz-note">
             Chapter quizzes have no time limit. For exam conditions use the mock exam.
           </p>
+        </div>
+      );
+    }
+
+    if (mode === 'random') {
+      return (
+        <div>
+          {nav}
+          {/* Same feedback style as the chapter and daily quizzes; the only
+              difference is the pool — every chapter — and a fresh draw each time. */}
+          <QuizRunner bankUrl={bankUrl} mode="random" size={exam.dailySize} instantFeedback />
         </div>
       );
     }

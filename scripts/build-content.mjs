@@ -136,6 +136,7 @@ const examCards = EXAMS.map(
     `<CardGrid>\n` +
     `  <LinkCard title="${exam.name}" href="${link(`/${exam.id}/overview/`)}" description="${exam.subtitle}" />\n` +
     `  <LinkCard title="${exam.name} — chapter quiz" href="${link(`/practice/${exam.id}/?type=chapter`)}" description="One chapter at a time, with the answer and explanation as soon as you answer." />\n` +
+    `  <LinkCard title="${exam.name} — random quiz" href="${link(`/practice/${exam.id}/?type=random`)}" description="30 questions from every chapter, a fresh draw each time." />\n` +
     `  <LinkCard title="${exam.name} — daily quiz" href="${link(`/practice/${exam.id}/?type=daily`)}" description="30 mixed questions." />\n` +
     `  <LinkCard title="${exam.name} — mock exam" href="${link(`/practice/${exam.id}/?type=mock`)}" description="Full timed paper." />\n` +
     `</CardGrid>`,
@@ -150,10 +151,11 @@ write(
 
 ## Study for the Singapore capital markets exams
 
-Four exams, three ways to practise each of them. The study guide is split one
+Four exams, four ways to practise each of them. The study guide is split one
 page per chapter, and every question bank is available as a **chapter quiz**, a
-**daily quiz** (30 mixed questions) and a full **mock exam** that mirrors the real
-paper's length, timing and pass mark.
+**random quiz** (30 questions from every chapter, a new draw each time), a
+**daily quiz** (30 mixed questions, fixed for the day) and a full **mock exam**
+that mirrors the real paper's length, timing and pass mark.
 
 ${examCards}
 
@@ -250,6 +252,8 @@ one page per chapter, with worked examples, formula sheets and exam cues.
 
 - **[Chapter quiz](${link(`/practice/${exam.id}/?type=chapter`)})** — work through one
   chapter at a time, with the answer and explanation shown as soon as you answer.
+- **[Random quiz](${link(`/practice/${exam.id}/?type=random`)})** — 30 questions drawn
+  from every chapter, a different set every time.
 - **[Daily quiz](${link(`/practice/${exam.id}/?type=daily`)})** — 30 mixed questions from
   across the whole bank.
 - **[Mock exam](${link(`/practice/${exam.id}/?type=mock`)})** — ${exam.realExam.questions}
@@ -397,11 +401,12 @@ Pick an exam, then pick how you want to practise. Nothing is stored.
 
 <PracticePicker client:only="react" base={import.meta.env.BASE_URL} />
 
-## The three modes
+## The four modes
 
 | Mode | What it does |
 | --- | --- |
 | **Chapter quiz** | Every question in one chapter, with the answer and explanation shown as soon as you answer. |
+| **Random quiz** | 30 questions drawn from every chapter, a different set each time. The answer appears as soon as you answer. |
 | **Daily quiz** | 30 questions drawn from the whole bank, reordered each day. The answer appears as soon as you answer. |
 | **Mock exam** | The real paper's length, timing and pass mark. Results at the end only. |
 
@@ -414,7 +419,7 @@ for (const entry of practiceExams) {
     `practice/${entry.id}/index.mdx`,
     `${frontmatter({
       title: `${entry.name} — practice`,
-      description: `Chapter quiz, daily quiz and mock exam for ${entry.name}.`,
+      description: `Chapter quiz, random quiz, daily quiz and mock exam for ${entry.name}.`,
     })}import PracticePicker from '@components/PracticePicker.tsx';
 
 # ${entry.name} — practice
@@ -441,6 +446,7 @@ const sidebar = [
         label: entry.name,
         items: [
           { label: 'Chapter quiz', link: `/practice/${entry.id}/?type=chapter` },
+          { label: 'Random quiz', link: `/practice/${entry.id}/?type=random` },
           { label: 'Daily quiz', link: `/practice/${entry.id}/?type=daily` },
           { label: 'Mock exam', link: `/practice/${entry.id}/?type=mock` },
         ],
