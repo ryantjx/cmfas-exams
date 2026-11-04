@@ -12,6 +12,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "check": "astro check",
+    "check:daily": "node scripts/check-daily-rotation.mjs",
     "test:parser": "node scripts/test-parser.mjs",
     "lint:notes": "node scripts/lint-notes.mjs",
     "audit": "node scripts/audit-guides.mjs",
@@ -23,7 +24,7 @@
     "questions:extend": "node scripts/append-questions.mjs --write",
     "questions:rebalance": "node scripts/rebalance-answers.mjs --exam cmsip --write && node scripts/rebalance-answers.mjs --exam fmrp --write && node scripts/rebalance-answers.mjs --exam res12b --write && node scripts/rebalance-cmeip-source.mjs --write",
     "questions:check": "node scripts/check-answer-text.mjs",
-    "verify": "node scripts/audit-guides.mjs --strict && node scripts/audit-banks.mjs --strict && node scripts/audit-coverage.mjs --strict && node scripts/lint-notes.mjs --strict && node scripts/check-answer-text.mjs && npm run test:parser && npm run check && npm run build"
+    "verify": "node scripts/audit-guides.mjs --strict && node scripts/audit-banks.mjs --strict && node scripts/audit-coverage.mjs --strict && node scripts/lint-notes.mjs --strict && node scripts/check-answer-text.mjs && node scripts/check-daily-rotation.mjs && npm run test:parser && npm run check && npm run build"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "^7.3.3",

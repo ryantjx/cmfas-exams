@@ -1,15 +1,22 @@
 /**
- * One-off check: does the daily quiz actually change from day to day?
+ * Cheap check: does the daily quiz actually change from day to day, and does
+ * "Start a new set" actually draw a new set?
  *
- * The daily set is seeded from the calendar date so that it is stable within a day
- * and different the next. A bug here would be invisible in a single session, so it
- * is worth asserting rather than eyeballing: compare several consecutive dates and
- * confirm both the selection and the order differ.
+ * The daily set is seeded from the calendar date plus an attempt counter, so it
+ * is stable within a day and different the next. Both properties are invisible
+ * in a single session, so they are asserted rather than eyeballed.
+ *
+ * The runtime lives in a React component and a browser-only module, so the two
+ * helpers below mirror `src/lib/quiz.ts` and the seed formula in
+ * `src/components/QuizRunner.tsx`. Keep them in step: this file is the only
+ * automated guard on the formula.
+ *
+ * The sampler itself is not mirrored — the real one spreads the draw across
+ * chapters (`sampleByChapter`). A flat shuffle is enough to show that different
+ * seeds produce different sets.
  */
 import { readFileSync } from 'node:fs';
 
-// Mirror the runtime helpers so this test exercises the real algorithm rather than a
-// reimplementation. tsx is not a dependency, so the two small functions are inlined.
 function seededRandom(seed) {
   let state = seed >>> 0;
   return () => {
@@ -34,36 +41,79 @@ function seedFromDate(d) {
   return d.getFullYear() * 10000 + (d.getMonth() + 1) * 100 + d.getDate();
 }
 
-const bank = JSON.parse(readFileSync('src/data/banks/cmsip.json', 'utf8'));
-const ids = bank.questions.map((q) => q.number);
-
-const dates = [];
-for (let day = 20; day <= 27; day += 1) dates.push(new Date(2026, 9, day));
-
-const results = dates.map((d) => {
-  const random = seededRandom(seedFromDate(d));
-  const picked = shuffleWith(ids, random).slice(0, bank.dailySize);
-  return { date: d.toISOString().slice(0, 10), picked };
-});
-
-console.log('Daily sets (first 12 question numbers):');
-for (const r of results) console.log(`  ${r.date}  ${r.picked.slice(0, 12).join(', ')}`);
-
-// Compare each consecutive pair.
-let identicalSelection = 0;
-let identicalOrder = 0;
-for (let i = 1; i < results.length; i += 1) {
-  const a = results[i - 1].picked;
-  const b = results[i].picked;
-  if (a.length === b.length && a.every((v, k) => v === b[k])) identicalOrder += 1;
-  const setA = new Set(a);
-  if (b.every((v) => setA.has(v)) && b.length === a.length) identicalSelection += 1;
+/** Mirror of the daily seed in QuizRunner: date plus attempt × prime. */
+const DAILY_STEP = 1_000_003;
+function dailySeed(d, restart = 0) {
+  return seedFromDate(d) + restart * DAILY_STEP;
 }
 
-console.log(`\nconsecutive pairs compared: ${results.length - 1}`);
-console.log(`  same selection: ${identicalSelection}`);
-console.log(`  same order:     ${identicalOrder}`);
+const bank = JSON.parse(readFileSync('src/data/banks/cmsip.json', 'utf8'));
+const ids = bank.questions.map((q) => q.number);
+const draw = (d, restart = 0) =>
+  shuffleWith(ids, seededRandom(dailySeed(d, restart))).slice(0, bank.dailySize);
 
-const ok = identicalSelection === 0 && identicalOrder === 0;
-console.log(ok ? '\nPASS — the daily set changes every day.' : '\nFAIL — the daily set repeats.');
-process.exitCode = ok ? 0 : 1;
+let failed = 0;
+const check = (label, ok) => {
+  console.log(`  ${ok ? 'PASS' : 'FAIL'}  ${label}`);
+  if (!ok) failed += 1;
+};
+const sameOrder = (a, b) => a.length === b.length && a.every((v, k) => v === b[k]);
+const sameSelection = (a, b) => {
+  const set = new Set(a);
+  return b.length === a.length && b.every((v) => set.has(v));
+};
+
+/* ---- 1: the set rotates daily ---- */
+const days = [];
+for (let day = 20; day <= 27; day += 1) days.push(new Date(2026, 9, day));
+
+console.log('Daily sets (first 12 question numbers):');
+for (const d of days) {
+  const picked = draw(d);
+  console.log(`  ${d.toISOString().slice(0, 10)}  ${picked.slice(0, 12).join(', ')}`);
+}
+
+console.log('\n1. consecutive days differ');
+let repeatedSelection = 0;
+let repeatedOrder = 0;
+for (let i = 1; i < days.length; i += 1) {
+  const a = draw(days[i - 1]);
+  const b = draw(days[i]);
+  if (sameOrder(a, b)) repeatedOrder += 1;
+  if (sameSelection(a, b)) repeatedSelection += 1;
+}
+check(`no day repeats the previous day's order (${repeatedOrder} repeats)`, repeatedOrder === 0);
+check(`no day repeats the previous day's selection (${repeatedSelection} repeats)`, repeatedSelection === 0);
+
+/* ---- 2: "Start a new set" draws a different set ---- */
+console.log('\n2. "Start a new set" changes the set');
+const today = new Date(2026, 10, 4);
+const first = draw(today, 0);
+const second = draw(today, 1);
+const third = draw(today, 2);
+check('restart 1 differs from restart 0 (order)', !sameOrder(first, second));
+check('restart 1 differs from restart 0 (selection)', !sameSelection(first, second));
+check('restart 2 differs from restart 1 (selection)', !sameSelection(second, third));
+check('restarts 0 and 1 are not near-identical', sameOverlap(first, second) < 0.8);
+
+function sameOverlap(a, b) {
+  const set = new Set(b);
+  return a.filter((v) => set.has(v)).length / a.length;
+}
+
+/* ---- 3: the attempt step cannot collide with a day boundary ---- */
+console.log('\n3. no seed collisions across day boundaries or restarts');
+const seeds = new Set();
+let collisions = 0;
+for (let day = 0; day < 60; day += 1) {
+  const d = new Date(2026, 9, 20 + day);
+  for (let restart = 0; restart < 6; restart += 1) {
+    const seed = dailySeed(d, restart);
+    if (seeds.has(seed)) collisions += 1;
+    seeds.add(seed);
+  }
+}
+check(`(day, restart) pairs are unique over 60 days × 6 restarts (${collisions} collisions)`, collisions === 0);
+
+console.log(failed === 0 ? '\nPASS — daily rotation and restart behave.' : `\nFAIL — ${failed} check(s) failed.`);
+process.exitCode = failed === 0 ? 0 : 1;

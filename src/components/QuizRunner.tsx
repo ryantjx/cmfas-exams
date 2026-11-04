@@ -143,9 +143,11 @@ export default function QuizRunner({
           : shuffle(inChapter);
     } else if (mode === 'daily') {
       // Seed from the calendar date so the daily set is stable for the whole day
-      // and reorders tomorrow. Without this, every render drew a new set and the
-      // "daily" quiz changed on each reload.
-      const random = seededRandom(seedFromDate());
+      // and reorders tomorrow. Fold the restart counter in as well, otherwise
+      // "Start a new set" rebuilds the identical set: the effect depends on
+      // `seed`, but a date-only seed ignores it. The step is a prime so that
+      // (today, restart 1) cannot collide with (tomorrow, restart 0).
+      const random = seededRandom(seedFromDate() + seed * 1_000_003);
       chosen = sampleByChapter(bank.questions, size ?? bank.dailySize, random);
     } else if (bank.mock?.quotas) {
       // A mock is drawn to the paper's blueprint, not uniformly: the real papers
@@ -475,7 +477,7 @@ export default function QuizRunner({
 
           <p className="quiz-note">
             {mode === 'daily'
-              ? 'No answers are stored. The daily set is fixed for today and reorders tomorrow, so a reload shows the same questions.'
+              ? 'No answers are stored. The daily set is fixed for today and reorders tomorrow, so a reload shows the same questions. Use "Start a new set" for a fresh draw.'
               : 'No answers are stored — reloading this page discards the set and draws a new one.'}
           </p>
         </div>
