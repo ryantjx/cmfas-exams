@@ -8,8 +8,6 @@ import {
   sampleQuestions,
   scoreByChapter,
   prepareQuestion,
-  seedFromDate,
-  seededRandom,
   shuffle,
   type QuizAnswers,
   type QuizQuestion,
@@ -142,20 +140,13 @@ export default function QuizRunner({
         size && size < inChapter.length
           ? sampleQuestions(inChapter, size, { shuffleQuestions: true })
           : shuffle(inChapter);
-    } else if (mode === 'random') {
-      // Test yourself on the whole syllabus: a fresh draw across every chapter of
-      // the bank, spread so one large chapter cannot dominate. Unseeded, so every
-      // entry and every "Start a new set" gives a different set — the opposite of
-      // the daily quiz, which is pinned to the date.
-      chosen = sampleByChapter(bank.questions, size ?? bank.dailySize);
-    } else if (mode === 'daily') {
-      // Seed from the calendar date so the daily set is stable for the whole day
-      // and reorders tomorrow. Fold the restart counter in as well, otherwise
-      // "Start a new set" rebuilds the identical set: the effect depends on
-      // `seed`, but a date-only seed ignores it. The step is a prime so that
-      // (today, restart 1) cannot collide with (tomorrow, restart 0).
-      const random = seededRandom(seedFromDate() + seed * 1_000_003);
-      chosen = sampleByChapter(bank.questions, size ?? bank.dailySize, random);
+    } else if (mode === 'daily' || mode === 'random') {
+      // Both are unseeded draws, so every start and every "Start a new set" gives a
+      // new set. They differ only in size: the daily quiz is a 30-question subset,
+      // the random quiz takes the whole bank for a full-coverage pass. Drawing with
+      // sampleByChapter keeps the spread across chapters structural.
+      const pool = mode === 'random' ? bank.questions.length : size ?? bank.dailySize;
+      chosen = sampleByChapter(bank.questions, pool);
     } else if (bank.mock?.quotas) {
       // A mock is drawn to the paper's blueprint, not uniformly: the real papers
       // weight chapters unevenly (CM-SIP spends 18 of 80 questions on case
@@ -483,9 +474,8 @@ export default function QuizRunner({
           )}
 
           <p className="quiz-note">
-            {mode === 'daily'
-              ? 'No answers are stored. The daily set is fixed for today and reorders tomorrow, so a reload shows the same questions. Use "Start a new set" for a fresh draw.'
-              : 'No answers are stored — reloading this page discards the set and draws a new one.'}
+            No answers are stored — every start and every "Start a new set" draws a
+            fresh set.
           </p>
         </div>
 

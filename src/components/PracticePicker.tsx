@@ -31,12 +31,13 @@ const MODES: { mode: QuizMode; label: string; blurb: string }[] = [
     mode: 'random',
     label: 'Random quiz',
     blurb:
-      '30 questions from every chapter, drawn fresh each time. The answer appears as soon as you answer.',
+      'Every question in the bank in random order — the long pass for full coverage. The answer appears as soon as you answer.',
   },
   {
     mode: 'daily',
     label: 'Daily quiz',
-    blurb: '30 questions from across the whole bank, reordered every day. The answer appears as soon as you answer.',
+    blurb:
+      '30 questions from across the whole bank, a fresh subset every time you start. The answer appears as soon as you answer.',
   },
   {
     mode: 'mock',
@@ -208,9 +209,8 @@ export default function PracticePicker({ base, examId: deepLinkExamId }: Practic
       return (
         <div>
           {nav}
-          {/* Same feedback style as the chapter and daily quizzes; the only
-              difference is the pool — every chapter — and a fresh draw each time. */}
-          <QuizRunner bankUrl={bankUrl} mode="random" size={exam.dailySize} instantFeedback />
+          {/* No size: the runner takes the whole bank for this mode. */}
+          <QuizRunner bankUrl={bankUrl} mode="random" instantFeedback />
         </div>
       );
     }
