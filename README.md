@@ -14,7 +14,7 @@ A static study site for the Singapore capital markets exams — **RES 12B**,
 | **Chapter quiz** | Every question in a chosen chapter, untimed, with the answer and explanation revealed as you answer. |
 | **Random quiz** | Every question in the bank, in random order, interleaved across chapters — the full-coverage pass, untimed, with the answer revealed as you answer. |
 | **Daily quiz** | A fresh 30-question subset drawn from across the whole bank every time you start it. Unseeded, so a reload, a re-entry and "Start a new set" each draw new questions. |
-| **Mock exam** | The real paper's length, timing and pass mark: strict timer, auto-submit, no feedback until the end, question navigator, flag-for-review, shuffled questions and options, and a score report with a per-chapter breakdown. Questions are drawn to a blueprint rather than uniformly, so the composition of the paper is preserved — CM-SIP spends 18 of its 80 questions on case studies, and RES 12B splits evenly across its two constituent parts. |
+| **Mock exam** | The real paper's length, blueprint and pass mark, run in learning mode: untimed, with the answer and explanation after every question, plus a question navigator, flag-for-review, shuffled questions and options, and a score report with a per-chapter breakdown. Questions are drawn to a blueprint rather than uniformly, so the composition of the paper is preserved — CM-SIP spends 18 of its 80 questions on case studies, and RES 12B splits evenly across its two constituent parts. |
 
 Nothing is persisted — no accounts, no cookies, no `localStorage`. Progress lives
 only in the open page.
@@ -119,7 +119,7 @@ scripts/check-answer-text.mjs  assert quoted answers match their keyed option
 scripts/lib/questions-*.mjs    the extension items, one file per exam
 scripts/build-pdfs.mjs      pandoc/XeLaTeX build of the printable artefacts
 src/components/             QuizRunner (the quiz engine), PracticePicker, ThemeToggle
-src/lib/quiz.ts             sampling, shuffling, scoring, timers
+src/lib/quiz.ts             sampling, shuffling, scoring
 src/styles/custom.css       quiz UI
 ```
 

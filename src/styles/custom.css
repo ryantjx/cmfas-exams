@@ -82,37 +82,6 @@
   color: var(--quiz-muted);
 }
 
-.quiz-timer {
-  border: 1px solid var(--quiz-border);
-  border-radius: 0.5rem;
-  padding: 0.4rem 0.8rem;
-  text-align: right;
-  min-width: 7.5rem;
-}
-
-.quiz-timer.is-critical {
-  border-color: var(--quiz-bad);
-  color: var(--quiz-bad);
-}
-
-.quiz-timer-label {
-  display: block;
-  font-size: var(--sl-text-xs);
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  color: var(--quiz-muted);
-}
-
-.quiz-timer.is-critical .quiz-timer-label {
-  color: inherit;
-}
-
-.quiz-timer-value {
-  font-variant-numeric: tabular-nums;
-  font-size: var(--sl-text-lg);
-  font-weight: 600;
-}
-
 .quiz-progress-bar {
   height: 0.35rem;
   margin: 0.75rem 0 1.25rem;

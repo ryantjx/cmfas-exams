@@ -42,7 +42,8 @@ const MODES: { mode: QuizMode; label: string; blurb: string }[] = [
   {
     mode: 'mock',
     label: 'Mock exam',
-    blurb: 'Exam conditions: full length, timed, with the results revealed at the end.',
+    blurb:
+      'Full length on the real paper blueprint, untimed, with the answer and explanation after each question.',
   },
 ];
 
@@ -174,7 +175,7 @@ export default function PracticePicker({ base, examId: deepLinkExamId }: Practic
         return (
           <div>
             {nav}
-            <QuizRunner bankUrl={bankUrl} mode="chapter" chapterId={chapter.id} instantFeedback />
+            <QuizRunner bankUrl={bankUrl} mode="chapter" chapterId={chapter.id} />
           </div>
         );
       }
@@ -199,7 +200,7 @@ export default function PracticePicker({ base, examId: deepLinkExamId }: Practic
             ))}
           </ul>
           <p className="quiz-note">
-            Chapter quizzes have no time limit. For exam conditions use the mock exam.
+            Nothing is timed: every mode lets you stop and read the explanation.
           </p>
         </div>
       );
@@ -210,7 +211,7 @@ export default function PracticePicker({ base, examId: deepLinkExamId }: Practic
         <div>
           {nav}
           {/* No size: the runner takes the whole bank for this mode. */}
-          <QuizRunner bankUrl={bankUrl} mode="random" instantFeedback />
+          <QuizRunner bankUrl={bankUrl} mode="random" />
         </div>
       );
     }
@@ -219,9 +220,7 @@ export default function PracticePicker({ base, examId: deepLinkExamId }: Practic
       return (
         <div>
           {nav}
-          {/* The daily quiz reveals each answer as it is chosen, same as the
-              chapter quiz. Only the mock defers feedback to the end. */}
-          <QuizRunner bankUrl={bankUrl} mode="daily" size={exam.dailySize} instantFeedback />
+          <QuizRunner bankUrl={bankUrl} mode="daily" size={exam.dailySize} />
         </div>
       );
     }
@@ -229,11 +228,14 @@ export default function PracticePicker({ base, examId: deepLinkExamId }: Practic
     return (
       <div>
         {nav}
+        {/* Mock exams run in learning mode too: the answer and explanation appear
+            after each question, and the timer is dropped so a learner can stop
+            and read the rationale. The paper's length, blueprint and pass mark
+            are still enforced, and the score report still grades the set. */}
         <QuizRunner
           bankUrl={bankUrl}
           mode="mock"
           size={exam.realExam.questions}
-          timeLimitSec={exam.realExam.minutes * 60}
           passPct={exam.realExam.passPct}
         />
       </div>

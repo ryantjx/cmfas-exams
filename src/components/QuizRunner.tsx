@@ -1,7 +1,6 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 
 import {
-  formatClock,
   isCorrect,
   sampleByBlueprint,
   sampleByChapter,
@@ -42,15 +41,8 @@ export type QuizRunnerProps = {
   size?: number;
   /** Required for `chapter` mode. */
   chapterId?: string;
-  /** When present the quiz is timed and auto-submits at zero (mock). */
-  timeLimitSec?: number;
   /** Pass mark percentage used to grade a mock. */
   passPct?: number;
-  /**
-   * Reveal the answer and explanation straight after each question instead of
-   * deferring everything to a review screen at the end. Used by the chapter quiz.
-   */
-  instantFeedback?: boolean;
 };
 
 type Answers = QuizAnswers;
@@ -75,9 +67,7 @@ export default function QuizRunner({
   mode,
   size,
   chapterId,
-  timeLimitSec,
   passPct,
-  instantFeedback = false,
 }: QuizRunnerProps) {
   const [bank, setBank] = useState<QuizBank | null>(null);
   const [error, setError] = useState<string | null>(null);
@@ -93,11 +83,8 @@ export default function QuizRunner({
   const [revealed, setRevealed] = useState<Record<string, boolean>>({});
   const [current, setCurrent] = useState(0);
   const [submitted, setSubmitted] = useState(false);
-  const [remaining, setRemaining] = useState<number | null>(timeLimitSec ?? null);
   const [showNav, setShowNav] = useState(mode === 'mock');
   const topRef = useRef<HTMLDivElement | null>(null);
-
-  const timed = typeof timeLimitSec === 'number' && timeLimitSec > 0;
 
   /* ---- load bank ---- */
   useEffect(() => {
@@ -168,20 +155,8 @@ export default function QuizRunner({
     setRevealed({});
     setCurrent(0);
     setSubmitted(false);
-    setRemaining(timed ? timeLimitSec! : null);
     setBuilt(true);
-  }, [bank, seed, mode, chapterId, size, timed, timeLimitSec]);
-
-  /* ---- countdown for the mock ---- */
-  useEffect(() => {
-    if (!timed || submitted || remaining === null) return;
-    if (remaining <= 0) {
-      setSubmitted(true);
-      return;
-    }
-    const timer = window.setTimeout(() => setRemaining((value) => (value === null ? null : value - 1)), 1000);
-    return () => window.clearTimeout(timer);
-  }, [timed, submitted, remaining]);
+  }, [bank, seed, mode, chapterId, size]);
 
   /* ---- scroll to top on submit ---- */
   useEffect(() => {
@@ -199,7 +174,7 @@ export default function QuizRunner({
       if (!question || submitted) return;
       // A revealed answer is locked, so the explanation always matches a choice
       // the reader actually made.
-      if (instantFeedback && revealed[question.id]) return;
+      if (revealed[question.id]) return;
       setAnswers((previous) => {
         const existing = previous[question.id] ?? [];
         if (question.isMulti) {
@@ -213,11 +188,11 @@ export default function QuizRunner({
       // Single-choice questions reveal as soon as they are answered ("show the
       // answer and explanation after each answer"). Multi-response needs an
       // explicit check, because several options have to be selected first.
-      if (instantFeedback && !question.isMulti) {
+      if (!question.isMulti) {
         setRevealed((previous) => ({ ...previous, [question.id]: true }));
       }
     },
-    [question, submitted, instantFeedback, revealed],
+    [question, submitted, revealed],
   );
 
   const toggleFlag = useCallback(() => {
@@ -275,8 +250,6 @@ export default function QuizRunner({
         questions={questions}
         answers={answers}
         passPct={passPct}
-        timed={timed}
-        timeLimitSec={timeLimitSec}
         onRestart={restart}
         topRef={topRef}
       />
@@ -287,7 +260,7 @@ export default function QuizRunner({
   const selected = answers[question.id] ?? [];
   const isFlagged = Boolean(flags[question.id]);
   const progress = Math.round((answeredCount / questions.length) * 100);
-  const isRevealed = instantFeedback && Boolean(revealed[question.id]);
+  const isRevealed = Boolean(revealed[question.id]);
   const isAnswerCorrect = isRevealed && isCorrect(question, selected);
 
   return (
@@ -304,12 +277,6 @@ export default function QuizRunner({
                 Question {current + 1} of {questions.length} · {answeredCount} answered
               </p>
             </div>
-            {timed && (
-              <div className={`quiz-timer${remaining !== null && remaining <= 60 ? ' is-critical' : ''}`}>
-                <span className="quiz-timer-label">Time left</span>
-                <span className="quiz-timer-value">{formatClock(remaining ?? 0)}</span>
-              </div>
-            )}
           </header>
 
           <div
@@ -415,7 +382,7 @@ export default function QuizRunner({
               ← Previous
             </button>
 
-            {instantFeedback && !isRevealed && question.isMulti && (
+            {!isRevealed && question.isMulti && (
               <button
                 type="button"
                 className="quiz-button quiz-button-primary"
@@ -426,23 +393,21 @@ export default function QuizRunner({
               </button>
             )}
 
-            {!instantFeedback && (
-              <button
-                type="button"
-                className={`quiz-button quiz-flag${isFlagged ? ' is-on' : ''}`}
-                onClick={toggleFlag}
-                aria-pressed={isFlagged}
-              >
-                {isFlagged ? '★ Flagged' : '☆ Flag for review'}
-              </button>
-            )}
+            <button
+              type="button"
+              className={`quiz-button quiz-flag${isFlagged ? ' is-on' : ''}`}
+              onClick={toggleFlag}
+              aria-pressed={isFlagged}
+            >
+              {isFlagged ? '★ Flagged' : '☆ Flag for review'}
+            </button>
 
             {current < questions.length - 1 ? (
               <button
                 type="button"
                 className="quiz-button quiz-button-primary"
                 onClick={() => setCurrent((index) => Math.min(questions.length - 1, index + 1))}
-                disabled={instantFeedback && !isRevealed}
+                disabled={!isRevealed}
               >
                 Next →
               </button>
@@ -451,36 +416,27 @@ export default function QuizRunner({
                 type="button"
                 className="quiz-button quiz-button-primary"
                 onClick={submit}
-                disabled={instantFeedback && !isRevealed}
+                disabled={!isRevealed}
               >
-                {instantFeedback ? 'Finish' : 'Finish & review'}
+                Finish
               </button>
             )}
           </nav>
 
-          {mode !== 'mock' && !instantFeedback && (
-            <p className="quiz-submit-row">
-              <button type="button" className="quiz-button" onClick={submit}>
-                Submit this set for review
-              </button>
-            </p>
-          )}
-
-          {instantFeedback && (
-            <p className="quiz-note">
-              The answer and explanation appear as soon as you answer
-              {question.isMulti ? ' and check.' : '.'}
-            </p>
-          )}
+          <p className="quiz-note">
+            The answer and explanation appear as soon as you answer
+            {question.isMulti ? ' and check.' : '.'}
+          </p>
 
           <p className="quiz-note">
-            No answers are stored — every start and every "Start a new set" draws a
-            fresh set.
+            {mode === 'mock'
+              ? 'Learning mode: this set is not timed, and the score report at the end keeps the real pass mark. No answers are stored — every start and every "Start a new set" draws a fresh set.'
+              : 'No answers are stored — every start and every "Start a new set" draws a fresh set.'}
           </p>
         </div>
 
         <aside
-          className={`quiz-sidebar${showNav && !instantFeedback ? '' : ' is-hidden'}`}
+          className={`quiz-sidebar${showNav ? '' : ' is-hidden'}`}
           aria-label="Question navigator"
         >
           <div className="quiz-nav-head">
@@ -516,12 +472,12 @@ export default function QuizRunner({
             <span className="quiz-nav-cell is-unanswered">3</span> unseen
           </p>
           <button type="button" className="quiz-button quiz-button-primary quiz-submit-wide" onClick={submit}>
-            Submit
+            Finish &amp; see score
           </button>
         </aside>
       </div>
 
-      {!showNav && !instantFeedback && (
+      {!showNav && (
         <p className="quiz-submit-row">
           <button type="button" className="quiz-link" onClick={() => setShowNav(true)}>
             Show question navigator
@@ -540,8 +496,6 @@ type ReviewProps = {
   questions: QuizQuestion[];
   answers: Answers;
   passPct?: number;
-  timed: boolean;
-  timeLimitSec?: number;
   onRestart: () => void;
   topRef: React.RefObject<HTMLDivElement | null>;
 };
@@ -552,8 +506,6 @@ function ReviewScreen({
   questions,
   answers,
   passPct,
-  timed,
-  timeLimitSec,
   onRestart,
   topRef,
 }: ReviewProps) {
@@ -580,7 +532,6 @@ function ReviewScreen({
         )}
         <p className="quiz-score-meta">
           {unanswered > 0 && <span>{unanswered} left unanswered · </span>}
-          {timed && timeLimitSec ? <span>Timed: {formatClock(timeLimitSec)} · </span> : null}
           {mode === 'mock' ? 'Mock exam' : 'Practice set'}
         </p>
       </section>

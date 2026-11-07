@@ -138,7 +138,7 @@ const examCards = EXAMS.map(
     `  <LinkCard title="${exam.name} — chapter quiz" href="${link(`/practice/${exam.id}/?type=chapter`)}" description="One chapter at a time, with the answer and explanation as soon as you answer." />\n` +
     `  <LinkCard title="${exam.name} — random quiz" href="${link(`/practice/${exam.id}/?type=random`)}" description="Every question in the bank, in random order." />\n` +
     `  <LinkCard title="${exam.name} — daily quiz" href="${link(`/practice/${exam.id}/?type=daily`)}" description="A fresh 30-question subset each time you start." />\n` +
-    `  <LinkCard title="${exam.name} — mock exam" href="${link(`/practice/${exam.id}/?type=mock`)}" description="Full timed paper." />\n` +
+    `  <LinkCard title="${exam.name} — mock exam" href="${link(`/practice/${exam.id}/?type=mock`)}" description="Full-length paper in learning mode: the answer and explanation after every question." />\n` +
     `</CardGrid>`,
 ).join('\n\n');
 
@@ -155,7 +155,9 @@ Four exams, four ways to practise each of them. The study guide is split one
 page per chapter, and every question bank is available as a **chapter quiz**, a
 **random quiz** (the whole bank, in random order), a **daily quiz** (a fresh
 30-question subset each time you start) and a full **mock exam** that mirrors the
-real paper's length, timing and pass mark.
+real paper's length, blueprint and pass mark. Every mode is learning mode: the
+answer and explanation appear as soon as you answer, or check a multi-response
+question.
 
 ${examCards}
 
@@ -257,7 +259,8 @@ one page per chapter, with worked examples, formula sheets and exam cues.
 - **[Daily quiz](${link(`/practice/${exam.id}/?type=daily`)})** — a fresh 30-question
   subset from across the whole bank each time you start.
 - **[Mock exam](${link(`/practice/${exam.id}/?type=mock`)})** — ${exam.realExam.questions}
-  questions, ${exam.realExam.minutes} minutes, ${exam.realExam.passPct}% to pass.
+  questions, ${exam.realExam.passPct}% to pass. Learning mode: untimed, with the
+  answer and explanation after every question.
 
 ## Downloads
 
@@ -408,7 +411,7 @@ Pick an exam, then pick how you want to practise. Nothing is stored.
 | **Chapter quiz** | Every question in one chapter, with the answer and explanation shown as soon as you answer. |
 | **Random quiz** | Every question in the bank, in random order, interleaved across chapters. The answer appears as soon as you answer. |
 | **Daily quiz** | A fresh 30-question subset drawn from the whole bank every time you start it. The answer appears as soon as you answer. |
-| **Mock exam** | The real paper's length, timing and pass mark. Results at the end only. |
+| **Mock exam** | The real paper's length, blueprint and pass mark, drawn as a full set. Learning mode: untimed, with the answer and explanation after every question. |
 
 Use the sidebar to jump straight to an exam and a mode.
 `,

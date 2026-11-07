@@ -225,13 +225,6 @@ export function sampleByBlueprint(
     : sampleQuestions(questions, size, { shuffleQuestions: true });
 }
 
-export function formatClock(totalSeconds: number): string {
-  const safe = Math.max(0, Math.floor(totalSeconds));
-  const minutes = Math.floor(safe / 60);
-  const seconds = safe % 60;
-  return `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
-}
-
 /** Per-chapter score breakdown for the review screen. */
 export function scoreByChapter(
   questions: readonly QuizQuestion[],
