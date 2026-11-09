@@ -1601,14 +1601,14 @@ d. Consider the ethical issues and relevant duties without allowing bias to cont
 a. A second appropriately authorised person independently reviews or approves the risk profile or related decision.
 b. The guide’s fact pattern is directed to the accredited investor category, subject to the exact statutory criteria and required verification.
 c. Obtain relevant customer information, including objectives, financial situation, knowledge, experience, constraints and risk profile, before making or executing recommendations that require it.
-d. Civil penalties or sanctions and criminal penalties may apply, together with regulatory, disciplinary, financial and reputational consequences. “Restraint sanctions” is not a substitute category to memorise.
+d. Civil penalties or sanctions and criminal penalties may apply, together with regulatory, disciplinary, financial and reputational consequences.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** D. Civil penalties or sanctions and criminal penalties may apply, together with regulatory, disciplinary, financial and reputational consequences. “Restraint sanctions” is not a substitute category to memorise.
+**Answer:** D. Civil penalties or sanctions and criminal penalties may apply, together with regulatory, disciplinary, financial and reputational consequences.
 
-**Rationale:** Civil penalties or sanctions and criminal penalties may apply, together with regulatory, disciplinary, financial and reputational consequences. “Restraint sanctions” is not a substitute category to memorise.
+**Rationale:** Civil penalties or civil sanctions and criminal penalties may apply, together with regulatory, disciplinary, financial and reputational consequences.
 
 </details>
 
@@ -1712,15 +1712,15 @@ d. Statements give customers a regular record of holdings, transactions, balance
 
 a. No.
 b. Electronic media, rumours, word-of-mouth “hot tips” and unverified claims can all be used.
-c. The guide’s fact pattern is directed to the accredited investor category, subject to the exact statutory criteria and required verification.
+c. The guide’s fact pattern places the entity in the institutional investor category, subject to the exact statutory criteria and required verification.
 d. The connection may create access to generally unavailable material information, a conflict or an artificial appearance of trading.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** C. The guide’s fact pattern is directed to the accredited investor category, subject to the exact statutory criteria and required verification.
+**Answer:** C. The guide’s fact pattern places the entity in the institutional investor category, subject to the exact statutory criteria and required verification.
 
-**Rationale:** The guide’s fact pattern is directed to the **accredited investor** category, subject to the exact statutory criteria and required verification. Investor status should never be inferred from a label alone.
+**Rationale:** A designated market maker prescribed by MAS counts as an institutional investor, and the S$50 million net-asset figure with three corporate shareholders matches that limb of the definition. The accredited investor category is a separate test — a corporation with net assets exceeding S$10 million — so the label alone does not decide it.
 
 </details>
 
@@ -1822,17 +1822,17 @@ d. A Grant of Probate is the relevant document where there is a will and probate
 
 ### 114. **[Single choice]** [RES 1B Appendix G, source Q24] What are two important CPFIS ETF inclusion conditions?
 
-a. The guide highlights at least five years, subject to the applicable notice, investigation, litigation or firm policy requirements.
-b. The ETF should not be on the SGX-ST watch-list and must comply with CPF Investment Guidelines.
-c. Follow the sanctions process, including immediately preventing or freezing prohibited dealings where required and reporting or escalating to the authorities and compliance.
-d. Identify and verify the customer, understand the source of funds and determine the customer’s business activity or purpose.
+a. Be traded in Singapore dollars and not be placed on an SGX-ST watch-list.
+b. Be listed on SGX-ST and comply with the CPF Investment Guidelines.
+c. Be managed by a Singapore-incorporated fund manager.
+d. Have a minimum five-year track record.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** B. The ETF should not be on the SGX-ST watch-list and must comply with CPF Investment Guidelines.
+**Answer:** B. Be listed on SGX-ST and comply with the CPF Investment Guidelines.
 
-**Rationale:** The ETF should not be on the SGX-ST watch-list and must comply with CPF Investment Guidelines. Listing on SGX-ST and Singapore-dollar trading alone do not replace all inclusion criteria.
+**Rationale:** Listing on SGX-ST plus compliance with the CPF Investment Guidelines are the two stated inclusion conditions. Denomination in Singapore dollars, the manager's domicile and a minimum track record are not tests; the guide prefers, but does not require, at least three years of tracking record.
 
 </details>
 
@@ -5980,7 +5980,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 365. **[Multiple response]** [RES 1B §6.2] Which of the following are agent banks under CPFIS?
+### 365. **[Single choice]** [RES 1B Appendix G, source Q22] Which of the following banks is an agent bank included under CPFIS?
 
 - a. OCBC Bank
 - b. Maybank
@@ -5990,9 +5990,9 @@ The source review questions familiarise candidates with scope and format but do 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** A, B
+**Answer:** A
 
-**Rationale:** The agent banks are the locally established institutions appointed for the scheme. HSBC and ICICI appear as distractors because they are foreign-headquartered.
+**Rationale:** The three CPFIS agent banks are DBS, OCBC and UOB. Maybank is one of the four CPFIS fixed-deposit banks (DBS, Maybank, OCBC, UOB), which is a different list and does not make it an agent bank. HSBC and ICICI are neither.
 
 </details>
 
