@@ -158,9 +158,9 @@ d. Banks provide financing, deposit-taking and payment services; securities deal
 
 ### 10. **[Single choice]** [RES 1B §1.4] What is a SPAC and what investor-protection issues should a representative recognise?
 
-a. Legislation and MAS regulations establish statutory obligations and offences, while exchange and clearing rules govern trading, membership, settlement and market operations.
-b. A CMS licence holder conducts regulated activities such as dealing in capital markets products, fund management or advising, subject to the scope of its licence, financial resources, representatives, systems and continuing obligations.
-c. MAS is Singapore’s central bank and financial regulator.
+a. A SPAC is a type of collective investment scheme that pools investor money to buy a diversified portfolio of listed equities.
+b. A SPAC lists only after it has already acquired an operating business and published three years of audited profits.
+c. A SPAC guarantees investors a fixed return from the funds held in trust until the acquisition completes.
 d. A SPAC is a listed shell formed to raise funds and later acquire an operating business.
 
 <details>
@@ -3697,10 +3697,10 @@ d. Define the objective, expected return, acceptable risk, time horizon, product
 
 ### 228. **[Single choice]** [RES 2B §6.7] What is correlation risk?
 
-a. Apply the relevant CAR or CKA, obtain the required account approval, assess the product and customer, provide disclosures and warnings, document the outcome and monitor the account.
-b. Gaps, illiquidity, limit moves, system outages and counterparty failure may prevent execution at the chosen stop.
+a. The risk that a counterparty fails to meet its obligations under a derivatives contract.
+b. The risk that a market moves sharply from one price to another without executable prices between them, so a stop-loss may fill far away from the stop level.
 c. Positions that appear diversified may move together during stress, increasing rather than reducing exposure.
-d. In addition to identity and objectives, assess experience with leverage and the specific derivative, financial resources, margin capacity, liquidity, loss capacity, authority, hedging purpose, knowledge of close-out and collateral, and whether the customer can understand the product’s payoff and worst-case scenarios.
+d. The risk that a firm cannot exit a position or fund margin calls because of thin trading or a lack of buyers.
 
 <details>
 <summary>Show answer</summary>
@@ -3713,9 +3713,9 @@ d. In addition to identity and objectives, assess experience with leverage and t
 
 ### 229. **[Single choice]** [RES 2B §6.7] What is gap risk?
 
-a. The framework represents supervisory attention to the firm’s risk profile, governance, controls, resilience and remediation.
-b. Positions that appear diversified may move together during stress, increasing rather than reducing exposure.
-c. Market risk arises from price, rate, FX or volatility changes; credit risk from counterparty default; liquidity risk from inability to exit or fund margin; gap risk from discontinuous price moves; and operational or technology risk from failed processes or systems.
+a. The risk that positions appearing diversified move together during stress, increasing rather than reducing exposure.
+b. The risk that a counterparty defaults before a trade settles.
+c. The risk that losses arise from failed processes, systems, or human error.
 d. The market moves sharply from one price to another without executable prices between them, so a stop-loss may fill far away from the stop level or not at all.
 
 <details>
@@ -4017,10 +4017,10 @@ d. To serve the best interests of clients while maintaining integrity, fairness,
 
 ### 248. **[Single choice]** [RES 2B Appendix F, source Q3] How long must customer transaction and trading records be kept?
 
-a. Speed, opportunities for price improvement and client-specific instructions are relevant.
-b. The source highlights the relevant experience route of at least six transactions in unlisted SIPs during the preceding three years, subject to the applicable rules and evidence.
+a. Three years.
+b. Seven years.
 c. Five years.
-d. It is the risk that changes in laws, regulations, regulatory interpretation or supervisory requirements affect products, markets, costs, permissions or the customer’s ability to trade.
+d. Ten years.
 
 <details>
 <summary>Show answer</summary>
@@ -4114,9 +4114,9 @@ d. To serve the best interests of clients while maintaining integrity, fairness,
 ### 254. **[Single choice]** [RES 2B Appendix F, source Q9] What was unethical about marketing five years of back-tested performance without saying it was back-tested?
 
 a. The presentation failed to uphold performance-presentation standards because it could make simulated historical results appear to be actual performance.
-b. Freeze or prevent prohibited dealings immediately where required and report or escalate to the authorities and compliance.
-c. No.
-d. The Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act is the highlighted statute, while other laws may apply to terrorism financing, market conduct and related offences.
+b. Back-tested results may never be shown to clients under any circumstances, so the presentation was unethical regardless of disclosure.
+c. The presentation was acceptable because the returns were calculated correctly from historical prices.
+d. The firm should have disclosed the results only to accredited investors, not to retail clients.
 
 <details>
 <summary>Show answer</summary>
@@ -8142,7 +8142,7 @@ The source review questions familiarise candidates with scope and format but do 
 
 </details>
 
-### 500. **[Multiple response]** [RES 2B §6.7] Which statements about CRAFT and MAS supervision are correct?
+### 500. **[Single choice]** [RES 2B §6.7] Which statement about CRAFT and MAS supervision is NOT correct?
 
 - a. CRAFT is a risk-based supervisory framework using an impact and risk model
 - b. MAS prioritises supervisory resources toward firms posing the greatest potential impact
@@ -8152,9 +8152,9 @@ The source review questions familiarise candidates with scope and format but do 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** A, B, C
+**Answer:** D. Remedial and diagnostic tools operate independently and never need to complement each other.
 
-**Rationale:** Diagnostic and remedial work must complement each other: diagnosis establishes whether a risk is material, and remedial action sets a time-bound plan to mitigate it.
+**Rationale:** Diagnostic and remedial work must complement each other: diagnosis establishes whether a risk is material, and remedial action sets a time-bound plan to mitigate it. CRAFT is a risk-based supervisory framework using an impact and risk model, MAS prioritises resources toward firms posing the greatest potential impact, and diagnostic tools identify problems at an early stage.
 
 </details>
 
