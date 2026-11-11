@@ -11,7 +11,7 @@ import {
   type QuizAnswers,
   type QuizQuestion,
 } from '../lib/quiz';
-import { buildFlagUrl } from '../lib/flag';
+import { buildFlagUrl, fetchFlaggedQuestions, type FlaggedIssue } from '../lib/flag';
 
 /* -------------------------------------------------------------------- types */
 
@@ -81,6 +81,8 @@ export default function QuizRunner({
   const [built, setBuilt] = useState(false);
   const [answers, setAnswers] = useState<Answers>({});
   const [flags, setFlags] = useState<Record<string, boolean>>({});
+  /** Open `question-flag` issues, shared with every visitor (see flag.ts). */
+  const [globalFlags, setGlobalFlags] = useState<Record<string, FlaggedIssue>>({});
   const [revealed, setRevealed] = useState<Record<string, boolean>>({});
   const [current, setCurrent] = useState(0);
   const [submitted, setSubmitted] = useState(false);
@@ -159,6 +161,24 @@ export default function QuizRunner({
     setBuilt(true);
   }, [bank, seed, mode, chapterId, size]);
 
+  /* ---- shared flags: open `question-flag` issues, visible to every visitor.
+     A failed load (offline, or GitHub's unauthenticated rate limit) leaves the
+     map empty — local flagging and reporting still work. ---- */
+  useEffect(() => {
+    if (!bank) return;
+    let cancelled = false;
+    fetchFlaggedQuestions()
+      .then((shared) => {
+        if (!cancelled) setGlobalFlags(shared);
+      })
+      .catch(() => {
+        /* No global flags known; the quiz itself is unaffected. */
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, [bank]);
+
   /* ---- scroll to top on submit ---- */
   useEffect(() => {
     if (submitted) topRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
@@ -169,6 +189,8 @@ export default function QuizRunner({
     () => questions.filter((q) => (answers[q.id]?.length ?? 0) > 0).length,
     [questions, answers],
   );
+  /** The open shared report for this question, if any — visible to everyone. */
+  const globalFlag = question ? globalFlags[question.id] : undefined;
 
   const select = useCallback(
     (optionKey: string) => {
@@ -196,14 +218,42 @@ export default function QuizRunner({
     [question, submitted, revealed],
   );
 
+  /**
+   * Flag for review — now global. It still marks the question to revisit in
+   * this session, and it files the question in the shared issue queue so every
+   * visitor can see it. If it is already reported, open that issue instead of
+   * filing a duplicate.
+   */
   const toggleFlag = useCallback(() => {
-    if (!question) return;
+    if (!question || !bank) return;
     setFlags((previous) => ({ ...previous, [question.id]: !previous[question.id] }));
-  }, [question]);
+    const existing = globalFlags[question.id];
+    if (existing) {
+      window.open(existing.url, '_blank', 'noopener,noreferrer');
+      return;
+    }
+    const canonical = bank.questions.find((q) => q.id === question.id) ?? question;
+    window.open(
+      buildFlagUrl(canonical, {
+        examId: bank.examId,
+        examName: bank.name,
+        mode: MODE_LABEL[mode],
+        pageUrl: typeof window === 'undefined' ? undefined : window.location.href,
+      }),
+      '_blank',
+      'noopener,noreferrer',
+    );
+  }, [question, bank, mode, globalFlags]);
 
   /** Open a pre-filled GitHub issue so the flag reaches the owner's queue. */
   const reportQuestion = useCallback(() => {
     if (!question || !bank) return;
+    // Already reported: take the reader to the shared issue, not a duplicate.
+    const existing = globalFlags[question.id];
+    if (existing) {
+      window.open(existing.url, '_blank', 'noopener,noreferrer');
+      return;
+    }
     // Report the bank's own option order, not the shuffled presentation, so the
     // letters in the issue match the letters in the markdown.
     const canonical = bank.questions.find((q) => q.id === question.id) ?? question;
@@ -214,7 +264,7 @@ export default function QuizRunner({
       pageUrl: typeof window === 'undefined' ? undefined : window.location.href,
     });
     window.open(url, '_blank', 'noopener,noreferrer');
-  }, [question, bank, mode]);
+  }, [question, bank, mode, globalFlags]);
 
   const submit = useCallback(() => setSubmitted(true), []);
   const restart = useCallback(() => setSeed((value) => value + 1), []);
@@ -310,6 +360,16 @@ export default function QuizRunner({
               <span className="quiz-badge">{question.type ?? 'Question'}</span>
               {question.sourceRef && <span className="quiz-source">{question.sourceRef}</span>}
               {question.isMulti && <span className="quiz-hint">Select all that apply</span>}
+              {globalFlag && (
+                <a
+                  className="quiz-badge is-flagged"
+                  href={globalFlag.url}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  ⚠ Flagged for review — issue #{globalFlag.number}
+                </a>
+              )}
             </p>
 
             <h2 className="quiz-stem">
@@ -411,21 +471,29 @@ export default function QuizRunner({
 
             <button
               type="button"
-              className={`quiz-button quiz-flag${isFlagged ? ' is-on' : ''}`}
+              className={`quiz-button quiz-flag${isFlagged || globalFlag ? ' is-on' : ''}`}
               onClick={toggleFlag}
               aria-pressed={isFlagged}
-              title="Mark to revisit in this session only"
+              title={
+                globalFlag
+                  ? `Already reported — opens shared issue #${globalFlag.number}`
+                  : 'Flag for review — files a shared GitHub issue every visitor can see'
+              }
             >
-              {isFlagged ? '★ Flagged' : '☆ Flag for review'}
+              {isFlagged || globalFlag ? '★ Flagged' : '☆ Flag for review'}
             </button>
 
             <button
               type="button"
               className="quiz-button quiz-report"
               onClick={reportQuestion}
-              title="Open a pre-filled GitHub issue. The repository owner resolves it there."
+              title={
+                globalFlag
+                  ? `Already reported — opens shared issue #${globalFlag.number}`
+                  : 'Open a pre-filled GitHub issue. The repository owner resolves it there.'
+              }
             >
-              ⚠ Report question
+              {globalFlag ? `⚠ Reported — issue #${globalFlag.number}` : '⚠ Report question'}
             </button>
 
             {current < questions.length - 1 ? (
@@ -473,11 +541,12 @@ export default function QuizRunner({
           </div>
           <ol className="quiz-nav-grid">
             {questions.map((item, index) => {
-              const state = flags[item.id]
-                ? 'flagged'
-                : (answers[item.id]?.length ?? 0) > 0
-                  ? 'answered'
-                  : 'unanswered';
+              const state =
+                flags[item.id] || globalFlags[item.id]
+                  ? 'flagged'
+                  : (answers[item.id]?.length ?? 0) > 0
+                    ? 'answered'
+                    : 'unanswered';
               return (
                 <li key={item.id}>
                   <button

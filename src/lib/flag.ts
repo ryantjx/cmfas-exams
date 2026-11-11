@@ -107,3 +107,54 @@ export function buildFlagUrl(question: QuizQuestion, ctx: FlagContext) {
   });
   return `${QUIZ_REPO}/issues/new?${params.toString()}`;
 }
+
+/* ------------------------------------------------------- shared flag state */
+
+/** An open flag issue, as shown to every visitor of the question it covers. */
+export type FlaggedIssue = { number: number; url: string };
+
+/** Public read of the shared queue — no sign-in needed, only filing needs one. */
+export const FLAG_ISSUES_API = `${QUIZ_REPO.replace('https://github.com/', 'https://api.github.com/repos/')}/issues?labels=${FLAG_LABEL}&state=open&per_page=100`;
+
+type FlagIssueSummary = {
+  number: number;
+  html_url: string;
+  body?: string | null;
+  pull_request?: unknown;
+};
+
+/**
+ * The question id an issue body records, in the format buildFlagBody writes
+ * (`**Question id:** \`res12b-q1\``). Issues filed by hand, or from an older
+ * template without that line, carry no id and are skipped.
+ */
+export function flaggedQuestionIdFromBody(body: string | null | undefined): string | null {
+  if (!body) return null;
+  const match = body.match(/\*\*Question id:\*\* `([^`]+)`/);
+  return match ? match[1] : null;
+}
+
+/** Map question id → its earliest open flag issue; later duplicates are ignored. */
+export function mapFlaggedQuestions(issues: FlagIssueSummary[]): Record<string, FlaggedIssue> {
+  const out: Record<string, FlaggedIssue> = {};
+  for (const issue of [...issues].sort((a, b) => a.number - b.number)) {
+    if ('pull_request' in issue && issue.pull_request) continue;
+    const id = flaggedQuestionIdFromBody(issue.body);
+    if (id && !out[id]) out[id] = { number: issue.number, url: issue.html_url };
+  }
+  return out;
+}
+
+/**
+ * Load the shared flag queue. Throws on a failed request (offline, or the
+ * unauthenticated GitHub rate limit) — callers treat that as "no global
+ * flags known", never as a quiz failure.
+ */
+export async function fetchFlaggedQuestions(): Promise<Record<string, FlaggedIssue>> {
+  const response = await fetch(FLAG_ISSUES_API, {
+    headers: { Accept: 'application/vnd.github+json' },
+  });
+  if (!response.ok) throw new Error(`Failed to load flagged questions (${response.status}).`);
+  const issues = (await response.json()) as FlagIssueSummary[];
+  return mapFlaggedQuestions(issues);
+}
