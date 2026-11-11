@@ -113,12 +113,12 @@ d. Banks provide financing, deposit-taking and payment services; securities deal
 a. A CMS licence holder conducts regulated activities such as dealing in capital markets products, fund management or advising, subject to the scope of its licence, financial resources, representatives, systems and continuing obligations.
 b. MAS is Singapore’s central bank and financial regulator.
 c. Legislation and MAS regulations establish statutory obligations and offences, while exchange and clearing rules govern trading, membership, settlement and market operations.
-d. The guide describes three routes: a profit test involving at least S$30 million of aggregate pre-tax profit over the latest three years with minimum profit in the latest year.
+d. Three routes, one of which is a profit test requiring at least S$30 million of aggregate pre-tax profit over the latest three years with a minimum profit in the latest year.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** D. The guide describes three routes: a profit test involving at least S$30 million of aggregate pre-tax profit over the latest three years with minimum profit in the latest year.
+**Answer:** D. Three routes, one of which is a profit test requiring at least S$30 million of aggregate pre-tax profit over the latest three years with a minimum profit in the latest year.
 
 **Rationale:** The guide describes three routes: a profit test involving at least S$30 million of aggregate pre-tax profit over the latest three years with minimum profit in the latest year; a profit-and-market-capitalisation route involving profit over three years and at least S$150 million market capitalisation; and a revenue-and-market-capitalisation route involving revenue in the latest completed financial year and at least S$300 million market capitalisation. Exact eligibility must be checked against the current listing rules.
 
@@ -192,15 +192,15 @@ d. Changes to key persons, business activities, ownership, representatives, offi
 
 a. For retail customers trading SIPs, the firm uses a CAR for listed SIPs and a CKA for unlisted SIPs, unless an applicable exemption or alternative rule applies.
 b. The representative and principal must make the prescribed notifications, including cessation and changes in particulars, within the applicable time periods; the guide highlights seven- and 14-day requirements for different changes.
-c. The guide’s table highlights S$5 million for a clearing member, S$1 million for a trading member or non-member, S$500,000 for an introducing broker and S$50,000 for other relevant categories.
+c. S$5 million for a clearing member, S$1 million for a trading member or non-member, S$500,000 for an introducing broker and S$50,000 for other relevant categories.
 d. It must be clear, fair, balanced and not misleading.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** C. The guide’s table highlights S$5 million for a clearing member, S$1 million for a trading member or non-member, S$500,000 for an introducing broker and S$50,000 for other relevant categories.
+**Answer:** C. S$5 million for a clearing member, S$1 million for a trading member or non-member, S$500,000 for an introducing broker and S$50,000 for other relevant categories.
 
-**Rationale:** The guide’s table highlights S$5 million for a clearing member, S$1 million for a trading member or non-member, S$500,000 for an introducing broker and S$50,000 for other relevant categories. These are study-guide figures and must be checked against the current regulations before operational use.
+**Rationale:** S$5 million for a clearing member, S$1 million for a trading member or non-member, S$500,000 for an introducing broker and S$50,000 for other relevant categories. These are study-guide figures and must be checked against the current regulations before operational use.
 
 </details>
 
@@ -209,14 +209,14 @@ d. It must be clear, fair, balanced and not misleading.
 a. The classification determines whether additional knowledge or experience safeguards apply.
 b. For a listed SIP, the guide allows a negative CAR outcome to be followed only by the prescribed senior-management approval, written outcome and warnings, customer confirmation and responsibility acknowledgement.
 c. The guide states that CAR is valid for three years and CKA for one year, subject to the relevant transaction, change-of-circumstance and reassessment rules.
-d. The guide describes a board with at least two directors, including a Singapore-resident director, a Singapore-resident chief executive officer, and at least two full-time representatives for each regulated activity, subject to the applicable requirements.
+d. A board with at least two directors, including a Singapore-resident director, a Singapore-resident chief executive officer, and at least two full-time representatives for each regulated activity, subject to the applicable requirements.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** D. The guide describes a board with at least two directors, including a Singapore-resident director, a Singapore-resident chief executive officer, and at least two full-time representatives for each regulated activity, subject to the applicable requirements.
+**Answer:** D. A board with at least two directors, including a Singapore-resident director, a Singapore-resident chief executive officer, and at least two full-time representatives for each regulated activity, subject to the applicable requirements.
 
-**Rationale:** The guide describes a board with at least two directors, including a Singapore-resident director, a Singapore-resident chief executive officer, and at least two full-time representatives for each regulated activity, subject to the applicable requirements. MAS also assesses fitness, propriety, competence, financial resources, compliance arrangements and internal controls.
+**Rationale:** A board with at least two directors, including a Singapore-resident director, a Singapore-resident chief executive officer, and at least two full-time representatives for each regulated activity, subject to the applicable requirements. MAS also assesses fitness, propriety, competence, financial resources, compliance arrangements and internal controls.
 
 </details>
 
@@ -304,15 +304,15 @@ d. It must be clear, fair, balanced and not misleading.
 
 a. Customer information must be collected, used, disclosed and retained only for proper purposes and in accordance with the Banking Act secrecy framework, PDPA obligations, applicable Do-Not-Call rules and permitted exceptions.
 b. The firm should establish and verify customer identity, authority, risk profile, account terms, trading permissions, beneficial ownership and relevant declarations.
-c. The guide states that CAR is valid for three years and CKA for one year, subject to the relevant transaction, change-of-circumstance and reassessment rules.
+c. CAR is valid for three years and CKA for one year, subject to the relevant transaction, change-of-circumstance and reassessment rules.
 d. The classification determines whether additional knowledge or experience safeguards apply.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** C. The guide states that CAR is valid for three years and CKA for one year, subject to the relevant transaction, change-of-circumstance and reassessment rules.
+**Answer:** C. CAR is valid for three years and CKA for one year, subject to the relevant transaction, change-of-circumstance and reassessment rules.
 
-**Rationale:** The guide states that CAR is valid for three years and CKA for one year, subject to the relevant transaction, change-of-circumstance and reassessment rules. Firms must keep evidence of the assessment, result, explanations and customer communications.
+**Rationale:** CAR is valid for three years and CKA for one year, subject to the relevant transaction, change-of-circumstance and reassessment rules. Firms must keep evidence of the assessment, result, explanations and customer communications.
 
 </details>
 
@@ -385,14 +385,14 @@ d. The representative and principal must make the prescribed notifications, incl
 a. For a listed SIP, the guide allows a negative CAR outcome to be followed only by the prescribed senior-management approval, written outcome and warnings, customer confirmation and responsibility acknowledgement.
 b. The classification determines whether additional knowledge or experience safeguards apply.
 c. The guide states that CAR is valid for three years and CKA for one year, subject to the relevant transaction, change-of-circumstance and reassessment rules.
-d. The guide highlights contract notes by the next business day and periodic statements, including monthly or quarterly statements where prescribed.
+d. Contract notes by the next business day, and periodic statements including monthly or quarterly statements where prescribed.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** D. The guide highlights contract notes by the next business day and periodic statements, including monthly or quarterly statements where prescribed.
+**Answer:** D. Contract notes by the next business day, and periodic statements including monthly or quarterly statements where prescribed.
 
-**Rationale:** The guide highlights contract notes by the next business day and periodic statements, including monthly or quarterly statements where prescribed. The documents should accurately identify the transaction, price, quantity, charges, capacity and settlement information.
+**Rationale:** Contract notes by the next business day, and periodic statements including monthly or quarterly statements where prescribed. The documents should accurately identify the transaction, price, quantity, charges, capacity and settlement information.
 
 </details>
 
@@ -974,7 +974,7 @@ d. They prevent and detect unauthorised trading, errors, fraud, conflicts, unsui
 
 ### 61. **[Single choice]** [RES 1B §5.6] What account types should a representative be able to distinguish?
 
-a. The guide discusses account structures such as cash, margin, discretionary or managed arrangements, joint, trust, corporate and custody-related accounts.
+a. Cash, margin, discretionary or managed, joint, trust, corporate and custody-related accounts.
 b. Consider price, costs, speed, likelihood of execution and settlement, size, nature of the order, liquidity, venue and the customer’s instructions.
 c. Explain the product and strategy, material risks, possible loss, liquidity and valuation issues, fees and charges, conflicts, assumptions, relevant tax or currency considerations and the limits of any forecast or disclaimer.
 d. The representative should connect the customer’s objectives and constraints to an understandable thesis, asset or product selection, position size, time horizon, risks, costs, exit conditions and monitoring plan.
@@ -982,9 +982,9 @@ d. The representative should connect the customer’s objectives and constraints
 <details>
 <summary>Show answer</summary>
 
-**Answer:** A. The guide discusses account structures such as cash, margin, discretionary or managed arrangements, joint, trust, corporate and custody-related accounts.
+**Answer:** A. Cash, margin, discretionary or managed, joint, trust, corporate and custody-related accounts.
 
-**Rationale:** The guide discusses account structures such as cash, margin, discretionary or managed arrangements, joint, trust, corporate and custody-related accounts. Each has different authority, documentation, liability, suitability, money-handling and conflict implications; the representative must not treat all accounts as ordinary individual cash accounts.
+**Rationale:** Cash, margin, discretionary or managed, joint, trust, corporate and custody-related accounts. Each has different authority, documentation, liability, suitability, money-handling and conflict implications; the representative must not treat all accounts as ordinary individual cash accounts.
 
 </details>
 
@@ -1166,7 +1166,7 @@ d. The regime requires financial institutions to identify and understand custome
 
 ### 73. **[Single choice]** [RES 1B §7.3] Name the main laws that the guide associates with financial-crime controls.
 
-a. The guide refers to the SFA and related regulations, the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the Terrorism (Suppression of Financing) Act, the MAS Act and applicable tax legislation, together with MAS notices and regulations.
+a. The SFA and related regulations, the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the Terrorism (Suppression of Financing) Act, the MAS Act and applicable tax legislation, together with MAS notices and regulations.
 b. Obtain and verify identity, address, occupation or business, purpose and intended nature of the relationship, source of funds and wealth where relevant, beneficial ownership, ownership and control structure, expected activity and connected parties.
 c. The first line is the business and front office, which owns customer and transaction risk; the second line is compliance or risk management, which sets standards, advises, monitors and challenges; and the third line is internal audit, which independently tests governance and controls.
 d. Certain tax offences can be predicate offences that generate criminal proceeds.
@@ -1174,9 +1174,9 @@ d. Certain tax offences can be predicate offences that generate criminal proceed
 <details>
 <summary>Show answer</summary>
 
-**Answer:** A. The guide refers to the SFA and related regulations, the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the Terrorism (Suppression of Financing) Act, the MAS Act and applicable tax legislation, together with MAS notices and regulations.
+**Answer:** A. The SFA and related regulations, the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the Terrorism (Suppression of Financing) Act, the MAS Act and applicable tax legislation, together with MAS notices and regulations.
 
-**Rationale:** The guide refers to the SFA and related regulations, the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the Terrorism (Suppression of Financing) Act, the MAS Act and applicable tax legislation, together with MAS notices and regulations. The exact scope must be read with current law.
+**Rationale:** The SFA and related regulations, the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the Terrorism (Suppression of Financing) Act, the MAS Act and applicable tax legislation, together with MAS notices and regulations. The exact scope must be read with current law.
 
 </details>
 
@@ -1294,7 +1294,7 @@ d. Controls include customer and transaction screening, ongoing monitoring, unus
 
 ### 81. **[Single choice]** [RES 1B §7.13] What reporting timelines and thresholds are highlighted in the guide?
 
-a. The guide highlights transaction-monitoring attention around the S$20,000 threshold, a 30-day review period for relevant circumstances, a 120-day period for specified follow-up or review situations, STR filing within 15 business days after forming the required suspicion, and retention of records for five years.
+a. Transaction-monitoring attention around the S$20,000 threshold, a 30-day review period for relevant circumstances, a 120-day period for specified follow-up or review situations, STR filing within 15 business days after forming the required suspicion, and retention of records for five years.
 b. The first line is the business and front office, which owns customer and transaction risk; the second line is compliance or risk management, which sets standards, advises, monitors and challenges; and the third line is internal audit, which independently tests governance and controls.
 c. Certain tax offences can be predicate offences that generate criminal proceeds.
 d. They restrict dealings with designated persons, entities, countries, assets or activities, including terrorist financing and proliferation-related targets.
@@ -1302,9 +1302,9 @@ d. They restrict dealings with designated persons, entities, countries, assets o
 <details>
 <summary>Show answer</summary>
 
-**Answer:** A. The guide highlights transaction-monitoring attention around the S$20,000 threshold, a 30-day review period for relevant circumstances, a 120-day period for specified follow-up or review situations, STR filing within 15 business days after forming the required suspicion, and retention of records for five years.
+**Answer:** A. Transaction-monitoring attention around the S$20,000 threshold, a 30-day review period for relevant circumstances, a 120-day period for specified follow-up or review situations, STR filing within 15 business days after forming the required suspicion, and retention of records for five years.
 
-**Rationale:** The guide highlights transaction-monitoring attention around the S$20,000 threshold, a 30-day review period for relevant circumstances, a 120-day period for specified follow-up or review situations, STR filing within 15 business days after forming the required suspicion, and retention of records for five years. These are exam-study references and should be verified against current notices.
+**Rationale:** Transaction-monitoring attention around the S$20,000 threshold, a 30-day review period for relevant circumstances, a 120-day period for specified follow-up or review situations, STR filing within 15 business days after forming the required suspicion, and retention of records for five years. These are exam-study references and should be verified against current notices.
 
 </details>
 
@@ -1358,7 +1358,7 @@ d. Honesty, integrity and reputation; competence and capability; and financial s
 
 ### 85. **[Single choice]** [RES 1B Appendix B] What routes can satisfy the CAR knowledge and experience criteria?
 
-a. The guide highlights an appropriate diploma or professional qualification, six transactions in listed SIPs during the preceding three years, or at least three consecutive years of relevant experience in the preceding ten years, subject to the prescribed evidence and assessment rules.
+a. An appropriate diploma or professional qualification, six transactions in listed SIPs during the preceding three years, or at least three consecutive years of relevant experience in the preceding ten years, subject to the prescribed evidence and assessment rules.
 b. For a listed SIP, the guide allows a negative CAR outcome to be followed only by the prescribed senior-management approval, written outcome and warnings, customer confirmation and responsibility acknowledgement.
 c. The guide states that CAR is valid for three years and CKA for one year, subject to the relevant transaction, change-of-circumstance and reassessment rules.
 d. For retail customers trading SIPs, the firm uses a CAR for listed SIPs and a CKA for unlisted SIPs, unless an applicable exemption or alternative rule applies.
@@ -1366,9 +1366,9 @@ d. For retail customers trading SIPs, the firm uses a CAR for listed SIPs and a 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** A. The guide highlights an appropriate diploma or professional qualification, six transactions in listed SIPs during the preceding three years, or at least three consecutive years of relevant experience in the preceding ten years, subject to the prescribed evidence and assessment rules.
+**Answer:** A. An appropriate diploma or professional qualification, six transactions in listed SIPs during the preceding three years, or at least three consecutive years of relevant experience in the preceding ten years, subject to the prescribed evidence and assessment rules.
 
-**Rationale:** The guide highlights an appropriate diploma or professional qualification, six transactions in listed SIPs during the preceding three years, or at least three consecutive years of relevant experience in the preceding ten years, subject to the prescribed evidence and assessment rules.
+**Rationale:** An appropriate diploma or professional qualification, six transactions in listed SIPs during the preceding three years, or at least three consecutive years of relevant experience in the preceding ten years, subject to the prescribed evidence and assessment rules.
 
 </details>
 
@@ -1712,13 +1712,13 @@ d. Statements give customers a regular record of holdings, transactions, balance
 
 a. No.
 b. Electronic media, rumours, word-of-mouth “hot tips” and unverified claims can all be used.
-c. The guide’s fact pattern places the entity in the institutional investor category, subject to the exact statutory criteria and required verification.
+c. The institutional investor category, subject to the exact statutory criteria and required verification.
 d. The connection may create access to generally unavailable material information, a conflict or an artificial appearance of trading.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** C. The guide’s fact pattern places the entity in the institutional investor category, subject to the exact statutory criteria and required verification.
+**Answer:** C. The institutional investor category, subject to the exact statutory criteria and required verification.
 
 **Rationale:** A designated market maker prescribed by MAS counts as an institutional investor, and the S$50 million net-asset figure with three corporate shareholders matches that limb of the definition. The accredited investor category is a separate test — a corporation with net assets exceeding S$10 million — so the label alone does not decide it.
 
@@ -1776,15 +1776,15 @@ d. A second appropriately authorised person independently reviews or approves th
 
 a. Obtain relevant customer information, including objectives, financial situation, knowledge, experience, constraints and risk profile, before making or executing recommendations that require it.
 b. Use sound due-diligence and execution policies, execute with appropriate speed, and apply considerations specific to the order type.
-c. The source’s 35% limit applies to specified higher-risk CPFIS-OA investment categories such as stocks or shares and corporate bonds, subject to the CPF rules.
+c. Specified higher-risk CPFIS-OA categories such as stocks, shares and corporate bonds, subject to the CPF rules.
 d. Communicate risk disclosures, give customer orders appropriate priority, distinguish whether the firm acts as agent or principal, and maintain professional product and process knowledge.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** C. The source’s 35% limit applies to specified higher-risk CPFIS-OA investment categories such as stocks or shares and corporate bonds, subject to the CPF rules.
+**Answer:** C. Specified higher-risk CPFIS-OA categories such as stocks, shares and corporate bonds, subject to the CPF rules.
 
-**Rationale:** The source’s 35% limit applies to specified higher-risk CPFIS-OA investment categories such as stocks or shares and corporate bonds, subject to the CPF rules. It is not a blanket 35% limit on every CPFIS product.
+**Rationale:** Specified higher-risk CPFIS-OA categories such as stocks, shares and corporate bonds, subject to the CPF rules. It is not a blanket 35% limit on every CPFIS product.
 
 </details>
 
@@ -1887,16 +1887,16 @@ d. No.
 ### 118. **[Single choice]** [RES 1B Appendix G, source Q28] What minimum retention period is highlighted for AML documents?
 
 a. Record whether the dealer acts as agent or principal, follow procedures for returning borrowed products, and maintain collateral at the required level—highlighted in the source as 100% of market value for the relevant arrangement.
-b. The guide highlights at least five years, subject to the applicable notice, investigation, litigation or firm policy requirements.
+b. At least five years, subject to the applicable notice, investigation, litigation or firm policy requirements.
 c. Authority figures are an external influence.
 d. Civil penalties or sanctions and criminal penalties may apply, together with regulatory, disciplinary, financial and reputational consequences. “Restraint sanctions” is not a substitute category to memorise.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** B. The guide highlights at least five years, subject to the applicable notice, investigation, litigation or firm policy requirements.
+**Answer:** B. At least five years, subject to the applicable notice, investigation, litigation or firm policy requirements.
 
-**Rationale:** The guide highlights at least five years, subject to the applicable notice, investigation, litigation or firm policy requirements.
+**Rationale:** At least five years, subject to the applicable notice, investigation, litigation or firm policy requirements.
 
 </details>
 
@@ -2883,15 +2883,15 @@ d. The guide lists S$1 million for a specified-commodity-futures clearing member
 
 a. It must not understate leverage, margin calls, losses, complexity, liquidity, valuation or counterparty risks.
 b. The representative must be registered for the correct activity, meet competency and fit-and-proper standards, act for the proper principal, complete required training and CPD, and be supervised.
-c. The guide lists S$1 million for a specified-commodity-futures clearing member, S$500,000 for a non-clearing or non-member category, and S$250,000 for an introducing broker or restricted category.
+c. S$1 million for a specified-commodity-futures clearing member, S$500,000 for a non-clearing or non-member category, and S$250,000 for an introducing broker or restricted category.
 d. Protect identity, positions, orders, collateral, financial information, counterparties and proprietary trading information.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** c. The guide lists S$1 million for a specified-commodity-futures clearing member, S$500,000 for a non-clearing or non-member category, and S$250,000 for an introducing broker or restricted category.
+**Answer:** c. S$1 million for a specified-commodity-futures clearing member, S$500,000 for a non-clearing or non-member category, and S$250,000 for an introducing broker or restricted category.
 
-**Rationale:** The guide lists S$1 million for a specified-commodity-futures clearing member, S$500,000 for a non-clearing or non-member category, and S$250,000 for an introducing broker or restricted category. For leveraged FX it lists S$5 million for retail business and S$1 million for AI, II or EI business. These study figures should be checked against current rules.
+**Rationale:** S$1 million for a specified-commodity-futures clearing member, S$500,000 for a non-clearing or non-member category, and S$250,000 for an introducing broker or restricted category. For leveraged FX it lists S$5 million for retail business and S$1 million for AI, II or EI business. These study figures should be checked against current rules.
 
 </details>
 
@@ -3985,7 +3985,7 @@ d. It directs the learner to the SFA, regulations, PDPA, CDSA, MACMA, TSOFA, tax
 
 ### 246. **[Single choice]** [RES 2B Appendix F, source Q1] Which changes must a derivatives CMS licence holder report to MAS?
 
-a. The source highlights changes such as the licence holder’s name and the principal place of business for the licensed activity.
+a. Changes such as the licence holder’s name and the principal place of business for the licensed activity.
 b. All three are market-misconduct categories under the relevant SFA framework. “Under trading” is not the source’s substitute category.
 c. It is front running: the trader misuses advance knowledge of the customer’s order to obtain a personal advantage before execution.
 d. It means deliberately pushing prices up or down with the intention of triggering known stop orders.
@@ -3993,25 +3993,25 @@ d. It means deliberately pushing prices up or down with the intention of trigger
 <details>
 <summary>Show answer</summary>
 
-**Answer:** A. The source highlights changes such as the licence holder’s name and the principal place of business for the licensed activity.
+**Answer:** A. Changes such as the licence holder’s name and the principal place of business for the licensed activity.
 
-**Rationale:** The source highlights changes such as the licence holder’s name and the principal place of business for the licensed activity. The firm should use the prescribed notification channel and time period.
+**Rationale:** Changes such as the licence holder’s name and the principal place of business for the licensed activity. The firm should use the prescribed notification channel and time period.
 
 </details>
 
 ### 247. **[Single choice]** [RES 2B Appendix F, source Q2] When must a derivatives CMS licence holder notify MAS that it has ceased the regulated activity?
 
 a. Commodity swaps, forward-rate agreements and cross-currency swaps are OTC derivatives.
-b. The source highlights notification within 14 days after cessation of the activity, subject to the applicable current rule and prescribed form.
+b. Within 14 days after cessation of the activity, subject to the applicable current rule and prescribed form.
 c. The presentation failed to uphold performance-presentation standards because it could make simulated historical results appear to be actual performance.
 d. To serve the best interests of clients while maintaining integrity, fairness, competence and compliance.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** B. The source highlights notification within 14 days after cessation of the activity, subject to the applicable current rule and prescribed form.
+**Answer:** B. Within 14 days after cessation of the activity, subject to the applicable current rule and prescribed form.
 
-**Rationale:** The source highlights notification within 14 days after cessation of the activity, subject to the applicable current rule and prescribed form.
+**Rationale:** Within 14 days after cessation of the activity, subject to the applicable current rule and prescribed form.
 
 </details>
 
@@ -4019,15 +4019,15 @@ d. To serve the best interests of clients while maintaining integrity, fairness,
 
 a. Speed, opportunities for price improvement and client-specific instructions are relevant.
 b. The source highlights the relevant experience route of at least six transactions in unlisted SIPs during the preceding three years, subject to the applicable rules and evidence.
-c. The source highlights five years.
+c. Five years.
 d. It is the risk that changes in laws, regulations, regulatory interpretation or supervisory requirements affect products, markets, costs, permissions or the customer’s ability to trade.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** C. The source highlights five years.
+**Answer:** C. Five years.
 
-**Rationale:** The source highlights five years. A firm may need to retain records longer where another law, investigation, dispute, notice or policy requires it.
+**Rationale:** Five years. A firm may need to retain records longer where another law, investigation, dispute, notice or policy requires it.
 
 </details>
 
@@ -4147,15 +4147,15 @@ d. The source highlights changes such as the licence holder’s name and the pri
 
 a. The source highlights five years.
 b. It means deliberately pushing prices up or down with the intention of triggering known stop orders.
-c. The source highlights the relevant experience route of at least six transactions in unlisted SIPs during the preceding three years, subject to the applicable rules and evidence.
+c. The relevant experience route of at least six transactions in unlisted SIPs during the preceding three years, subject to the applicable rules and evidence.
 d. All three are market-misconduct categories under the relevant SFA framework. “Under trading” is not the source’s substitute category.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** C. The source highlights the relevant experience route of at least six transactions in unlisted SIPs during the preceding three years, subject to the applicable rules and evidence.
+**Answer:** C. The relevant experience route of at least six transactions in unlisted SIPs during the preceding three years, subject to the applicable rules and evidence.
 
-**Rationale:** The source highlights the relevant experience route of at least six transactions in unlisted SIPs during the preceding three years, subject to the applicable rules and evidence. Experience in blue-chip listed shares does not automatically satisfy an unlisted-SIP CKA requirement.
+**Rationale:** The relevant experience route of at least six transactions in unlisted SIPs during the preceding three years, subject to the applicable rules and evidence. Experience in blue-chip listed shares does not automatically satisfy an unlisted-SIP CKA requirement.
 
 </details>
 
@@ -4345,14 +4345,14 @@ d. Ignore exchange requirements if the firm is an OTC dealer.
 ### 268. **[Single choice]** [RES 2B §2.2] Why should a firm distinguish specified commodity futures from leveraged FX when considering BCR?
 
 a. BCR applies only to exchange operators and never dealers.
-b. The guide highlights different activity categories and figures, so the correct requirement depends on the regulated activity.
+b. Different activity categories carry different figures, so the correct requirement depends on the regulated activity.
 c. All derivatives activities have exactly the same BCR.
 d. Only the customer’s account balance determines BCR.
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** B. The guide highlights different activity categories and figures, so the correct requirement depends on the regulated activity.
+**Answer:** B. Different activity categories carry different figures, so the correct requirement depends on the regulated activity.
 
 **Rationale:** The derivatives BCR table distinguishes activity categories, including specified commodity futures and leveraged FX.
 
