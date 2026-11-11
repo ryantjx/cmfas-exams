@@ -227,11 +227,20 @@ a.quiz-badge {
 
 /* -------------------------------------------------------------- controls */
 
+/* The question controls (Previous / Next / Flag / Report) sit above the
+   question and stay pinned there while the reader scrolls or moves between
+   questions: sticky, docked just below Starlight's site header, with the
+   page background so the question text does not show through underneath. */
 .quiz-controls {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
-  margin-top: 1.25rem;
+  margin: 0 0 1rem;
+  padding: 0.75rem 0;
+  position: sticky;
+  top: var(--sl-nav-height, 3.5rem);
+  z-index: 10;
+  background: var(--sl-color-bg, #fff);
 }
 
 .quiz-button {
