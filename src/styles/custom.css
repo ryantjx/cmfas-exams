@@ -66,6 +66,21 @@
   }
 }
 
+/* Practice pages: Starlight caps the content column at 45rem, and the quiz
+   grid reserves a 15rem navigator track even when the navigator is hidden —
+   together they squeeze the question column to ~450px on a wide screen.
+   Widen the column on pages that contain a quiz, and collapse the grid to a
+   single column while the navigator is hidden. */
+.content-panel:has(.quiz-shell) {
+  --sl-content-width: 64rem;
+}
+
+@media (min-width: 60rem) {
+  .quiz-layout:has(.quiz-sidebar.is-hidden) {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
 /* ---------------------------------------------------------------- header */
 
 .quiz-header {

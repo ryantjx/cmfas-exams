@@ -401,8 +401,6 @@ write(
     description: 'Chapter quizzes, daily quizzes and mock exams for RES 12B, FMRP, CM-SIP and CM-EIP.',
   })}import PracticePicker from '@components/PracticePicker.tsx';
 
-# Practice
-
 Pick an exam, then pick how you want to practise. Nothing is stored.
 
 <PracticePicker client:only="react" base={import.meta.env.BASE_URL} />
@@ -427,8 +425,6 @@ for (const entry of practiceExams) {
       title: `${entry.name} — practice`,
       description: `Chapter quiz, random quiz, daily quiz and mock exam for ${entry.name}.`,
     })}import PracticePicker from '@components/PracticePicker.tsx';
-
-# ${entry.name} — practice
 
 Pick how you want to practise ${entry.name}. Nothing is stored.
 
