@@ -21,21 +21,28 @@ only in the open page.
 
 ## Reporting a bad question
 
-Every question card carries a **Report question** button. It opens a pre-filled
-GitHub issue against this repository, labelled `question-flag`, carrying the
-question id, chapter, the full option list with the keyed answer marked, the
-rationale as shown, and the page URL.
+Every question card carries **Report question** and **Flag for review** buttons.
+Both file to the same shared queue: they open a pre-filled GitHub issue against
+this repository, labelled `question-flag`, carrying the question id, chapter,
+the full option list with the keyed answer marked, the rationale as shown, and
+the page URL. Flagging still marks the question to revisit in the current
+session, and now also files it globally.
 
 There is no server and no per-user flag store. The repository's issue tracker
-*is* the flag database, so a report from any visitor lands in the same queue:
+*is* the flag database, so a report from any visitor lands in the same queue —
+and every visitor can see it: the quiz loads the open `question-flag` issues
+and shows a **Flagged for review — issue #N** badge on any reported question,
+with the question marked in the navigator too. A question that is already
+reported opens its existing issue instead of filing a duplicate.
 
 - **Open queue:** [`label:question-flag`](https://github.com/ryantjx/cmfas-exams/issues?q=is%3Aissue+label%3Aquestion-flag)
 - **Owner resolution:** fix the question in `notes/<exam>/<EXAM>_QUESTIONS.md`,
   then close the issue. Generated JSON is never edited by hand.
 
-Filing an issue needs a GitHub account — GitHub redirects anonymous visitors to
-sign-in. The `☆ Flag for review` button beside it is separate: it marks a
-question to revisit inside the current session and stores nothing.
+Reading the shared flags needs no sign-in. Filing an issue still needs a
+GitHub account — GitHub redirects anonymous visitors to sign-in — and if the
+flag list cannot load (offline, or GitHub's unauthenticated rate limit), the
+quiz still works with local flagging only.
 
 CMSIP: `notes/cmsip/CM-SIP Study Guide v1.1 - January 2026 (FINAL).pdf`
 RES12B: `notes/res12b/RES 12B Combined.pdf`

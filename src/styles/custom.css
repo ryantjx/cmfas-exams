@@ -146,6 +146,16 @@
   color: var(--quiz-bad);
 }
 
+/* A question with an open shared report — visible to every visitor. */
+.quiz-badge.is-flagged {
+  border-color: var(--sl-color-orange, #f59e0b);
+  color: var(--sl-color-orange, #f59e0b);
+}
+
+a.quiz-badge {
+  text-decoration: none;
+}
+
 .quiz-source {
   font-size: var(--sl-text-xs);
   color: var(--quiz-muted);
