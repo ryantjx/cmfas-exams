@@ -11,6 +11,7 @@ import {
   type QuizAnswers,
   type QuizQuestion,
 } from '../lib/quiz';
+import { buildFlagUrl } from '../lib/flag';
 
 /* -------------------------------------------------------------------- types */
 
@@ -199,6 +200,21 @@ export default function QuizRunner({
     if (!question) return;
     setFlags((previous) => ({ ...previous, [question.id]: !previous[question.id] }));
   }, [question]);
+
+  /** Open a pre-filled GitHub issue so the flag reaches the owner's queue. */
+  const reportQuestion = useCallback(() => {
+    if (!question || !bank) return;
+    // Report the bank's own option order, not the shuffled presentation, so the
+    // letters in the issue match the letters in the markdown.
+    const canonical = bank.questions.find((q) => q.id === question.id) ?? question;
+    const url = buildFlagUrl(canonical, {
+      examId: bank.examId,
+      examName: bank.name,
+      mode: MODE_LABEL[mode],
+      pageUrl: typeof window === 'undefined' ? undefined : window.location.href,
+    });
+    window.open(url, '_blank', 'noopener,noreferrer');
+  }, [question, bank, mode]);
 
   const submit = useCallback(() => setSubmitted(true), []);
   const restart = useCallback(() => setSeed((value) => value + 1), []);
@@ -398,8 +414,18 @@ export default function QuizRunner({
               className={`quiz-button quiz-flag${isFlagged ? ' is-on' : ''}`}
               onClick={toggleFlag}
               aria-pressed={isFlagged}
+              title="Mark to revisit in this session only"
             >
               {isFlagged ? '★ Flagged' : '☆ Flag for review'}
+            </button>
+
+            <button
+              type="button"
+              className="quiz-button quiz-report"
+              onClick={reportQuestion}
+              title="Open a pre-filled GitHub issue. The repository owner resolves it there."
+            >
+              ⚠ Report question
             </button>
 
             {current < questions.length - 1 ? (

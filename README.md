@@ -19,6 +19,24 @@ A static study site for the Singapore capital markets exams — **RES 12B**,
 Nothing is persisted — no accounts, no cookies, no `localStorage`. Progress lives
 only in the open page.
 
+## Reporting a bad question
+
+Every question card carries a **Report question** button. It opens a pre-filled
+GitHub issue against this repository, labelled `question-flag`, carrying the
+question id, chapter, the full option list with the keyed answer marked, the
+rationale as shown, and the page URL.
+
+There is no server and no per-user flag store. The repository's issue tracker
+*is* the flag database, so a report from any visitor lands in the same queue:
+
+- **Open queue:** [`label:question-flag`](https://github.com/ryantjx/cmfas-exams/issues?q=is%3Aissue+label%3Aquestion-flag)
+- **Owner resolution:** fix the question in `notes/<exam>/<EXAM>_QUESTIONS.md`,
+  then close the issue. Generated JSON is never edited by hand.
+
+Filing an issue needs a GitHub account — GitHub redirects anonymous visitors to
+sign-in. The `☆ Flag for review` button beside it is separate: it marks a
+question to revisit inside the current session and stores nothing.
+
 CMSIP: `notes/cmsip/CM-SIP Study Guide v1.1 - January 2026 (FINAL).pdf`
 RES12B: `notes/res12b/RES 12B Combined.pdf`
 FMRP: `notes/fmrp/FMRP Study Guide v3.2.pdf`

@@ -173,6 +173,9 @@ ${EXAMS.map(
 <Aside type="note">
 Nothing is stored between visits — progress, answers and mock results live only
 in the current page. Reload to start a fresh set.
+
+Found a bad question? Use **Report question** on the card. It opens a pre-filled
+GitHub issue, which is where every report is tracked.
 </Aside>
 
 See the [study plan](${link('/study-plan/')}) for sequencing, booking windows and sitting

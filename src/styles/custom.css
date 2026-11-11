@@ -239,6 +239,16 @@
   color: var(--quiz-accent);
 }
 
+.quiz-report {
+  border-style: dashed;
+  color: var(--quiz-muted, #666);
+}
+
+.quiz-report:hover {
+  border-color: var(--quiz-accent);
+  color: var(--quiz-accent);
+}
+
 .quiz-link {
   background: none;
   border: 0;
