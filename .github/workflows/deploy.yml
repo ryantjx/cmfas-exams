@@ -49,6 +49,7 @@ jobs:
           npm run audit:coverage -- --strict
           npm run questions:check
           npm run audit:source-answers
+          npm run audit:quality
           npm run check:draws
 
       - name: Lint study-guide prose

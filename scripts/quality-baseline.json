@@ -1,0 +1,7 @@
+{
+  "_comment": "Known question-quality backlog. audit-question-quality.mjs fails when a count rises above its budget. Lower a number when you fix questions; never raise one.",
+  "cmsip": { "DUP_STEM": 3, "REUSED": 2 },
+  "fmrp": { "DUP_STEM": 1, "REUSED": 4 },
+  "res12b": { "DUP_STEM": 1, "REUSED": 211 },
+  "cmeip": { "DUP_STEM": 0, "REUSED": 2 }
+}
