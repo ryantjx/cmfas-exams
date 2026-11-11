@@ -217,10 +217,10 @@ export const RES12B = [
     r: 'The 35% sub-limit under CPFIS-OA applies to the restricted category (corporate bonds and similar), not to the broader set of eligible investments.',
   },
   {
-    s: 'RES 1B §6.2', t: 'Multiple response',
-    q: 'Which of the following are agent banks under CPFIS?',
-    o: ['OCBC Bank', 'Maybank', 'HSBC Bank', 'ICICI Bank'], a: 'A,B',
-    r: 'The agent banks are the locally established institutions appointed for the scheme. HSBC and ICICI appear as distractors because they are foreign-headquartered.',
+    s: 'RES 1B §6.2', t: 'Single choice',
+    q: 'Which of the following banks is an agent bank included under CPFIS?',
+    o: ['OCBC Bank', 'Maybank', 'HSBC Bank', 'ICICI Bank'], a: 'A',
+    r: 'The three CPFIS agent banks are DBS, OCBC and UOB. Maybank is one of the four CPFIS fixed-deposit banks (DBS, Maybank, OCBC, UOB), which is a different list and does not make it an agent bank. HSBC and ICICI are neither.',
   },
   {
     s: 'RES 1B §6.2', t: 'Single choice',

@@ -48,6 +48,7 @@ jobs:
           npm run audit:banks -- --strict
           npm run audit:coverage -- --strict
           npm run questions:check
+          npm run audit:source-answers
           npm run check:draws
 
       - name: Lint study-guide prose
