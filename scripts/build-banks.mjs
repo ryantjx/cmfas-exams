@@ -41,7 +41,32 @@ for (const exam of EXAMS) {
   const missingAnswer = questions.filter((q) => q.answerKeys.length === 0);
   const missingChapter = questions.filter((q) => !q.chapterId);
 
-  const problems = [...issues];
+  // --- learning-objective quiz ----------------------------------------------
+  // A fixed set, not a sample: the bank numbers in `exam.loQuiz` resolve to
+  // question ids in LO order, so the quiz island can serve the set without a
+  // second fetch. Resolving here — against the parsed bank, not the raw
+  // ranges — means a re-numbered bank fails the build instead of silently
+  // serving the wrong questions, and the 60-count check pins the set to the
+  // 60-question mock it is defined from.
+  const loProblems = [];
+  let loQuiz = null;
+  if (exam.loQuiz?.length) {
+    const byNumber = new Map(questions.map((q) => [q.number, q]));
+    const ids = [];
+    for (const { start, end } of exam.loQuiz) {
+      for (let n = start; n <= end; n += 1) {
+        const q = byNumber.get(n);
+        if (!q) loProblems.push(`loQuiz range ${start}–${end} has no question #${n}`);
+        else ids.push(q.id);
+      }
+    }
+    if (ids.length !== 60) {
+      loProblems.push(`loQuiz resolved to ${ids.length} questions, expected 60`);
+    }
+    loQuiz = ids;
+  }
+
+  const problems = [...issues, ...loProblems];
   if (questions.length !== exam.expectedQuestions) {
     problems.unshift(
       `count mismatch: parsed ${questions.length}, expected ${exam.expectedQuestions}`,
@@ -113,6 +138,8 @@ for (const exam of EXAMS) {
     // The mock's composition, resolved at build time so the quiz island can sample
     // to it without a second fetch and without depending on the syllabus manifest.
     mock: resolveBlueprint(exam.id),
+    // The learning-objective quiz set, in LO order (null for exams without one).
+    loQuiz,
     chapters,
     questions,
     generated: {

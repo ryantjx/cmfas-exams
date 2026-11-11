@@ -10,6 +10,8 @@ type CatalogExam = {
   subtitle: string;
   questions: number;
   dailySize: number;
+  /** Number of questions in the learning-objective quiz set, or 0 when the exam has none. */
+  loQuizSize: number;
   realExam: { questions: number; minutes: number; passPct: number; note: string };
   chapters: ChapterSummary[];
 };
@@ -21,7 +23,7 @@ export type PracticePickerProps = {
   examId?: string;
 };
 
-const MODES: { mode: QuizMode; label: string; blurb: string }[] = [
+const MODES: { mode: QuizMode; label: string; blurb: string; requiresLoQuiz?: boolean }[] = [
   {
     mode: 'chapter',
     label: 'Chapter quiz',
@@ -45,6 +47,16 @@ const MODES: { mode: QuizMode; label: string; blurb: string }[] = [
     blurb:
       'Full length on the real paper blueprint, untimed, with the answer and explanation after each question.',
   },
+  {
+    // Shown only for exams whose bank carries an loQuiz set (see the filter at
+    // the type picker below) — other exams have none, so the tile must not
+    // appear for them.
+    mode: 'lo',
+    label: 'Learning-objective quiz',
+    blurb:
+      'The learning-objective mock: one question per learning objective, in objective order, graded at the real pass mark.',
+    requiresLoQuiz: true,
+  },
 ];
 
 /**
@@ -57,7 +69,9 @@ const MODES: { mode: QuizMode; label: string; blurb: string }[] = [
  */
 const asMode = (value: string | null): QuizMode | null => {
   const mode = value === null ? null : value.replace(/\/+$/, '');
-  return mode === 'chapter' || mode === 'random' || mode === 'daily' || mode === 'mock' ? mode : null;
+  return mode === 'chapter' || mode === 'random' || mode === 'daily' || mode === 'mock' || mode === 'lo'
+    ? mode
+    : null;
 };
 
 /**
@@ -225,6 +239,24 @@ export default function PracticePicker({ base, examId: deepLinkExamId }: Practic
       );
     }
 
+    if (mode === 'lo') {
+      return (
+        <div>
+          {nav}
+          {/* The learning-objective quiz is a fixed set, not a draw: the same
+              questions in learning-objective order, graded at the real pass
+              mark like a mock. `size` is the set's length from the catalogue;
+              the runner serves the payload's loQuiz ids in order. */}
+          <QuizRunner
+            bankUrl={bankUrl}
+            mode="lo"
+            size={exam.loQuizSize}
+            passPct={exam.realExam.passPct}
+          />
+        </div>
+      );
+    }
+
     return (
       <div>
         {nav}
@@ -278,14 +310,16 @@ export default function PracticePicker({ base, examId: deepLinkExamId }: Practic
         </button>
       </p>
       <ul className="quiz-tile-grid">
-        {MODES.map((entry) => (
-          <li key={entry.mode}>
-            <button type="button" className="quiz-tile" onClick={() => setMode(entry.mode)}>
-              <span className="quiz-tile-title">{entry.label}</span>
-              <span className="quiz-tile-blurb">{entry.blurb}</span>
-            </button>
-          </li>
-        ))}
+        {MODES.filter((entry) => !entry.requiresLoQuiz || (exam.loQuizSize ?? 0) > 0).map(
+          (entry) => (
+            <li key={entry.mode}>
+              <button type="button" className="quiz-tile" onClick={() => setMode(entry.mode)}>
+                <span className="quiz-tile-title">{entry.label}</span>
+                <span className="quiz-tile-blurb">{entry.blurb}</span>
+              </button>
+            </li>
+          ),
+        )}
       </ul>
     </div>
   );

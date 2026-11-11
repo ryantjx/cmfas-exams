@@ -227,6 +227,14 @@ for (const exam of EXAMS) {
   const bank = JSON.parse(readText(`src/data/banks/${exam.id}.json`));
   const bankChaptersWithQuestions = bank.chapters.filter((c) => c.questionCount > 0);
 
+  // The learning-objective quiz exists only for exams whose bank carries an
+  // loQuiz set (RES 12B); other exams get no line in their Practise list.
+  const loQuizLine = bank.loQuiz?.length
+    ? `- **[Learning-objective quiz](${link(`/practice/${exam.id}/?type=lo`)})** — ${bank.loQuiz.length}
+  questions, one per learning objective, in objective order, ${exam.realExam.passPct}% to pass.
+`
+    : '';
+
   // --- overview -------------------------------------------------------------
   const stubLines = stripLeadingTitleLine(readLines(exam.stub));
   const syllabus = stubLines.join('\n').trim();
@@ -264,7 +272,7 @@ one page per chapter, with worked examples, formula sheets and exam cues.
 - **[Mock exam](${link(`/practice/${exam.id}/?type=mock`)})** — ${exam.realExam.questions}
   questions, ${exam.realExam.passPct}% to pass. Learning mode: untimed, with the
   answer and explanation after every question.
-
+${loQuizLine}
 ## Downloads
 
 See [downloads](${link(`/${exam.id}/downloads/`)}) for the official study guide and
@@ -326,6 +334,9 @@ ${practiceLink}`,
     subtitle: exam.subtitle,
     questions: bank.questions.length,
     dailySize: bank.dailySize,
+    // 0 when the exam has no learning-objective quiz set; the picker only
+    // offers the mode when this is positive.
+    loQuizSize: bank.loQuiz?.length ?? 0,
     realExam: exam.realExam,
     chapters: bankChaptersWithQuestions.map((c) => ({
       id: c.id,
@@ -405,7 +416,7 @@ Pick an exam, then pick how you want to practise. Nothing is stored.
 
 <PracticePicker client:only="react" base={import.meta.env.BASE_URL} />
 
-## The four modes
+## The modes
 
 | Mode | What it does |
 | --- | --- |
@@ -413,6 +424,7 @@ Pick an exam, then pick how you want to practise. Nothing is stored.
 | **Random quiz** | Every question in the bank, in random order, interleaved across chapters. The answer appears as soon as you answer. |
 | **Daily quiz** | A fresh 30-question subset drawn from the whole bank every time you start it. The answer appears as soon as you answer. |
 | **Mock exam** | The real paper's length, blueprint and pass mark, drawn as a full set. Learning mode: untimed, with the answer and explanation after every question. |
+| **Learning-objective quiz** | The 60-question learning-objective mock (RES 12B only): one question per learning objective, in objective order, graded at the real pass mark. |
 
 Use the sidebar to jump straight to an exam and a mode.
 `,
@@ -451,6 +463,10 @@ const sidebar = [
           { label: 'Random quiz', link: `/practice/${entry.id}/?type=random` },
           { label: 'Daily quiz', link: `/practice/${entry.id}/?type=daily` },
           { label: 'Mock exam', link: `/practice/${entry.id}/?type=mock` },
+          // Only exams whose bank carries an loQuiz set get the link.
+          ...(entry.loQuizSize > 0
+            ? [{ label: 'Learning-objective quiz', link: `/practice/${entry.id}/?type=lo` }]
+            : []),
         ],
       })),
     ],
