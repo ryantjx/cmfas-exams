@@ -112,7 +112,22 @@ export const EXAMS = [
     guideDir: 'notes/res12b/guide',
     stub: 'notes/res12b/RES12B.md',
     guideIntroTitle: 'Introduction and coverage map',
-    expectedQuestions: 499,
+    expectedQuestions: 559,
+    // The learning-objective quiz: a fixed 60-question set, not a sample.
+    // `append-questions.mjs` groups extension questions by part and by
+    // chapter-vs-appendix tag and numbers them sequentially, so the LO
+    // questions — appended last in the extension array and chapter-tagged —
+    // sit at the end of the RES 1B Extension group (Q1–Q31) and at the end
+    // of the RES 2B Extension group (Q32–Q60); the eight appendix-tagged
+    // extension questions follow in their own groups. The ranges below are
+    // those bank numbers, in LO order; `build-banks.mjs` resolves them to
+    // question ids. Re-derive them (e.g. from
+    // notes/res12b/RES12B_LO_QUIZ.md) if extension questions are ever
+    // inserted before them.
+    loQuiz: [
+      { start: 409, end: 439 }, // Q1–Q31 (RES 1B)
+      { start: 523, end: 551 }, // Q32–Q60 (RES 2B)
+    ],
     realExam: {
       questions: 60,
       minutes: 90,

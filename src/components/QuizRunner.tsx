@@ -29,11 +29,18 @@ type QuizBank = {
    * uniform sample.
    */
   mock?: { examId: string; questions: number; quotas: Record<string, number>; fixed: string[] } | null;
+  /**
+   * The learning-objective quiz set: question ids in LO order, resolved by
+   * `scripts/build-banks.mjs` from `loQuiz` in `scripts/lib/exams.mjs`.
+   * Null (or absent) on exams without one — the picker only offers the mode
+   * when this is present.
+   */
+  loQuiz?: string[] | null;
   chapters: { id: string; title: string; questionCount: number }[];
   questions: QuizQuestion[];
 };
 
-export type QuizMode = 'daily' | 'chapter' | 'random' | 'mock';
+export type QuizMode = 'daily' | 'chapter' | 'random' | 'mock' | 'lo';
 
 export type QuizRunnerProps = {
   bankUrl: string;
@@ -55,6 +62,7 @@ const MODE_LABEL: Record<QuizMode, string> = {
   chapter: 'Chapter quiz',
   random: 'Random quiz',
   mock: 'Mock exam',
+  lo: 'Learning-objective quiz',
 };
 
 function letterFor(index: number) {
@@ -86,7 +94,7 @@ export default function QuizRunner({
   const [revealed, setRevealed] = useState<Record<string, boolean>>({});
   const [current, setCurrent] = useState(0);
   const [submitted, setSubmitted] = useState(false);
-  const [showNav, setShowNav] = useState(mode === 'mock');
+  const [showNav, setShowNav] = useState(mode === 'mock' || mode === 'lo');
   const topRef = useRef<HTMLDivElement | null>(null);
 
   /* ---- load bank ---- */
@@ -124,7 +132,16 @@ export default function QuizRunner({
     const shuffleAnswers = true;
     let chosen: QuizQuestion[];
 
-    if (mode === 'chapter') {
+    if (mode === 'lo') {
+      // The learning-objective quiz is a fixed set in LO order, not a draw:
+      // the payload lists its question ids in that order (see `loQuiz` in
+      // scripts/lib/exams.mjs). Question order is kept — the set follows the
+      // learning objectives — while option order is still shuffled below.
+      const byId = new Map(bank.questions.map((q) => [q.id, q]));
+      chosen = (bank.loQuiz ?? [])
+        .map((id) => byId.get(id))
+        .filter((q): q is QuizQuestion => Boolean(q));
+    } else if (mode === 'chapter') {
       const inChapter = bank.questions.filter((q) => q.chapterId === chapterId);
       chosen =
         size && size < inChapter.length
@@ -525,7 +542,9 @@ export default function QuizRunner({
           <p className="quiz-note">
             {mode === 'mock'
               ? 'Learning mode: this set is not timed, and the score report at the end keeps the real pass mark. No answers are stored — every start and every "Start a new set" draws a fresh set.'
-              : 'No answers are stored — every start and every "Start a new set" draws a fresh set.'}
+              : mode === 'lo'
+                ? `Learning mode: this set is not timed, and the score report at the end keeps the real pass mark. No answers are stored — every start serves the same ${questions.length} questions in learning-objective order, with the options shuffled.`
+                : 'No answers are stored — every start and every "Start a new set" draws a fresh set.'}
           </p>
         </div>
 
@@ -627,7 +646,7 @@ function ReviewScreen({
         )}
         <p className="quiz-score-meta">
           {unanswered > 0 && <span>{unanswered} left unanswered · </span>}
-          {mode === 'mock' ? 'Mock exam' : 'Practice set'}
+          {mode === 'mock' || mode === 'lo' ? 'Mock exam' : 'Practice set'}
         </p>
       </section>
 
