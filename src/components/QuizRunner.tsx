@@ -4,6 +4,7 @@ import {
   isCorrect,
   sampleByBlueprint,
   sampleByChapter,
+  sampleMockBySections,
   sampleQuestions,
   scoreByChapter,
   prepareQuestion,
@@ -28,7 +29,26 @@ type QuizBank = {
    * Absent on an older bank payload, in which case the mock falls back to a
    * uniform sample.
    */
-  mock?: { examId: string; questions: number; quotas: Record<string, number>; fixed: string[] } | null;
+  mock?: {
+    examId: string;
+    questions: number;
+    quotas: Record<string, number>;
+    fixed: string[];
+    /**
+     * Sectioned papers (CM-EIP) carry their sections: name, blurb, size,
+     * per-section quotas, and grouping for case-study sections. Absent on
+     * single-pool papers, whose mock is one undifferentiated draw.
+     */
+    sections?: {
+      name: string;
+      blurb: string | null;
+      questions: number;
+      quotas: Record<string, number>;
+      chapterId?: string;
+      groupBy?: string;
+      groupSize?: number;
+    }[] | null;
+  } | null;
   /**
    * The learning-objective quiz set: question ids in LO order, resolved by
    * `scripts/build-banks.mjs` from `loQuiz` in `scripts/lib/exams.mjs`.
@@ -154,6 +174,12 @@ export default function QuizRunner({
       // sampleByChapter keeps the spread across chapters structural.
       const pool = mode === 'random' ? bank.questions.length : size ?? bank.dailySize;
       chosen = sampleByChapter(bank.questions, pool);
+    } else if (bank.mock?.sections?.length) {
+      // A sectioned paper (CM-EIP): Section 1's standalone questions, then
+      // the Section 2 case studies, each drawn to its own blueprint and kept
+      // in that order — unlike the single-pool draw, the case studies are not
+      // scattered through the paper.
+      chosen = sampleMockBySections(bank.questions, bank.mock.sections);
     } else if (bank.mock?.quotas) {
       // A mock is drawn to the paper's blueprint, not uniformly: the real papers
       // weight chapters unevenly (CM-SIP spends 18 of 80 questions on case
@@ -346,6 +372,27 @@ export default function QuizRunner({
   const isRevealed = Boolean(revealed[question.id]);
   const isAnswerCorrect = isRevealed && isCorrect(question, selected);
 
+  /* ---- mock sections (CM-EIP): which section this question belongs to ---- */
+  // The sectioned draw serves Section 1 first, then Section 2, so the section
+  // is a function of the question's position and the payload's section sizes.
+  // Single-pool mocks have no sections and this stays null.
+  const mockSections = mode === 'mock' ? (bank.mock?.sections ?? null) : null;
+  let sectionIndex = -1;
+  let sectionStart = -1;
+  if (mockSections) {
+    let start = 0;
+    for (let i = 0; i < mockSections.length; i += 1) {
+      if (current >= start && current < start + mockSections[i].questions) {
+        sectionIndex = i;
+        sectionStart = start;
+        break;
+      }
+      start += mockSections[i].questions;
+    }
+  }
+  const currentSection = sectionIndex >= 0 ? mockSections?.[sectionIndex] ?? null : null;
+  const isSectionStart = sectionStart >= 0 && current === sectionStart;
+
   return (
     <div className="quiz-shell" ref={topRef}>
       <div className="quiz-layout">
@@ -357,6 +404,7 @@ export default function QuizRunner({
                 {(mode === 'chapter' || mode === 'random') && question.chapterTitle ? ` · ${question.chapterTitle}` : ''}
               </p>
               <p className="quiz-progress-text">
+                {currentSection ? `Section ${sectionIndex + 1} · ` : ''}
                 Question {current + 1} of {questions.length} · {answeredCount} answered
               </p>
             </div>
@@ -440,6 +488,15 @@ export default function QuizRunner({
               </button>
             )}
           </nav>
+
+          {currentSection && isSectionStart && (
+            <div className="quiz-section">
+              <h2>
+                Section {sectionIndex + 1} — {currentSection.name}
+              </h2>
+              {currentSection.blurb && <p>{currentSection.blurb}</p>}
+            </div>
+          )}
 
           <article className="quiz-question" aria-live="polite">
             <p className="quiz-meta">
