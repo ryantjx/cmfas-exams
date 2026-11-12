@@ -110,6 +110,13 @@ export function examUnits(examId) {
  * coverage-unit count", which is the default because no official per-topic
  * weighting is published for any of these papers.
  *
+ * A `sections` entry describes a paper split into sequential sections (CM-EIP:
+ * 81 standalone questions, then 3 case studies). Each section resolves its own
+ * quotas; a section with `groupBy` draws whole groups (e.g. Chapter 12's
+ * §12.x triples) from one chapter instead of sampling question by question.
+ * The resolved sections — names, sizes, quotas and grouping — are carried into
+ * the bank payload so the quiz island can draw and label each section.
+ *
  * Only two figures here come from stated exam facts rather than syllabus size:
  * CM-SIP's 18 case-study questions (6 case studies x 3, 22.5% of 80) and RES 12B's
  * 50/50 part split (failing either constituent part fails the paper).
@@ -143,14 +150,32 @@ export const MOCK_BLUEPRINTS = {
   },
   cmeip: {
     questions: 90,
-    // The paper states 3 case studies carrying 9 questions, but the official guide
-    // does not say how many of the remaining 81 are drawn from each chapter, and no
-    // third-party source publishes a weighting. A proportional draw weighted by
-    // coverage units is used rather than importing numbers that could be wrong.
-    // Chapter 12 (Case Studies) is included in the proportional pool, so it is
-    // represented in every mock in proportion to its ten case studies.
+    // The real paper is two sections: 81 standalone questions, then 3 case
+    // studies carrying 9 questions. The official guide does not say how many of
+    // the 81 come from each chapter, so Section 1 spreads proportionally by
+    // coverage units, as the old single-pool draw did. Section 2 draws 3 of
+    // Chapter 12's ten §12.x triples whole, so a case study's three questions
+    // stay together in bank order and are served after Section 1.
+    sections: [
+      {
+        name: 'Questions',
+        blurb: '81 standalone questions',
+        questions: 81,
+        proportional: ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11'],
+      },
+      {
+        name: 'Case studies',
+        blurb: '3 case studies · 9 questions',
+        questions: 9,
+        chapterId: '12',
+        // Draw whole §12.x triples (3 questions each), kept together in bank
+        // order, rather than sampling Chapter 12 question by question.
+        groupBy: 'sectionRef',
+        groupSize: 3,
+      },
+    ],
     fixed: [],
-    proportional: ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12'],
+    proportional: [],
   },
 };
 
@@ -251,11 +276,53 @@ export function resolveBlueprint(examId) {
     }
   }
 
+  // A sectioned paper (CM-EIP): each section resolves its own quotas, and the
+  // section sizes must sum to the paper length — a mismatch is a blueprint
+  // error, so fail loudly at build time rather than serving a short paper.
+  let sections = null;
+  if (blueprint.sections?.length) {
+    const sectionTotal = blueprint.sections.reduce((sum, s) => sum + s.questions, 0);
+    if (sectionTotal !== blueprint.questions) {
+      throw new Error(
+        `${examId}: mock sections sum to ${sectionTotal}, expected ${blueprint.questions}`,
+      );
+    }
+    sections = blueprint.sections.map((section) => {
+      let sectionQuotas = {};
+      if (section.proportional?.length) {
+        sectionQuotas = allocate(section.questions, weightsFor(section.proportional));
+      } else if (section.chapterId) {
+        sectionQuotas = { [section.chapterId]: section.questions };
+      }
+      for (const [chapterId, count] of Object.entries(sectionQuotas)) {
+        quotas[chapterId] = (quotas[chapterId] ?? 0) + count;
+      }
+      return {
+        name: section.name,
+        blurb: section.blurb ?? null,
+        questions: section.questions,
+        quotas: sectionQuotas,
+        // How the runner draws this section: whole `groupBy` groups from one
+        // chapter (e.g. Chapter 12's §12.x triples), or per-chapter quotas.
+        ...(section.groupBy
+          ? {
+              chapterId: section.chapterId,
+              groupBy: section.groupBy,
+              groupSize: section.groupSize,
+            }
+          : {}),
+      };
+    });
+  }
+
   return {
     examId,
     questions: blueprint.questions,
     quotas,
     // Chapters whose quota is a fixed requirement (e.g. the case studies).
     fixed: (blueprint.fixed ?? []).map((entry) => entry.chapterId),
+    // Sectioned papers carry their sections (name, size, quotas, grouping);
+    // null for single-pool papers, whose mock is one undifferentiated draw.
+    sections,
   };
 }
