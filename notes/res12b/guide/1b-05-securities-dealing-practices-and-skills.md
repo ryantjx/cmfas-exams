@@ -95,7 +95,7 @@ Speed and likelihood of execution may take priority over immediate price and cos
 
 - **Agent** — executes on the client's behalf, strictly governed by the investment mandate.
 - **Principal** — trades on its own behalf, may take on more risk with the order, and has **no obligation to execute until both parties agree**.
-- **Cross trades** — permitted only where a policy regulates them and the trade benefits **both** clients and fits both objectives. Cross trades between **staff personal accounts and client accounts**, and through a **house account** controlled by the representative, are **prohibited**.
+- **Cross trades** — permitted only where a policy regulates them and the trade benefits **both** clients and fits both objectives. A cross trade is a real match of two genuine orders and is allowed when properly controlled — unlike a pre-arranged trade at an agreed price, which is prohibited. Cross trades between **staff personal accounts and client accounts**, and through a **house account** controlled by the representative, are **prohibited**.
 - **Late trading** — subscribing, switching, cancelling or redeeming CIS units after the dealing deadline yet receiving the deadline's price is **not permitted**: it dilutes the fund and lets speculators exploit post-NAV moves. Orders received after the deadline must not be honoured.
 - **Quotes** — a representative must say whether a price is **firm or indicative**; unqualified quotes are firm in marketable amounts. **Frivolous quotes** with no intention to honour them are prohibited.
 - **After-hours and off-premises dealing** — rules must be strictly observed so that no deal can be denied later.
