@@ -112,6 +112,28 @@
   transition: width 150ms ease;
 }
 
+/* Section banner for sectioned mocks (CM-EIP): shown above the first question
+   of each section, so the Section 1 / Section 2 boundary is unmissable. */
+.quiz-section {
+  margin: 0 0 1rem;
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--quiz-border);
+  border-left: 0.25rem solid var(--quiz-accent);
+  border-radius: 0.5rem;
+  background: color-mix(in srgb, var(--quiz-accent) 8%, transparent);
+}
+
+.quiz-section h2 {
+  margin: 0;
+  font-size: 1.05rem;
+}
+
+.quiz-section p {
+  margin: 0.25rem 0 0;
+  font-size: var(--sl-text-sm);
+  color: var(--quiz-muted);
+}
+
 /* -------------------------------------------------------------- question */
 
 .quiz-question {

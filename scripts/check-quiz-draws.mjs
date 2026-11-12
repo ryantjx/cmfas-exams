@@ -13,6 +13,12 @@
  * The runtime lives in a browser-only module, so `sampleByChapter` and its two
  * helpers are mirrored below from `src/lib/quiz.ts`. Keep them in step; this file
  * is the only automated guard on the draw.
+ *
+ * The CM-EIP mock check below also mirrors `sampleByBlueprint` and
+ * `sampleMockBySections` from the same module, for the same reason: the
+ * sectioned mock (81 standalone questions, then 3 case-study triples) is
+ * assembled in the browser, so the mirrors are the only guard that the split
+ * holds on every draw.
  */
 import { readFileSync } from 'node:fs';
 
@@ -74,6 +80,82 @@ function sampleByChapter(questions, size, random) {
     : sampleQuestions(questions, size, random);
 }
 
+/** Mirror of `sampleByBlueprint` in src/lib/quiz.ts. */
+function sampleByBlueprint(questions, quotas, size, random) {
+  const byChapter = new Map();
+  for (const question of questions) {
+    const key = question.chapterId ?? 'unknown';
+    const bucket = byChapter.get(key);
+    if (bucket) bucket.push(question);
+    else byChapter.set(key, [question]);
+  }
+  for (const [key, bucket] of byChapter) byChapter.set(key, shuffleWith(bucket, random));
+
+  const picked = [];
+  const used = new Map();
+  for (const [chapterId, quota] of Object.entries(quotas)) {
+    const bucket = byChapter.get(chapterId);
+    if (!bucket || quota <= 0) continue;
+    const take = Math.min(quota, bucket.length);
+    picked.push(...bucket.slice(0, take));
+    used.set(chapterId, take);
+  }
+  if (picked.length < size) {
+    const leftovers = [];
+    for (const [chapterId, bucket] of byChapter) {
+      const start = used.get(chapterId) ?? 0;
+      leftovers.push(...bucket.slice(start));
+    }
+    picked.push(...shuffleWith(leftovers, random).slice(0, size - picked.length));
+  }
+  const capped = picked.slice(0, size);
+  return capped.length >= Math.min(size, questions.length)
+    ? shuffleWith(capped, random)
+    : sampleQuestions(questions, size, random);
+}
+
+/** Mirror of the grouped-section draw in `sampleMockBySections`. */
+function sampleGroupedSection(questions, section, random) {
+  const groupSize = section.groupSize ?? 3;
+  const pool = questions.filter((q) => q.chapterId === section.chapterId);
+  const groups = new Map();
+  for (const question of pool) {
+    const key = question.sectionRef ?? 'unknown';
+    const bucket = groups.get(key);
+    if (bucket) bucket.push(question);
+    else groups.set(key, [question]);
+  }
+  const whole = [...groups.values()].filter((group) => group.length === groupSize);
+  const needed = Math.floor(section.questions / groupSize);
+  const picked = shuffleWith(whole, random).slice(0, needed).flat();
+  if (picked.length < section.questions) {
+    const pickedIds = new Set(picked.map((q) => q.id));
+    picked.push(
+      ...shuffleWith(
+        pool.filter((q) => !pickedIds.has(q.id)),
+        random,
+      ).slice(0, section.questions - picked.length),
+    );
+  }
+  return picked;
+}
+
+/** Mirror of `sampleMockBySections` in src/lib/quiz.ts. */
+function sampleMockBySections(questions, sections, random) {
+  const out = [];
+  for (const section of sections) {
+    if (section.groupBy) {
+      out.push(...sampleGroupedSection(questions, section, random));
+    } else {
+      const pool = questions.filter(
+        (q) => section.quotas[q.chapterId ?? 'unknown'] !== undefined,
+      );
+      out.push(...sampleByBlueprint(pool, section.quotas, section.questions, random));
+    }
+  }
+  return out;
+}
+
 /* --------------------------------------------------------------------- checks */
 
 const bank = JSON.parse(readFileSync('src/data/banks/cmsip.json', 'utf8'));
@@ -115,7 +197,59 @@ check('order differs from another draw', key(full) !== key(full2));
 check('starts on a different chapter than another draw',
   full.slice(0, 10).map((q) => q.chapterId).join() !== full2.slice(0, 10).map((q) => q.chapterId).join());
 
+/* ---- 3: the CM-EIP mock is split 81 + 9, case studies whole ---- */
+console.log('\n3. CM-EIP sectioned mock');
+const cmeipBank = JSON.parse(readFileSync('src/data/banks/cmeip.json', 'utf8'));
+const cmeipQuestions = cmeipBank.questions;
+const cmeipSections = cmeipBank.mock?.sections ?? [];
+console.log(
+  `CM-EIP: ${cmeipQuestions.length} questions, ` +
+    `sections ${cmeipSections.map((s) => `${s.name} ${s.questions}`).join(' + ')}\n`,
+);
+check('payload carries the two sections (81 Questions, 9 Case studies)',
+  cmeipSections.length === 2
+    && cmeipSections[0].questions === 81 && cmeipSections[0].name === 'Questions'
+    && cmeipSections[1].questions === 9 && cmeipSections[1].name === 'Case studies');
+const mockDraws = [];
+for (let seed = 1; seed <= 20; seed += 1) {
+  mockDraws.push(sampleMockBySections(cmeipQuestions, cmeipSections, seededRandom(seed)));
+}
+const sectionOne = (d) => d.slice(0, 81);
+const sectionTwo = (d) => d.slice(81);
+check('every draw is exactly 90 questions (81 + 9)',
+  mockDraws.every((d) => d.length === 90));
+check('Section 1 holds only chapters 1–11',
+  mockDraws.every((d) => sectionOne(d).every((q) =>
+    ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11'].includes(q.chapterId))));
+check('Section 1 spans all 11 chapters on every draw',
+  mockDraws.every((d) =>
+    new Set(sectionOne(d).map((q) => q.chapterId)).size === 11));
+check('Section 2 holds only Chapter 12',
+  mockDraws.every((d) => sectionTwo(d).every((q) => q.chapterId === '12')));
+check('Section 2 is exactly 3 complete §12.x triples',
+  mockDraws.every((d) => {
+    const bySection = new Map();
+    for (const q of sectionTwo(d)) {
+      const bucket = bySection.get(q.sectionRef);
+      if (bucket) bucket.push(q);
+      else bySection.set(q.sectionRef, [q]);
+    }
+    if (bySection.size !== 3) return false;
+    return [...bySection.values()].every((group) => {
+      if (group.length !== 3) return false;
+      const numbers = group.map((q) => q.number).sort((a, b) => a - b);
+      return numbers[1] - numbers[0] === 1 && numbers[2] - numbers[1] === 1;
+    });
+  }));
+check('no draw holds duplicate questions',
+  mockDraws.every((d) => new Set(d.map((q) => q.number)).size === d.length));
+check('no draw repeats another draw',
+  new Set(mockDraws.map(key)).size === mockDraws.length);
+check('the case-study triples vary across draws',
+  new Set(mockDraws.map((d) =>
+    [...new Set(sectionTwo(d).map((q) => q.sectionRef))].sort().join(','))).size > 1);
+
 console.log(failed === 0
-  ? '\nPASS — the daily subset and the full-bank draw behave.'
+  ? '\nPASS — the daily subset, the full-bank draw and the CM-EIP sectioned mock behave.'
   : `\nFAIL — ${failed} check(s) failed.`);
 process.exitCode = failed === 0 ? 0 : 1;

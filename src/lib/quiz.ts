@@ -24,6 +24,8 @@ export type QuizQuestion = {
   chapterTitle: string | null;
   type: string | null;
   sourceRef: string | null;
+  /** Bare dotted section number (e.g. '12.1'), used to group case studies. */
+  sectionRef: string | null;
   stem: string;
   statements: { key: string; text: string }[];
   options: QuizOption[];
@@ -223,6 +225,83 @@ export function sampleByBlueprint(
   return capped.length >= Math.min(size, questions.length)
     ? shuffleWith(capped, random)
     : sampleQuestions(questions, size, { shuffleQuestions: true });
+}
+
+/** One section of a sectioned mock exam, as resolved into the bank payload. */
+export type MockSection = {
+  name: string;
+  blurb: string | null;
+  questions: number;
+  quotas: Record<string, number>;
+  chapterId?: string;
+  groupBy?: string;
+  groupSize?: number;
+};
+
+/**
+ * Sample a sectioned mock exam (CM-EIP): each section is drawn to its own
+ * blueprint and the sections are concatenated in order — Section 1's
+ * standalone questions first, then Section 2's case studies — so the paper
+ * reads like the real one instead of mixing the two together.
+ *
+ * A section with `groupBy` draws whole groups from one chapter: the chapter's
+ * questions are bucketed by the named field (Chapter 12's `sectionRef`
+ * triples), whole groups are picked at random, each group stays together in
+ * bank order, and the picked groups are shuffled. A quota section is drawn
+ * with `sampleByBlueprint` over that section's chapters only, so a shortfall
+ * can never pull questions from another section.
+ */
+export function sampleMockBySections(
+  questions: readonly QuizQuestion[],
+  sections: readonly MockSection[],
+  random: () => number = Math.random,
+): QuizQuestion[] {
+  const out: QuizQuestion[] = [];
+  for (const section of sections) {
+    if (section.groupBy) {
+      out.push(...sampleGroupedSection(questions, section, random));
+    } else {
+      const pool = questions.filter(
+        (q) => section.quotas[q.chapterId ?? 'unknown'] !== undefined,
+      );
+      out.push(...sampleByBlueprint(pool, section.quotas, section.questions, random));
+    }
+  }
+  return out;
+}
+
+function sampleGroupedSection(
+  questions: readonly QuizQuestion[],
+  section: MockSection,
+  random: () => number,
+): QuizQuestion[] {
+  const groupSize = section.groupSize ?? 3;
+  const pool = questions.filter((q) => q.chapterId === section.chapterId);
+  // Bucket by the grouping field, preserving bank order inside each group.
+  const groups = new Map<string, QuizQuestion[]>();
+  for (const question of pool) {
+    const key =
+      section.groupBy === 'sectionRef'
+        ? (question.sectionRef ?? 'unknown')
+        : String((question as unknown as Record<string, unknown>)[section.groupBy ?? ''] ?? 'unknown');
+    const bucket = groups.get(key);
+    if (bucket) bucket.push(question);
+    else groups.set(key, [question]);
+  }
+  const whole = [...groups.values()].filter((group) => group.length === groupSize);
+  const needed = Math.floor(section.questions / groupSize);
+  const picked = shuffleWith(whole, random).slice(0, needed).flat();
+  // Defensive top-up only: if the bank ever holds fewer whole groups than the
+  // section needs, fill the remainder from the chapter's leftover questions.
+  if (picked.length < section.questions) {
+    const pickedIds = new Set(picked.map((q) => q.id));
+    const leftovers = shuffleWith(
+      pool.filter((q) => !pickedIds.has(q.id)),
+      random,
+    );
+    picked.push(...leftovers.slice(0, section.questions - picked.length));
+  }
+  return picked;
 }
 
 /** Per-chapter score breakdown for the review screen. */
