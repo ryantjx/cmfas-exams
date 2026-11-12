@@ -228,6 +228,8 @@ A **cross trade** means the **simultaneous matching of buy and sell orders execu
 - **i.** through an **electronic futures trading system**; or
 - **ii.** in accordance with the **business rules and practices** of an approved exchange or recognised market operator (**SFR(LCB) 47D**).
 
+> **Exam point — cross trades are allowed, not banned.** A CMS licence holder **may** cross two genuine orders for different account owners, provided the trade is effected through an electronic futures trading system or in accordance with the business rules and practices of the approved exchange or recognised market operator (SFR(LCB) 47D). What makes it legitimate is the market exposure, not a private price agreement — buying or selling at an **agreed or predetermined price** between traders, dealers or brokers is a **pre-arranged trade** (§3.19) and is prohibited as market misconduct.
+
 > **Example 1 — cross trades.** Contract: **NK225 Futures**, tick size **5 points**. Existing bid **11710**; existing offer **11740**; last traded price **11740**. The Approved Trader receives **buy and sell orders at the same time at 11715**. The Approved Trader **can expose either the buy or the sell order first**. **Reason:** both prices are better than the prevailing 11710 bid and 11740 offer respectively.
 
 > **Example 2 — cross trades.** Existing bid **11710**; existing offer **11740**; last traded **11740**. The Approved Trader receives buy and sell orders **at the same time and price 11740**. The Approved Trader **shall expose the buy order first**. **Reason:** the buy order is more attractive than the sell order because there was an **existing 11740 offer waiting to be lifted**.
