@@ -46,8 +46,8 @@ for (const exam of EXAMS) {
   // question ids in LO order, so the quiz island can serve the set without a
   // second fetch. Resolving here — against the parsed bank, not the raw
   // ranges — means a re-numbered bank fails the build instead of silently
-  // serving the wrong questions, and the 60-count check pins the set to the
-  // 60-question mock it is defined from.
+  // serving the wrong questions, and the count check pins the set to the
+  // questions its ranges define (60 for RES 12B, 149 for CM-EIP).
   const loProblems = [];
   let loQuiz = null;
   if (exam.loQuiz?.length) {
@@ -60,8 +60,11 @@ for (const exam of EXAMS) {
         else ids.push(q.id);
       }
     }
-    if (ids.length !== 60) {
-      loProblems.push(`loQuiz resolved to ${ids.length} questions, expected 60`);
+    // The ranges define the set's size; every number in them must resolve, so
+    // the resolved count has to equal the ranges' total length.
+    const expectedLo = exam.loQuiz.reduce((sum, { start, end }) => sum + (end - start + 1), 0);
+    if (ids.length !== expectedLo) {
+      loProblems.push(`loQuiz resolved to ${ids.length} questions, expected ${expectedLo}`);
     }
     loQuiz = ids;
   }

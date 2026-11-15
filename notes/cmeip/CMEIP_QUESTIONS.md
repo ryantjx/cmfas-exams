@@ -458,9 +458,185 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
+### 29. **[Single choice]** [CM-EIP §1.1.1] A state-owned fund is set up to invest a country's surplus resource revenues so that future generations benefit from them, rather than to meet pension payments or insurance claims. Which type of institutional investor is this, and what is the purpose of its funds?
+
+- a. A pension fund, providing retirement income.
+- b. A sovereign wealth fund, saving for future generations (or stabilising the national economy).
+- c. An insurance fund, meeting expected claims.
+- d. An endowment fund, satisfying philanthropic spending commitments.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. A sovereign wealth fund, saving for future generations (or stabilising the national economy).
+
+**Rationale:** Institutional investors are classified by the purpose of the money: pension funds provide retirement income, insurance funds meet expected claims, endowment funds satisfy philanthropic spending commitments, and sovereign wealth funds stabilise the national economy or save for future generations. A state fund investing surplus resource revenues for future generations is a sovereign wealth fund.
+
+</details>
+
+### 30. **[Single choice]** [CM-EIP §1.3] A market report lists the participants in the financial markets: retail and institutional investors, issuers, broker/dealer firms, regulators, electronic exchanges, financial institutions that underwrite IPOs — and a clearing house. Which role does the clearing house play?
+
+- a. It is an issuer of securities to the public.
+- b. It is a broker/dealer matching buyers and sellers.
+- c. It is a regulator setting listing rules.
+- d. It is an infrastructure provider, alongside central depositories, communications networks and trade repositories.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. It is an infrastructure provider, alongside central depositories, communications networks and trade repositories.
+
+**Rationale:** The guide lists infrastructure providers as clearing houses, central depositories, communications networks and trade repositories. Issuers are public and private sector companies; intermediaries are broker/dealer firms and market makers; regulators are a separate participant category.
+
+</details>
+
+### 31. **[Single choice]** [CM-EIP §1.2] Which of the following is a financial asset?
+
+- a. A corporate bond issued by a listed company.
+- b. A directly owned industrial warehouse.
+- c. A bar of physical gold held in a vault.
+- d. A painting held as a collectible.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. A corporate bond issued by a listed company.
+
+**Rationale:** Financial assets are paper or electronic claims on an issuer — here a corporation — and are broadly classified into debt, equity and derivative instruments. A warehouse is real estate, gold is a commodity and a painting is a collectible: all three are real, physical assets, not claims on an issuer.
+
+</details>
+
+### 32. **[Single choice]** [CM-EIP §1.1.3] A client owns four holdings: units in a listed real estate investment trust (REIT), shares in a listed property developer, a directly owned shophouse, and a portfolio of listed bonds. Which holding is a real asset rather than a financial asset?
+
+- a. The units in the listed REIT.
+- b. The shares in the listed property developer.
+- c. The directly owned shophouse.
+- d. The portfolio of listed bonds.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. The directly owned shophouse.
+
+**Rationale:** Real estate held directly — commercial, residential, industrial or agricultural property — is a real, physical asset. REIT units, shares and bonds are all paper or electronic claims on an issuer and are therefore financial assets, even when the underlying exposure is to property.
+
+</details>
+
+### 33. **[Single choice]** [CM-EIP §1.2.2] A large corporation needs short-term funding for 60 days and issues a short-term unsecured promissory note sold at a discount to its face value. Which money market security is this?
+
+- a. A certificate of deposit, which is quoted on an interest-bearing basis.
+- b. Commercial paper, a short-term unsecured promissory note issued by a corporation and sold on a discounted basis like a treasury bill.
+- c. A banker's acceptance, a time draft drawn on a bank to facilitate trade.
+- d. A repurchase agreement, a sale of a security with a commitment to buy it back.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Commercial paper, a short-term unsecured promissory note issued by a corporation and sold on a discounted basis like a treasury bill.
+
+**Rationale:** Commercial paper is a short-term unsecured promissory note issued by a corporation and is a discounted money market instrument, like a treasury bill. Certificates of deposit are quoted on an interest-bearing basis, not a discount basis; a banker's acceptance is a time draft drawn on a bank; a repo is a form of borrowing by the seller of a security.
+
+</details>
+
+### 34. **[Single choice]** [CM-EIP §1.2.2] Which of the following is a capital market security?
+
+- a. A treasury bill maturing in 30 days.
+- b. Commercial paper maturing in 90 days.
+- c. An overnight repurchase agreement.
+- d. A five-year fixed-rate corporate bond.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. A five-year fixed-rate corporate bond.
+
+**Rationale:** Money market instruments have maturities from 1 day to 1 year (often less than 90 days); capital market securities have maturities over 1 year, principally bonds and equities. A five-year fixed-rate bond is a long-term debt security — a capital market security — while the treasury bill, commercial paper and overnight repo are all money market instruments.
+
+</details>
+
+### 35. **[Single choice]** [CM-EIP §1.3.1] A company issues new shares to the public for the first time and receives the subscription cash. Six months later, an early investor sells those shares on the exchange to another investor. Who receives the cash from the second transaction?
+
+- a. The selling investor, not the original issuer.
+- b. The original issuer, as it created the shares.
+- c. The exchange, which holds the proceeds for the issuer.
+- d. The underwriter, which must return the cash to the issuer.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. The selling investor, not the original issuer.
+
+**Rationale:** In the primary market new securities are issued and sold to the public and the issuer receives the cash, creating financial claims that did not previously exist. In the secondary market those securities trade between investors, and the proceeds go to the selling investor, not the original issuer. The secondary market provides the liquidity essential to the proper functioning of capital markets.
+
+</details>
+
+### 36. **[Single choice]** [CM-EIP §1.3.3] An investor can sell a large block of shares quickly at a price barely different from the previous transaction price, in a market with numerous buyers and sellers willing to trade at current prices. Which characteristic of a good financial market does this best demonstrate?
+
+- a. Information efficiency, because prices adjust quickly to new information.
+- b. Low transaction costs, because brokerage is cheap.
+- c. Liquidity — marketability plus price continuity, supported by depth.
+- d. Price discovery, because the price is transparent.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Liquidity — marketability plus price continuity, supported by depth.
+
+**Rationale:** Liquidity is the ability to buy or sell quickly at prices not substantially different from previous transactions, absent new information. Marketability (likelihood of a quick sale) is necessary but not sufficient; price continuity (prices do not change much between transactions) is the other component, and a continuous market requires depth — numerous buyers and sellers willing to trade at current prices.
+
+</details>
+
+### 37. **[Single choice]** [CM-EIP §1.2.2] A fund holds two debt instruments: a 270-day treasury bill and a 7-year government bond. Which statement correctly distinguishes them?
+
+- a. Both are money market securities, because both are issued by a government.
+- b. The 270-day treasury bill is a money market security and the 7-year bond is a capital market security: money market maturities run from 1 day to 1 year, while capital market securities mature in more than 1 year.
+- c. The 270-day treasury bill is a capital market security and the 7-year bond is a money market security.
+- d. Both are capital market securities, because both pay a fixed return.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. The 270-day treasury bill is a money market security and the 7-year bond is a capital market security: money market maturities run from 1 day to 1 year, while capital market securities mature in more than 1 year.
+
+**Rationale:** Money market instruments are relatively low-risk, highly liquid, short-term debt instruments with maturities of 1 day to 1 year, often less than 90 days; capital market securities are long-term, with maturities over 1 year. The issuer alone does not decide the classification — maturity does.
+
+</details>
+
+### 38. **[Single choice]** [CM-EIP §1.3.4] Which statement about the bond markets is correct?
+
+- a. Most bond trading takes place on organised stock exchanges.
+- b. US Treasury notes and bonds have maturities of less than 1 year.
+- c. Corporate bonds are listed on exchanges but are never traded over-the-counter.
+- d. Bond trading is mostly over-the-counter through bond dealers, which are mostly banks and large investment banking firms.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Bond trading is mostly over-the-counter through bond dealers, which are mostly banks and large investment banking firms.
+
+**Rationale:** Although many corporate bonds are listed on major exchanges such as the NYSE, bond trading is mostly OTC through bond dealers, which are mostly banks and large investment banking firms. US Treasury notes and bonds have maturities greater than 1 year (treasury bills are the sub-1-year instrument), and dealing and settlement in the Eurobond market are governed by the rules of the Association of International Bond Dealers (AIBD).
+
+</details>
+
+### 39. **[Single choice]** [CM-EIP §1.3] Why does a liquid secondary market matter to the primary market and to the economy?
+
+- a. Because a liquid secondary market lets investors who subscribe to new issues sell them later, which sustains new capital raising — capital seekers reach wholesale capital providers through arrangers and intermediaries, who in turn serve retail capital providers.
+- b. Because secondary-market trading sends the trading proceeds to the issuer, funding its next project.
+- c. Because a liquid secondary market removes the need for underwriters and distributors in a new issue.
+- d. Because secondary-market liquidity guarantees that every new issue is priced above its fair value.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Because a liquid secondary market lets investors who subscribe to new issues sell them later, which sustains new capital raising — capital seekers reach wholesale capital providers through arrangers and intermediaries, who in turn serve retail capital providers.
+
+**Rationale:** Secondary markets provide the liquidity essential to the proper functioning of capital markets: investors will subscribe to new issues in the primary market only if they can later trade out of them. The flow runs from capital seekers (issuers of stocks and bonds), through arrangers and intermediaries (investment banks, underwriters, distributors, brokerages), to wholesale capital providers (banks, hedge and pension funds, insurance companies), who in turn serve retail capital providers (individuals, small firms). Secondary proceeds go to the selling investor, not the issuer. ---
+
+</details>
+
 ## Chapter 2 — Risk, Return and Time Value Calculations
 
-### 29. **[Single choice]** [CM-EIP §2.1] Which statement best expresses the risk-return principle?
+### 40. **[Single choice]** [CM-EIP §2.1] Which statement best expresses the risk-return principle?
 
 - a. Risk and return are unrelated in efficient markets
 - b. Lower risk always produces higher realised returns
@@ -476,7 +652,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 30. **[Single choice]** [CM-EIP §2.1] A CCC-rated bond and the stock of a AAA-rated blue-chip company with a conservative business and financial profile are compared. Which is generally considered safer?
+### 41. **[Single choice]** [CM-EIP §2.1] A CCC-rated bond and the stock of a AAA-rated blue-chip company with a conservative business and financial profile are compared. Which is generally considered safer?
 
 - a. They are equally risky
 - b. It cannot be determined from the information given
@@ -492,7 +668,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 31. **[Single choice]** [CM-EIP §2.1] What does the VIX measure?
+### 42. **[Single choice]** [CM-EIP §2.1] What does the VIX measure?
 
 - a. The expected 30-day volatility of the S&P 500
 - b. The realised volatility of the STI over the past year
@@ -508,7 +684,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 32. **[Single choice]** [CM-EIP §2.1] At what level did the VIX peak during the Global Financial Crisis in October 2008?
+### 43. **[Single choice]** [CM-EIP §2.1] At what level did the VIX peak during the Global Financial Crisis in October 2008?
 
 - a. 30
 - b. 89.5
@@ -524,7 +700,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 33. **[Calculation]** [CM-EIP §2.2.1] An investor buys 1,000 shares at $5.00 each, receives a dividend of $0.20 per share, and sells one year later at $6.00. What is the total return?
+### 44. **[Calculation]** [CM-EIP §2.2.1] An investor buys 1,000 shares at $5.00 each, receives a dividend of $0.20 per share, and sells one year later at $6.00. What is the total return?
 
 - a. 20.0%
 - b. 24.0%
@@ -540,7 +716,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 34. **[Calculation]** [CM-EIP §2.2.2] An investment returns 25% with probability 0.20, −30% with probability 0.20 and 15% with probability 0.60. What is the expected rate of return?
+### 45. **[Calculation]** [CM-EIP §2.2.2] An investment returns 25% with probability 0.20, −30% with probability 0.20 and 15% with probability 0.60. What is the expected rate of return?
 
 - a. 3.33%
 - b. 8.00%
@@ -556,7 +732,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 35. **[Calculation]** [CM-EIP §2.2.3] A product is expected to generate a maximum return of 2.5% over three months. What is the annualised rate of return?
+### 46. **[Calculation]** [CM-EIP §2.2.3] A product is expected to generate a maximum return of 2.5% over three months. What is the annualised rate of return?
 
 - a. 10.00%
 - b. 10.38%
@@ -572,7 +748,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 36. **[Calculation]** [CM-EIP §2.2.3] A product quotes an annualised target return of 12%. What return is achievable over four months?
+### 47. **[Calculation]** [CM-EIP §2.2.3] A product quotes an annualised target return of 12%. What return is achievable over four months?
 
 - a. 3.00%
 - b. 4.12%
@@ -588,7 +764,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 37. **[Calculation]** [CM-EIP §2.2.4] An investment returns 10.4% in a year when inflation is 2%. What is the real rate of return?
+### 48. **[Calculation]** [CM-EIP §2.2.4] An investment returns 10.4% in a year when inflation is 2%. What is the real rate of return?
 
 - a. 8.40%
 - b. 8.00%
@@ -604,7 +780,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 38. **[Calculation]** [CM-EIP §2.2.4] An investment returns 10.4% in a year when there is deflation of 1%. What is the real rate of return?
+### 49. **[Calculation]** [CM-EIP §2.2.4] An investment returns 10.4% in a year when there is deflation of 1%. What is the real rate of return?
 
 - a. 11.52%
 - b. 11.40%
@@ -620,7 +796,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 39. **[Calculation]** [CM-EIP §2.2.5] A JPY portfolio returns 121.88% while SGD/JPY rises 18.89%. What is the currency-adjusted return in SGD?
+### 50. **[Calculation]** [CM-EIP §2.2.5] A JPY portfolio returns 121.88% while SGD/JPY rises 18.89%. What is the currency-adjusted return in SGD?
 
 - a. 140.77%
 - b. 86.62%
@@ -636,7 +812,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 40. **[Calculation]** [CM-EIP §2.2.5] A USD portfolio returns 87.06% while USD/SGD rises 8.12%. What is the currency-adjusted return in SGD?
+### 51. **[Calculation]** [CM-EIP §2.2.5] A USD portfolio returns 87.06% while USD/SGD rises 8.12%. What is the currency-adjusted return in SGD?
 
 - a. 78.94%
 - b. 95.18%
@@ -652,7 +828,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 41. **[Single choice]** [CM-EIP §2.2.5] When restating a foreign portfolio return into a reference currency, what is the rule of thumb?
+### 52. **[Single choice]** [CM-EIP §2.2.5] When restating a foreign portfolio return into a reference currency, what is the rule of thumb?
 
 - a. Multiply when the reference currency is the first listed currency of the pair, divide when it is the second
 - b. Always divide by (1 + currency return)
@@ -668,7 +844,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 42. **[Single choice]** [CM-EIP §2.2.6] Which return measure is the money-weighted return in a portfolio management context?
+### 53. **[Single choice]** [CM-EIP §2.2.6] Which return measure is the money-weighted return in a portfolio management context?
 
 - a. The internal rate of return
 - b. The real rate of return
@@ -684,7 +860,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 43. **[Calculation]** [CM-EIP §2.2.6] A fund returns 2% in year 1, 10% in year 2 and −4% in year 3. What is the annualised compounded (time-weighted) return?
+### 54. **[Calculation]** [CM-EIP §2.2.6] A fund returns 2% in year 1, 10% in year 2 and −4% in year 3. What is the annualised compounded (time-weighted) return?
 
 - a. 2.57%
 - b. 2.51%
@@ -700,7 +876,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 44. **[Calculation]** [CM-EIP §2.3.1] Using returns of 25% (p = 0.20), −30% (p = 0.20) and 15% (p = 0.60), with an expected return of 8%, what is the standard deviation?
+### 55. **[Calculation]** [CM-EIP §2.3.1] Using returns of 25% (p = 0.20), −30% (p = 0.20) and 15% (p = 0.60), with an expected return of 8%, what is the standard deviation?
 
 - a. 37.60%
 - b. 3.76%
@@ -716,7 +892,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 45. **[Single choice]** [CM-EIP §2.3.1] What is the difference between historical volatility and implied volatility?
+### 56. **[Single choice]** [CM-EIP §2.3.1] What is the difference between historical volatility and implied volatility?
 
 - a. Historical volatility is forward-looking; implied volatility is backward-looking
 - b. They are the same measure
@@ -732,7 +908,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 46. **[Calculation]** [CM-EIP §2.3.2] Investment A has an expected return of 5% and a standard deviation of 8%. Investment B has an expected return of 15% and a standard deviation of 20%. Which is more attractive on a risk-per-unit-of-return basis?
+### 57. **[Calculation]** [CM-EIP §2.3.2] Investment A has an expected return of 5% and a standard deviation of 8%. Investment B has an expected return of 15% and a standard deviation of 20%. Which is more attractive on a risk-per-unit-of-return basis?
 
 - a. Investment B, with a coefficient of variation of 1.33
 - b. They are equally attractive
@@ -748,7 +924,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 47. **[Calculation]** [CM-EIP §2.3.3] A portfolio has an expected return of 6% and a standard deviation of 12%. What is the Z-score for a return of 0%?
+### 58. **[Calculation]** [CM-EIP §2.3.3] A portfolio has an expected return of 6% and a standard deviation of 12%. What is the Z-score for a return of 0%?
 
 - a. −2.0
 - b. −0.5
@@ -764,7 +940,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 48. **[Single choice]** [CM-EIP §2.3.3] For a normal distribution, approximately what proportion of outcomes falls within plus or minus two standard deviations of the mean?
+### 59. **[Single choice]** [CM-EIP §2.3.3] For a normal distribution, approximately what proportion of outcomes falls within plus or minus two standard deviations of the mean?
 
 - a. 68%
 - b. 90%
@@ -780,7 +956,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 49. **[Calculation]** [CM-EIP §2.3.4] A balanced portfolio has an expected return of 6% and a standard deviation of 12%. Using a Z-score of −1.96, what is the value at risk at the 2.5% tail?
+### 60. **[Calculation]** [CM-EIP §2.3.4] A balanced portfolio has an expected return of 6% and a standard deviation of 12%. Using a Z-score of −1.96, what is the value at risk at the 2.5% tail?
 
 - a. −12%
 - b. −6%
@@ -796,7 +972,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 50. **[Calculation]** [CM-EIP §2.3.4] A defensive portfolio has an expected return of 4% and a standard deviation of 4%. Using a Z-score of −2.58, what is the value at risk at the 0.5% tail?
+### 61. **[Calculation]** [CM-EIP §2.3.4] A defensive portfolio has an expected return of 4% and a standard deviation of 4%. Using a Z-score of −2.58, what is the value at risk at the 0.5% tail?
 
 - a. −10%
 - b. −25%
@@ -812,7 +988,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 51. **[Single choice]** [CM-EIP §2.3.4] What is the principal limitation of using historical data to estimate the probability of future losses?
+### 62. **[Single choice]** [CM-EIP §2.3.4] What is the principal limitation of using historical data to estimate the probability of future losses?
 
 - a. Factors and conditions influencing returns over the next few years could be quite different from those influencing past returns
 - b. Historical data cannot be used with the normal distribution
@@ -828,7 +1004,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 52. **[Single choice]** [CM-EIP §2.4.1] Which category of risk includes business risk, credit risk and fraud risk?
+### 63. **[Single choice]** [CM-EIP §2.4.1] Which category of risk includes business risk, credit risk and fraud risk?
 
 - a. Product-specific risk
 - b. Issuer and counterparty risk
@@ -844,7 +1020,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 53. **[Single choice]** [CM-EIP §2.4.1] In the Lehman Brothers case, what was the approximate ratio of assets to the firm's own capital?
+### 64. **[Single choice]** [CM-EIP §2.4.1] In the Lehman Brothers case, what was the approximate ratio of assets to the firm's own capital?
 
 - a. USD680 million of assets supported by USD22.5 million of capital
 - b. USD68 billion of assets supported by USD2.25 billion of capital
@@ -860,7 +1036,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 54. **[Single choice]** [CM-EIP §2.4.1] Which risk cannot be fully diversified away?
+### 65. **[Single choice]** [CM-EIP §2.4.1] Which risk cannot be fully diversified away?
 
 - a. Concentration risk
 - b. Business risk
@@ -876,7 +1052,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 55. **[Single choice]** [CM-EIP §2.4.1] During the Global Financial Crisis of 2008–2009, which asset classes did not fall in tandem with the rest?
+### 66. **[Single choice]** [CM-EIP §2.4.1] During the Global Financial Crisis of 2008–2009, which asset classes did not fall in tandem with the rest?
 
 - a. Cash and government bonds
 - b. Real estate and commodities
@@ -892,7 +1068,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 56. **[Single choice]** [CM-EIP §2.4.1] On SGX, at what price movement is a circuit breaker triggered?
+### 67. **[Single choice]** [CM-EIP §2.4.1] On SGX, at what price movement is a circuit breaker triggered?
 
 - a. A move of more than 5% from the reference price
 - b. A move of more than 10% from the traded price 5 minutes prior
@@ -908,7 +1084,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 57. **[Single choice]** [CM-EIP §2.4.1] In the 2015 Mizuho Securities incident, what was the cause of the loss of at least 27 billion yen?
+### 68. **[Single choice]** [CM-EIP §2.4.1] In the 2015 Mizuho Securities incident, what was the cause of the loss of at least 27 billion yen?
 
 - a. A fraudulent trade
 - b. A system failure
@@ -924,7 +1100,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 58. **[Single choice]** [CM-EIP §2.4.1] Which of the following is a management risk rather than a market risk?
+### 69. **[Single choice]** [CM-EIP §2.4.1] Which of the following is a management risk rather than a market risk?
 
 - a. A rise in factor costs
 - b. A natural disaster
@@ -940,7 +1116,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 59. **[Single choice]** [CM-EIP §2.4.1] What is a short squeeze?
+### 70. **[Single choice]** [CM-EIP §2.4.1] What is a short squeeze?
 
 - a. A situation where an absence of sellers forces short positions to cover at substantially higher prices
 - b. A regulatory restriction on short selling
@@ -956,7 +1132,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 60. **[Multiple response]** [CM-EIP §2.4.2] Which of the following are elements of risk management described in the guide? (Select all that apply)
+### 71. **[Multiple response]** [CM-EIP §2.4.2] Which of the following are elements of risk management described in the guide? (Select all that apply)
 
 - a. Due diligence checks on fund managers
 - b. Timely research and risk management processes
@@ -972,7 +1148,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 61. **[Calculation]** [CM-EIP §2.5.1] A SGD 1 million deposit earns 8% simple interest for 91 days. What is the interest earned?
+### 72. **[Calculation]** [CM-EIP §2.5.1] A SGD 1 million deposit earns 8% simple interest for 91 days. What is the interest earned?
 
 - a. SGD 40,288.23
 - b. SGD 19,945.21
@@ -988,7 +1164,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 62. **[Single choice]** [CM-EIP §2.5.1] Why does Singapore dollar interest use a denominator of 36,500 while US dollar interest uses 36,000?
+### 73. **[Single choice]** [CM-EIP §2.5.1] Why does Singapore dollar interest use a denominator of 36,500 while US dollar interest uses 36,000?
 
 - a. Because US deposits are always shorter term
 - b. Because Singapore has higher interest rates
@@ -1004,7 +1180,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 63. **[Calculation]** [CM-EIP §2.5.2] What is the future value of $1,000 invested for 10 years at 5% compounded annually?
+### 74. **[Calculation]** [CM-EIP §2.5.2] What is the future value of $1,000 invested for 10 years at 5% compounded annually?
 
 - a. $1,500.00
 - b. $1,628.89
@@ -1020,7 +1196,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 64. **[Calculation]** [CM-EIP §2.5.4] What is the future value of $1,000 invested for 10 years at 5% compounded quarterly?
+### 75. **[Calculation]** [CM-EIP §2.5.4] What is the future value of $1,000 invested for 10 years at 5% compounded quarterly?
 
 - a. $1,647.01
 - b. $1,500.00
@@ -1036,7 +1212,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 65. **[Calculation]** [CM-EIP §2.5.4] An investment grows from $1,000 to $1,628.89 over 10 years. What is the compounded annual growth rate?
+### 76. **[Calculation]** [CM-EIP §2.5.4] An investment grows from $1,000 to $1,628.89 over 10 years. What is the compounded annual growth rate?
 
 - a. 5.00%
 - b. 6.29%
@@ -1052,7 +1228,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 66. **[Calculation]** [CM-EIP §2.5.5] At a 6% discount rate, what is the present value of $1,000 receivable in five years?
+### 77. **[Calculation]** [CM-EIP §2.5.5] At a 6% discount rate, what is the present value of $1,000 receivable in five years?
 
 - a. $792.09
 - b. $747.27
@@ -1068,7 +1244,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 67. **[Single choice]** [CM-EIP §2.5.5] What is the minimum appropriate discount rate for a present value calculation?
+### 78. **[Single choice]** [CM-EIP §2.5.5] What is the minimum appropriate discount rate for a present value calculation?
 
 - a. The average market return
 - b. The issuer's coupon rate
@@ -1084,7 +1260,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 68. **[Single choice]** [CM-EIP §2.5.3] What is the effect of negative interest rates on the present value of short-end fixed income investments?
+### 79. **[Single choice]** [CM-EIP §2.5.3] What is the effect of negative interest rates on the present value of short-end fixed income investments?
 
 - a. It lowers the present value
 - b. It has no effect
@@ -1100,7 +1276,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 69. **[Single choice]** [CM-EIP §2.6] Which pair of risks make opposite predictions about the impact of a rise in interest rates on a bond investor's return?
+### 80. **[Single choice]** [CM-EIP §2.6] Which pair of risks make opposite predictions about the impact of a rise in interest rates on a bond investor's return?
 
 - a. Interest rate risk and reinvestment risk
 - b. Inflation risk and political risk
@@ -1116,9 +1292,121 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
+### 81. **[Single choice]** [CM-EIP §2.1] An adviser tells a client that every equity is riskier than every bond, because equities are the riskier asset class. Which statement best corrects this?
+
+- a. The adviser is right: asset class alone determines the risk of a security.
+- b. Risk is a property of the instrument, not the asset class — a CCC-rated junk bond is much riskier than a AAA-rated blue-chip corporate bond, and the blue-chip company's stock may be safer than the CCC bond if its business and financial profile is conservative.
+- c. The adviser is right for bonds but wrong for equities, because all bonds carry the same credit risk.
+- d. Risk is a property of the asset class, but only for derivatives, which are always the safest instruments.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Risk is a property of the instrument, not the asset class — a CCC-rated junk bond is much riskier than a AAA-rated blue-chip corporate bond, and the blue-chip company's stock may be safer than the CCC bond if its business and financial profile is conservative.
+
+**Rationale:** Risk is a property of the instrument, not the asset class. A CCC-rated (junk or speculative grade) bond is much riskier than a AAA-rated blue-chip corporate bond, and the blue-chip company's stock may be safer than the CCC bond if its business and financial profile is conservative, even though equities are generally the riskier asset class. Derivatives sit at the upper end of the risk-return continuum, though some are capital guaranteed and safer than some equities.
+
+</details>
+
+### 82. **[Single choice]** [CM-EIP §2.1] Two clients describe their attitudes to risk. Mei fears losing any part of her capital; Johan is prepared to lose some — even all — of his capital in pursuit of higher return. Which pairing follows the risk-return trade-off?
+
+- a. Mei should consider equities and Johan should consider money market instruments.
+- b. Both should consider the same portfolio, because risk appetite does not affect asset choice.
+- c. Mei should consider relatively safe money market instruments offering a steady flow of interest income, while Johan should consider riskier securities such as equities in expectation of higher return.
+- d. Mei should consider leveraged derivatives and Johan should consider cash deposits.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Mei should consider relatively safe money market instruments offering a steady flow of interest income, while Johan should consider riskier securities such as equities in expectation of higher return.
+
+**Rationale:** The risk-return principle holds that rational investors demand higher potential returns when they take on more risk, and do not demand as high a rate of return when risk is lower. An investor with a low appetite for risk fears losing any part of capital and considers relatively safe money market instruments offering a steady flow of interest income; an investor with a higher appetite is prepared to lose some — in some cases all — of capital, and considers riskier securities such as equities in expectation of higher return.
+
+</details>
+
+### 83. **[Calculation]** [CM-EIP §2.2.2] An analyst assigns three scenarios to a share over the next year: a boom with a 30% return and probability 0.30, stable conditions with a 12% return and probability 0.50, and a downturn with a −18% return and probability 0.20. What is the expected rate of return?
+
+- a. 9.0%
+- b. 14.0%
+- c. 8.0%
+- d. 11.4%
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. 11.4%
+
+**Rationale:** Expected return is the probability-weighted average of possible returns, E(R) = Σ rᵢpᵢ: E(R) = (0.30 × 30%) + (0.50 × 12%) + (0.20 × −18%) = 9.0% + 6.0% − 3.6% = 11.4%. The probabilities sum to 1.00 (0.30 + 0.50 + 0.20), so the weighting is complete.
+
+</details>
+
+### 84. **[Calculation]** [CM-EIP §2.3.3] A portfolio has an expected annual return of 8% with a standard deviation of 10%. Assuming returns are normally distributed, what is the approximate probability of a loss in a given year (a return below 0%)?
+
+- a. 16%
+- b. 21%
+- c. 29%
+- d. 31%
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. 21%
+
+**Rationale:** The Z-score expresses how many standard deviations a return deviates from the expected return: Z = (X − E(r)) / σ = (0% − 8%) / 10% = −0.80. The standard normal table gives Φ(0.80) = 0.7881, the cumulative probability to the left of +0.80. By symmetry, the probability of a return below 0% is 1 − 0.7881 = 0.2119, approximately 21%. (The guide's worked example uses E(r) 6% and σ 12%, giving Z = −0.5 and a 31% chance of loss; the method, not the numbers, is reused here.)
+
+</details>
+
+### 85. **[Calculation]** [CM-EIP §2.3.1] A fund has three possible annual returns: 20% with probability 0.25, 10% with probability 0.50, and −10% with probability 0.25. What is its coefficient of variation?
+
+- a. 1.45
+- b. 1.09
+- c. 0.69
+- d. 1.60
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. 1.45
+
+**Rationale:** First the expected return: E(R) = (0.25 × 20%) + (0.50 × 10%) + (0.25 × −10%) = 5.0% + 5.0% − 2.5% = 7.5%. Next the variance, σ² = Σ pᵢ[rᵢ − E(R)]²: = 0.25 × (20% − 7.5%)² + 0.50 × (10% − 7.5%)² + 0.25 × (−10% − 7.5%)² = 0.25 × (0.125)² + 0.50 × (0.025)² + 0.25 × (−0.175)² = 0.25 × 0.015625 + 0.50 × 0.000625 + 0.25 × 0.030625 = 0.00390625 + 0.0003125 + 0.00765625 = 0.011875. Standard deviation σ = √0.011875 = 0.1090 = 10.90%. Coefficient of variation CV = σ / E(R) = 10.90% / 7.5% = 1.45. CV measures risk per unit of expected return, letting investments with different returns and risks be compared.
+
+</details>
+
+### 86. **[Single choice]** [CM-EIP §2.4] A client manages his own money and holds 85% of his portfolio in the shares of a single company, with no formal diversification strategy. Which risk does this best illustrate?
+
+- a. Issuer risk, because the company may default on its bonds.
+- b. Liquidity risk, because the shares cannot be sold at all.
+- c. Concentration risk (a management risk) — failure to diversify, leading to excessive risk exposure, higher volatility and larger losses.
+- d. Execution risk, because the trades were placed in error.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Concentration risk (a management risk) — failure to diversify, leading to excessive risk exposure, higher volatility and larger losses.
+
+**Rationale:** Concentration risk, or lack of diversification, is a management risk: fund managers normally ensure proper diversification and minimal concentration, but clients managing their own money may end up highly concentrated in specific securities, industries or markets because there is no formal diversification strategy. Remaining concentrated can be a deliberate client choice, but the representative has a responsibility to advise diversification for the longer term.
+
+</details>
+
+### 87. **[Calculation]** [CM-EIP §2.5.2] An investor places $2,000 in an account paying 6% compounded annually. What is the future value after 5 years?
+
+- a. $2,600.00
+- b. $2,676.45
+- c. $2,763.00
+- d. $2,500.00
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. $2,676.45
+
+**Rationale:** FVₙ = PV(1 + k)ⁿ = $2,000 × (1.06)⁵. (1.06)² = 1.1236; (1.06)⁴ = 1.1236² = 1.262477; (1.06)⁵ = 1.262477 × 1.06 = 1.338226. FV₅ = $2,000 × 1.338226 = $2,676.45. (Simple interest would give only $2,000 + 5 × $120 = $2,600.00 — option A — because it ignores interest on interest.) ---
+
+</details>
+
 ## Chapter 3 — Key Drivers of Market Movements and Asset Values
 
-### 70. **[Single choice]** [CM-EIP §3.1] Which three primary factors influence asset values and market movement?
+### 88. **[Single choice]** [CM-EIP §3.1] Which three primary factors influence asset values and market movement?
 
 - a. Earnings, dividends and growth
 - b. Fundamental factors, market-driven factors and investment behaviour
@@ -1134,7 +1422,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 71. **[Single choice]** [CM-EIP §3.1] What does the Efficient Market Hypothesis contend?
+### 89. **[Single choice]** [CM-EIP §3.1] What does the Efficient Market Hypothesis contend?
 
 - a. Prices never reflect available information
 - b. Markets are always irrational
@@ -1150,7 +1438,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 72. **[Single choice]** [CM-EIP §3.1.1] Which factor group is described as reflecting how emotional and market sentiment affects price movement?
+### 90. **[Single choice]** [CM-EIP §3.1.1] Which factor group is described as reflecting how emotional and market sentiment affects price movement?
 
 - a. Regulatory factors
 - b. Fundamental factors
@@ -1166,7 +1454,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 73. **[Single choice]** [CM-EIP §3.2.1] What is top-down asset allocation?
+### 91. **[Single choice]** [CM-EIP §3.2.1] What is top-down asset allocation?
 
 - a. Allocating a larger proportion of funds to developed economies, growing sectors and leading corporate performers
 - b. Allocating equally across all asset classes
@@ -1182,7 +1470,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 74. **[Single choice]** [CM-EIP §3.2.2] What is the multiplier effect of fiscal policy?
+### 92. **[Single choice]** [CM-EIP §3.2.2] What is the multiplier effect of fiscal policy?
 
 - a. The tendency of tax cuts to increase the budget deficit
 - b. The process by which an initial round of government spending ripples through industries, raising incomes and further consumption
@@ -1198,7 +1486,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 75. **[Calculation]** [CM-EIP §3.2.3] Using GDP = C + I + G + NE, which component is directly raised by a government programme of infrastructure development?
+### 93. **[Calculation]** [CM-EIP §3.2.3] Using GDP = C + I + G + NE, which component is directly raised by a government programme of infrastructure development?
 
 - a. C
 - b. I
@@ -1214,7 +1502,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 76. **[Single choice]** [CM-EIP §3.2.3] Which fiscal measure is intended to improve net exports?
+### 94. **[Single choice]** [CM-EIP §3.2.3] Which fiscal measure is intended to improve net exports?
 
 - a. Increasing infrastructure spending
 - b. Offering tax incentives for companies to relocate factories home
@@ -1230,7 +1518,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 77. **[Single choice]** [CM-EIP §3.2.4] Which of the Fed's three tools has it relied on most heavily as its key method for influencing market liquidity?
+### 95. **[Single choice]** [CM-EIP §3.2.4] Which of the Fed's three tools has it relied on most heavily as its key method for influencing market liquidity?
 
 - a. Open market operations
 - b. Reserve requirement changes
@@ -1246,7 +1534,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 78. **[Single choice]** [CM-EIP §3.2.4] In what order does a change in liquidity from open market operations affect the economy?
+### 96. **[Single choice]** [CM-EIP §3.2.4] In what order does a change in liquidity from open market operations affect the economy?
 
 - a. The aggregate economy, then common stocks, then bond prices
 - b. Bond prices, then common stocks, then the aggregate economy
@@ -1262,7 +1550,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 79. **[Single choice]** [CM-EIP §3.2.4] What is the primary intermediate target of Singapore's monetary policy?
+### 97. **[Single choice]** [CM-EIP §3.2.4] What is the primary intermediate target of Singapore's monetary policy?
 
 - a. The money supply
 - b. Domestic interest rates
@@ -1278,7 +1566,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 80. **[Single choice]** [CM-EIP §3.2.4] How often is Singapore's exchange rate policy band reviewed, and what is released after each review?
+### 98. **[Single choice]** [CM-EIP §3.2.4] How often is Singapore's exchange rate policy band reviewed, and what is released after each review?
 
 - a. Annually, with an Annual Report
 - b. Monthly, with a press release
@@ -1294,7 +1582,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 81. **[Calculation]** [CM-EIP §3.2.4] With a 10% reserve requirement, a new deposit of 10,000 passes through the banking system. What is the total money supply created after all rounds?
+### 99. **[Calculation]** [CM-EIP §3.2.4] With a 10% reserve requirement, a new deposit of 10,000 passes through the banking system. What is the total money supply created after all rounds?
 
 - a. 10,000
 - b. 90,000
@@ -1310,7 +1598,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 82. **[Single choice]** [CM-EIP §3.2.4] According to Fisher's equation of exchange, what happens when the central bank increases the money supply and the equation is fully operative?
+### 100. **[Single choice]** [CM-EIP §3.2.4] According to Fisher's equation of exchange, what happens when the central bank increases the money supply and the equation is fully operative?
 
 - a. The price level rises, and velocity determines output
 - b. Velocity falls proportionally
@@ -1326,7 +1614,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 83. **[Single choice]** [CM-EIP §3.2.4] In the positive scenario for stock prices when interest rates rise, why may stock prices remain fairly stable?
+### 101. **[Single choice]** [CM-EIP §3.2.4] In the positive scenario for stock prices when interest rates rise, why may stock prices remain fairly stable?
 
 - a. Because earnings fall as fast as the required return rises
 - b. Because the increase in the required rate of return is offset by the increase in earnings growth
@@ -1342,7 +1630,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 84. **[Single choice]** [CM-EIP §3.2.4] Why do banks typically benefit from a gradual increase in interest rates during the initial expansion?
+### 102. **[Single choice]** [CM-EIP §3.2.4] Why do banks typically benefit from a gradual increase in interest rates during the initial expansion?
 
 - a. Because loan defaults fall to zero
 - b. Because their bond portfolios appreciate
@@ -1358,7 +1646,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 85. **[Single choice]** [CM-EIP §3.2.5] What is a technical recession?
+### 103. **[Single choice]** [CM-EIP §3.2.5] What is a technical recession?
 
 - a. A rise in unemployment above 5%
 - b. A decline in industrial production for one month
@@ -1374,7 +1662,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 86. **[Single choice]** [CM-EIP §3.2.5] Which investment strategy is appropriate in the late bear to early bull phase of the business cycle?
+### 104. **[Single choice]** [CM-EIP §3.2.5] Which investment strategy is appropriate in the late bear to early bull phase of the business cycle?
 
 - a. Invest in cyclical and high-beta equities and reduce cash holdings
 - b. Buy growth stocks and high-yield bonds
@@ -1390,7 +1678,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 87. **[Single choice]** [CM-EIP §3.2.5] What does a flattening yield curve suggest?
+### 105. **[Single choice]** [CM-EIP §3.2.5] What does a flattening yield curve suggest?
 
 - a. An imminent economic boom
 - b. One of the early predictors of an upcoming recession
@@ -1406,7 +1694,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 88. **[Single choice]** [CM-EIP §3.2.6] Why do investors monitor economic calendars closely?
+### 106. **[Single choice]** [CM-EIP §3.2.6] Why do investors monitor economic calendars closely?
 
 - a. Because calendars predict the exact market direction
 - b. To avoid trading altogether
@@ -1422,7 +1710,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 89. **[Single choice]** [CM-EIP §3.2.7] How many components make up the US Composite Leading Economic Index published by The Conference Board?
+### 107. **[Single choice]** [CM-EIP §3.2.7] How many components make up the US Composite Leading Economic Index published by The Conference Board?
 
 - a. 4
 - b. 7
@@ -1438,7 +1726,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 90. **[Single choice]** [CM-EIP §3.2.7] What does a Purchasing Managers' Index reading of 50 signify?
+### 108. **[Single choice]** [CM-EIP §3.2.7] What does a Purchasing Managers' Index reading of 50 signify?
 
 - a. Severe contraction
 - b. No data available
@@ -1454,7 +1742,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 91. **[Single choice]** [CM-EIP §3.2.7] Which of the following is a coincident indicator?
+### 109. **[Single choice]** [CM-EIP §3.2.7] Which of the following is a coincident indicator?
 
 - a. Nonfarm payroll employment
 - b. Average prime rate charged by banks
@@ -1470,7 +1758,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 92. **[Single choice]** [CM-EIP §3.2.7] What is the principal limitation of composite leading indicators?
+### 110. **[Single choice]** [CM-EIP §3.2.7] What is the principal limitation of composite leading indicators?
 
 - a. They are published too infrequently to be useful
 - b. They signal turning points but say nothing about the magnitude of the shifts
@@ -1486,7 +1774,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 93. **[Single choice]** [CM-EIP §3.2.8] Why can a country with a widening trade deficit become a target of speculative attack?
+### 111. **[Single choice]** [CM-EIP §3.2.8] Why can a country with a widening trade deficit become a target of speculative attack?
 
 - a. Because its inflation rate is too low
 - b. Because it has too much foreign currency reserves
@@ -1502,7 +1790,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 94. **[Single choice]** [CM-EIP §3.2.8] Which inflation measure does the US Fed use as its primary gauge?
+### 112. **[Single choice]** [CM-EIP §3.2.8] Which inflation measure does the US Fed use as its primary gauge?
 
 - a. The producer price index
 - b. Average hourly earnings
@@ -1518,7 +1806,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 95. **[Single choice]** [CM-EIP §3.2.9] What happened to the pound sterling after the Brexit referendum in June 2016?
+### 113. **[Single choice]** [CM-EIP §3.2.9] What happened to the pound sterling after the Brexit referendum in June 2016?
 
 - a. It fell 10.5% in four days and was down 18% by October
 - b. It was unchanged
@@ -1534,7 +1822,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 96. **[Single choice]** [CM-EIP §3.2.10] In which stage of the industry life cycle are profit margins very high and profits able to more than double from a low earnings base?
+### 114. **[Single choice]** [CM-EIP §3.2.10] In which stage of the industry life cycle are profit margins very high and profits able to more than double from a low earnings base?
 
 - a. Early development
 - b. Rapid growth
@@ -1550,7 +1838,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 97. **[Single choice]** [CM-EIP §3.2.10] Which stage of the industry life cycle is described as probably the longest phase?
+### 115. **[Single choice]** [CM-EIP §3.2.10] Which stage of the industry life cycle is described as probably the longest phase?
 
 - a. Early development
 - b. Rapid growth
@@ -1566,7 +1854,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 98. **[Single choice]** [CM-EIP §3.2.10] Which of Porter's five forces is illustrated by the bankruptcy of Kodak following the emergence of digital photography?
+### 116. **[Single choice]** [CM-EIP §3.2.10] Which of Porter's five forces is illustrated by the bankruptcy of Kodak following the emergence of digital photography?
 
 - a. Bargaining power of suppliers
 - b. Rivalry among existing competitors
@@ -1582,7 +1870,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 99. **[Single choice]** [CM-EIP §3.2.10] Which industry type is least affected by recession and economic adversity?
+### 117. **[Single choice]** [CM-EIP §3.2.10] Which industry type is least affected by recession and economic adversity?
 
 - a. Defensive
 - b. Growth
@@ -1598,7 +1886,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 100. **[Single choice]** [CM-EIP §3.2.11] Which approach to stock-picking focuses on firms with specific competitive advantages that distinguish them from others in the same industry?
+### 118. **[Single choice]** [CM-EIP §3.2.11] Which approach to stock-picking focuses on firms with specific competitive advantages that distinguish them from others in the same industry?
 
 - a. Top-down
 - b. Bottom-up
@@ -1614,7 +1902,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 101. **[Single choice]** [CM-EIP §3.3.1] What typically happens when the bulk of available funds is almost fully invested in the market?
+### 119. **[Single choice]** [CM-EIP §3.3.1] What typically happens when the bulk of available funds is almost fully invested in the market?
 
 - a. New IPOs are cancelled
 - b. The market accelerates upward
@@ -1630,7 +1918,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 102. **[Single choice]** [CM-EIP §3.3.2] Why can a cluster of large IPOs depress the prices of similar stocks already trading?
+### 120. **[Single choice]** [CM-EIP §3.3.2] Why can a cluster of large IPOs depress the prices of similar stocks already trading?
 
 - a. Because IPOs reduce market capitalisation
 - b. Because IPOs raise interest rates
@@ -1646,7 +1934,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 103. **[Single choice]** [CM-EIP §3.3.3] Why can futures and options amplify a market decline?
+### 121. **[Single choice]** [CM-EIP §3.3.3] Why can futures and options amplify a market decline?
 
 - a. Because leverage magnifies losses, forcing investors to reduce holdings to meet margin requirements and driving the market down further
 - b. Because they are only traded by retail investors
@@ -1662,7 +1950,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 104. **[Single choice]** [CM-EIP §3.3.3] When does the triple witching hour occur in the US market?
+### 122. **[Single choice]** [CM-EIP §3.3.3] When does the triple witching hour occur in the US market?
 
 - a. The first Friday of each quarter, at the open
 - b. The third Friday of March, June, September and December, in the last trading hour
@@ -1678,7 +1966,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 105. **[Single choice]** [CM-EIP §3.3.4] What is hot money?
+### 123. **[Single choice]** [CM-EIP §3.3.4] What is hot money?
 
 - a. Money raised through an IPO
 - b. Money held in central bank reserves
@@ -1694,7 +1982,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 106. **[Single choice]** [CM-EIP §3.3.5] In a call market such as some French bourses, what is prioritised?
+### 124. **[Single choice]** [CM-EIP §3.3.5] In a call market such as some French bourses, what is prioritised?
 
 - a. Both price and timing equally
 - b. Neither price nor timing
@@ -1710,7 +1998,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 107. **[Single choice]** [CM-EIP §3.3.5] What is the principal concern about dark pools for less sophisticated participants?
+### 125. **[Single choice]** [CM-EIP §3.3.5] What is the principal concern about dark pools for less sophisticated participants?
 
 - a. Internally agreed trade prices, together with the size and lack of transparency of participant identities, put them at a disadvantage
 - b. They only trade government bonds
@@ -1726,7 +2014,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 108. **[Single choice]** [CM-EIP §3.4.1] When does the herd instinct kick in most strongly?
+### 126. **[Single choice]** [CM-EIP §3.4.1] When does the herd instinct kick in most strongly?
 
 - a. When information is abundant and markets are calm
 - b. When information is scarce and threats seem imminent
@@ -1742,7 +2030,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 109. **[Single choice]** [CM-EIP §3.4.1] What was the market price-earnings ratio at the peak of the US Internet Dot.com Bubble?
+### 127. **[Single choice]** [CM-EIP §3.4.1] What was the market price-earnings ratio at the peak of the US Internet Dot.com Bubble?
 
 - a. 20x
 - b. 50x
@@ -1758,7 +2046,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 110. **[Single choice]** [CM-EIP §3.4.2] How does loss aversion affect portfolio behaviour?
+### 128. **[Single choice]** [CM-EIP §3.4.2] How does loss aversion affect portfolio behaviour?
 
 - a. Investors buy more of their losers immediately
 - b. Investors sell losing positions first to realise losses
@@ -1774,7 +2062,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 111. **[Single choice]** [CM-EIP §3.4.3] An investor who has committed funds to an investment only reads research supporting that investment. Which bias is this?
+### 129. **[Single choice]** [CM-EIP §3.4.3] An investor who has committed funds to an investment only reads research supporting that investment. Which bias is this?
 
 - a. Anchoring
 - b. Herd instinct
@@ -1790,7 +2078,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 112. **[Single choice]** [CM-EIP §3.5] Which of the following is a market-driven factor rather than a fundamental factor?
+### 130. **[Single choice]** [CM-EIP §3.5] Which of the following is a market-driven factor rather than a fundamental factor?
 
 - a. Liquidity and funds flow
 - b. Firm-specific competitive advantage
@@ -1806,9 +2094,105 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
+### 131. **[Single choice]** [CM-EIP §3.1.1] A share falls sharply in a day of rumour-driven panic selling, although the company's earnings outlook and the economic data are unchanged. Which group of drivers best explains this move?
+
+- a. Investment behaviour — herd instinct driven by greed and fear, which can drive asset values well above or below the levels justified by fundamentals.
+- b. Fundamental factors, because earnings determine the share price.
+- c. Market-driven factors, because a new IPO has drained funds from the market.
+- d. Fiscal policy, because government spending has changed.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Investment behaviour — herd instinct driven by greed and fear, which can drive asset values well above or below the levels justified by fundamentals.
+
+**Rationale:** Three groups of influence act on market price: fundamental factors (economic, industry and company-specific), market-driven factors (liquidity and funds flow, new issues, derivatives influence, market structure) and investment behaviour (herd instinct, loss aversion, cognitive bias). A panic sell-off with unchanged fundamentals is behavioural: the herd instinct kicks in especially when information is scarce and threats seem imminent, and can drive values well above or below fundamental levels.
+
+</details>
+
+### 132. **[Single choice]** [CM-EIP §3.2.3] A government announces a major programme of infrastructure development projects — new roads, rail lines and hospitals — to lift economic growth. Which component of GDP does this measure directly raise?
+
+- a. Consumption (C), because households spend more.
+- b. Private investment (I), because companies buy equipment.
+- c. Government spending (G), because infrastructure is government investment and consumption expenditure.
+- d. Net exports (NE), because exports rise immediately.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Government spending (G), because infrastructure is government investment and consumption expenditure.
+
+**Rationale:** GDP = C + I + G + NE, where G is government spending — both investment and consumption, including education, defence, capital investment, infrastructure and health services. More infrastructure development projects raise G directly. (Tax incentives for relocating factories raise I, lowering personal income tax raises C, and tariffs are intended to improve NE.) The spending then ripples through the economy via the multiplier effect — raising demand for materials, equipment, services and labour, then wages, profits and further consumption.
+
+</details>
+
+### 133. **[Single choice]** [CM-EIP §3.2.7] Which of the following is a lagging economic indicator — one whose peaks and troughs follow the aggregate economy and which is useful for confirming a turning point after it has occurred?
+
+- a. The Purchasing Managers' Index (PMI), a leading indicator; a reading of 50 or higher suggests expansion and below 50 indicates contraction.
+- b. Nonfarm payroll employment, a coincident indicator that moves in tandem with the economy.
+- c. Housing starts and building permits, a component of the Composite Leading Economic Index.
+- d. The average prime rate charged by banks.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. The average prime rate charged by banks.
+
+**Rationale:** Lagging indicators peak and trough after the aggregate economy and are useful for confirming turning points, typically lagging by a few quarters. The Conference Board's index of lagging indicators comprises seven components, including the average prime rate charged by banks (alongside the average duration of employment, the inventory-to-sales ratio, the change in labour cost per unit of output, outstanding commercial and industrial loans, consumer credit relative to personal income, and the change in CPI for services). The PMI is leading, nonfarm payrolls are coincident, and housing starts are a leading-indicator component.
+
+</details>
+
+### 134. **[Single choice]** [CM-EIP §3.2.10] An industry's sales growth is still above average at 12–20%, but it is no longer accelerating. New competitors are attracted by the industry's high historic margins, margins are declining, and companies with dominant share and established brands keep growing. Which stage of the industry life cycle is this?
+
+- a. Mature growth.
+- b. Early development, where sales are modest and margins very small or negative.
+- c. Rapid expansion, where earnings compound at 30–50%.
+- d. Decline, where sales growth cannot keep pace with the economy and investors should avoid the industry.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Mature growth.
+
+**Rationale:** The five industry life-cycle stages are early development, rapid expansion, mature growth, stabilisation and market maturity, and deceleration of growth and decline. In mature growth, demand is largely satisfied, sales growth stays above average (12–20%) but no longer accelerates, performance varies more between companies, new competition emerges attracted by high historic margins, margins decline, and companies with dominant share and established brands keep growing.
+
+</details>
+
+### 135. **[Single choice]** [CM-EIP §3.3.2] A government issues an unusually large volume of treasury bills and bonds of one particular maturity, and at the same time two of the largest regular buyers of its bonds sharply reduce their purchases. What is the likely short-term market effect, and which market-driven factor is it?
+
+- a. Excess liquidity, where cash piles up and drives a rally.
+- b. A derivatives-driven downward spiral from futures and put-option selling.
+- c. Hot money flowing in temporarily to exploit an arbitrage opportunity.
+- d. New securities issues — excessive issuance creates an oversupply in that maturity tranche, so bond prices may dip briefly to offer better yields for that tranche.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. New securities issues — excessive issuance creates an oversupply in that maturity tranche, so bond prices may dip briefly to offer better yields for that tranche.
+
+**Rationale:** The same oversupply logic that applies to equities applies in fixed income: excessive issuance of government T-bills and bonds of a particular maturity creates an oversupply in that maturity tranche, so bond prices may dip briefly to offer better yields for that tranche. The same occurs if there is a sudden reduction of interest by regular buyers of US Treasuries — if China or Japan decided to buy fewer US Treasury bonds, that would suddenly create excess supply. (For equities, several major IPOs at once similarly absorb funds at the expense of similar stocks already trading, as some investors take profit on existing stocks to participate.)
+
+</details>
+
+### 136. **[Single choice]** [CM-EIP §3.4.2] An investor is offered a choice between a certain gain of $500 and a 50/50 gamble that pays $1,000 or nothing — and chooses the certain $500. Offered a choice between a certain loss of $500 and a 50/50 gamble that loses $1,000 or nothing, the same investor chooses the gamble. Which behavioural bias does this pattern illustrate?
+
+- a. Herd instinct, following the crowd without independent decision-making.
+- b. Confirmation bias, seeking views aligned with her own.
+- c. Loss aversion — associated with prospect theory, preferring less uncertainty for gains and more uncertainty for losses, with a potential double negative impact.
+- d. The Efficient Market Hypothesis, which says price equals fair value.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Loss aversion — associated with prospect theory, preferring less uncertainty for gains and more uncertainty for losses, with a potential double negative impact.
+
+**Rationale:** Loss aversion is associated with prospect theory: individuals prefer less uncertainty for gains and more uncertainty for losses. The investor takes the certain gain (avoiding uncertainty over a gain) but gambles to avoid a certain loss (accepting uncertainty over a loss). In portfolios this shows up as selling profitable holdings to lock in positive returns while holding on to book losses on poorer performers in the hope of a rebound — the profitable securities sold may actually have more upside, while the losers may fall deeper into the red, a potential double negative impact. ---
+
+</details>
+
 ## Chapter 4 — Foreign Exchange
 
-### 113. **[Single choice]** [CM-EIP §4.1.1] In the quotation USD/SGD 1.2520, which currency is the base currency and what does the rate mean?
+### 137. **[Single choice]** [CM-EIP §4.1.1] In the quotation USD/SGD 1.2520, which currency is the base currency and what does the rate mean?
 
 - a. SGD is the base; SGD 1 = USD 1.2520
 - b. USD is the base; USD 1 = SGD 1.2520
@@ -1824,7 +2208,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 114. **[Single choice]** [CM-EIP §4.1.1] An investor borrowed USD to fund a SGD investment. How is the resulting foreign exchange position described?
+### 138. **[Single choice]** [CM-EIP §4.1.1] An investor borrowed USD to fund a SGD investment. How is the resulting foreign exchange position described?
 
 - a. Short both currencies
 - b. Long USD and short SGD
@@ -1840,7 +2224,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 115. **[Single choice]** [CM-EIP §4.1.1] What is the standard settlement period for a spot foreign exchange transaction?
+### 139. **[Single choice]** [CM-EIP §4.1.1] What is the standard settlement period for a spot foreign exchange transaction?
 
 - a. Five working days
 - b. Same day
@@ -1856,7 +2240,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 116. **[Single choice]** [CM-EIP §4.2.1] What is the effect of higher interest rates on a currency, all else equal?
+### 140. **[Single choice]** [CM-EIP §4.2.1] What is the effect of higher interest rates on a currency, all else equal?
 
 - a. They attract foreign capital inflow, causing the exchange rate to rise
 - b. They cause capital outflow, weakening the currency
@@ -1872,7 +2256,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 117. **[Single choice]** [CM-EIP §4.2.2] What happened to the New Venezuelan Bolivar on the day of its launch in August 2018?
+### 141. **[Single choice]** [CM-EIP §4.2.2] What happened to the New Venezuelan Bolivar on the day of its launch in August 2018?
 
 - a. It appreciated 95%
 - b. It fell 95% in value
@@ -1888,7 +2272,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 118. **[Single choice]** [CM-EIP §4.2.4] Which countries successfully defended their currencies during the Asian Currency Crisis despite speculative attack?
+### 142. **[Single choice]** [CM-EIP §4.2.4] Which countries successfully defended their currencies during the Asian Currency Crisis despite speculative attack?
 
 - a. India, Philippines and Vietnam
 - b. Indonesia, Thailand and Malaysia
@@ -1904,7 +2288,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 119. **[Single choice]** [CM-EIP §4.2.5] What does a trade deficit imply for demand for the domestic currency, all else equal?
+### 143. **[Single choice]** [CM-EIP §4.2.5] What does a trade deficit imply for demand for the domestic currency, all else equal?
 
 - a. No change in demand
 - b. Immediate appreciation
@@ -1920,7 +2304,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 120. **[Single choice]** [CM-EIP §4.2.5] What does an improvement in a country's terms of trade imply?
+### 144. **[Single choice]** [CM-EIP §4.2.5] What does an improvement in a country's terms of trade imply?
 
 - a. Export prices rise by a greater rate than import prices, implying higher demand for the currency and appreciation
 - b. Import prices rise faster than export prices
@@ -1936,7 +2320,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 121. **[Single choice]** [CM-EIP §4.2.6] Why could Greece not inflate its way out of its public debt crisis?
+### 145. **[Single choice]** [CM-EIP §4.2.6] Why could Greece not inflate its way out of its public debt crisis?
 
 - a. Because its debt was denominated in gold
 - b. Because as a Eurozone member it had no monetary policy independence
@@ -1952,7 +2336,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 122. **[Single choice]** [CM-EIP §4.3] In what order do foreign exchange markets open through the trading day?
+### 146. **[Single choice]** [CM-EIP §4.3] In what order do foreign exchange markets open through the trading day?
 
 - a. New York, London, Tokyo, Sydney
 - b. London, New York, Tokyo, Sydney
@@ -1968,7 +2352,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 123. **[Single choice]** [CM-EIP §4.3] According to the BIS Triennial Survey, what was average daily foreign exchange turnover in April 2019?
+### 147. **[Single choice]** [CM-EIP §4.3] According to the BIS Triennial Survey, what was average daily foreign exchange turnover in April 2019?
 
 - a. USD2.0 trillion
 - b. USD3.2 trillion
@@ -1984,7 +2368,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 124. **[Single choice]** [CM-EIP §4.3] Which currency was on one side of 88% of all foreign exchange trades in April 2019?
+### 148. **[Single choice]** [CM-EIP §4.3] Which currency was on one side of 88% of all foreign exchange trades in April 2019?
 
 - a. The US dollar
 - b. The Japanese yen
@@ -2000,7 +2384,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 125. **[Single choice]** [CM-EIP §4.3] Which currencies are described as commodity currencies?
+### 149. **[Single choice]** [CM-EIP §4.3] Which currencies are described as commodity currencies?
 
 - a. CHF and JPY
 - b. AUD and ZAR
@@ -2016,7 +2400,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 126. **[Single choice]** [CM-EIP §4.4] What is a pip in foreign exchange?
+### 150. **[Single choice]** [CM-EIP §4.4] What is a pip in foreign exchange?
 
 - a. 1% of the exchange rate
 - b. 0.01, the second decimal place
@@ -2032,7 +2416,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 127. **[Calculation]** [CM-EIP §4.4.1] A dealer quotes USD/SGD 1.2520-25. What is the spread in basis points?
+### 151. **[Calculation]** [CM-EIP §4.4.1] A dealer quotes USD/SGD 1.2520-25. What is the spread in basis points?
 
 - a. 0.5 basis points
 - b. 50 basis points
@@ -2048,7 +2432,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 128. **[Single choice]** [CM-EIP §4.4.1] When a client asks a bank for a quote, at which prices does the client transact?
+### 152. **[Single choice]** [CM-EIP §4.4.1] When a client asks a bank for a quote, at which prices does the client transact?
 
 - a. Buys at the offer and sells at the bid
 - b. Buys and sells at the mid rate
@@ -2064,7 +2448,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 129. **[Single choice]** [CM-EIP §4.4.2] Which of the following is a direct quote in Singapore?
+### 153. **[Single choice]** [CM-EIP §4.4.2] Which of the following is a direct quote in Singapore?
 
 - a. GBP/USD 1.6816
 - b. USD/SGD 1.2520
@@ -2080,7 +2464,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 130. **[Calculation]** [CM-EIP §4.4.3] In Singapore the direct quote is USD/SGD 1.2520. What is the corresponding indirect quote SGD/USD?
+### 154. **[Calculation]** [CM-EIP §4.4.3] In Singapore the direct quote is USD/SGD 1.2520. What is the corresponding indirect quote SGD/USD?
 
 - a. 1.0000
 - b. 0.8000
@@ -2096,7 +2480,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 131. **[Single choice]** [CM-EIP §4.4.3] Which currencies are quoted as the base currency against the US dollar, contrary to the usual convention?
+### 155. **[Single choice]** [CM-EIP §4.4.3] Which currencies are quoted as the base currency against the US dollar, contrary to the usual convention?
 
 - a. CHF, CAD and SEK
 - b. INR, IDR and THB
@@ -2112,7 +2496,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 132. **[Calculation]** [CM-EIP §4.4.4] USD/SGD is 1.3362/1.3382 and USD/JPY is 112.6530/112.7330. What is the SGD/JPY bid rate?
+### 156. **[Calculation]** [CM-EIP §4.4.4] USD/SGD is 1.3362/1.3382 and USD/JPY is 112.6530/112.7330. What is the SGD/JPY bid rate?
 
 - a. 84.1825
 - b. 84.3684
@@ -2128,7 +2512,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 133. **[Single choice]** [CM-EIP §4.5] What does an investor forfeit by covering a foreign currency exposure with a forward contract?
+### 157. **[Single choice]** [CM-EIP §4.5] What does an investor forfeit by covering a foreign currency exposure with a forward contract?
 
 - a. The right to receive dividends
 - b. Potential gains from favourable movements in market rates
@@ -2144,7 +2528,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 134. **[Single choice]** [CM-EIP §4.5.1] Which currency generally trades at a forward discount?
+### 158. **[Single choice]** [CM-EIP §4.5.1] Which currency generally trades at a forward discount?
 
 - a. Both currencies equally
 - b. Neither, since forward rates equal spot rates
@@ -2160,7 +2544,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 135. **[Calculation]** [CM-EIP §4.5.2] Spot USD/SGD is 1.2520, the USD rate is 1.75% and the SGD rate is 0.75%, for 30 days. What are the forward points?
+### 159. **[Calculation]** [CM-EIP §4.5.2] Spot USD/SGD is 1.2520, the USD rate is 1.75% and the SGD rate is 0.75%, for 30 days. What are the forward points?
 
 - a. +10 points
 - b. −100 points
@@ -2176,7 +2560,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 136. **[Single choice]** [CM-EIP §4.5.2] What do forward points reflect?
+### 160. **[Single choice]** [CM-EIP §4.5.2] What do forward points reflect?
 
 - a. The relative interest rates of the two currencies only
 - b. The credit risk of the counterparties
@@ -2192,7 +2576,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 137. **[Calculation]** [CM-EIP §4.5.3] The USD interest rate is 6%, the GBP rate is 5%, and GBP spot is USD 1.50. What is the one-year forward rate?
+### 161. **[Calculation]** [CM-EIP §4.5.3] The USD interest rate is 6%, the GBP rate is 5%, and GBP spot is USD 1.50. What is the one-year forward rate?
 
 - a. USD 1.5000
 - b. USD 1.5143
@@ -2208,7 +2592,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 138. **[Calculation]** [CM-EIP §4.5.3] With the parity forward at USD 1.5143 but the market quoting USD 1.5100, an arbitrageur borrows GBP 1,000,000 at 5%, sells spot at 1.50, invests USD at 6% and buys GBP forward at 1.5100. What is the profit?
+### 162. **[Calculation]** [CM-EIP §4.5.3] With the parity forward at USD 1.5143 but the market quoting USD 1.5100, an arbitrageur borrows GBP 1,000,000 at 5%, sells spot at 1.50, invests USD at 6% and buys GBP forward at 1.5100. What is the profit?
 
 - a. USD 1,500
 - b. USD 4,050
@@ -2224,7 +2608,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 139. **[Calculation]** [CM-EIP §4.5.4] USD/JPY spot is 119.22/25 and one-month forward points are 52/51. What is the outright one-month rate?
+### 163. **[Calculation]** [CM-EIP §4.5.4] USD/JPY spot is 119.22/25 and one-month forward points are 52/51. What is the outright one-month rate?
 
 - a. 119.2252/119.2551
 - b. 119.2720/119.2760
@@ -2240,7 +2624,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 140. **[Calculation]** [CM-EIP §4.5.4] AUD/USD spot is 0.6475/80 and one-month forward points are 17/21. What is the outright one-month rate?
+### 164. **[Calculation]** [CM-EIP §4.5.4] AUD/USD spot is 0.6475/80 and one-month forward points are 17/21. What is the outright one-month rate?
 
 - a. 0.6492/0.6501
 - b. 0.6458/0.6459
@@ -2256,7 +2640,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 141. **[Single choice]** [CM-EIP §4.5.5] What is the key difference between a non-deliverable forward and a regular FX forward?
+### 165. **[Single choice]** [CM-EIP §4.5.5] What is the key difference between a non-deliverable forward and a regular FX forward?
 
 - a. An NDF has a longer tenor
 - b. There is no physical delivery or exchange of the domestic currency in the offshore market
@@ -2272,7 +2656,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 142. **[Single choice]** [CM-EIP §4.5.5] What is the normal tenor of a non-deliverable forward contract?
+### 166. **[Single choice]** [CM-EIP §4.5.5] What is the normal tenor of a non-deliverable forward contract?
 
 - a. Five years or more
 - b. One week to one month
@@ -2288,7 +2672,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 143. **[Calculation]** [CM-EIP §4.5.5] A client must pay CNY 10 million in three months. USD/CNY spot is 6.5845. If USD/CNY falls 5% to 6.2553, what is the additional USD cost compared with the current rate?
+### 167. **[Calculation]** [CM-EIP §4.5.5] A client must pay CNY 10 million in three months. USD/CNY spot is 6.5845. If USD/CNY falls 5% to 6.2553, what is the additional USD cost compared with the current rate?
 
 - a. USD 72,314
 - b. USD 1,598,644
@@ -2304,7 +2688,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 144. **[Single choice]** [CM-EIP §4.6] Why is credit risk in a foreign exchange transaction only a fraction of the total transaction amount?
+### 168. **[Single choice]** [CM-EIP §4.6] Why is credit risk in a foreign exchange transaction only a fraction of the total transaction amount?
 
 - a. Because the transaction is an exchange of buy and sell, not an outright extension of credit
 - b. Because FX is exchange-traded
@@ -2320,7 +2704,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 145. **[Single choice]** [CM-EIP §4.6] When does settlement or delivery risk arise in a foreign exchange transaction?
+### 169. **[Single choice]** [CM-EIP §4.6] When does settlement or delivery risk arise in a foreign exchange transaction?
 
 - a. At the moment the trade is agreed
 - b. In the period just before settlement, which in FX is two days before payment
@@ -2336,7 +2720,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 146. **[Single choice]** [CM-EIP §4.7.1] Which exchange rate regime involves a country adopting another nation's currency as legal tender?
+### 170. **[Single choice]** [CM-EIP §4.7.1] Which exchange rate regime involves a country adopting another nation's currency as legal tender?
 
 - a. Managed soft peg
 - b. Currency board
@@ -2352,7 +2736,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 147. **[Single choice]** [CM-EIP §4.7.1] Under the Currency Interchangeability Agreement of 1967, how is the Brunei dollar related to the Singapore dollar?
+### 171. **[Single choice]** [CM-EIP §4.7.1] Under the Currency Interchangeability Agreement of 1967, how is the Brunei dollar related to the Singapore dollar?
 
 - a. It is convertible only for trade payments
 - b. It is not related
@@ -2368,7 +2752,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 148. **[Single choice]** [CM-EIP §4.7.1] What did China's defence of the CNY between July 2014 and December 2016 cost in foreign reserves?
+### 172. **[Single choice]** [CM-EIP §4.7.1] What did China's defence of the CNY between July 2014 and December 2016 cost in foreign reserves?
 
 - a. Almost USD 1 trillion, about 25%
 - b. Almost USD 100 billion, about 5%
@@ -2384,7 +2768,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 149. **[Calculation]** [CM-EIP §4.7.2] A Singapore firm buys a GBP 1 million UK property, borrowing 80% of the value. GBP/SGD is 1.8060 and the GBP depreciates 5% to 1.7157 in a year. If the firm borrows in SGD, what is the loss?
+### 173. **[Calculation]** [CM-EIP §4.7.2] A Singapore firm buys a GBP 1 million UK property, borrowing 80% of the value. GBP/SGD is 1.8060 and the GBP depreciates 5% to 1.7157 in a year. If the firm borrows in SGD, what is the loss?
 
 - a. −SGD 1,444,800
 - b. −SGD 90,300
@@ -2400,7 +2784,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 150. **[Calculation]** [CM-EIP §4.7.2] Using the same property example, if the firm borrows in GBP instead, what is the loss?
+### 174. **[Calculation]** [CM-EIP §4.7.2] Using the same property example, if the firm borrows in GBP instead, what is the loss?
 
 - a. −SGD 343,140
 - b. −SGD 361,200
@@ -2416,7 +2800,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 151. **[Single choice]** [CM-EIP §4.7.3] What does a currency carry trade rely on to be profitable?
+### 175. **[Single choice]** [CM-EIP §4.7.3] What does a currency carry trade rely on to be profitable?
 
 - a. Falling interest rates in the invested currency
 - b. A strengthening borrowing currency
@@ -2432,7 +2816,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 152. **[Single choice]** [CM-EIP §4.7.3] In the JPY/AUD carry trade from 2008 to 2016, in which years did the strategy fail?
+### 176. **[Single choice]** [CM-EIP §4.7.3] In the JPY/AUD carry trade from 2008 to 2016, in which years did the strategy fail?
 
 - a. 2008, 2011 and 2015
 - b. 2010, 2013 and 2016
@@ -2448,7 +2832,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 153. **[Calculation]** [CM-EIP §4.7.3] In 2008 the AUD fell 34.2% against the JPY and 19% against the SGD. What was the net loss on a JPY 100 million borrowing invested in AUD at 7%?
+### 177. **[Calculation]** [CM-EIP §4.7.3] In 2008 the AUD fell 34.2% against the JPY and 19% against the SGD. What was the net loss on a JPY 100 million borrowing invested in AUD at 7%?
 
 - a. −SGD 6,240
 - b. −SGD 503,946
@@ -2464,7 +2848,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 154. **[Single choice]** [CM-EIP §4.8] Which of the following is NOT one of the leading factors explaining exchange rate fluctuations?
+### 178. **[Single choice]** [CM-EIP §4.8] Which of the following is NOT one of the leading factors explaining exchange rate fluctuations?
 
 - a. Inflation rates
 - b. Political stability
@@ -2480,9 +2864,169 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
+### 179. **[Single choice]** [CM-EIP §4.3] A Singapore fund manager notes that she can trade USD/SGD at almost any hour, that there is no single exchange building where all FX trading takes place, and that the US dollar appears on one side of most trades. Which statement best describes the foreign exchange market?
+
+- a. It is a single centralised exchange that trades only during London hours, and the euro is the dominant vehicle currency.
+- b. It is a decentralised, over-the-counter market operating round the clock through Sydney, Tokyo, Singapore/Hong Kong, London, New York and San Francisco, with the USD on one side of 88% of trades (BIS, April 2019) and average daily turnover of USD 6.6 trillion.
+- c. It is a centralised market in which spot trading is the largest segment, at about half of all turnover.
+- d. It trades only spot transactions, because forwards and swaps are dealt on stock exchanges.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. It is a decentralised, over-the-counter market operating round the clock through Sydney, Tokyo, Singapore/Hong Kong, London, New York and San Francisco, with the USD on one side of 88% of trades (BIS, April 2019) and average daily turnover of USD 6.6 trillion.
+
+**Rationale:** The FX market is not confined to a specific geographical location; dealing runs continuously across the centres listed, the USD is on one side of 88% of trades, and BIS April 2019 daily turnover was USD 6.6 trillion. FX swaps (USD 3.2 trillion) — not spot (USD 2 trillion) — are almost half of turnover.
+
+</details>
+
+### 180. **[Single choice]** [CM-EIP §4.1] A dealer quotes USD/SGD 1.3400. A client asks what the quotation means and what a "pip" is. Which answer is correct?
+
+- a. USD 1 = SGD 1.3400, with USD the base currency and SGD the counter (term) currency; a pip is 0.0001, the fourth decimal place and the smallest unit of price movement.
+- b. SGD 1 = USD 1.3400, with SGD the base currency; a pip is 0.01.
+- c. USD 1 = SGD 1.3400, with SGD the base currency; a pip is one basis point of the interest rate.
+- d. USD 1 = SGD 0.7463, because the quoted figure is always the reciprocal of the rate paid.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. USD 1 = SGD 1.3400, with USD the base currency and SGD the counter (term) currency; a pip is 0.0001, the fourth decimal place and the smallest unit of price movement.
+
+**Rationale:** In USD/SGD the first-listed currency is the base and the second is the counter/term currency, so USD 1 = SGD 1.3400. A pip is 0.0001 (fourth decimal place), the FX equivalent of a basis point. Option D confuses the quote with its reciprocal (1/1.3400 = 0.7463 is the indirect SGD/USD quote).
+
+</details>
+
+### 181. **[Single choice]** [CM-EIP §4.4.2] A Singapore-based adviser and a London-based adviser both look at the pound against the US dollar. In Singapore the quote is USD/GBP; in London it is GBP/USD 1.6816. Which statement is correct?
+
+- a. Direct and indirect quotes are fixed labels for a currency pair and never change with location.
+- b. GBP/USD is always a direct quote everywhere, because the pound is always the foreign currency.
+- c. GBP/USD 1.6816 means USD 1 = GBP 1.6816.
+- d. The London quote GBP/USD 1.6816 is an indirect quote in the UK — GBP is the domestic currency there, so 1 GBP = USD 1.6816 — while the same pair quoted as USD/GBP in Singapore would be a direct quote; whether a quote is direct or indirect depends on which currency is domestic, and the indirect quote is the reciprocal of the direct quote.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. The London quote GBP/USD 1.6816 is an indirect quote in the UK — GBP is the domestic currency there, so 1 GBP = USD 1.6816 — while the same pair quoted as USD/GBP in Singapore would be a direct quote; whether a quote is direct or indirect depends on which currency is domestic, and the indirect quote is the reciprocal of the direct quote.
+
+**Rationale:** A direct quote expresses one unit of foreign currency in domestic currency (foreign/domestic); an indirect quote expresses one unit of domestic currency in foreign currency (domestic/foreign). GBP, AUD, NZD and EUR are quoted as base against the USD (the sterling-bloc / American convention), so GBP/USD is indirect in the UK; the label depends on the home currency, and the indirect quote is the reciprocal of the direct quote.
+
+</details>
+
+### 182. **[Calculation]** [CM-EIP §4.4.4] A dealer quotes USD/SGD 1.3400/1.3420 and USD/JPY 148.20/148.40. What is the SGD/JPY cross rate (bid/ask)?
+
+- a. 110.43/110.75 — calculated by dividing the USD/JPY bid by the USD/SGD ask for the bid, and the USD/JPY ask by the USD/SGD bid for the ask.
+- b. 110.75/110.43 — the bid must always be higher than the ask.
+- c. 198.59/199.19 — calculated by multiplying the two bids and the two asks.
+- d. 110.60/110.60 — a cross rate has no spread.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. 110.43/110.75 — calculated by dividing the USD/JPY bid by the USD/SGD ask for the bid, and the USD/JPY ask by the USD/SGD bid for the ask.
+
+**Rationale:** The rule is: divide the term currency on the same side of the spread by the base currency on the opposite side. SGD/JPY bid = USD/JPY bid ÷ USD/SGD ask = 148.20 / 1.3420 = 110.43. SGD/JPY ask = USD/JPY ask ÷ USD/SGD bid = 148.40 / 1.3400 = 110.75. (Multiplying would apply only where the common currency, USD, is the term currency in both quotes.)
+
+</details>
+
+### 183. **[Single choice]** [CM-EIP §4.4.1] A bank quotes USD/SGD 1.3400–1.3405. A client wants to buy USD 1 million and later sell USD 1 million. Which statement is correct?
+
+- a. The client buys at 1.3400 and sells at 1.3405, because the bid is always the higher price.
+- b. The client buys at the offer of 1.3405 and sells at the bid of 1.3400; the spread is 0.0005 (5 pips) and is the dealer's profit, widening when uncertainty and volatility rise.
+- c. The spread is 5 basis points of the interest rate, and it narrows when volatility rises.
+- d. The price taker always buys at the bid and sells at the offer.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. The client buys at the offer of 1.3405 and sells at the bid of 1.3400; the spread is 0.0005 (5 pips) and is the dealer's profit, widening when uncertainty and volatility rise.
+
+**Rationale:** The bid is where the dealer buys and the offer (ask) is where the dealer sells. The price taker always buys at the offer and sells at the bid — the price is always against the price taker. Spread = 1.3405 − 1.3400 = 0.0005 = 5 pips; the spread varies with market conditions and transaction size and widens with greater uncertainty and volatility.
+
+</details>
+
+### 184. **[Single choice]** [CM-EIP §4.1] On Monday, a treasurer agrees to exchange SGD for USD for settlement on Wednesday, and separately agrees a rate today for an exchange that will settle in three months. Which statement is correct?
+
+- a. The Wednesday exchange is a spot transaction (settlement in two working days, value spot); the three-month exchange is a forward transaction, a contract to exchange at a future date later than spot at a rate fixed on the trade date.
+- b. Both are spot transactions, because both rates were agreed today.
+- c. The Wednesday exchange is a forward transaction, and the three-month exchange is a spot transaction.
+- d. A spot transaction settles the same day (value today) only; settlement in two working days is a forward.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. The Wednesday exchange is a spot transaction (settlement in two working days, value spot); the three-month exchange is a forward transaction, a contract to exchange at a future date later than spot at a rate fixed on the trade date.
+
+**Rationale:** Most FX transactions are spot deals for delivery in two working days (value spot); value today (same day) and value tomorrow (next day) also exist. A forward is a contract to exchange one currency for another at a future date later than spot, at a rate determined on the trade date, fixing the cost of exchange for a known future commitment.
+
+</details>
+
+### 185. **[Calculation]** [CM-EIP §4.5.1] Spot USD/SGD is 1.3400. The 90-day USD interest rate is 4.00% p.a. and the 90-day SGD rate is 2.00% p.a. (n/360 convention). What are the 90-day forward points and the outright forward rate?
+
+- a. +66 points; forward 1.3466, because the lower-rate currency trades at a discount.
+- b. −133 points; forward 1.3267.
+- c. −66 points; forward 1.3334 — the USD, the higher-interest-rate currency, trades at a forward discount.
+- d. 0 points; forward 1.3400, because forward points are a forecast of the future spot rate.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. −66 points; forward 1.3334 — the USD, the higher-interest-rate currency, trades at a forward discount.
+
+**Rationale:** Forward points = S × (Rc − Rb) × n/360 ÷ [1 + Rb × n/360], where S = 1.3400, Rc (counter, SGD) = 2.00%, Rb (base, USD) = 4.00%, n = 90. Numerator: 1.3400 × (0.02 − 0.04) × 90/360 = 1.3400 × (−0.02) × 0.25 = −0.0067. Denominator: 1 + 0.04 × 0.25 = 1.01. Forward points = −0.0067 / 1.01 = −0.0066 (about −66 points). Forward rate = 1.3400 − 0.0066 = 1.3334. The higher-interest-rate currency trades at a forward discount; forward points reflect only relative interest rates, not a forecast of the future spot rate.
+
+</details>
+
+### 186. **[Calculation]** [CM-EIP §4.5.3] Spot GBP/USD is 1.2500. The 1-year USD rate is 4% and the 1-year GBP rate is 2%. The 1-year forward is quoted at USD 1.2700 per GBP. An arbitrageur borrows GBP 1,000,000 for one year. What is the interest-rate-parity forward rate, and what risk-free profit does covered interest arbitrage earn?
+
+- a. Parity forward 1.2745; profit USD 4,600.
+- b. Parity forward 1.2700; no profit, because the quoted forward equals parity.
+- c. Parity forward 1.2255; profit USD 4,600 by borrowing USD instead.
+- d. Parity forward 1.2745; loss USD 4,600.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Parity forward 1.2745; profit USD 4,600.
+
+**Rationale:** Interest rate parity: F = S × [(1 + Rc × n/360) / (1 + Rb × n/360)]. Here GBP is the base and USD the counter, so F = 1.2500 × (1.04 / 1.02) = 1.2745. The quoted 1.2700 is below parity, so arbitrage works: (1) borrow GBP 1,000,000 at 2%, repayment due GBP 1,020,000; (2) sell at spot 1.2500, receiving USD 1,250,000; (3) invest at 4% for one year, receiving USD 1,300,000; (4) buy GBP 1,020,000 forward at 1.2700, paying USD 1,295,400; (5) profit = 1,300,000 − 1,295,400 = USD 4,600, with the net position closed out. Arbitrageurs' actions force rates back into alignment.
+
+</details>
+
+### 187. **[Single choice]** [CM-EIP §4.5.5] A Singapore importer must pay a supplier in Vietnamese dong in six months but cannot freely trade VND offshore because of capital controls. Which instrument fits, and how does it settle?
+
+- a. A spot transaction, which fixes the rate for six months.
+- b. An outright deliverable forward, which requires physical delivery of VND offshore.
+- c. A non-deliverable forward (NDF): a cash-settled, short-term forward contract, typically quoted with USD as the reference currency and tenor of 1 month to 1 year, with no physical delivery of the restricted currency and no exchange of the notional — only the difference between the contracted NDF rate and the spot rate at settlement is paid.
+- d. An NDF, which exchanges the full notional in VND at maturity and is used only for freely traded currencies.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. A non-deliverable forward (NDF): a cash-settled, short-term forward contract, typically quoted with USD as the reference currency and tenor of 1 month to 1 year, with no physical delivery of the restricted currency and no exchange of the notional — only the difference between the contracted NDF rate and the spot rate at settlement is paid.
+
+**Rationale:** An NDF is used to hedge exposure to currencies that are not internationally traded or whose trade is limited by capital controls (the guide names China, Taiwan, Vietnam and Indonesia). It is an OTC, cash-settled, short-term forward (normal tenor 1 month to 1 year), typically quoted with USD as reference; there is no physical delivery or exchange of the domestic currency and no exchange of the notional — only the difference between the agreed NDF rate and the spot rate at settlement is settled. NDFs also provide arbitrage opportunities and allow speculative positions.
+
+</details>
+
+### 188. **[Single choice]** [CM-EIP §4.6] Which pairing of FX risk and management method is correct?
+
+- a. A carry trade eliminates FX risk, because the interest differential is always larger than any exchange-rate move.
+- b. Credit risk in FX equals the full transaction amount, because an FX deal is an outright extension of credit.
+- c. Price liquidity risk affects only less-traded currencies and can never affect major currencies.
+- d. Market risk (movement and volatility of FX rates) is managed by hedging with forwards, options or swaps, or by borrowing in the currency of the investment as a natural hedge; settlement/delivery risk — counterparty failure to pay on time, arising in the period just before settlement (2 days before payment) — has been significantly reduced by Continuous Linked Settlement (CLS).
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Market risk (movement and volatility of FX rates) is managed by hedging with forwards, options or swaps, or by borrowing in the currency of the investment as a natural hedge; settlement/delivery risk — counterparty failure to pay on time, arising in the period just before settlement (2 days before payment) — has been significantly reduced by Continuous Linked Settlement (CLS).
+
+**Rationale:** The four FX risks are market risk, price liquidity (in less-traded currencies, and even in major currencies during an extreme event such as a major power failure), credit risk, and settlement/delivery risk. Credit risk is only a fraction of the transaction amount because the transaction is an exchange, not a loan. Settlement risk arises 2 days before payment and CLS has reduced it significantly. Hedging tools include forwards, futures, options and swaps, plus borrowing in the investment currency as a natural hedge. A carry trade does not eliminate risk: an adverse FX move can wipe out the interest differential (the guide's JPY/AUD example failed in 2008, 2011 and 2015).
+
+</details>
+
 ## Chapter 5 — Company Analysis and Understanding Financial Statements
 
-### 155. **[Single choice]** [CM-EIP §5.1] Why is company analysis relevant beyond equity analysis?
+### 189. **[Single choice]** [CM-EIP §5.1] Why is company analysis relevant beyond equity analysis?
 
 - a. Because bonds are legally equities
 - b. Because regulators require it
@@ -2498,7 +3042,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 156. **[Single choice]** [CM-EIP §5.1] Why does the guide argue that qualitative factors matter more than ratios?
+### 190. **[Single choice]** [CM-EIP §5.1] Why does the guide argue that qualitative factors matter more than ratios?
 
 - a. Because qualitative factors drive and precede the quantitative outcomes
 - b. Because ratios cannot be calculated for most companies
@@ -2514,7 +3058,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 157. **[Single choice]** [CM-EIP §5.2] Which competitive advantage is illustrated by De Beers, which still controls about 30–35% of world diamond supply?
+### 191. **[Single choice]** [CM-EIP §5.2] Which competitive advantage is illustrated by De Beers, which still controls about 30–35% of world diamond supply?
 
 - a. Superior brand differentiation
 - b. Control over key resource supply
@@ -2530,7 +3074,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 158. **[Single choice]** [CM-EIP §5.2] How many core businesses do diversified companies with shared costs typically hold?
+### 192. **[Single choice]** [CM-EIP §5.2] How many core businesses do diversified companies with shared costs typically hold?
 
 - a. More than 10
 - b. 1–2
@@ -2546,7 +3090,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 159. **[Single choice]** [CM-EIP §5.3.2] Which accounting standard applies to listed companies in Singapore?
+### 193. **[Single choice]** [CM-EIP §5.3.2] Which accounting standard applies to listed companies in Singapore?
 
 - a. Neither
 - b. Both, at the company's choice
@@ -2562,7 +3106,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 160. **[Single choice]** [CM-EIP §5.3.2] What is a qualified audit report?
+### 194. **[Single choice]** [CM-EIP §5.3.2] What is a qualified audit report?
 
 - a. A report issued when the auditors are not completely satisfied with how the financial statements are prepared
 - b. A report issued only for banks
@@ -2578,7 +3122,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 161. **[Single choice]** [CM-EIP §5.4] Which balance sheet equation is used in British practice?
+### 195. **[Single choice]** [CM-EIP §5.4] Which balance sheet equation is used in British practice?
 
 - a. Assets = Liabilities + Shareholders' Equity
 - b. Assets − Liabilities = Shareholders' Equity
@@ -2594,7 +3138,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 162. **[Single choice]** [CM-EIP §5.4] What does a common size balance sheet express each item as a percentage of?
+### 196. **[Single choice]** [CM-EIP §5.4] What does a common size balance sheet express each item as a percentage of?
 
 - a. Total liabilities
 - b. Sales revenue
@@ -2610,7 +3154,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 163. **[Single choice]** [CM-EIP §5.5.1] What is the principal disadvantage of holding a perpetually large cash balance?
+### 197. **[Single choice]** [CM-EIP §5.5.1] What is the principal disadvantage of holding a perpetually large cash balance?
 
 - a. It reduces the current ratio
 - b. It increases leverage
@@ -2626,7 +3170,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 164. **[Single choice]** [CM-EIP §5.5.2] Which of the following is a warning signal for a retailer?
+### 198. **[Single choice]** [CM-EIP §5.5.2] Which of the following is a warning signal for a retailer?
 
 - a. A sudden build-up in inventories amid falling sales
 - b. A steady inventory level with rising sales
@@ -2642,7 +3186,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 165. **[Single choice]** [CM-EIP §5.5.3] Approximately what proportion of an airline's assets are accounts receivables, and why?
+### 199. **[Single choice]** [CM-EIP §5.5.3] Approximately what proportion of an airline's assets are accounts receivables, and why?
 
 - a. About 50%, because airlines sell on credit
 - b. Less than 5%, because airline ticket sales are largely cash-based
@@ -2658,7 +3202,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 166. **[Single choice]** [CM-EIP §5.5.5] Why was Apple's plant, property and equipment only 7–8% of overall assets in its 2015/16 accounts?
+### 200. **[Single choice]** [CM-EIP §5.5.5] Why was Apple's plant, property and equipment only 7–8% of overall assets in its 2015/16 accounts?
 
 - a. Because Apple leases all its equipment
 - b. Because Apple sold its factories
@@ -2674,7 +3218,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 167. **[Single choice]** [CM-EIP §5.5.6] What proportion of total assets do property holdings typically represent for Asian property companies, including holdings through associates and joint ventures?
+### 201. **[Single choice]** [CM-EIP §5.5.6] What proportion of total assets do property holdings typically represent for Asian property companies, including holdings through associates and joint ventures?
 
 - a. 95–100%
 - b. 20–30%
@@ -2690,7 +3234,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 168. **[Single choice]** [CM-EIP §5.5.7] Why does a goodwill write-down improve reported ROE in subsequent years?
+### 202. **[Single choice]** [CM-EIP §5.5.7] Why does a goodwill write-down improve reported ROE in subsequent years?
 
 - a. Because it reduces equity, the denominator, without any operational change
 - b. Because it increases total assets
@@ -2706,7 +3250,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 169. **[Single choice]** [CM-EIP §5.6.1] What happened to Southeast Asian companies that financed operations with USD-denominated Eurobonds during the 1997 crisis?
+### 203. **[Single choice]** [CM-EIP §5.6.1] What happened to Southeast Asian companies that financed operations with USD-denominated Eurobonds during the 1997 crisis?
 
 - a. Their debt fell in local currency terms
 - b. Their USD borrowings quadrupled in local currency terms when the Rupiah and Baht fell more than 75%
@@ -2722,7 +3266,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 170. **[Single choice]** [CM-EIP §5.6.2] What does a build-up of accounts payables each quarter accompanied by falling sales suggest?
+### 204. **[Single choice]** [CM-EIP §5.6.2] What does a build-up of accounts payables each quarter accompanied by falling sales suggest?
 
 - a. An increase in credit sales
 - b. Strong bargaining power with suppliers
@@ -2738,7 +3282,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 171. **[Single choice]** [CM-EIP §5.7.3] How are hidden reserves created in a bank?
+### 205. **[Single choice]** [CM-EIP §5.7.3] How are hidden reserves created in a bank?
 
 - a. By issuing new shares
 - b. By paying high dividends
@@ -2754,7 +3298,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 172. **[Calculation]** [CM-EIP §5.8] A company's revenue falls 76% while operating expenses fall only 60%. What does this illustrate?
+### 206. **[Calculation]** [CM-EIP §5.8] A company's revenue falls 76% while operating expenses fall only 60%. What does this illustrate?
 
 - a. That costs are more inelastic than revenue, so a revenue fall produces an operating loss
 - b. That the company is overstaffed
@@ -2770,7 +3314,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 173. **[Single choice]** [CM-EIP §5.8.1] Into which two components should sales revenue growth be broken down?
+### 207. **[Single choice]** [CM-EIP §5.8.1] Into which two components should sales revenue growth be broken down?
 
 - a. Domestic and international sales
 - b. Unit sales growth and pricing changes
@@ -2786,7 +3330,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 174. **[Single choice]** [CM-EIP §5.8.3] How can depreciation expense be used to cosmetically improve reported profit?
+### 208. **[Single choice]** [CM-EIP §5.8.3] How can depreciation expense be used to cosmetically improve reported profit?
 
 - a. By increasing the asset base
 - b. By shortening the depreciation period
@@ -2802,7 +3346,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 175. **[Single choice]** [CM-EIP §5.9] Why is the cash flow statement particularly important for capital-intensive industries?
+### 209. **[Single choice]** [CM-EIP §5.9] Why is the cash flow statement particularly important for capital-intensive industries?
 
 - a. Because it replaces the income statement
 - b. Because it is audited
@@ -2818,7 +3362,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 176. **[Single choice]** [CM-EIP §5.9] What is the bondholder's central concern in the cash flow statement?
+### 210. **[Single choice]** [CM-EIP §5.9] What is the bondholder's central concern in the cash flow statement?
 
 - a. Consistently negative cash flow from operations
 - b. High capital expenditure
@@ -2834,7 +3378,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 177. **[Single choice]** [CM-EIP §5.10] Which share count is used to calculate book value per share?
+### 211. **[Single choice]** [CM-EIP §5.10] Which share count is used to calculate book value per share?
 
 - a. The weighted average number of shares
 - b. The total number of shares outstanding at the financial year-end
@@ -2850,7 +3394,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 178. **[Single choice]** [CM-EIP §5.10] Which share count is used to calculate dividend per share?
+### 212. **[Single choice]** [CM-EIP §5.10] Which share count is used to calculate dividend per share?
 
 - a. The fully diluted number of shares
 - b. The weighted average number of shares
@@ -2866,7 +3410,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 179. **[Calculation]** [CM-EIP §5.11.1] A company has current assets of $600,000 including inventory of $250,000, and current liabilities of $300,000. What is the quick ratio?
+### 213. **[Calculation]** [CM-EIP §5.11.1] A company has current assets of $600,000 including inventory of $250,000, and current liabilities of $300,000. What is the quick ratio?
 
 - a. 0.83
 - b. 1.50
@@ -2882,7 +3426,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 180. **[Single choice]** [CM-EIP §5.11.1] Why might a supermarket have a quick ratio as low as 0.2 without a liquidity problem?
+### 214. **[Single choice]** [CM-EIP §5.11.1] Why might a supermarket have a quick ratio as low as 0.2 without a liquidity problem?
 
 - a. Because its current assets are fast-moving consumer goods financed by short-term supplier credit
 - b. Because it holds no inventory
@@ -2898,7 +3442,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 181. **[Single choice]** [CM-EIP §5.11.1] What is window dressing in the context of liquidity ratios?
+### 215. **[Single choice]** [CM-EIP §5.11.1] What is window dressing in the context of liquidity ratios?
 
 - a. Reporting results more frequently
 - b. Collecting receivables early, reducing inventory below normal and delaying purchases near year-end to flatter the ratios
@@ -2914,7 +3458,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 182. **[Single choice]** [CM-EIP §5.11.1] A company has a current ratio of 1.5. It then increases both current assets and current liabilities by an equal dollar amount. What happens to the current ratio?
+### 216. **[Single choice]** [CM-EIP §5.11.1] A company has a current ratio of 1.5. It then increases both current assets and current liabilities by an equal dollar amount. What happens to the current ratio?
 
 - a. It becomes negative
 - b. It rises
@@ -2930,7 +3474,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 183. **[Single choice]** [CM-EIP §5.11.2] Which ratio is of primary interest to bondholders?
+### 217. **[Single choice]** [CM-EIP §5.11.2] Which ratio is of primary interest to bondholders?
 
 - a. Inventory turnover
 - b. Dividend yield
@@ -2946,7 +3490,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 184. **[Single choice]** [CM-EIP §5.11.2] How are debts carried on the balance sheet for the purpose of the debt-to-total assets ratio?
+### 218. **[Single choice]** [CM-EIP §5.11.2] How are debts carried on the balance sheet for the purpose of the debt-to-total assets ratio?
 
 - a. At face value, not revalued
 - b. At the present value of future cash flows
@@ -2962,7 +3506,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 185. **[Single choice]** [CM-EIP §5.11.3] A firm has an interest coverage ratio of −1 and another has −3, both having made the same trading loss. Which has higher financial risk?
+### 219. **[Single choice]** [CM-EIP §5.11.3] A firm has an interest coverage ratio of −1 and another has −3, both having made the same trading loss. Which has higher financial risk?
 
 - a. The firm with −3
 - b. The firm with −1, because it has higher financing charges
@@ -2978,7 +3522,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 186. **[Single choice]** [CM-EIP §5.11.4] Why do efficiency ratios use average balances in the denominator?
+### 220. **[Single choice]** [CM-EIP §5.11.4] Why do efficiency ratios use average balances in the denominator?
 
 - a. Because year-end balances are unavailable
 - b. Because averages are easier to compute
@@ -2994,7 +3538,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 187. **[Calculation]** [CM-EIP §5.11.4] Sales are $3,816 and average total assets are $35,647. What is the total asset turnover?
+### 221. **[Calculation]** [CM-EIP §5.11.4] Sales are $3,816 and average total assets are $35,647. What is the total asset turnover?
 
 - a. 0.11
 - b. 0.50
@@ -3010,7 +3554,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 188. **[Single choice]** [CM-EIP §5.11.4] What range of total asset turnover is typical across industries?
+### 222. **[Single choice]** [CM-EIP §5.11.4] What range of total asset turnover is typical across industries?
 
 - a. Always between 0.5 and 1.5
 - b. Always above 5
@@ -3026,7 +3570,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 189. **[Single choice]** [CM-EIP §5.11.5] What does the variability of the operating profit margin over time indicate?
+### 223. **[Single choice]** [CM-EIP §5.11.5] What does the variability of the operating profit margin over time indicate?
 
 - a. The firm's business risk
 - b. The firm's liquidity
@@ -3042,7 +3586,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 190. **[Single choice]** [CM-EIP §5.11.5] Why is ROA normally expressed before interest?
+### 224. **[Single choice]** [CM-EIP §5.11.5] Why is ROA normally expressed before interest?
 
 - a. Because interest is not an expense
 - b. To separate operating decisions from financing decisions and enable comparison of companies with different capital structures
@@ -3058,7 +3602,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 191. **[Single choice]** [CM-EIP §5.11.5] Why did IAG and United Airlines show high ROE in 2019 before the pandemic?
+### 225. **[Single choice]** [CM-EIP §5.11.5] Why did IAG and United Airlines show high ROE in 2019 before the pandemic?
 
 - a. Because they paid no dividends
 - b. Because their earnings were exceptionally strong
@@ -3074,7 +3618,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 192. **[Multiple response]** [CM-EIP §5.11.6] Which of the following are signs of strong and high-quality financial statements? (Select all that apply)
+### 226. **[Multiple response]** [CM-EIP §5.11.6] Which of the following are signs of strong and high-quality financial statements? (Select all that apply)
 
 - a. Limited or lower use of debt relative to the industry
 - b. Assets generally carried below market values
@@ -3090,7 +3634,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 193. **[Single choice]** [CM-EIP §5.11.7] Why must trend analysis cover at least one full business cycle?
+### 227. **[Single choice]** [CM-EIP §5.11.7] Why must trend analysis cover at least one full business cycle?
 
 - a. Because cycles are always five years long
 - b. Because regulators require it
@@ -3106,7 +3650,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 194. **[Single choice]** [CM-EIP §5.11.8] Which of the following is a limitation of ratio analysis?
+### 228. **[Single choice]** [CM-EIP §5.11.8] Which of the following is a limitation of ratio analysis?
 
 - a. Companies in emerging sectors with little comparable or reliable financial information do not lend themselves easily to ratio analysis
 - b. Ratios are always manipulated
@@ -3122,9 +3666,185 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
+### 229. **[Single choice]** [CM-EIP §5.1] An analyst is asked why company analysis matters for a bond investor, and whether ratios alone are enough. Which answer is correct?
+
+- a. Company analysis is relevant only to equity investors; bondholders need only the coupon rate.
+- b. Company analysis is equally relevant to credit analysis of bonds and any security whose payments depend on the issuer's continuing viability; it divides into qualitative and quantitative analysis, asset prices move on future prospects, qualitative factors drive performance and precede the numbers, and an excellent company can look expensive yet still be a good investment if sustainable earnings growth catches up with valuation.
+- c. Historical statements determine current value, so future prospects need not be considered.
+- d. Qualitative analysis is a check done after the ratios; buying heavily sold-down loss-making companies is the safest long-term strategy.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Company analysis is equally relevant to credit analysis of bonds and any security whose payments depend on the issuer's continuing viability; it divides into qualitative and quantitative analysis, asset prices move on future prospects, qualitative factors drive performance and precede the numbers, and an excellent company can look expensive yet still be a good investment if sustainable earnings growth catches up with valuation.
+
+**Rationale:** Company analysis serves equity and credit work alike. The three governing principles are: prices move on future prospects (history is a reference point for forecasts, not the value itself); qualitative factors drive performance and precede quantitative outcomes; and excellent companies with strong models and sustainable growth may see price run ahead of earnings near-term yet remain good investments as earnings catch up. Buying weaker or loss-making companies that have been heavily sold down brings at best short-term trading opportunities and at worst traps investors as prospects keep deteriorating.
+
+</details>
+
+### 230. **[Single choice]** [CM-EIP §5.3] Which statement correctly describes the three major financial statements?
+
+- a. The balance sheet covers a period, while the income statement is a snapshot.
+- b. All three statements are snapshots at a point in time.
+- c. The balance sheet shows financial condition at a point in time (typically year-end): Assets = Liabilities + Shareholders' Equity (US presentation); the income statement shows revenue and expenses over a period; the cash flow statement shows changes in cash over a period in three parts — operating, investing and financing.
+- d. The cash flow statement has two parts — operating and financing — and depreciation is a cash outflow shown in it.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. The balance sheet shows financial condition at a point in time (typically year-end): Assets = Liabilities + Shareholders' Equity (US presentation); the income statement shows revenue and expenses over a period; the cash flow statement shows changes in cash over a period in three parts — operating, investing and financing.
+
+**Rationale:** The balance sheet is a snapshot (assets, liabilities, shareholders' equity = share capital + retained earnings − treasury shares); the income statement and cash flow statement cover a period. The cash flow statement has three parts (operating, investing, financing); depreciation is added back in operating cash flow because it is a non-cash accounting cost, not a cash outflow. Financial statements must be audited, and qualified reports are issued when auditors are not completely satisfied.
+
+</details>
+
+### 231. **[Single choice]** [CM-EIP §5.11] A junior analyst says a company's interest coverage ratio of 2 times proves it is safe, without comparing it with anything else. What is wrong with this?
+
+- a. Nothing — a ratio of 2 times is safe in every industry.
+- b. Used in isolation, ratios are meaningless: a coverage ratio of 2 times may be low for some industries and very high for others, so findings must be compared and benchmarked against companies in the same industry; ratio analysis diagnoses financial health across four categories — liquidity, leverage, operating efficiency/activity and profitability.
+- c. Ratios are only meaningful for banks.
+- d. Interest coverage is a profitability ratio, so it cannot be used for solvency.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Used in isolation, ratios are meaningless: a coverage ratio of 2 times may be low for some industries and very high for others, so findings must be compared and benchmarked against companies in the same industry; ratio analysis diagnoses financial health across four categories — liquidity, leverage, operating efficiency/activity and profitability.
+
+**Rationale:** Ratio analysis evaluates financial strength, quality of earnings and performance, but in isolation ratios are meaningless and must be benchmarked against same-industry peers. The four categories examined are liquidity, leverage, operating efficiency/activity, and profitability; solvency questions are answered by debt-to-equity, debt-to-total-assets, interest coverage, current and quick ratios.
+
+</details>
+
+### 232. **[Calculation]** [CM-EIP §5.11.1] Meridian Ltd reports current assets of $900,000 (cash $150,000, marketable securities $50,000, accounts receivable $200,000, inventories $300,000, other current assets $200,000) and current liabilities of $450,000. What are its current, quick and cash ratios?
+
+- a. Current 2.00, quick 0.89, cash 0.44.
+- b. Current 2.00, quick 1.33, cash 0.44.
+- c. Current 1.00, quick 0.89, cash 0.33.
+- d. Current 2.00, quick 0.89, cash 2.00.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Current 2.00, quick 0.89, cash 0.44.
+
+**Rationale:** Current ratio = current assets / current liabilities = 900,000 / 450,000 = 2.00 (the conventional benchmark, though lower ratios are now normal as working capital is managed more efficiently). Quick (acid-test) ratio = (cash + marketable securities + accounts receivable) / current liabilities = (150,000 + 50,000 + 200,000) / 450,000 = 400,000 / 450,000 = 0.89 — inventories are excluded as less liquid. Cash ratio = (cash + near-cash) / current liabilities = (150,000 + 50,000) / 450,000 = 0.44. A supermarket's quick ratio may be as low as 0.2 without concern, because its inventory is fast-moving and supplier-financed.
+
+</details>
+
+### 233. **[Calculation]** [CM-EIP §5.11.2] Halcyon Ltd has EBIT of $600,000, interest expense of $100,000, annual lease payments of $80,000, preferred dividends of $30,000 and a tax rate of 20%. What is its total fixed charge coverage?
+
+- a. 2.76 times — (EBIT) ÷ (interest + lease payments + preferred dividend ÷ (1 − tax rate)).
+- b. 3.13 times — (EBIT + lease payments) ÷ (interest expense + lease payments + preferred dividend ÷ (1 − tax rate)).
+- c. 3.78 times — (EBIT + lease payments) ÷ (interest expense + lease payments).
+- d. 6.00 times — EBIT ÷ interest expense, which is the fixed charge coverage.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. 3.13 times — (EBIT + lease payments) ÷ (interest expense + lease payments + preferred dividend ÷ (1 − tax rate)).
+
+**Rationale:** Fixed charge coverage = Earnings Before Interest, Taxes and Lease Payments ÷ [Interest Expense + Lease Payments + Preferred Dividend / (1 − Tax Rate)]. Numerator: 600,000 + 80,000 = 680,000. Denominator: 100,000 + 80,000 + 30,000 / (1 − 0.20) = 180,000 + 37,500 = 217,500. Coverage = 680,000 / 217,500 = 3.13 times. The preferred dividend is grossed up by 1/(1 − tax) because it is paid out of after-tax earnings. Option D (6.00) is the interest coverage ratio (EBIT / interest), a different ratio.
+
+</details>
+
+### 234. **[Calculation]** [CM-EIP §5.11.4] Northgate Retail has annual sales of $2,400,000, average total assets of $1,200,000, average inventory of $300,000 and average accounts receivable of $200,000. What is its collection period for accounts receivable?
+
+- a. 46 days — 365 ÷ inventory turnover.
+- b. 60 days — the industry average, which is always the answer.
+- c. 30 days — receivables turnover is 12 times, so 365 ÷ 12 = 30.4 days.
+- d. 91 days — 365 ÷ total asset turnover.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. 30 days — receivables turnover is 12 times, so 365 ÷ 12 = 30.4 days.
+
+**Rationale:** Receivables turnover = sales / average accounts receivable = 2,400,000 / 200,000 = 12 times. Collection period = 365 / receivables turnover = 365 / 12 = 30.4 days (equivalently average receivables ÷ (sales / 365)). For context, total asset turnover = 2,400,000 / 1,200,000 = 2.0 times, inventory turnover = 2,400,000 / 300,000 = 8 times and days to sell inventory = 365 / 8 = 45.6 days. Efficiency ratios use average balances because sales are generated over the period. A collection period should be compared with the firm's credit policy and the industry average (the guide's benchmark example is 60 days; 70 days would indicate slow payers).
+
+</details>
+
+### 235. **[Calculation]** [CM-EIP §5.11.5] Alder Manufacturing reports sales of $2,000,000, gross profit of $800,000, EBIT of $300,000, pre-tax income of $240,000, interest of $60,000, net income of $180,000, average common equity of $900,000 and average total assets of $2,000,000. Which pair is correct?
+
+- a. Gross margin 40% and net margin 15%.
+- b. Operating margin 9% and ROE 15%.
+- c. ROE 20% and ROA 15%.
+- d. ROE 20% and ROA 20%.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. ROE 20% and ROA 15%.
+
+**Rationale:** Gross profit margin = 800,000 / 2,000,000 = 40%; operating profit margin = EBIT / sales = 300,000 / 2,000,000 = 15%; net profit margin = 180,000 / 2,000,000 = 9%. ROE = net income / average common equity = 180,000 / 900,000 = 20%. ROA = (pre-tax income + interest) / average total assets = (240,000 + 60,000) / 2,000,000 = 15% — ROA is normally computed before interest to separate operating from financing decisions and allow comparison across capital structures. Beware the ROE trap: a high ROE can reflect a depleted equity base from prior losses rather than better earnings.
+
+</details>
+
+### 236. **[Single choice]** [CM-EIP §5.10] An analyst computes book value per share, earnings per share and dividend per share for the same company. Which share count does each use?
+
+- a. Fully diluted EPS ignores convertibles, because they may never be exercised.
+- b. All three use the weighted average number of shares.
+- c. BVPS uses the weighted average, EPS uses year-end shares, and DPS uses shares at the annual general meeting.
+- d. BVPS uses shares outstanding at the financial year-end (the balance sheet is a snapshot); EPS uses the weighted average number of shares (earnings were generated over the whole year); DPS uses shares outstanding as at the ex-dividend date; fully diluted EPS assumes all derivatives and convertibles outstanding are exercised and converted.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. BVPS uses shares outstanding at the financial year-end (the balance sheet is a snapshot); EPS uses the weighted average number of shares (earnings were generated over the whole year); DPS uses shares outstanding as at the ex-dividend date; fully diluted EPS assumes all derivatives and convertibles outstanding are exercised and converted.
+
+**Rationale:** BVPS = shareholders' equity / shares outstanding at year-end; EPS = net earnings / weighted average shares; DPS = dividends paid / shares outstanding at the ex-dividend date. Fully diluted EPS assumes all derivatives and convertibles are exercised/converted and is the basis on which future EPS forecasts should be calculated for comparability. Valuation ratios (Chapter 6) then build on these: the forward P/E is the price paid for future EPS and price-to-book is another common comparison.
+
+</details>
+
+### 237. **[Single choice]** [CM-EIP §5.11.6] Which combination best indicates good quality of financial statements and good quality of earnings?
+
+- a. Heavy reliance on external debt, aggressive revenue recognition, large off-balance-sheet liabilities and frequent speculative financial activity.
+- b. Limited or lower use of debt relative to the industry, higher liquidity than competitors, assets carried below market values, conservative revenue recognition with adequate provisioning for losses, absence of off-balance-sheet activities, discipline in keeping to the core business, realistic recognition of bad debts, and steady, sustainable revenue and earnings growth from existing businesses.
+- c. Intangible assets capitalised aggressively, costs deferred into amortisation schedules, and provisions written back to smooth earnings.
+- d. High cash balances alone, regardless of how revenue is recognised or debt is used.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Limited or lower use of debt relative to the industry, higher liquidity than competitors, assets carried below market values, conservative revenue recognition with adequate provisioning for losses, absence of off-balance-sheet activities, discipline in keeping to the core business, realistic recognition of bad debts, and steady, sustainable revenue and earnings growth from existing businesses.
+
+**Rationale:** Quality depends on good accounting practice, conservative revenue recognition, limited reliance on external debt, understating rather than overstating asset values, and including all financial liabilities including off-balance-sheet items. Most telling is transparency and treatment of accounts and losses when conditions are poor and the industry is at its cyclical trough — not how management reports when business is rosy. Good-quality earnings are realistic and repeatable. High cash alone is not enough: cash not invested is an underutilised asset.
+
+</details>
+
+### 238. **[Single choice]** [CM-EIP §5.3.3] An analyst reviews only the latest year's ratios for a property developer at the peak of a boom and concludes it is a strong company. What is the flaw, and what does the guide prescribe?
+
+- a. No flaw — one good year is sufficient evidence.
+- b. Only the balance sheet needs trend analysis; the income statement does not.
+- c. Trend analysis is unnecessary if the current year is audited.
+- d. Trend analysis must cover at least one full business cycle, using the 5-year or 10-year summary of key statistics in annual reporting; otherwise the analysis may mislead, showing a company doing well when it is simply at the crest of a cycle about to turn down. Comparisons should also be made with other companies in the same industry or league, and fair value estimated relative to similar companies and general market conditions.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Trend analysis must cover at least one full business cycle, using the 5-year or 10-year summary of key statistics in annual reporting; otherwise the analysis may mislead, showing a company doing well when it is simply at the crest of a cycle about to turn down. Comparisons should also be made with other companies in the same industry or league, and fair value estimated relative to similar companies and general market conditions.
+
+**Rationale:** The four review steps are: examine key ratios over time and explain performance and financial health; forecast future performance from the economy/industry outlook, key drivers and management/industry interviews; compare financial health and projected performance with same-industry peers; and estimate fair value given future earnings potential relative to similar companies and market conditions. Business cycles affect all companies, so covering at least one full cycle (via the 5- or 10-year summary) is essential.
+
+</details>
+
+### 239. **[Single choice]** [CM-EIP §5.11.8] Which is a genuine limitation in the use of financial ratios?
+
+- a. Ratios are meaningless unless the company is in an emerging sector, where they work best.
+- b. Different accounting policies across companies require adjustments to make figures comparable; consolidated accounts make it hard to determine one company within a group; year-end figures may not be representative (e.g. inventory drawn down abnormally low); ratios can be manipulated — for example high ROE from reducing equity in prior years — so prior years' accounts must be read; and asset-light models whose value rests on brand or the founder are especially hard to analyse by ratio.
+- c. Ratios cannot be compared across time, only across companies.
+- d. Inflation improves trend analysis, and footnotes contain no useful information.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Different accounting policies across companies require adjustments to make figures comparable; consolidated accounts make it hard to determine one company within a group; year-end figures may not be representative (e.g. inventory drawn down abnormally low); ratios can be manipulated — for example high ROE from reducing equity in prior years — so prior years' accounts must be read; and asset-light models whose value rests on brand or the founder are especially hard to analyse by ratio.
+
+**Rationale:** The guide's limitations include: differing accounting policies; consolidated group accounts; unrepresentative year-end figures; special situations (e.g. R&D depressing profitability); inflation and general economic conditions affecting trends; the need to read footnotes; comparability requiring similar industry sector and size; manipulation (the ROE trap); emerging sectors lacking comparable reliable information; and asset-light business models. Ratios are only meaningful over time and against peers or benchmarks.
+
+</details>
+
 ## Chapter 6 — Equity Securities
 
-### 195. **[Single choice]** [CM-EIP §6.2.1] Why might the owners of a successful private company list it on an exchange?
+### 240. **[Single choice]** [CM-EIP §6.2.1] Why might the owners of a successful private company list it on an exchange?
 
 - a. To avoid all regulation
 - b. To share the risk of ownership, monetise part of the value and redeploy funds
@@ -3140,7 +3860,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 196. **[Single choice]** [CM-EIP §6.2.2] What is the maximum number of votes a multiple-vote share may carry under SGX dual class listing rules?
+### 241. **[Single choice]** [CM-EIP §6.2.2] What is the maximum number of votes a multiple-vote share may carry under SGX dual class listing rules?
 
 - a. 2
 - b. 5
@@ -3156,7 +3876,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 197. **[Single choice]** [CM-EIP §6.2.2] How many Class B shares of Berkshire Hathaway can one Class A share be converted into?
+### 242. **[Single choice]** [CM-EIP §6.2.2] How many Class B shares of Berkshire Hathaway can one Class A share be converted into?
 
 - a. 100
 - b. 500
@@ -3172,7 +3892,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 198. **[Single choice]** [CM-EIP §6.2.3] Which right do ordinary shareholders NOT have?
+### 243. **[Single choice]** [CM-EIP §6.2.3] Which right do ordinary shareholders NOT have?
 
 - a. A residual claim on remaining assets
 - b. The right to vote on major policy decisions
@@ -3188,7 +3908,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 199. **[Single choice]** [CM-EIP §6.2.4] Why do non-callable preference shares carry a lower rate of return than callable ones?
+### 244. **[Single choice]** [CM-EIP §6.2.4] Why do non-callable preference shares carry a lower rate of return than callable ones?
 
 - a. Because the issuer has no option to redeem them
 - b. Because they rank above bonds
@@ -3204,7 +3924,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 200. **[Single choice]** [CM-EIP §6.2.4] What happens if an issuer fails to pay a preference dividend?
+### 245. **[Single choice]** [CM-EIP §6.2.4] What happens if an issuer fails to pay a preference dividend?
 
 - a. It constitutes default
 - b. It does not constitute default, unlike a missed bond coupon
@@ -3220,7 +3940,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 201. **[Calculation]** [CM-EIP §6.2.5] A company has 300 million shares at $2.00 and announces a 1-for-3 rights issue at $1.90. What is the theoretical ex-rights price?
+### 246. **[Calculation]** [CM-EIP §6.2.5] A company has 300 million shares at $2.00 and announces a 1-for-3 rights issue at $1.90. What is the theoretical ex-rights price?
 
 - a. $1.90
 - b. $1.50
@@ -3236,7 +3956,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 202. **[Calculation]** [CM-EIP §6.2.5] Using the same company, what is the theoretical ex-bonus price for a 1-for-3 bonus issue?
+### 247. **[Calculation]** [CM-EIP §6.2.5] Using the same company, what is the theoretical ex-bonus price for a 1-for-3 bonus issue?
 
 - a. $1.975
 - b. $2.00
@@ -3252,7 +3972,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 203. **[Calculation]** [CM-EIP §6.2.5] A company has 300 million shares for 9 months and 400 million for 3 months after a rights issue. What is the weighted-average number of shares?
+### 248. **[Calculation]** [CM-EIP §6.2.5] A company has 300 million shares for 9 months and 400 million for 3 months after a rights issue. What is the weighted-average number of shares?
 
 - a. 325m
 - b. 350m
@@ -3268,7 +3988,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 204. **[Single choice]** [CM-EIP §6.2.5] What is the maximum pro-rata renounceable rights issue a company may now make, as a proportion of share capital?
+### 249. **[Single choice]** [CM-EIP §6.2.5] What is the maximum pro-rata renounceable rights issue a company may now make, as a proportion of share capital?
 
 - a. 25%
 - b. 50%
@@ -3284,7 +4004,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 205. **[Single choice]** [CM-EIP §6.2.5] Why did Citigroup carry out a 1-for-10 reverse stock split in 2011?
+### 250. **[Single choice]** [CM-EIP §6.2.5] Why did Citigroup carry out a 1-for-10 reverse stock split in 2011?
 
 - a. To raise new capital
 - b. Because institutional investors are discouraged from holding penny stocks priced below $5
@@ -3300,7 +4020,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 206. **[Single choice]** [CM-EIP §6.3.1] Which of the following is a characteristic of blue-chip companies?
+### 251. **[Single choice]** [CM-EIP §6.3.1] Which of the following is a characteristic of blue-chip companies?
 
 - a. No dividend payments
 - b. High earnings growth in the current period
@@ -3316,7 +4036,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 207. **[Single choice]** [CM-EIP §6.3.2] What growth rate is typically meant by a high-growth company?
+### 252. **[Single choice]** [CM-EIP §6.3.2] What growth rate is typically meant by a high-growth company?
 
 - a. Above 50% for one year
 - b. Above 5% compounded annually
@@ -3332,7 +4052,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 208. **[Single choice]** [CM-EIP §6.3.3] If the fixed deposit rate is 3%, at what dividend yield are dependable high-yield stocks likely to find price support?
+### 253. **[Single choice]** [CM-EIP §6.3.3] If the fixed deposit rate is 3%, at what dividend yield are dependable high-yield stocks likely to find price support?
 
 - a. 4–5%
 - b. 8–10%
@@ -3348,7 +4068,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 209. **[Single choice]** [CM-EIP §6.3.4] Which sectors are described as cyclical in Singapore and Hong Kong?
+### 254. **[Single choice]** [CM-EIP §6.3.4] Which sectors are described as cyclical in Singapore and Hong Kong?
 
 - a. Technology and electronics
 - b. Property and banking
@@ -3364,7 +4084,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 210. **[Single choice]** [CM-EIP §6.3.5] Which of the following is a typical defensive stock?
+### 255. **[Single choice]** [CM-EIP §6.3.5] Which of the following is a typical defensive stock?
 
 - a. An automobile manufacturer
 - b. A semiconductor company
@@ -3380,7 +4100,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 211. **[Calculation]** [CM-EIP §6.4.1] A value-weighted index has a base market value of 64,000,000 set at an index level of 100. The current market value is 67,000,000. What is the new index value?
+### 256. **[Calculation]** [CM-EIP §6.4.1] A value-weighted index has a base market value of 64,000,000 set at an index level of 100. The current market value is 67,000,000. What is the new index value?
 
 - a. 100
 - b. 104.69
@@ -3396,7 +4116,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 212. **[Single choice]** [CM-EIP §6.4.1] Why does a value-weighted index adjust automatically for bonus and rights issues?
+### 257. **[Single choice]** [CM-EIP §6.4.1] Why does a value-weighted index adjust automatically for bonus and rights issues?
 
 - a. Because the index excludes such companies
 - b. Because the index is rebalanced annually
@@ -3412,7 +4132,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 213. **[Single choice]** [CM-EIP §6.4.2] Why has the Dow Jones Industrial Average been criticised?
+### 258. **[Single choice]** [CM-EIP §6.4.2] Why has the Dow Jones Industrial Average been criticised?
 
 - a. Because it uses only 30 non-randomly selected blue-chip shares that are not representative of the NYSE
 - b. Because it includes too many technology companies
@@ -3428,7 +4148,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 214. **[Calculation]** [CM-EIP §6.4.3] Three shares change by factors of 1.04, 1.03 and 1.05. What is the equal-weighted geometric average change?
+### 259. **[Calculation]** [CM-EIP §6.4.3] Three shares change by factors of 1.04, 1.03 and 1.05. What is the equal-weighted geometric average change?
 
 - a. 1.060
 - b. 1.040
@@ -3444,7 +4164,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 215. **[Single choice]** [CM-EIP §6.5] Which of the following is an absolute valuation approach?
+### 260. **[Single choice]** [CM-EIP §6.5] Which of the following is an absolute valuation approach?
 
 - a. Dividend yield
 - b. Price-to-earnings ratio
@@ -3460,7 +4180,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 216. **[Single choice]** [CM-EIP §6.6.1] When does book value often represent the floor value of a company?
+### 261. **[Single choice]** [CM-EIP §6.6.1] When does book value often represent the floor value of a company?
 
 - a. When the share price is at a record high
 - b. When the company has large intangible assets
@@ -3476,7 +4196,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 217. **[Single choice]** [CM-EIP §6.6.3] When revising asset values to market for a revised net asset value, what else must be checked?
+### 262. **[Single choice]** [CM-EIP §6.6.3] When revising asset values to market for a revised net asset value, what else must be checked?
 
 - a. Whether debt and other liabilities also need revising to market value
 - b. Whether the dividend has been declared
@@ -3492,7 +4212,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 218. **[Single choice]** [CM-EIP §6.7] What is the examination expectation for the DCF approach in CM-EIP?
+### 263. **[Single choice]** [CM-EIP §6.7] What is the examination expectation for the DCF approach in CM-EIP?
 
 - a. Candidates must compute and derive fair value
 - b. Candidates must explain the process and the variables used, but will not be asked to compute fair value
@@ -3508,7 +4228,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 219. **[Single choice]** [CM-EIP §6.7.1] Which DCF variant does the CM-EIP module focus on?
+### 264. **[Single choice]** [CM-EIP §6.7.1] Which DCF variant does the CM-EIP module focus on?
 
 - a. Replacement cost model
 - b. Dividend discount model
@@ -3524,7 +4244,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 220. **[Calculation]** [CM-EIP §6.7.2] The risk-free rate is 2.33%, the market return is 9.28% and beta is 0.68. What is the cost of equity by CAPM?
+### 265. **[Calculation]** [CM-EIP §6.7.2] The risk-free rate is 2.33%, the market return is 9.28% and beta is 0.68. What is the cost of equity by CAPM?
 
 - a. 6.31%
 - b. 8.65%
@@ -3540,7 +4260,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 221. **[Calculation]** [CM-EIP §6.7.2] Debt is 30.414, equity is 224.17, the after-tax cost of debt is 1.08% and the cost of equity is 7%. What is the WACC?
+### 266. **[Calculation]** [CM-EIP §6.7.2] Debt is 30.414, equity is 224.17, the after-tax cost of debt is 1.08% and the cost of equity is 7%. What is the WACC?
 
 - a. 6.29%
 - b. 5.50%
@@ -3556,7 +4276,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 222. **[Single choice]** [CM-EIP §6.7.4] How is the terminal value calculated in the FCFF approach?
+### 267. **[Single choice]** [CM-EIP §6.7.4] How is the terminal value calculated in the FCFF approach?
 
 - a. The year-10 FCFF multiplied by 10
 - b. The year-11 FCFF divided by (WACC − terminal growth rate)
@@ -3572,7 +4292,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 223. **[Single choice]** [CM-EIP §6.7.4] What constraint must hold for the terminal value calculation to be valid?
+### 268. **[Single choice]** [CM-EIP §6.7.4] What constraint must hold for the terminal value calculation to be valid?
 
 - a. The WACC must equal the risk-free rate
 - b. The growth rate must exceed the WACC
@@ -3588,7 +4308,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 224. **[Calculation]** [CM-EIP §6.7.5] Enterprise value is 260,391, debt is 30,514 and preference shares are 1,038. With 2,557.6 million shares, what is the intrinsic share value?
+### 269. **[Calculation]** [CM-EIP §6.7.5] Enterprise value is 260,391, debt is 30,514 and preference shares are 1,038. With 2,557.6 million shares, what is the intrinsic share value?
 
 - a. USD 101.80
 - b. USD 87.65
@@ -3604,7 +4324,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 225. **[Single choice]** [CM-EIP §6.7.6] What is the main criticism of the DCF model?
+### 270. **[Single choice]** [CM-EIP §6.7.6] What is the main criticism of the DCF model?
 
 - a. It depends heavily on the terminal value, which can vary significantly with different assumptions
 - b. It cannot be applied to listed companies
@@ -3620,7 +4340,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 226. **[Single choice]** [CM-EIP §6.8.1] What is the difference between a trailing and a leading P/E ratio?
+### 271. **[Single choice]** [CM-EIP §6.8.1] What is the difference between a trailing and a leading P/E ratio?
 
 - a. Trailing uses forecast earnings; leading uses historical earnings
 - b. Trailing uses the most recent four quarters of EPS; leading uses consensus forecast earnings for the next year
@@ -3636,7 +4356,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 227. **[Calculation]** [CM-EIP §6.8.1] A stock trades at USD 34.68 with FY2016 EPS of USD 2.72. What is the trailing P/E?
+### 272. **[Calculation]** [CM-EIP §6.8.1] A stock trades at USD 34.68 with FY2016 EPS of USD 2.72. What is the trailing P/E?
 
 - a. 13.5x
 - b. 12.1x
@@ -3652,7 +4372,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 228. **[Single choice]** [CM-EIP §6.8.1] Which factor justifies a lower P/E multiple?
+### 273. **[Single choice]** [CM-EIP §6.8.1] Which factor justifies a lower P/E multiple?
 
 - a. A dominant market position
 - b. Strong brand value
@@ -3668,7 +4388,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 229. **[Calculation]** [CM-EIP §6.8.2] A stock has a prospective P/E of 44.5 and expected annual EPS growth of 28%. What is its PEG ratio?
+### 274. **[Calculation]** [CM-EIP §6.8.2] A stock has a prospective P/E of 44.5 and expected annual EPS growth of 28%. What is its PEG ratio?
 
 - a. 1.6
 - b. 0.63
@@ -3684,7 +4404,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 230. **[Single choice]** [CM-EIP §6.8.2] What does a PEG ratio below 1 indicate?
+### 275. **[Single choice]** [CM-EIP §6.8.2] What does a PEG ratio below 1 indicate?
 
 - a. The share is overvalued
 - b. The share is undervalued, though such stocks are typically hard to find and may carry higher risk
@@ -3700,7 +4420,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 231. **[Single choice]** [CM-EIP §6.8.3] For which type of company is the P/BV ratio best suited?
+### 276. **[Single choice]** [CM-EIP §6.8.3] For which type of company is the P/BV ratio best suited?
 
 - a. A company with negative book value
 - b. A software company with large intangible assets
@@ -3716,7 +4436,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 232. **[Single choice]** [CM-EIP §6.8.3] How do hidden reserves affect the calculated P/BV ratio?
+### 277. **[Single choice]** [CM-EIP §6.8.3] How do hidden reserves affect the calculated P/BV ratio?
 
 - a. They have no effect
 - b. They make the ratio meaningless
@@ -3732,7 +4452,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 233. **[Single choice]** [CM-EIP §6.8.4] Why is the P/Sales ratio conceptually flawed?
+### 278. **[Single choice]** [CM-EIP §6.8.4] Why is the P/Sales ratio conceptually flawed?
 
 - a. Because the numerator relates to shareholders only, while sales are generated from funds supplied by both shareholders and debtholders
 - b. Because it ignores the share price
@@ -3748,7 +4468,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 234. **[Calculation]** [CM-EIP §6.8.5] Market capitalisation is 18,000, debt is 400, preferred shares are 10, cash is 8,000 and operating cash flow is 2,210. What is the EV/CF ratio?
+### 279. **[Calculation]** [CM-EIP §6.8.5] Market capitalisation is 18,000, debt is 400, preferred shares are 10, cash is 8,000 and operating cash flow is 2,210. What is the EV/CF ratio?
 
 - a. 3.62
 - b. 4.71
@@ -3764,7 +4484,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 235. **[Single choice]** [CM-EIP §6.8.6] Why is EBITDA preferred over operating cash flow in valuation?
+### 280. **[Single choice]** [CM-EIP §6.8.6] Why is EBITDA preferred over operating cash flow in valuation?
 
 - a. Because EBITDA is a shareholder concept
 - b. Because it is easier to audit
@@ -3780,7 +4500,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 236. **[Single choice]** [CM-EIP §6.8.6] Why is EV/EBITDA preferred over P/E?
+### 281. **[Single choice]** [CM-EIP §6.8.6] Why is EV/EBITDA preferred over P/E?
 
 - a. Because it ignores debt
 - b. Because it uses forecast earnings
@@ -3796,7 +4516,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 237. **[Calculation]** [CM-EIP §6.8.8] A share priced at $2.00 pays an annual gross dividend of $0.10. What is the dividend yield?
+### 282. **[Calculation]** [CM-EIP §6.8.8] A share priced at $2.00 pays an annual gross dividend of $0.10. What is the dividend yield?
 
 - a. 2.0%
 - b. 5.0%
@@ -3812,7 +4532,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 238. **[Calculation]** [CM-EIP §6.8.8] A company earns $0.40 per share and pays a dividend of $0.10 per share. What are the payout ratio and retention ratio?
+### 283. **[Calculation]** [CM-EIP §6.8.8] A company earns $0.40 per share and pays a dividend of $0.10 per share. What are the payout ratio and retention ratio?
 
 - a. 25% payout, 75% retention
 - b. 75% payout, 25% retention
@@ -3828,7 +4548,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 239. **[Calculation]** [CM-EIP §6.8.8] An analyst expects a 3-cent dividend and requires a 7.5% dividend yield. What is the implied share price?
+### 284. **[Calculation]** [CM-EIP §6.8.8] An analyst expects a 3-cent dividend and requires a 7.5% dividend yield. What is the implied share price?
 
 - a. 31 cents
 - b. 40 cents
@@ -3844,7 +4564,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 240. **[Single choice]** [CM-EIP §6.8.8] Why can REITs be valued using a dividend discount model?
+### 285. **[Single choice]** [CM-EIP §6.8.8] Why can REITs be valued using a dividend discount model?
 
 - a. Because they pay no dividends
 - b. Because they have no debt
@@ -3860,7 +4580,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 241. **[Calculation]** [CM-EIP §6.8.9] Company A trades at 2.50 with EPS of 0.25 and net cash per share of 0.50. Company B trades at 3.00 with EPS of 0.30 and net debt. Both have a P/E of 10x. Which is undervalued?
+### 286. **[Calculation]** [CM-EIP §6.8.9] Company A trades at 2.50 with EPS of 0.25 and net cash per share of 0.50. Company B trades at 3.00 with EPS of 0.30 and net debt. Both have a P/E of 10x. Which is undervalued?
 
 - a. Company B, because it has higher EPS
 - b. Neither, since both have the same P/E
@@ -3876,7 +4596,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 242. **[Single choice]** [CM-EIP §6.8.10] What is break-up value in an acquisition?
+### 287. **[Single choice]** [CM-EIP §6.8.10] What is break-up value in an acquisition?
 
 - a. The expectation that the sum of the parts sold exceeds the target's value as an ongoing concern
 - b. The liquidation value of the acquirer
@@ -3892,7 +4612,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 243. **[Single choice]** [CM-EIP §6.8.11] What is the yield gap?
+### 288. **[Single choice]** [CM-EIP §6.8.11] What is the yield gap?
 
 - a. The difference between a bond's coupon and its yield
 - b. The difference between the earnings yield and the bond yield
@@ -3908,7 +4628,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 244. **[Single choice]** [CM-EIP §6.9] How does listing on SGX Catalist differ from the Mainboard?
+### 289. **[Single choice]** [CM-EIP §6.9] How does listing on SGX Catalist differ from the Mainboard?
 
 - a. Catalist has no listing rules at all
 - b. Catalist requires higher quantitative standards
@@ -3924,7 +4644,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 245. **[Single choice]** [CM-EIP §6.9] What is the Greenshoe option?
+### 290. **[Single choice]** [CM-EIP §6.9] What is the Greenshoe option?
 
 - a. A claw-back of shares from retail investors
 - b. A discount to the offer price
@@ -3940,7 +4660,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 246. **[Single choice]** [CM-EIP §6.9] What is a claw-back provision in an IPO?
+### 291. **[Single choice]** [CM-EIP §6.9] What is a claw-back provision in an IPO?
 
 - a. The re-allocation of shares between institutional and retail investors
 - b. A penalty for early selling
@@ -3956,7 +4676,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 247. **[Single choice]** [CM-EIP §6.9] What document does a company lodge with MAS for a rights issue after listing, rather than a prospectus?
+### 292. **[Single choice]** [CM-EIP §6.9] What document does a company lodge with MAS for a rights issue after listing, rather than a prospectus?
 
 - a. A Product Highlights Sheet
 - b. An Offer Information Statement
@@ -3972,7 +4692,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 248. **[Calculation]** [CM-EIP §6.10] Q-Star has sales of USD 7.65bn and the discounted EV/Sales multiple is 3.53. With debt of USD 11bn and 750m shares, what is the target price?
+### 293. **[Calculation]** [CM-EIP §6.10] Q-Star has sales of USD 7.65bn and the discounted EV/Sales multiple is 3.53. With debt of USD 11bn and 750m shares, what is the target price?
 
 - a. USD 12.67
 - b. USD 27.00
@@ -3988,7 +4708,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 249. **[Single choice]** [CM-EIP §6.11.1] What is the main difference between a non-voting depositary receipt and direct investment in the issuer's shares?
+### 294. **[Single choice]** [CM-EIP §6.11.1] What is the main difference between a non-voting depositary receipt and direct investment in the issuer's shares?
 
 - a. NVDRs are not transferable
 - b. NVDRs are only available to institutions
@@ -4004,7 +4724,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 250. **[Single choice]** [CM-EIP §6.11.2] Which level of ADR allows the issuer to raise new capital?
+### 295. **[Single choice]** [CM-EIP §6.11.2] Which level of ADR allows the issuer to raise new capital?
 
 - a. Level 3
 - b. All levels equally
@@ -4020,7 +4740,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 251. **[Single choice]** [CM-EIP §6.11.3] Why might an ADR trade at a premium to its underlying shares?
+### 296. **[Single choice]** [CM-EIP §6.11.3] Why might an ADR trade at a premium to its underlying shares?
 
 - a. Because ADRs pay higher dividends
 - b. Because of regulatory restrictions in the issuer's home market on foreign holdings of the shares
@@ -4036,7 +4756,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 252. **[Single choice]** [CM-EIP §6.13.1] What is the main practical difficulty with the general dividend discount model?
+### 297. **[Single choice]** [CM-EIP §6.13.1] What is the main practical difficulty with the general dividend discount model?
 
 - a. It requires the share price
 - b. It ignores the time value of money
@@ -4052,7 +4772,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 253. **[Calculation]** [CM-EIP §6.13.1] Dividends of $1.00, $1.05 and $1.10 are expected over three years, with a sale price of $10 at the end of year 3. At a 12% required return, what is the share value?
+### 298. **[Calculation]** [CM-EIP §6.13.1] Dividends of $1.00, $1.05 and $1.10 are expected over three years, with a sale price of $10 at the end of year 3. At a 12% required return, what is the share value?
 
 - a. $10.00
 - b. $8.75
@@ -4068,7 +4788,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 254. **[Calculation]** [CM-EIP §6.13.2] A company pays a dividend of $0.20, expected to grow at 5% a year. Investors require 12%. What is the estimated price?
+### 299. **[Calculation]** [CM-EIP §6.13.2] A company pays a dividend of $0.20, expected to grow at 5% a year. Investors require 12%. What is the estimated price?
 
 - a. $3.00
 - b. $2.86
@@ -4084,7 +4804,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 255. **[Calculation]** [CM-EIP §6.13.2] Using the same company, if the required return rises from 12% to 13%, what is the new estimated price?
+### 300. **[Calculation]** [CM-EIP §6.13.2] Using the same company, if the required return rises from 12% to 13%, what is the new estimated price?
 
 - a. $2.10
 - b. $2.63
@@ -4100,7 +4820,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 256. **[Calculation]** [CM-EIP §6.13.3] A firm retains 60% of earnings and has an ROE of 15%. What is its sustainable growth rate?
+### 301. **[Calculation]** [CM-EIP §6.13.3] A firm retains 60% of earnings and has an ROE of 15%. What is its sustainable growth rate?
 
 - a. 6%
 - b. 9%
@@ -4116,7 +4836,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 257. **[Calculation]** [CM-EIP §6.13.3] P&G has an ROE of 17.36% and a payout ratio of 0.70. What is its estimated growth rate?
+### 302. **[Calculation]** [CM-EIP §6.13.3] P&G has an ROE of 17.36% and a payout ratio of 0.70. What is its estimated growth rate?
 
 - a. 7.00%
 - b. 5.21%
@@ -4132,7 +4852,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 258. **[Single choice]** [CM-EIP §6.13.4] In the two-stage DDM, what does the second term represent?
+### 303. **[Single choice]** [CM-EIP §6.13.4] In the two-stage DDM, what does the second term represent?
 
 - a. The current dividend
 - b. The present value of dividends in the high-growth period
@@ -4148,7 +4868,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 259. **[Calculation]** [CM-EIP §6.13.4] In the P&G two-stage example, the terminal value contributes 71.5797 of a total value of 84.15. What proportion of value comes from the terminal value?
+### 304. **[Calculation]** [CM-EIP §6.13.4] In the P&G two-stage example, the terminal value contributes 71.5797 of a total value of 84.15. What proportion of value comes from the terminal value?
 
 - a. About 95%
 - b. About 50%
@@ -4164,7 +4884,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 260. **[Single choice]** [CM-EIP §6.13.4] For which companies is the multi-stage DDM most useful?
+### 305. **[Single choice]** [CM-EIP §6.13.4] For which companies is the multi-stage DDM most useful?
 
 - a. Mature companies with very high dividend payouts of 70–120% of EPS
 - b. Companies with negative earnings
@@ -4180,7 +4900,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 261. **[Calculation]** [CM-EIP §6.13.5] A preference share has a $100 par value and pays $7 a year. At an 8% required return, what is its intrinsic value?
+### 306. **[Calculation]** [CM-EIP §6.13.5] A preference share has a $100 par value and pays $7 a year. At an 8% required return, what is its intrinsic value?
 
 - a. $56.00
 - b. $87.50
@@ -4196,9 +4916,153 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
+### 307. **[Single choice]** [CM-EIP §6.2.3] Which statement correctly distinguishes ordinary shares from preference shares?
+
+- a. Ordinary shareholders have a residual claim (paid last in liquidation, after bondholders, suppliers, other creditors, employees and deferred taxes) and limited liability (maximum loss is the original investment); preference shares are a hybrid — fixed dividend specified in advance, infinite life, ranked above ordinary shares but below bonds, dividends that may be omitted without default, and no voting rights except in financial distress.
+- b. Ordinary shareholders are paid first in liquidation and have unlimited liability.
+- c. Preference shareholders always have voting rights and their dividends, if omitted, constitute default like bond interest.
+- d. Ordinary dividends are guaranteed, while preference dividends are discretionary and paid after ordinary dividends.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Ordinary shareholders have a residual claim (paid last in liquidation, after bondholders, suppliers, other creditors, employees and deferred taxes) and limited liability (maximum loss is the original investment); preference shares are a hybrid — fixed dividend specified in advance, infinite life, ranked above ordinary shares but below bonds, dividends that may be omitted without default, and no voting rights except in financial distress.
+
+**Rationale:** The two defining features of an ordinary share are residual claim and limited liability. Ordinary dividends are at management's discretion and not guaranteed. Preference shares resemble fixed income (fixed, specified dividend, income stream like a bond continuing indefinitely unless called/retired) but are equity with an infinite life; most are callable (typically with about 5 years' call protection), non-callable ones carry a lower return, and cumulative preference shares (now rare) require all past unpaid preference dividends to be paid before any ordinary dividend.
+
+</details>
+
+### 308. **[Single choice]** [CM-EIP §6.3] A client wants steady dividends and safety, another wants high growth, and a third asks about a food company whose earnings hold up in a recession. Which classification fits each?
+
+- a. Safety/steady dividends: blue-chip companies — major conglomerates with great financial strength, long consistent earnings records, able to pay steady dividends in good and bad years; high growth: companies generating high double-digit (e.g. more than 20% compounded) sales and earnings growth over several years, typically high P/E and high beta with small dividends; recession-resilient food company: defensive stock (pharmaceuticals, food, utilities, transportation — e.g. Nestlé, Coca-Cola).
+- b. All three are cyclical stocks.
+- c. Blue chips never pay dividends; growth stocks pay the highest dividends.
+- d. Defensive stocks are those that benefit most in a boom and fall hardest in a downturn.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Safety/steady dividends: blue-chip companies — major conglomerates with great financial strength, long consistent earnings records, able to pay steady dividends in good and bad years; high growth: companies generating high double-digit (e.g. more than 20% compounded) sales and earnings growth over several years, typically high P/E and high beta with small dividends; recession-resilient food company: defensive stock (pharmaceuticals, food, utilities, transportation — e.g. Nestlé, Coca-Cola).
+
+**Rationale:** Blue chips suit safety and stability (Singapore examples in the guide: DBS, OCBC, UOB, SIA, Keppel, CapitaLand). Growth companies are high P/E, high beta, retain most earnings so pay small dividends, and are re-rated down when growth slows. Income stocks (high dividend yield) appeal to retirees and funds, with price support from yield if dividends are dependable. Cyclical stocks (e.g. autos; property and banking in Singapore/Hong Kong) benefit most in a boom and are hit first in a downturn — the opposite of defensive stocks. Companies with high net tangible asset backing are valued substantially on tangible assets (see also Q25/Q28 context on net asset valuation).
+
+</details>
+
+### 309. **[Single choice]** [CM-EIP §6.5] What is the difference between absolute and relative valuation?
+
+- a. DCF is exact and needs no assumptions, while relative valuation is always wrong.
+- b. Absolute valuation compares a stock with its peers; relative valuation discounts its cash flows.
+- c. Relative valuation needs no comparable companies.
+- d. Absolute valuation (discounted cash flow) derives intrinsic value from projected cash flows — discounting future free cash flow to the firm at the WACC, adding discounted terminal value, subtracting debt and preferred shares and dividing by shares outstanding; relative valuation derives value by comparison with companies in the same industry using ratios such as P/E, P/BV and EV/EBITDA. Net asset valuation (book, liquidation, revised net asset value) is a third, balance-sheet approach.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Absolute valuation (discounted cash flow) derives intrinsic value from projected cash flows — discounting future free cash flow to the firm at the WACC, adding discounted terminal value, subtracting debt and preferred shares and dividing by shares outstanding; relative valuation derives value by comparison with companies in the same industry using ratios such as P/E, P/BV and EV/EBITDA. Net asset valuation (book, liquidation, revised net asset value) is a third, balance-sheet approach.
+
+**Rationale:** DCF is the absolute approach: intrinsic value comes from projected cash flows, is conceptually tied to earnings/cash flows due to the firm over time and is flexible on growth rates — but depends heavily on the terminal value, which varies significantly with WACC and growth assumptions, and requires the discount rate to exceed the growth rate. Relative valuation allows easy comparison and is intuitive, but market sentiment/cycles influence it and a comparable set of entities is needed. In practice DCF is used in conjunction with relative valuation.
+
+</details>
+
+### 310. **[Single choice]** [CM-EIP §6.8.1] Meridian Ltd trades at $20.00 with EPS of $1.25 and expected EPS growth of 20% p.a. Halcyon Ltd trades at $30.00 with EPS of $2.50 and expected EPS growth of 8% p.a. Which statement is correct?
+
+- a. Meridian's P/E is 16.0x and its PEG is 0.8; Halcyon's P/E is 12.0x and its PEG is 1.5 — so although Halcyon looks cheaper on P/E alone, Meridian is cheaper after controlling for expected growth, and a PEG below 1 is attractive but typically hard to find.
+- b. Meridian's P/E is 12.0x and Halcyon's is 16.0x, so Meridian is cheaper on every measure.
+- c. PEG is P/E multiplied by growth, so Meridian's PEG is 320.
+- d. A low P/E always means undervaluation and a high P/E always means overvaluation, so Halcyon must be bought.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Meridian's P/E is 16.0x and its PEG is 0.8; Halcyon's P/E is 12.0x and its PEG is 1.5 — so although Halcyon looks cheaper on P/E alone, Meridian is cheaper after controlling for expected growth, and a PEG below 1 is attractive but typically hard to find.
+
+**Rationale:** P/E = market price per share / EPS. Meridian: 20.00 / 1.25 = 16.0x; Halcyon: 30.00 / 2.50 = 12.0x. PEG = P/E ÷ % growth in EPS (typically prospective growth compounded over 3 years). Meridian: 16.0 / 20 = 0.8; Halcyon: 12.0 / 8 = 1.5. PEG controls for growth: a low PEG indicates an undervalued share, and below 1 is attractive but rare. P/E must also be read against the company's historical range, peers, and qualitative reasons for a premium or discount — low P/E may mean poorer expected growth, not undervaluation. (For reference, dividend yield = DPS / price × 100; e.g. $0.10 on a $2.00 price = 5%.)
+
+</details>
+
+### 311. **[Calculation]** [CM-EIP §6.4.1] An index contains two shares. On Day 1, A has 2,000,000 shares at $4.00 and B has 1,000,000 shares at $10.00; the index base value is 100. On Day 2, A is $4.40 and B is $10.50. What is the value-weighted index value on Day 2?
+
+- a. 100.0 — a value-weighted index never changes.
+- b. 105.0 — the simple average of the two price rises.
+- c. 110.0 — the price-weighted result.
+- d. 107.2 — total market value rises from $18,000,000 to $19,300,000.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. 107.2 — total market value rises from $18,000,000 to $19,300,000.
+
+**Rationale:** Value-weighted: total market value = shares outstanding × price. Day 1: A 2,000,000 × 4.00 = $8,000,000; B 1,000,000 × 10.00 = $10,000,000; total $18,000,000 = index 100. Day 2: A 2,000,000 × 4.40 = $8,800,000; B 1,000,000 × 10.50 = $10,500,000; total $19,300,000. New index = 19,300,000 / 18,000,000 × 100 = 107.2. A value-weighted index automatically adjusts for bonus and rights issues (price fall offset by more shares) and gives high-capitalisation shares more weight. By contrast a price-weighted index (e.g. DJIA, 30 shares) averages prices, so a high-priced share carries more weight and a split reduces its weight; an equal-weighted index gives every share equal weight regardless of price or size.
+
+</details>
+
+### 312. **[Calculation]** [CM-EIP §6.2.5] Harbour Ltd has 200 million shares outstanding trading at $3.00. It announces a 1-for-4 rights issue of 50 million shares at $2.40. What is the theoretical ex-rights price (TERP)?
+
+- a. $2.40 — the rights price becomes the market price.
+- b. $2.88 — (200m × $3.00 + 50m × $2.40) ÷ 250m shares.
+- c. $3.00 — a rights issue never changes the share price.
+- d. $2.40 — the same as the theoretical ex-bonus price for a 1-for-4 bonus issue.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. $2.88 — (200m × $3.00 + 50m × $2.40) ÷ 250m shares.
+
+**Rationale:** Before the issue, market capitalisation is 200m × $3.00 = $600m. New capital is 50m × $2.40 = $120m, so theoretical market capitalisation after the issue is $720m over 250m shares: $720m / 250m = $2.88. A rights issue raises new capital and is first offered to existing shareholders to prevent dilution; rights may be renounceable (tradable) or non-renounceable, and pro-rata renounceable rights of up to 100% of share capital may now be issued (up from 50%). By contrast a 1-for-4 bonus issue on the same $600m / 200m base would give 250m shares with no new capital, so the theoretical ex-bonus price would be $600m / 250m = $2.40 — sharply lower — and a stock split likewise raises no capital.
+
+</details>
+
+### 313. **[Calculation]** [CM-EIP §6.7.1] An analyst values a company by DCF. The risk-free rate is 3%, the market return is 9%, beta is 1.2, the after-tax cost of debt is 4% (5% pre-tax at a 20% tax rate), debt is $200 million and equity is $800 million (market values). What is the WACC, the discount rate for free cash flow to the firm?
+
+- a. 7.20% — the cost of equity alone.
+- b. 10.20% — the cost of equity, ignoring debt.
+- c. 8.96% — cost of equity 10.20% weighted 80%, plus after-tax cost of debt 4.00% weighted 20%.
+- d. 6.29% — the worked WACC from the guide's P&G illustration, which applies to every company.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. 8.96% — cost of equity 10.20% weighted 80%, plus after-tax cost of debt 4.00% weighted 20%.
+
+**Rationale:** Cost of equity by CAPM: R = Rf + β(Rm − Rf) = 3% + 1.2 × (9% − 3%) = 3% + 7.2% = 10.20%. Total capital = $200m + $800m = $1,000m; debt weight 20%, equity weight 80%. WACC = (1 − tax) × cost of debt × debt weight + cost of equity × equity weight = 4.00% × 0.20 + 10.20% × 0.80 = 0.80% + 8.16% = 8.96%. DCF then projects FCFF over typically 10 years, estimates terminal value at year 10 as E(FCFF11) / (WACC − gc), discounts both at the WACC to get enterprise value, subtracts the market value of net debt and preferred shares, and divides by shares outstanding for intrinsic value per share. The terminal value usually dominates the result and the discount rate must exceed the growth rate.
+
+</details>
+
+### 314. **[Single choice]** [CM-EIP §6.9] A retail investor reads a prospectus for a Singapore IPO. Which statement about IPOs and prospectuses is correct?
+
+- a. Vendor share sales are always a sign of confidence, and the Greenshoe option forces the price up.
+- b. Catalist has stricter quantitative requirements than the Mainboard.
+- c. Mainboard listing requires fulfilling SGX listing requirements, while Catalist is sponsor-supervised with no quantitative requirements; the prospectus is lodged on MAS's OPERA portal, the offer typically opens for at least 2 market days, trading begins the next business day after allocation on a T+2 basis, and risks to watch include vendor share sales (mitigated by a lock-up moratorium), deferred shares/options that dilute EPS, the Greenshoe over-allotment option, and claw-back reallocation between institutional and retail tranches.
+- d. A rights issue after listing requires a full prospectus, not an Offer Information Statement.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Mainboard listing requires fulfilling SGX listing requirements, while Catalist is sponsor-supervised with no quantitative requirements; the prospectus is lodged on MAS's OPERA portal, the offer typically opens for at least 2 market days, trading begins the next business day after allocation on a T+2 basis, and risks to watch include vendor share sales (mitigated by a lock-up moratorium), deferred shares/options that dilute EPS, the Greenshoe over-allotment option, and claw-back reallocation between institutional and retail tranches.
+
+**Rationale:** The issuer engages a lead manager/sponsor and underwriters (management fees to the lead manager, underwriting fees to underwriters); lawyers draft the prospectus and accountants prepare audited reports. Once SGX approves the draft prospectus it is lodged on OPERA. IPOs are usually distributed in two tranches — a private placement (institutional/accredited, usually the larger portion) and a public retail tranche (smaller, widely distributed). Prospectus checks also cover the business model, use of proceeds (repaying debt or buying out existing shareholders leaves little for expansion), management track record, financial analysis (e.g. inventory growing faster than sales, falling free cash flow), lock-up period, conflicts of interest, and secondary offerings. A post-listing rights issue lodges an Offer Information Statement (OIS), not a prospectus.
+
+</details>
+
+### 315. **[Single choice]** [CM-EIP §6.11] A Singapore investor wants exposure to a US-listed foreign company without trading on its home exchange, and is offered a Level 2 ADR and a non-voting depositary receipt (NVDR). Which statement is correct?
+
+- a. Depositary receipts eliminate currency risk and counterparty risk.
+- b. Level 1, 2 and 3 ADRs all raise new capital.
+- c. GDRs are issued in the US and listed only on the NYSE.
+- d. A Level 2 ADR is listed on a US exchange such as the NYSE or NASDAQ but raises no new capital; only a Level 3 ADR programme offers new shares to US investors and raises capital; an NVDR carries no voting rights, so the holder cannot participate in corporate decisions, which enables foreign investment where ownership restrictions would otherwise prohibit it.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. A Level 2 ADR is listed on a US exchange such as the NYSE or NASDAQ but raises no new capital; only a Level 3 ADR programme offers new shares to US investors and raises capital; an NVDR carries no voting rights, so the holder cannot participate in corporate decisions, which enables foreign investment where ownership restrictions would otherwise prohibit it.
+
+**Rationale:** Depositary receipts are equity securities trading in the investor's home market representing an underlying security in the foreign issuer's home market, overcoming inefficient cross-border settlement, imperfect information flow and unfamiliar practices. ADR levels: Level 1 trades OTC (not listed, no capital raising); Level 2 is exchange-listed (no capital raising); Level 3 is a listed programme used to offer new shares (capital raising). Sponsored Level 2/3 ADRs are issued under a deposit agreement with the company; unsponsored ADRs are issued without one. GDRs are generally issued offshore from the US, commonly listed in London and Luxembourg. DR risks include currency risk, price risk (ADRs often trade at a premium to underlying shares), counterparty risk of the depositary bank/custodian, single-listed ADR illiquidity, and limited two-way fungibility. ---
+
+</details>
+
 ## Chapter 7 — Deposits and Fixed-Income Securities
 
-### 262. **[Single choice]** [CM-EIP §7.1] Why was keeping excessive cash from 2008 to 2017 non-optimal?
+### 316. **[Single choice]** [CM-EIP §7.1] Why was keeping excessive cash from 2008 to 2017 non-optimal?
 
 - a. Because interest rates were high
 - b. Because cash was illegal to hold
@@ -4214,7 +5078,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 263. **[Single choice]** [CM-EIP §7.2.1] When was the Singapore Deposit Insurance Scheme introduced, and what is the coverage limit from 1 April 2024?
+### 317. **[Single choice]** [CM-EIP §7.2.1] When was the Singapore Deposit Insurance Scheme introduced, and what is the coverage limit from 1 April 2024?
 
 - a. 1 April 2019; S$75,000
 - b. 1 April 2024; S$75,000
@@ -4230,7 +5094,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 264. **[Multiple response]** [CM-EIP §7.2.1] Which of the following are NOT insured by the Singapore Deposit Insurance Scheme? (Select all that apply)
+### 318. **[Multiple response]** [CM-EIP §7.2.1] Which of the following are NOT insured by the Singapore Deposit Insurance Scheme? (Select all that apply)
 
 - a. Foreign currency deposits
 - b. Structured deposits
@@ -4246,7 +5110,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 265. **[Calculation]** [CM-EIP §7.2.1] An individual has S$300,000 of Singapore dollar deposits and S$100,000 of CPFIS deposits with one bank, plus USD 250,000 in a currency investment. How much is insured?
+### 319. **[Calculation]** [CM-EIP §7.2.1] An individual has S$300,000 of Singapore dollar deposits and S$100,000 of CPFIS deposits with one bank, plus USD 250,000 in a currency investment. How much is insured?
 
 - a. S$200,000
 - b. S$400,000
@@ -4262,7 +5126,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 266. **[Single choice]** [CM-EIP §7.3] Which of the following is a money market instrument rather than a capital market instrument?
+### 320. **[Single choice]** [CM-EIP §7.3] Which of the following is a money market instrument rather than a capital market instrument?
 
 - a. A 10-year government bond
 - b. A repurchase agreement
@@ -4278,7 +5142,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 267. **[Single choice]** [CM-EIP §7.4] What is the typical minimum denomination of a money market instrument?
+### 321. **[Single choice]** [CM-EIP §7.4] What is the typical minimum denomination of a money market instrument?
 
 - a. S$1,000 and above
 - b. S$10,000 and above
@@ -4294,7 +5158,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 268. **[Single choice]** [CM-EIP §7.4] Why do money market instruments carry more reinvestment risk than longer-dated bonds?
+### 322. **[Single choice]** [CM-EIP §7.4] Why do money market instruments carry more reinvestment risk than longer-dated bonds?
 
 - a. Because they are unsecured
 - b. Because they are illiquid
@@ -4310,7 +5174,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 269. **[Single choice]** [CM-EIP §7.4.1] Why is the T-bill yield used as a benchmark for the risk-free rate?
+### 323. **[Single choice]** [CM-EIP §7.4.1] Why is the T-bill yield used as a benchmark for the risk-free rate?
 
 - a. Because they are obligations of the government and considered free of default risk
 - b. Because they are issued by banks
@@ -4326,7 +5190,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 270. **[Single choice]** [CM-EIP §7.4.3] Why can only corporations with very strong credit ratings issue commercial paper?
+### 324. **[Single choice]** [CM-EIP §7.4.3] Why can only corporations with very strong credit ratings issue commercial paper?
 
 - a. Because commercial paper is secured
 - b. Because commercial paper is an unsecured promissory note
@@ -4342,7 +5206,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 271. **[Single choice]** [CM-EIP §7.4.4] What is a repurchase agreement economically?
+### 325. **[Single choice]** [CM-EIP §7.4.4] What is a repurchase agreement economically?
 
 - a. A forward contract
 - b. An unsecured loan
@@ -4358,7 +5222,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 272. **[Single choice]** [CM-EIP §7.5] What maturity range defines medium-term notes?
+### 326. **[Single choice]** [CM-EIP §7.5] What maturity range defines medium-term notes?
 
 - a. More than 10 years
 - b. More than 30 years
@@ -4374,7 +5238,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 273. **[Single choice]** [CM-EIP §7.5.1] What is the major disadvantage of fixed-coupon bonds?
+### 327. **[Single choice]** [CM-EIP §7.5.1] What is the major disadvantage of fixed-coupon bonds?
 
 - a. They do not adjust for inflation, which erodes purchasing power and can cause price fluctuations
 - b. They are always illiquid
@@ -4390,7 +5254,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 274. **[Single choice]** [CM-EIP §7.5.2] What is the difference between a term bond and a serial bond?
+### 328. **[Single choice]** [CM-EIP §7.5.2] What is the difference between a term bond and a serial bond?
 
 - a. A term bond is exchange-traded; a serial bond is OTC
 - b. A term bond has a single maturity date; a serial bond has a series of maturity dates
@@ -4406,7 +5270,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 275. **[Calculation]** [CM-EIP §7.6.1] A T-bill with 90 days to maturity, face value $100,000, sells for $98,000. What is the bank discount yield?
+### 329. **[Calculation]** [CM-EIP §7.6.1] A T-bill with 90 days to maturity, face value $100,000, sells for $98,000. What is the bank discount yield?
 
 - a. 7.35%
 - b. 2.04%
@@ -4422,7 +5286,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 276. **[Single choice]** [CM-EIP §7.6.1] Why is the bank discount yield not a meaningful measure of return?
+### 330. **[Single choice]** [CM-EIP §7.6.1] Why is the bank discount yield not a meaningful measure of return?
 
 - a. Because it uses a 365-day year
 - b. Because it ignores the coupon
@@ -4438,7 +5302,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 277. **[Calculation]** [CM-EIP §7.6.2] A corporate bond is quoted at 95¾ with a par value of $1,000. What is the price?
+### 331. **[Calculation]** [CM-EIP §7.6.2] A corporate bond is quoted at 95¾ with a par value of $1,000. What is the price?
 
 - a. $957.50
 - b. $955.75
@@ -4454,7 +5318,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 278. **[Calculation]** [CM-EIP §7.6.2] An 8% bond pays semi-annual interest on 1 June and 1 December and is sold on 1 September. What accrued interest is the seller entitled to?
+### 332. **[Calculation]** [CM-EIP §7.6.2] An 8% bond pays semi-annual interest on 1 June and 1 December and is sold on 1 September. What accrued interest is the seller entitled to?
 
 - a. $20
 - b. $40
@@ -4470,7 +5334,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 279. **[Single choice]** [CM-EIP §7.7.1] Why does the Singapore Government issue Singapore Government Securities if it runs a balanced budget?
+### 333. **[Single choice]** [CM-EIP §7.7.1] Why does the Singapore Government issue Singapore Government Securities if it runs a balanced budget?
 
 - a. To fund infrastructure spending
 - b. To build a liquid market and establish a benchmark yield curve for pricing Singapore dollar private debt
@@ -4486,7 +5350,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 280. **[Single choice]** [CM-EIP §7.7.2] What are the three defining features of a Eurobond?
+### 334. **[Single choice]** [CM-EIP §7.7.2] What are the three defining features of a Eurobond?
 
 - a. Issued by a European company, sold in Europe, settled in euros
 - b. Rated AAA, unsecured, long-dated
@@ -4502,7 +5366,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 281. **[Single choice]** [CM-EIP §7.7.3] What important function does the secondary bond market perform beyond trading?
+### 335. **[Single choice]** [CM-EIP §7.7.3] What important function does the secondary bond market perform beyond trading?
 
 - a. It guarantees bond payments
 - b. It regulates issuers
@@ -4518,7 +5382,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 282. **[Single choice]** [CM-EIP §7.8.1] Why are floating rate bonds attractive to some institutional investors?
+### 336. **[Single choice]** [CM-EIP §7.8.1] Why are floating rate bonds attractive to some institutional investors?
 
 - a. Because the income stream more closely matches the floating nature of some of their liabilities
 - b. Because they have no credit risk
@@ -4534,7 +5398,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 283. **[Single choice]** [CM-EIP §7.8.2] What is the most attractive feature of a zero-coupon bond?
+### 337. **[Single choice]** [CM-EIP §7.8.2] What is the most attractive feature of a zero-coupon bond?
 
 - a. High current income
 - b. No reinvestment risk within the life of the bond, so the return is locked in if held to maturity
@@ -4550,7 +5414,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 284. **[Single choice]** [CM-EIP §7.8.2] Which is a disadvantage of zero-coupon bonds?
+### 338. **[Single choice]** [CM-EIP §7.8.2] Which is a disadvantage of zero-coupon bonds?
 
 - a. They have no maturity value
 - b. They pay coupons that must be reinvested
@@ -4566,7 +5430,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 285. **[Single choice]** [CM-EIP §7.8.3] Why are convertible bond yields lower than comparable straight bond yields?
+### 339. **[Single choice]** [CM-EIP §7.8.3] Why are convertible bond yields lower than comparable straight bond yields?
 
 - a. Because convertibles have shorter maturities
 - b. Because convertibles are tax-exempt
@@ -4582,7 +5446,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 286. **[Single choice]** [CM-EIP §7.8.4] What is a covered bond?
+### 340. **[Single choice]** [CM-EIP §7.8.4] What is a covered bond?
 
 - a. A highly rated paper backed by bank assets, typically costing less to issue than unsecured bonds
 - b. A bond with an insurance wrapper
@@ -4598,7 +5462,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 287. **[Single choice]** [CM-EIP §7.8.5] What rating threshold separates high-yield bonds from investment grade?
+### 341. **[Single choice]** [CM-EIP §7.8.5] What rating threshold separates high-yield bonds from investment grade?
 
 - a. Below A
 - b. Below BBB
@@ -4614,7 +5478,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 288. **[Single choice]** [CM-EIP §7.8.6] Which deferred-coupon structure gives the issuer the option to pay cash or issue a similar bond?
+### 342. **[Single choice]** [CM-EIP §7.8.6] Which deferred-coupon structure gives the issuer the option to pay cash or issue a similar bond?
 
 - a. Deferred-interest bond
 - b. Step-up bond
@@ -4630,7 +5494,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 289. **[Single choice]** [CM-EIP §7.8.6] How do perpetual bonds rank in the order of discharge on default?
+### 343. **[Single choice]** [CM-EIP §7.8.6] How do perpetual bonds rank in the order of discharge on default?
 
 - a. Equal to equities
 - b. After preference shares but before ordinary shares
@@ -4646,7 +5510,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 290. **[Single choice]** [CM-EIP §7.9.1] Why do callable bonds carry higher yields than equivalent non-callable bonds?
+### 344. **[Single choice]** [CM-EIP §7.9.1] Why do callable bonds carry higher yields than equivalent non-callable bonds?
 
 - a. Because the investor risks losing a high-coupon bond when rates decline and the upside price potential is limited
 - b. Because they are unsecured
@@ -4662,7 +5526,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 291. **[Single choice]** [CM-EIP §7.9.1] How does the call premium behave over the life of a bond?
+### 345. **[Single choice]** [CM-EIP §7.9.1] How does the call premium behave over the life of a bond?
 
 - a. It rises towards maturity
 - b. It tends to be higher in the early life of the bond and declines gradually towards par as maturity approaches
@@ -4678,7 +5542,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 292. **[Single choice]** [CM-EIP §7.9.2] What is the purpose of a sinking-fund provision?
+### 346. **[Single choice]** [CM-EIP §7.9.2] What is the purpose of a sinking-fund provision?
 
 - a. To convert the bond into shares
 - b. To increase the coupon rate
@@ -4694,7 +5558,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 293. **[Single choice]** [CM-EIP §7.9.3] Why does a put provision lower a bond's yield?
+### 347. **[Single choice]** [CM-EIP §7.9.3] Why does a put provision lower a bond's yield?
 
 - a. Because it extends the maturity
 - b. Because it removes the coupon
@@ -4710,7 +5574,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 294. **[Single choice]** [CM-EIP §7.9.4] Which bondholders have a claim subordinated to secured debt and after the main creditors?
+### 348. **[Single choice]** [CM-EIP §7.9.4] Which bondholders have a claim subordinated to secured debt and after the main creditors?
 
 - a. Subordinated (junior) bondholders
 - b. Income bondholders
@@ -4726,7 +5590,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 295. **[Single choice]** [CM-EIP §7.10] What is the primary difference between asset-backed securities and mortgage-backed securities?
+### 349. **[Single choice]** [CM-EIP §7.10] What is the primary difference between asset-backed securities and mortgage-backed securities?
 
 - a. ABS are exchange-traded; MBS are OTC
 - b. MBS are created from pooling mortgages, while ABS are created from pooling non-mortgage assets
@@ -4742,7 +5606,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 296. **[Single choice]** [CM-EIP §7.10.1] What is a collateralised loan obligation?
+### 350. **[Single choice]** [CM-EIP §7.10.1] What is a collateralised loan obligation?
 
 - a. A government-guaranteed loan
 - b. A CDO backed by a pool of bonds
@@ -4758,7 +5622,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 297. **[Single choice]** [CM-EIP §7.11] What is credit risk?
+### 351. **[Single choice]** [CM-EIP §7.11] What is credit risk?
 
 - a. The risk that the bond is called
 - b. The risk that the bond is illiquid
@@ -4774,7 +5638,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 298. **[Single choice]** [CM-EIP §7.11.1] Which rating indicates selective default on a specific issue while other obligations continue to be met?
+### 352. **[Single choice]** [CM-EIP §7.11.1] Which rating indicates selective default on a specific issue while other obligations continue to be met?
 
 - a. SD
 - b. R
@@ -4790,7 +5654,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 299. **[Single choice]** [CM-EIP §7.11.1] What is the highest short-term issuer credit rating category in the S&P scale?
+### 353. **[Single choice]** [CM-EIP §7.11.1] What is the highest short-term issuer credit rating category in the S&P scale?
 
 - a. AAA
 - b. A-1
@@ -4806,7 +5670,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 300. **[Calculation]** [CM-EIP §7.11.2] A 10-year Treasury yields 2% and a 10-year corporate bond yields 4%. What is the credit spread?
+### 354. **[Calculation]** [CM-EIP §7.11.2] A 10-year Treasury yields 2% and a 10-year corporate bond yields 4%. What is the credit spread?
 
 - a. 2 basis points
 - b. 20 basis points
@@ -4822,7 +5686,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 301. **[Single choice]** [CM-EIP §7.11.2] What happens to credit spreads during a crisis?
+### 355. **[Single choice]** [CM-EIP §7.11.2] What happens to credit spreads during a crisis?
 
 - a. They are unchanged
 - b. They become negative
@@ -4838,7 +5702,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 302. **[Single choice]** [CM-EIP §7.11.3] Why might an Asian company choose not to be rated?
+### 356. **[Single choice]** [CM-EIP §7.11.3] Why might an Asian company choose not to be rated?
 
 - a. Because it believes the main investors who would buy its bonds know its business and history
 - b. Because unrated bonds pay lower yields
@@ -4854,7 +5718,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 303. **[Multiple response]** [CM-EIP §7.11.4] Which of the following can mitigate poor credit quality of a bond issue? (Select all that apply)
+### 357. **[Multiple response]** [CM-EIP §7.11.4] Which of the following can mitigate poor credit quality of a bond issue? (Select all that apply)
 
 - a. Creating a dedicated sinking fund
 - b. Offering specified assets as collateral
@@ -4870,7 +5734,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 304. **[Single choice]** [CM-EIP §7.11.5] In a credit default swap, who pays a lump sum on default?
+### 358. **[Single choice]** [CM-EIP §7.11.5] In a credit default swap, who pays a lump sum on default?
 
 - a. The buyer of the CDS
 - b. The seller of the CDS
@@ -4886,7 +5750,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 305. **[Single choice]** [CM-EIP §7.11.5] Which institution was bailed out because it had sold multiple CDS on the same mortgage-backed securities?
+### 359. **[Single choice]** [CM-EIP §7.11.5] Which institution was bailed out because it had sold multiple CDS on the same mortgage-backed securities?
 
 - a. Fannie Mae
 - b. Lehman Brothers
@@ -4902,7 +5766,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 306. **[Single choice]** [CM-EIP §7.11.6] Which of the following is a red flag for credit analysis?
+### 360. **[Single choice]** [CM-EIP §7.11.6] Which of the following is a red flag for credit analysis?
 
 - a. An increase in cash flow from operations
 - b. A decline in the debt level
@@ -4918,7 +5782,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 307. **[Single choice]** [CM-EIP §7.11.7] At what price range might a distressed bond offer a worthwhile recovery opportunity?
+### 361. **[Single choice]** [CM-EIP §7.11.7] At what price range might a distressed bond offer a worthwhile recovery opportunity?
 
 - a. $0.30–$0.40 on the dollar
 - b. $0.01–$0.05 on the dollar
@@ -4934,7 +5798,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 308. **[Single choice]** [CM-EIP §7.12.1] What is the relationship between interest rates and bond prices?
+### 362. **[Single choice]** [CM-EIP §7.12.1] What is the relationship between interest rates and bond prices?
 
 - a. Direct
 - b. Inverse
@@ -4950,7 +5814,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 309. **[Single choice]** [CM-EIP §7.12.2] For which bonds is reinvestment risk greatest?
+### 363. **[Single choice]** [CM-EIP §7.12.2] For which bonds is reinvestment risk greatest?
 
 - a. Convertible bonds
 - b. Zero-coupon bonds with short maturities
@@ -4966,7 +5830,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 310. **[Single choice]** [CM-EIP §7.12.4] Which type of inflation does inflation risk concern?
+### 364. **[Single choice]** [CM-EIP §7.12.4] Which type of inflation does inflation risk concern?
 
 - a. Deflation only
 - b. Hyperinflation only
@@ -4982,7 +5846,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 311. **[Single choice]** [CM-EIP §7.12.5] What indicates the marketability of a bond?
+### 365. **[Single choice]** [CM-EIP §7.12.5] What indicates the marketability of a bond?
 
 - a. The size of the spread between the bid and the offer quoted by the dealer
 - b. The credit rating
@@ -4998,7 +5862,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 312. **[Single choice]** [CM-EIP §7.12.7] What is vega risk?
+### 366. **[Single choice]** [CM-EIP §7.12.7] What is vega risk?
 
 - a. The risk that interest rates rise
 - b. The risk that a change in expected interest rate volatility adversely affects the price of a security with an embedded option
@@ -5014,7 +5878,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 313. **[Calculation]** [CM-EIP §7.13] A 10-year bond with par $1,000 and an 8% coupon, with a required yield of 6% and annual coupons, is priced at approximately:
+### 367. **[Calculation]** [CM-EIP §7.13] A 10-year bond with par $1,000 and an 8% coupon, with a required yield of 6% and annual coupons, is priced at approximately:
 
 - a. $920.00
 - b. $1,000.00
@@ -5030,7 +5894,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 314. **[Calculation]** [CM-EIP §7.13.1] A zero-coupon bond matures in 15 years with par $1,000, at a required return of 9%. What is its price?
+### 368. **[Calculation]** [CM-EIP §7.13.1] A zero-coupon bond matures in 15 years with par $1,000, at a required return of 9%. What is its price?
 
 - a. $274.54
 - b. $1,000.00
@@ -5046,7 +5910,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 315. **[Single choice]** [CM-EIP §7.14] A 10-year 12% semi-annual coupon bond is priced at 112.46% of par. What is the required yield?
+### 369. **[Single choice]** [CM-EIP §7.14] A 10-year 12% semi-annual coupon bond is priced at 112.46% of par. What is the required yield?
 
 - a. 8%
 - b. 10%
@@ -5062,7 +5926,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 316. **[Single choice]** [CM-EIP §7.15] When does a bond trade at a premium?
+### 370. **[Single choice]** [CM-EIP §7.15] When does a bond trade at a premium?
 
 - a. When the coupon rate is higher than the market yield
 - b. When the coupon rate equals the market yield
@@ -5078,7 +5942,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 317. **[Single choice]** [CM-EIP §7.16.1] Why does a longer maturity increase a bond's price sensitivity to interest rates?
+### 371. **[Single choice]** [CM-EIP §7.16.1] Why does a longer maturity increase a bond's price sensitivity to interest rates?
 
 - a. Because longer bonds pay higher coupons
 - b. Because longer-term cash flows are more sensitive to changes in interest rates
@@ -5094,7 +5958,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 318. **[Single choice]** [CM-EIP §7.16.2] For two bonds of equal maturity, which is more affected by a rise in market yields?
+### 372. **[Single choice]** [CM-EIP §7.16.2] For two bonds of equal maturity, which is more affected by a rise in market yields?
 
 - a. It depends on the credit rating
 - b. The bond with the larger coupon
@@ -5110,7 +5974,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 319. **[Single choice]** [CM-EIP §7.17.1] For which bonds is duration highest, all else equal?
+### 373. **[Single choice]** [CM-EIP §7.17.1] For which bonds is duration highest, all else equal?
 
 - a. Higher coupons, lower yields and shorter maturities
 - b. Zero coupons with short maturities
@@ -5126,7 +5990,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 320. **[Single choice]** [CM-EIP §7.17.1] Over what size of interest rate change is duration a reliable linear approximation?
+### 374. **[Single choice]** [CM-EIP §7.17.1] Over what size of interest rate change is duration a reliable linear approximation?
 
 - a. Not more than 1% or 100 basis points
 - b. Up to 5%
@@ -5142,7 +6006,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 321. **[Single choice]** [CM-EIP §7.17.2] Which bond has the highest convexity?
+### 375. **[Single choice]** [CM-EIP §7.17.2] Which bond has the highest convexity?
 
 - a. A 10-year 4% coupon bond
 - b. A 10-year zero-coupon bond
@@ -5158,7 +6022,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 322. **[Single choice]** [CM-EIP §7.17.3] What should an investor do with portfolio duration when interest rates are expected to fall?
+### 376. **[Single choice]** [CM-EIP §7.17.3] What should an investor do with portfolio duration when interest rates are expected to fall?
 
 - a. Set duration to zero
 - b. Decrease duration to minimise sensitivity
@@ -5174,7 +6038,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 323. **[Single choice]** [CM-EIP §7.17.3] How does greater convexity affect a bond's price when interest rates rise?
+### 377. **[Single choice]** [CM-EIP §7.17.3] How does greater convexity affect a bond's price when interest rates rise?
 
 - a. The price is unaffected
 - b. The price rises
@@ -5190,7 +6054,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 324. **[Single choice]** [CM-EIP §7.17.4] What does PVBP or PV01 measure?
+### 378. **[Single choice]** [CM-EIP §7.17.4] What does PVBP or PV01 measure?
 
 - a. The change in present value of the entire bond portfolio for a one basis point movement in interest rates
 - b. The bond's yield to maturity
@@ -5206,7 +6070,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 325. **[Single choice]** [CM-EIP §7.18] What happens to the price of a discount bond as it approaches maturity, all else constant?
+### 379. **[Single choice]** [CM-EIP §7.18] What happens to the price of a discount bond as it approaches maturity, all else constant?
 
 - a. It falls
 - b. It rises towards par
@@ -5222,7 +6086,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 326. **[Calculation]** [CM-EIP §7.19.1] A 10-year 6% coupon bond with par $1,000 is priced at 115%. What is the current yield?
+### 380. **[Calculation]** [CM-EIP §7.19.1] A 10-year 6% coupon bond with par $1,000 is priced at 115%. What is the current yield?
 
 - a. 5.00%
 - b. 6.90%
@@ -5238,7 +6102,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 327. **[Calculation]** [CM-EIP §7.19.2] A bond priced at $1,148.80 with an 8% semi-annual coupon and 10 years to maturity has a semi-annual YTM of 3.00%. What is the bond-equivalent yield?
+### 381. **[Calculation]** [CM-EIP §7.19.2] A bond priced at $1,148.80 with an 8% semi-annual coupon and 10 years to maturity has a semi-annual YTM of 3.00%. What is the bond-equivalent yield?
 
 - a. 3.00%
 - b. 6.00%
@@ -5254,7 +6118,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 328. **[Calculation]** [CM-EIP §7.19.2] A bond priced at $1,148.80 with par $1,000 and an 8% annual coupon has 10 years to maturity. Using the approximation formula, what is the YTM?
+### 382. **[Calculation]** [CM-EIP §7.19.2] A bond priced at $1,148.80 with par $1,000 and an 8% annual coupon has 10 years to maturity. Using the approximation formula, what is the YTM?
 
 - a. 6.00%
 - b. 6.09%
@@ -5270,7 +6134,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 329. **[Calculation]** [CM-EIP §7.19.2] A 15-year zero-coupon bond with maturity value $1,000 sells for $300. What is the bond-equivalent yield?
+### 383. **[Calculation]** [CM-EIP §7.19.2] A 15-year zero-coupon bond with maturity value $1,000 sells for $300. What is the bond-equivalent yield?
 
 - a. 8.2%
 - b. 4.1%
@@ -5286,7 +6150,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 330. **[Single choice]** [CM-EIP §7.19.2] Under what two conditions will an investor actually realise the stated YTM?
+### 384. **[Single choice]** [CM-EIP §7.19.2] Under what two conditions will an investor actually realise the stated YTM?
 
 - a. If the bond is sold before maturity and rates fall
 - b. If coupon payments can be consistently reinvested at the YTM and the bond is held to maturity
@@ -5302,7 +6166,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 331. **[Calculation]** [CM-EIP §7.19.4] An investor in the 28% marginal tax bracket holds a tax-exempt bond with a YTM of 7%. What is the taxable equivalent yield?
+### 385. **[Calculation]** [CM-EIP §7.19.4] An investor in the 28% marginal tax bracket holds a tax-exempt bond with a YTM of 7%. What is the taxable equivalent yield?
 
 - a. 5.04%
 - b. 7.0%
@@ -5318,7 +6182,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 332. **[Single choice]** [CM-EIP §7.20.1] What does a declining yield curve indicate?
+### 386. **[Single choice]** [CM-EIP §7.20.1] What does a declining yield curve indicate?
 
 - a. Inflation is expected to rise
 - b. The market is ambivalent
@@ -5334,7 +6198,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 333. **[Single choice]** [CM-EIP §7.20.2] Which theory argues that the yield curve should always be upward sloping?
+### 387. **[Single choice]** [CM-EIP §7.20.2] Which theory argues that the yield curve should always be upward sloping?
 
 - a. Liquidity preference theory
 - b. Market segmentation theory
@@ -5350,7 +6214,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 334. **[Calculation]** [CM-EIP §7.20.2] A 1-year T-bill yields 6% and a new 1-year T-bill is expected to yield 8% next year. Under the expectations theory, what should a 2-year security yield?
+### 388. **[Calculation]** [CM-EIP §7.20.2] A 1-year T-bill yields 6% and a new 1-year T-bill is expected to yield 8% next year. Under the expectations theory, what should a 2-year security yield?
 
 - a. 6.0%
 - b. 7.0%
@@ -5366,7 +6230,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 335. **[Single choice]** [CM-EIP §7.20.2] Which theory holds that each maturity's yield is determined solely by supply and demand in that segment?
+### 389. **[Single choice]** [CM-EIP §7.20.2] Which theory holds that each maturity's yield is determined solely by supply and demand in that segment?
 
 - a. Liquidity preference theory
 - b. Market segmentation theory
@@ -5382,7 +6246,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 336. **[Calculation]** [CM-EIP §7.21.1] A convertible bond has a conversion ratio of 40 and the share price is $24. What is the conversion value?
+### 390. **[Calculation]** [CM-EIP §7.21.1] A convertible bond has a conversion ratio of 40 and the share price is $24. What is the conversion value?
 
 - a. $1,100
 - b. $728
@@ -5398,7 +6262,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 337. **[Calculation]** [CM-EIP §7.21.2] A convertible bond has a par value of $1,000 and a conversion ratio of 40. What is the conversion price?
+### 391. **[Calculation]** [CM-EIP §7.21.2] A convertible bond has a par value of $1,000 and a conversion ratio of 40. What is the conversion price?
 
 - a. $27.50
 - b. $24
@@ -5414,7 +6278,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 338. **[Calculation]** [CM-EIP §7.21.3] A convertible bond trades at $1,100 with a conversion ratio of 40. What is the conversion parity price?
+### 392. **[Calculation]** [CM-EIP §7.21.3] A convertible bond trades at $1,100 with a conversion ratio of 40. What is the conversion parity price?
 
 - a. $27.50
 - b. $25.00
@@ -5430,7 +6294,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 339. **[Calculation]** [CM-EIP §7.21.4] A convertible trades at $1,100 with a conversion value of $960. What is the conversion premium in percentage terms?
+### 393. **[Calculation]** [CM-EIP §7.21.4] A convertible trades at $1,100 with a conversion value of $960. What is the conversion premium in percentage terms?
 
 - a. 51.0%
 - b. 14.6%
@@ -5446,7 +6310,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 340. **[Calculation]** [CM-EIP §7.21.5] A convertible has a conversion premium of $140, bond income of $40 and dividend income of $14. What is the breakeven time?
+### 394. **[Calculation]** [CM-EIP §7.21.5] A convertible has a conversion premium of $140, bond income of $40 and dividend income of $14. What is the breakeven time?
 
 - a. 10.00 years
 - b. 2.60 years
@@ -5462,7 +6326,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 341. **[Calculation]** [CM-EIP §7.21.6] A convertible trades at $1,100 with an investment value of $728. What is the premium over straight value?
+### 395. **[Calculation]** [CM-EIP §7.21.6] A convertible trades at $1,100 with an investment value of $728. What is the premium over straight value?
 
 - a. 34%
 - b. 66%
@@ -5478,7 +6342,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 342. **[Single choice]** [CM-EIP §7.21.7] How does a convertible bond's yield compare with the underlying share's dividend yield and a plain vanilla bond?
+### 396. **[Single choice]** [CM-EIP §7.21.7] How does a convertible bond's yield compare with the underlying share's dividend yield and a plain vanilla bond?
 
 - a. Higher than the dividend yield but lower than a comparable plain vanilla bond
 - b. Lower than the dividend yield but higher than a plain vanilla bond
@@ -5494,9 +6358,425 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
+### 397. **[Single choice]** [CM-EIP §7.2] Mei, an entrepreneur, receives a lump-sum distribution from her business. She sets aside one portion for her household's daily spending, ploughs a second portion back into the business, keeps a third portion as a buffer for family emergencies and life's risks, and invests the remainder in financial assets. Which statement correctly describes how the guide classifies her uses of cash?
+
+- a. The buffer for emergencies is "excess cash", and the amount ploughed back into the business is "consumption".
+- b. The four uses are consumption, savings, speculation, and excess cash — the emergency buffer counts as savings, not reserves.
+- c. All four portions are "excess cash", because any money not spent immediately is excess.
+- d. The four uses are consumption, reinvestment into the business, reserves, and excess cash — the emergency buffer is reserves, and only the remainder invested in financial assets is excess cash.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. The four uses are consumption, reinvestment into the business, reserves, and excess cash — the emergency buffer is reserves, and only the remainder invested in financial assets is excess cash.
+
+**Rationale:** For individuals, income and monies received fall into four categories: money for consumption; reinvestment into the business (for entrepreneurs); reserves set aside for family needs, life's risks and unfortunate eventualities; and excess cash. Reserves and excess cash can be invested in personal assets such as property and in financial assets, or held as cash and cash equivalents for liquidity.
+
+</details>
+
+### 398. **[Calculation]** [CM-EIP §7.2.1] Hassan holds all of the following with a single SDIC-member bank: a Singapore-dollar current account of S$25,000, a Singapore-dollar savings account of S$45,000, a Singapore-dollar fixed deposit of S$110,000, a CPFIS deposit of S$60,000, and a US-dollar deposit of S$150,000 equivalent. The bank fails. How much of his money is insured under the Deposit Insurance Scheme?
+
+- a. S$160,000
+- b. S$100,000
+- c. S$240,000
+- d. S$390,000
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. S$160,000
+
+**Rationale:** The scheme covers only Singapore-dollar deposits, up to S$100,000 of the aggregate balance across accounts with one bank: S$25,000 + S$45,000 + S$110,000 = S$180,000 of S$ deposits, so only S$100,000 is insured. CPFIS monies are aggregated and separately insured up to S$100,000, so the S$60,000 CPFIS deposit is fully insured. Foreign currency deposits are not insured. Total insured = S$100,000 + S$60,000 = S$160,000. (B forgets the separate CPFIS cover; C forgets the S$100,000 cap on S$ deposits; D insures everything, including the US-dollar deposit.)
+
+</details>
+
+### 399. **[Single choice]** [CM-EIP §7.4] A fund manager needs to park S$300,000 for four months while waiting for a better entry point into equities. Which statement about money market instruments is correct?
+
+- a. Money market instruments mature in under one year and typically carry a minimum denomination of S$250,000 and above, so the S$300,000 can be placed — but the short maturity means the proceeds will soon need reinvesting, so reinvestment risk is high.
+- b. Commercial paper is a secured instrument, so any corporation can issue it to raise four-month funding.
+- c. A repurchase agreement is an unsecured loan, so it carries no collateral protection.
+- d. Money market instruments carry almost no reinvestment risk, because their short maturity locks in the return.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Money market instruments mature in under one year and typically carry a minimum denomination of S$250,000 and above, so the S$300,000 can be placed — but the short maturity means the proceeds will soon need reinvesting, so reinvestment risk is high.
+
+**Rationale:** Money market instruments are debt instruments with maturities of less than one year; the minimum denomination is usually large, S$250,000 and above. Although they carry almost no risk of principal loss, they are subject to reinvestment risk — the risk that proceeds cannot be reinvested at equivalent rates — and short-term instruments carry more reinvestment risk because proceeds must be reinvested each time the instrument matures. (B is wrong: commercial paper is unsecured, so only corporations with very strong credit ratings can issue it. C is wrong: a repo is effectively a collateralised short-term loan, with the money market instrument as collateral. D reverses the guide: short maturities mean more, not less, reinvestment risk.)
+
+</details>
+
+### 400. **[Single choice]** [CM-EIP §7.5] A company issues two new debt securities: a 7-year note and a 15-year bond. Both pay a fixed coupon on specified dates and repay principal at maturity. Which statement is correct?
+
+- a. The 7-year note is a money market instrument and the 15-year bond is a medium-term note.
+- b. The 7-year note is a long-term bond, because any maturity above five years is long-term.
+- c. Both are fixed-income securities providing periodic payments at a rate known in advance with eventual return of principal; the 7-year note is a medium-term note (more than one year and up to 10 years) and the 15-year bond is a long-term bond (longer than 10 years).
+- d. Neither is a fixed-income security, because fixed-income securities must pay a floating coupon.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Both are fixed-income securities providing periodic payments at a rate known in advance with eventual return of principal; the 7-year note is a medium-term note (more than one year and up to 10 years) and the 15-year bond is a long-term bond (longer than 10 years).
+
+**Rationale:** A fixed-income security provides periodic payments at an interest rate known in advance, with eventual return of principal at maturity. By original maturity: money market instruments mature within one year; medium-term notes run more than one year and up to 10 years; long-term bonds run longer than 10 years.
+
+</details>
+
+### 401. **[Single choice]** [CM-EIP §7.5.2] Which statement about fixed-income terminology is correct?
+
+- a. Par value is the same as market value: a bond with a par value of $1,000 always trades at $1,000.
+- b. Singapore Government bonds are bearer bonds, because ownership is shown by holding the physical certificate.
+- c. The longer the maturity, the less volatile the bond price, so conservative investors prefer long maturities.
+- d. Term bonds have a single maturity date, while serial bonds are bundles of bonds issued at the same time with a series of different maturity dates.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Term bonds have a single maturity date, while serial bonds are bundles of bonds issued at the same time with a series of different maturity dates.
+
+**Rationale:** Par value (face value) is the redemption value repaid at maturity — for most bonds $1,000 — and is not the same as market value, which rises or falls with factors affecting required return. Term bonds have a single maturity date (most corporate bonds); serial bonds have a series of maturity dates. Singapore Government bonds are scripless: ownership is reflected as electronic book entries, and few bearer bonds are issued today given the security risk. The longer the maturity, the more volatile the bond price.
+
+</details>
+
+### 402. **[Single choice]** [CM-EIP §7.11] Two 10-year bonds are compared: a US Treasury yielding 3% and a corporate bond of the same maturity yielding 5.5%. Which statement is correct?
+
+- a. The 250 basis point difference is the credit spread — the extra yield investors demand for the corporate issuer's credit (default) risk — and if the issuer's default risk rises, its bond price falls and its spread widens.
+- b. The corporate bond is free of credit risk, because all 10-year bonds carry the same risk as the Treasury.
+- c. The 250 basis point difference measures inflation risk, not credit risk.
+- d. A higher yield means the corporate bond is safer, because investors are paid more for holding it.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. The 250 basis point difference is the credit spread — the extra yield investors demand for the corporate issuer's credit (default) risk — and if the issuer's default risk rises, its bond price falls and its spread widens.
+
+**Rationale:** Credit (default) risk is the risk that the issuer cannot make timely principal and interest payments as agreed. Most corporate bonds pay a higher yield than comparable US Treasury securities, which are regarded as free of credit risk. A credit spread is the rate difference, usually in basis points, between two bonds of the same maturity but different credit quality: here 5.5% − 3.0% = 2.5% = 250 basis points. As the issuer's default risk increases, its bond price falls and its spread widens; spreads widen during crises and narrow when conditions and risk appetite improve.
+
+</details>
+
+### 403. **[Single choice]** [CM-EIP §7.5.3] Which pairing of bond issuer and motivation is correct?
+
+- a. A corporation issues bonds to diversify its funding beyond equity and bank loans; the corporate sector provides the most diverse issues in type and quality.
+- b. The Singapore Government issues Singapore Government Securities mainly to finance a budget deficit.
+- c. Government-linked corporations in Singapore source their funding directly from the government rather than tapping the bond market.
+- d. Governments issue bonds only to refinance existing debt, never to pay for infrastructure, healthcare or education.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. A corporation issues bonds to diversify its funding beyond equity and bank loans; the corporate sector provides the most diverse issues in type and quality.
+
+**Rationale:** Governments issue bonds to pay for projects such as infrastructure and essential services like healthcare and education. In Singapore, government-linked corporations tap the bond market rather than sourcing directly from the government, and the corporate sector provides the most diverse issues in type and quality. The Singapore Government itself operates a balanced budget policy and often enjoys surpluses, so SGS issuance serves primarily to build a liquid SGS market and establish a benchmark yield curve for pricing Singapore-dollar private debt, encourage an active secondary market, and attract issuers and investors — not to finance expenditure.
+
+</details>
+
+### 404. **[Single choice]** [CM-EIP §7.7.3] Which statement about the primary and secondary bond markets is correct?
+
+- a. Bonds are issued to the public in the secondary market, and SGS are sold at auctions through Primary Dealers in the primary market.
+- b. Once issued, bonds trade only on the exchange where they are listed; there is no over-the-counter secondary trading in bonds.
+- c. The secondary market is a place to buy and sell issued bonds — on the listing exchange for retail issues or over the counter — and it benchmarks market values and yields, including the spread of a corporate bond's yield over the yield on Government issues of similar maturity.
+- d. The secondary market's only function is to let issuers raise new capital.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. The secondary market is a place to buy and sell issued bonds — on the listing exchange for retail issues or over the counter — and it benchmarks market values and yields, including the spread of a corporate bond's yield over the yield on Government issues of similar maturity.
+
+**Rationale:** Bonds are issued to the public in the primary market (SGS are sold at auctions through Primary Dealers; a company raising funds appoints an investment bank). Once issued, bonds trade in the secondary market — the listing exchange for retail issues or the OTC market. Beyond trading, the secondary market benchmarks market values and yields of traded bonds, which is needed to value bond portfolios and establish benchmark yield curves for bonds of different credit ratings; of particular interest is the spread over the yield on Government issues of similar maturity.
+
+</details>
+
+### 405. **[Calculation]** [CM-EIP §7.6.2] A 6% bond with a par value of $1,000 pays semi-annual interest on 1 February and 1 August. It is sold on 1 May. How much accrued interest is the seller entitled to?
+
+- a. $7.50
+- b. $15.00
+- c. $30.00
+- d. $60.00
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. $15.00
+
+**Rationale:** All fixed-income securities trade on an accrued interest basis: the buyer pays the price plus interest earned since the last coupon date. The annual coupon is 6% × $1,000 = $60. The seller held the bond for three months since the 1 February coupon (February, March, April), so accrued interest = $60 × 3/12 = $15.00. ($30 is one semi-annual coupon, payable only after a full six months; $60 is the full annual coupon; $7.50 would be only six weeks' accrual.)
+
+</details>
+
+### 406. **[Single choice]** [CM-EIP §7.9.1–7.9.4] Which statement about special features in bond issuance is correct?
+
+- a. A call provision gives the bondholder the right to sell the bond back to the issuer at par on designated dates.
+- b. Callable bonds carry lower yields than equivalent non-callable bonds, because the call feature benefits the investor.
+- c. Subordinated (junior) bonds rank ahead of secured (senior) bonds in the claim on income and assets.
+- d. A sinking-fund provision requires the issuer to retire a certain amount of debt each year — by buying bonds in the open market if the price is below par, or paying the trustee, who calls bonds for redemption by lottery — and its purpose is to reduce credit risk.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. A sinking-fund provision requires the issuer to retire a certain amount of debt each year — by buying bonds in the open market if the price is below par, or paying the trustee, who calls bonds for redemption by lottery — and its purpose is to reduce credit risk.
+
+**Rationale:** A call provision gives the issuer (not the holder) the right to retire the debt before maturity; it is unattractive to investors, who risk losing a high-coupon bond when rates decline, and callable bonds therefore carry higher yields than equivalent non-callable bonds. A put provision gives the bondholder the right to sell back at par, limiting downside risk, and the investor pays for it with a lower yield. A sinking fund retires part of the debt each year and reduces credit risk; the doubling option lets the issuer retire twice the required amount. On claims, secured (senior) bonds have first rights over the pledged asset, subordinated (junior) bonds rank after secured debt and main creditors, and income bonds are junior debt on which the issuer can omit or delay interest if earnings are too low; bondholders as creditors rank above ordinary and preferred shareholders.
+
+</details>
+
+### 407. **[Single choice]** [CM-EIP §7.8.5] A fund manager is offered a BB-rated bond issued to finance a leveraged buyout, with interest deferred for the first five years. Which statement is correct?
+
+- a. The bond is investment grade, because BB is above BBB.
+- b. The bond is a high-yield (junk) bond: bonds rated below BBB are high-yield, and they trade primarily on their creditworthiness rather than the level of interest rates.
+- c. A deferred-interest structure pays a low coupon for the first three to seven years and then steps up.
+- d. High-yield bonds are free of credit risk, because their high coupon compensates for any default.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. The bond is a high-yield (junk) bond: bonds rated below BBB are high-yield, and they trade primarily on their creditworthiness rather than the level of interest rates.
+
+**Rationale:** Bonds rated below BBB are high-yield or junk bonds. They trade primarily on their creditworthiness rather than the level of interest rates, and their high yields reflect factors such as the small size of the company or a lack of credit history. Deferred-interest bonds — the most common deferred-coupon structure, used in leveraged buyout financing — sell at a deep discount and pay no interest for an initial period, typically three to seven years. (A low coupon that later steps up is a step-up bond, not a deferred-interest bond; a high coupon compensates for credit risk but does not remove it.)
+
+</details>
+
+### 408. **[Single choice]** [CM-EIP §7.10] Which statement about asset-backed fixed-income instruments is correct?
+
+- a. Mortgage-backed securities are created by pooling non-mortgage assets, while asset-backed securities are created by pooling mortgages.
+- b. Asset-backed securities are issued directly by the original lender with no intermediary vehicle, and the underlying assets stay on the lender's balance sheet.
+- c. Before the sub-prime crisis, mortgage-backed securities made up only a negligible share of US collateralised debt obligations.
+- d. A collateralised loan obligation (CLO) is backed by a pool of loans and a collateralised bond obligation (CBO) is backed by a pool of bonds; both are typically issued by a special purpose vehicle (SPV) and are effectively a type of asset-backed security.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. A collateralised loan obligation (CLO) is backed by a pool of loans and a collateralised bond obligation (CBO) is backed by a pool of bonds; both are typically issued by a special purpose vehicle (SPV) and are effectively a type of asset-backed security.
+
+**Rationale:** The primary difference between ABS and MBS is the underlying asset: MBS are created from pooling mortgages, while ABS evolved from MBS and are created from pooling non-mortgage assets such as auto loans and leases, consumer loans, credit card receivables and royalty payments. A CDO is structured by pooling cash-flow-generating assets, repackaged and sold to investors, typically issued by an SPV and secured by the acquired assets: a CBO is backed by a pool of bonds and a CLO by a pool of loans. During the sub-prime crisis, 40–50% of US CDOs were made up of MBS.
+
+</details>
+
+### 409. **[Single choice]** [CM-EIP §7.7] Which statement about the internal, external and Eurobond markets is correct?
+
+- a. A Eurobond is issued in the domestic market of the country whose currency it is denominated in, under that country's rules.
+- b. A yen-denominated Eurobond is a Euroyen bond and a US-dollar-denominated Eurobond is a Eurodollar bond; a Eurobond is underwritten by an international syndicate, offered simultaneously to investors in a number of countries, and issued outside the jurisdiction of any single country.
+- c. The internal bond market comprises the domestic market and the Eurobond market.
+- d. In Singapore, the foreign bond market refers to Singapore companies issuing bonds abroad.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. A yen-denominated Eurobond is a Euroyen bond and a US-dollar-denominated Eurobond is a Eurodollar bond; a Eurobond is underwritten by an international syndicate, offered simultaneously to investors in a number of countries, and issued outside the jurisdiction of any single country.
+
+**Rationale:** The bond market divides into the internal bond market (domestic plus foreign) and the external bond market, popularly the Eurobond market. In Singapore, the domestic market comprises Singapore Government Securities and corporate bonds issued by Singapore companies, while the foreign bond market refers to foreign issuers issuing bonds in the Singapore market. A Eurobond is underwritten by an international syndicate, offered at issuance simultaneously to investors in a number of countries, and issued outside the jurisdiction of any single country; the market is divided by currency of denomination — USD-denominated Eurobonds are Eurodollar bonds and yen-denominated ones are Euroyen bonds.
+
+</details>
+
+### 410. **[Single choice]** [CM-EIP §7.11.1] Which statement about credit ratings is correct?
+
+- a. A bond rated BB+ by S&P is investment grade, because it is only one notch below BBB−.
+- b. An S&P rating of SD means the obligor has failed to pay all of its financial obligations — a general default.
+- c. An S&P short-term rating of A-1 indicates vulnerable capacity with significant speculative characteristics.
+- d. Baa3 (Moody's) / BBB− (S&P and Fitch) is the lowest investment-grade rating; a BB+ bond is below investment grade and therefore high-yield.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Baa3 (Moody's) / BBB− (S&P and Fitch) is the lowest investment-grade rating; a BB+ bond is below investment grade and therefore high-yield.
+
+**Rationale:** Ratings range from AAA/Aaa (highest, extremely strong capacity) to D (failed to pay). Investment grade is BBB−/Baa3 and above: Baa3/BBB− indicates adequate capacity, while Ba1/BB+ indicates the obligor is less vulnerable in the near term than other lower-rated obligors but faces major ongoing uncertainties — below investment grade, hence high-yield. SD is selective default on a specific issue or class while continuing to meet other obligations; D is general default. The highest S&P short-term category is A-1 (strong capacity, with a plus sign indicating extremely strong capacity); B is the vulnerable category.
+
+</details>
+
+### 411. **[Single choice]** [CM-EIP §7.12] Which pairing of an event and the fixed-income risk it illustrates is correct?
+
+- a. A government declares a withholding tax on a bond's interest payments — political (or legal) risk.
+- b. A takeover seriously impairs the issuer's ability to pay interest and principal — sector risk.
+- c. A bond's bid-offer spread is very wide, so it can only be sold well below fair value — inflation (purchasing power) risk.
+- d. The value of a bond's embedded option changes because expected interest-rate volatility rises — exchange rate (currency) risk.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. A government declares a withholding tax on a bond's interest payments — political (or legal) risk.
+
+**Rationale:** Political or legal risk is the possibility of political or legal actions adversely affecting a security's value — for example a government declaring withholding taxes, declaring a tax-exempt bond taxable, or imposing capital controls on remittance. The other pairings are wrong: a takeover or restructuring impairing the issuer's ability to pay is event risk (sector risk is an event hitting many companies in one industry at once); a wide bid-offer spread indicates marketability (liquidity) risk; and a change in an embedded option's value from expected interest-rate volatility is volatility (vega) risk. The other risks in the guide's list of ten are interest rate (delta) risk, reinvestment risk, timing (call) risk, inflation risk and currency risk.
+
+</details>
+
+### 412. **[Calculation]** [CM-EIP §7.13] A 5-year bond has a par value of $1,000, an annual coupon rate of 7% and a required market yield of 5%. What is the value of the bond today?
+
+- a. $1,000.00
+- b. $1,043.29
+- c. $1,086.59
+- d. $1,127.50
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. $1,086.59
+
+**Rationale:** The value of a bond is the present value of its expected cash flows — coupons plus principal — discounted at the required rate of return. Annual coupon = 7% × $1,000 = $70. Price = 70 × annuity factor (5%, 5 years) + 1,000 × discount factor: annuity factor = [1 − 1.05^(−5)] / 0.05 = 4.32948; discount factor = 1.05^(−5) = 0.78353. Price = 70 × 4.32948 + 1,000 × 0.78353 = $303.06 + $783.53 = $1,086.59. Because the coupon rate (7%) exceeds the required yield (5%), the bond trades at a premium to par. ($1,000.00 would be the price if yield equalled the coupon; $1,043.29 and $1,127.50 do not match the discounted cash flows.)
+
+</details>
+
+### 413. **[Calculation]** [CM-EIP §7.13.1] A zero-coupon bond matures in 10 years with a par value of $1,000. The required return is 8%. What is the price of the bond?
+
+- a. $315.24
+- b. $389.00
+- c. $463.19
+- d. $456.39
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. $456.39
+
+**Rationale:** A zero-coupon bond has only the maturity value as a cash flow, so its price is the present value of the maturity amount. Using the semi-annual convention (to stay consistent with semi-annual coupon bonds): P = M / (1 + k/2)^(2n) = 1,000 / (1.04)^20 = 1,000 / 2.19112 = $456.39. (C, $463.19, is the price using annual compounding, 1,000 / 1.08^10 — the guide's formula uses the semi-annual rate and doubled periods; A and B do not match either convention.)
+
+</details>
+
+### 414. **[Calculation]** [CM-EIP §7.19.2] A bond's yield to maturity is 3.50% per half-year. What are its bond-equivalent yield and its effective annual yield?
+
+- a. Bond-equivalent yield 7.00%; effective annual yield 7.12%
+- b. Bond-equivalent yield 7.12%; effective annual yield 7.00%
+- c. Bond-equivalent yield 7.00%; effective annual yield 7.00%
+- d. Bond-equivalent yield 3.50%; effective annual yield 7.12%
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Bond-equivalent yield 7.00%; effective annual yield 7.12%
+
+**Rationale:** Market convention annualises a semi-annual yield by doubling it, giving the bond-equivalent yield: 2 × 3.50% = 7.00%. The proper annualisation is the effective annual yield, which compounds the half-year rate: (1 + 0.035)^2 − 1 = 1.071225 − 1 = 7.12%. The effective annual yield is higher than the bond-equivalent yield because of compounding within the year.
+
+</details>
+
+### 415. **[Single choice]** [CM-EIP §7.15] Bond P has an 8% coupon and a market yield of 6%. Bond D has a 5% coupon and a market yield of 7%. Both have 10 years to maturity. Which statement is correct?
+
+- a. Bond P trades at a discount and its price will rise toward par as maturity approaches; Bond D trades at a premium and its price will fall toward par.
+- b. Both bonds trade at par, because their coupons are fixed for life.
+- c. Bond P trades at a premium and its price will fall toward par as maturity approaches; Bond D trades at a discount and its price will rise toward par.
+- d. Bond P trades at a premium and its price will keep rising above par as maturity approaches; Bond D trades at a discount and its price will keep falling.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Bond P trades at a premium and its price will fall toward par as maturity approaches; Bond D trades at a discount and its price will rise toward par.
+
+**Rationale:** Coupon rate above market yield → premium; coupon rate below market yield → discount; coupon equal to yield → par. Bond P's 8% coupon exceeds its 6% yield, so it trades at a premium; Bond D's 5% coupon is below its 7% yield, so it trades at a discount. Holding all else constant, a bond's price must converge to par as maturity approaches because it will be redeemed at par: a discount bond's price increases and a premium bond's price declines over time, and a bond selling at par stays at par.
+
+</details>
+
+### 416. **[Single choice]** [CM-EIP §7.17] Bond A has a 5% coupon and Bond B a 9% coupon; both have 10 years to maturity and the same yield. A portfolio manager expects interest rates to fall. Which statement is correct?
+
+- a. Bond B has the higher duration and the higher convexity, and the manager should decrease portfolio duration.
+- b. Bond A has the higher duration and the higher convexity; if rates are expected to fall, the manager should increase portfolio duration to maximise price sensitivity.
+- c. Duration is higher for higher coupons and higher yields, so Bond B is the more rate-sensitive bond.
+- d. Convexity is irrelevant when rates fall, because duration alone determines the price change for large rate moves.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Bond A has the higher duration and the higher convexity; if rates are expected to fall, the manager should increase portfolio duration to maximise price sensitivity.
+
+**Rationale:** All else equal, duration is higher for bonds with lower coupons, lower yields and longer maturities — so the lower-coupon Bond A has the higher duration. Convexity is directly related to the coupon rate and remaining term: the lower the coupon, the higher the convexity (zero-coupon bonds have the highest convexity). A higher duration implies greater price movement up or down, so anticipating falling rates a manager should increase duration to maximise sensitivity, and anticipating rising rates should decrease it. Duration is a linear approximation valid only for small rate changes (not more than 1% or 100 basis points); convexity captures the curvature, and with positive convexity price appreciation exceeds price depreciation for large moves — investors should seek greater convexity whether rates rise or fall.
+
+</details>
+
+### 417. **[Calculation]** [CM-EIP §7.17.4] A bond portfolio has a price value of a basis point (PVBP, or PV01) of $2,500. Interest rates rise in a parallel shift of 200 basis points. What is the approximate change in the portfolio's present value?
+
+- a. It rises by $500,000.
+- b. It falls by $50,000.
+- c. It falls by $5,000,000.
+- d. It falls by $500,000.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. It falls by $500,000.
+
+**Rationale:** PVBP (PV01) is the change in the present value of the entire bond portfolio for a one basis point movement in interest rates. For a 200 basis point parallel shift, the change is approximately $2,500 × 200 = $500,000. Because rates rose, bond prices fall, so the portfolio's present value falls by about $500,000. PVBP is a risk-management tool: typically a limit is set for the total PVBP effect given parallel rate movements of 100, 200 and 300 basis points. (B is the effect of only 20 basis points; C is the effect of 2,000 basis points; A has the wrong direction.)
+
+</details>
+
+### 418. **[Calculation]** [CM-EIP §7.19.1] A 5-year bond with a par value of $1,000 and a 6% annual coupon is priced at $950. Using the approximation formula, what is its approximate yield to maturity?
+
+- a. 6.00%
+- b. 6.32%
+- c. 7.18%
+- d. 7.37%
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. 7.18%
+
+**Rationale:** Approximate YTM = (annual interest payment ± amortised gain or loss) / ((current market price + par value) / 2). Annual interest = 6% × $1,000 = $60. The bond was bought at a discount of $1,000 − $950 = $50, amortised over 5 years = $10 per year of gain, so the numerator is $60 + $10 = $70. The denominator is the average of price and par: ($950 + $1,000) / 2 = $975. Approximate YTM = $70 / $975 = 7.18%. (6.00% is the coupon rate; 6.32% is the current yield, $60 / $950, which ignores the capital gain; 7.37% is the trap of using the current price alone, $70 / $950, instead of the average of price and par.)
+
+</details>
+
+### 419. **[Calculation]** [CM-EIP §7.19.4] An investor in the 20% marginal tax bracket holds a tax-exempt bond with a yield to maturity of 4.5%. What is the taxable equivalent yield of the bond?
+
+- a. 3.60%
+- b. 5.63%
+- c. 4.50%
+- d. 6.43%
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. 5.63%
+
+**Rationale:** Taxable equivalent yield = tax-exempt yield / (1 − marginal tax rate) = 4.5% / (1 − 0.20) = 4.5% / 0.80 = 5.625% ≈ 5.63%. A taxable bond must yield about 5.63% to match the 4.5% tax-exempt yield for this investor. (A multiplies by (1 − tax rate) instead of dividing; C is the tax-exempt yield itself, with no adjustment; D uses a 30% tax rate.)
+
+</details>
+
+### 420. **[Single choice]** [CM-EIP §7.19.2] Which bond carries the greatest reinvestment risk?
+
+- a. A 10-year zero-coupon bond.
+- b. A 5-year bond with a 3% coupon.
+- c. A 20-year bond with an 8% coupon.
+- d. A 5-year bond with an 8% coupon.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. A 20-year bond with an 8% coupon.
+
+**Rationale:** Reinvestment risk is the risk that interim cash flows cannot be reinvested at equivalent rates if rates fall. For a given coupon rate, the longer the maturity, the greater the reinvestment risk, because more of the total dollar return depends on compounding to realise the yield to maturity; for a given maturity, the higher the coupon rate, the greater the reinvestment risk, because there is more to reinvest. The 20-year 8% bond is both the longest and the highest-coupon, so it carries the greatest reinvestment risk. A zero-coupon bond has no reinvestment risk if held to maturity, because there is nothing to reinvest. Note that interest rate risk and reinvestment risk make opposite predictions — a rate rise pushes the bond price down but raises the rate at which coupons can be reinvested — and they are not fully offsetting: generally the reinvestment effect only slightly mitigates the interest rate effect.
+
+</details>
+
+### 421. **[Single choice]** [CM-EIP §7.20.2] Which explanation matches the liquidity preference theory of the term structure of interest rates?
+
+- a. Long-maturity securities must offer a higher return because investors sacrifice liquidity for longer and face greater price volatility, so the yield curve should always be upward sloping.
+- b. Each maturity's yield is determined solely by supply and demand in that maturity segment, reflecting investors' liability-driven maturity preferences.
+- c. An upward-sloping yield curve means the market expects interest rates to fall.
+- d. A flat yield curve means short-term rates are expected to rise sharply.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Long-maturity securities must offer a higher return because investors sacrifice liquidity for longer and face greater price volatility, so the yield curve should always be upward sloping.
+
+**Rationale:** Liquidity preference theory argues the yield curve should always be upward sloping, and any other shape is a temporary aberration: because long-maturity securities are more price-volatile, investors require a higher return to hold them, and short-term securities are more easily converted to cash without large price movements, so investors pay a higher price and receive a lower yield. (B is the market segmentation theory — life insurers with long-term liabilities prefer long bonds, banks prefer short liquid securities. C is backwards under the expectations theory: an upward-sloping curve reflects expectations that rates will rise — lenders prefer to lend short and borrowers to borrow long. D is wrong: under expectations theory, when the market is ambivalent the curve tends to be flatter.)
+
+</details>
+
+### 422. **[Calculation]** [CM-EIP §7.21] A convertible bond has a par value of $1,000 and a conversion ratio of 50. It trades at $1,050 while the underlying share trades at $18. By what percentage does the convertible's market price exceed its conversion value?
+
+- a. 6.00%
+- b. 15.00%
+- c. 16.67%
+- d. 14.29%
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. 16.67%
+
+**Rationale:** Conversion value = conversion ratio × share price = 50 × $18 = $900. Conversion premium ($) = market value of the convertible − conversion value = $1,050 − $900 = $150. Conversion premium (%) = $150 / $900 = 16.67%. Equivalently, the conversion parity price = $1,050 / 50 = $21.00 per share, a $3.00 (16.67%) premium over the $18 share price. (B, 15.00%, is the $150 premium expressed as a percentage of the $1,000 par value instead of the $900 conversion value; D divides the $150 premium by the $1,050 market price instead of the $900 conversion value; A, 6.00%, has no basis in the figures given. For reference, with a 5% coupon ($50 bond income) and a $0.40 dividend ($20 dividend income on 50 shares), the breakeven time would be $150 / ($50 − $20) = 5.0 years.)
+
+</details>
+
 ## Chapter 8 — Portfolio Management
 
-### 343. **[Single choice]** [CM-EIP §8.2] What does the Efficient Market Hypothesis state?
+### 423. **[Single choice]** [CM-EIP §8.2] What does the Efficient Market Hypothesis state?
 
 - a. Prices are always above fair value
 - b. Security prices always fully reflect available information
@@ -5512,7 +6792,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 344. **[Single choice]** [CM-EIP §8.2.1] Under the weak form of the EMH, which technique cannot consistently produce excess returns?
+### 424. **[Single choice]** [CM-EIP §8.2.1] Under the weak form of the EMH, which technique cannot consistently produce excess returns?
 
 - a. Portfolio diversification
 - b. Fundamental analysis
@@ -5528,7 +6808,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 345. **[Single choice]** [CM-EIP §8.2.2] Under the semi-strong form of the EMH, which techniques cannot consistently beat the market?
+### 425. **[Single choice]** [CM-EIP §8.2.2] Under the semi-strong form of the EMH, which techniques cannot consistently beat the market?
 
 - a. Both fundamental and technical analysis
 - b. Technical analysis only
@@ -5544,7 +6824,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 346. **[Single choice]** [CM-EIP §8.2.3] Why is the strong form of the EMH not supported by the evidence?
+### 426. **[Single choice]** [CM-EIP §8.2.3] Why is the strong form of the EMH not supported by the evidence?
 
 - a. Because the history of insider trading suggests inside information does provide an advantage
 - b. Because technical analysis always works
@@ -5560,7 +6840,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 347. **[Single choice]** [CM-EIP §8.2.4] What do supporters of market efficiency highlight about fund managers?
+### 427. **[Single choice]** [CM-EIP §8.2.4] What do supporters of market efficiency highlight about fund managers?
 
 - a. That most outperform their benchmarks
 - b. That the majority underperform their benchmarks even before fees, and outperformance does not persist
@@ -5576,7 +6856,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 348. **[Single choice]** [CM-EIP §8.3.1] Which investor should probably adopt a passive investment approach?
+### 428. **[Single choice]** [CM-EIP §8.3.1] Which investor should probably adopt a passive investment approach?
 
 - a. One who wants to trade frequently
 - b. One with large amounts, time and expertise
@@ -5592,7 +6872,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 349. **[Single choice]** [CM-EIP §8.3.2] Which of the following is an active strategy?
+### 429. **[Single choice]** [CM-EIP §8.3.2] Which of the following is an active strategy?
 
 - a. Buying a market-cap weighted ETF
 - b. Dollar cost averaging into an index
@@ -5608,7 +6888,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 350. **[Single choice]** [CM-EIP §8.3.2] How many industries does the Industry Classification Benchmark classify the market into?
+### 430. **[Single choice]** [CM-EIP §8.3.2] How many industries does the Industry Classification Benchmark classify the market into?
 
 - a. 5
 - b. 8
@@ -5624,7 +6904,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 351. **[Single choice]** [CM-EIP §8.4.1] What does the efficient frontier represent?
+### 431. **[Single choice]** [CM-EIP §8.4.1] What does the efficient frontier represent?
 
 - a. All combinations of assets that generate the highest return at a given level of risk
 - b. The portfolio with the lowest risk
@@ -5640,7 +6920,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 352. **[Single choice]** [CM-EIP §8.4.1] Why is the efficient frontier a curve rather than a straight line?
+### 432. **[Single choice]** [CM-EIP §8.4.1] Why is the efficient frontier a curve rather than a straight line?
 
 - a. Because of transaction costs
 - b. Because returns are not perfectly correlated
@@ -5656,7 +6936,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 353. **[Single choice]** [CM-EIP §8.4.2] Approximately what proportion of portfolio standard deviation is eliminated by the time there are 10 securities in the portfolio?
+### 433. **[Single choice]** [CM-EIP §8.4.2] Approximately what proportion of portfolio standard deviation is eliminated by the time there are 10 securities in the portfolio?
 
 - a. One quarter
 - b. One third
@@ -5672,7 +6952,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 354. **[Single choice]** [CM-EIP §8.4.2] What is the only condition required for adding a second stock to reduce portfolio risk?
+### 434. **[Single choice]** [CM-EIP §8.4.2] What is the only condition required for adding a second stock to reduce portfolio risk?
 
 - a. The second stock must have a higher return
 - b. The second stock must have lower volatility
@@ -5688,7 +6968,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 355. **[Single choice]** [CM-EIP §8.4.3] Which statement about systematic risk is correct?
+### 435. **[Single choice]** [CM-EIP §8.4.3] Which statement about systematic risk is correct?
 
 - a. It cannot be reduced through diversification but can be partly or almost fully offset through hedging
 - b. It is the same as firm-specific risk
@@ -5704,7 +6984,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 356. **[Single choice]** [CM-EIP §8.4.3] What does beta reflect?
+### 436. **[Single choice]** [CM-EIP §8.4.3] What does beta reflect?
 
 - a. Total risk including firm-specific risk
 - b. Systematic risk, the sensitivity of the portfolio to market movement
@@ -5720,7 +7000,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 357. **[Single choice]** [CM-EIP §8.4.4] What happens to portfolio risk when two securities with a correlation of +1 are combined?
+### 437. **[Single choice]** [CM-EIP §8.4.4] What happens to portfolio risk when two securities with a correlation of +1 are combined?
 
 - a. Risk is eliminated
 - b. Risk is reduced but not eliminated
@@ -5736,7 +7016,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 358. **[Single choice]** [CM-EIP §8.4.4] What is the principle behind hedging strategies in terms of correlation?
+### 438. **[Single choice]** [CM-EIP §8.4.4] What is the principle behind hedging strategies in terms of correlation?
 
 - a. Combining securities with zero correlation
 - b. Combining securities with correlation of 0.5
@@ -5752,7 +7032,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 359. **[Single choice]** [CM-EIP §8.4.6] What happens to correlations between asset classes during a major financial crisis?
+### 439. **[Single choice]** [CM-EIP §8.4.6] What happens to correlations between asset classes during a major financial crisis?
 
 - a. They move towards 1
 - b. They remain stable
@@ -5768,7 +7048,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 360. **[Calculation]** [CM-EIP §8.4.7] Security A has an expected return of 18% and a weight of 40%; Security B has 9% and a weight of 60%. What is the portfolio expected return?
+### 440. **[Calculation]** [CM-EIP §8.4.7] Security A has an expected return of 18% and a weight of 40%; Security B has 9% and a weight of 60%. What is the portfolio expected return?
 
 - a. 27.0%
 - b. 12.6%
@@ -5784,7 +7064,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 361. **[Calculation]** [CM-EIP §8.4.7] Security A has a standard deviation of 20% and weight 40%; Security B has 10% and weight 60%; correlation is 0.8. What is portfolio risk?
+### 441. **[Calculation]** [CM-EIP §8.4.7] Security A has a standard deviation of 20% and weight 40%; Security B has 10% and weight 60%; correlation is 0.8. What is portfolio risk?
 
 - a. 2.00%
 - b. 14.00%
@@ -5800,7 +7080,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 362. **[Calculation]** [CM-EIP §8.4.7] Using the same two securities, what would portfolio risk be if the correlation were −1?
+### 442. **[Calculation]** [CM-EIP §8.4.7] Using the same two securities, what would portfolio risk be if the correlation were −1?
 
 - a. 0.00%
 - b. 14.00%
@@ -5816,7 +7096,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 363. **[Single choice]** [CM-EIP §8.4.8] How can foreign exchange risk be removed from an international portfolio?
+### 443. **[Single choice]** [CM-EIP §8.4.8] How can foreign exchange risk be removed from an international portfolio?
 
 - a. By hedging the risk using forward exchange contracts
 - b. By holding only emerging market securities
@@ -5832,7 +7112,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 364. **[Single choice]** [CM-EIP §8.4.8] Does international diversification always improve risk-adjusted returns?
+### 444. **[Single choice]** [CM-EIP §8.4.8] Does international diversification always improve risk-adjusted returns?
 
 - a. Yes, always
 - b. No, adding the wrong securities and markets can lower the risk-adjusted return
@@ -5848,7 +7128,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 365. **[Single choice]** [CM-EIP §8.4.9] Which of the following is NOT an assumption of the CAPM?
+### 445. **[Single choice]** [CM-EIP §8.4.9] Which of the following is NOT an assumption of the CAPM?
 
 - a. Investors can borrow or lend at the risk-free rate
 - b. There are no taxes or transaction costs
@@ -5864,7 +7144,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 366. **[Single choice]** [CM-EIP §8.4.9] What is the beta of the market portfolio?
+### 446. **[Single choice]** [CM-EIP §8.4.9] What is the beta of the market portfolio?
 
 - a. 0
 - b. 0.5
@@ -5880,7 +7160,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 367. **[Single choice]** [CM-EIP §8.4.9] What is the risk-free asset's covariance with any risky asset?
+### 447. **[Single choice]** [CM-EIP §8.4.9] What is the risk-free asset's covariance with any risky asset?
 
 - a. Equal to the market variance
 - b. Negative
@@ -5896,7 +7176,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 368. **[Single choice]** [CM-EIP §8.4.9] What does the capital market line specify?
+### 448. **[Single choice]** [CM-EIP §8.4.9] What does the capital market line specify?
 
 - a. The equilibrium relation between expected return and total risk for efficiently diversified portfolios
 - b. The relation between coupon and yield
@@ -5912,7 +7192,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 369. **[Single choice]** [CM-EIP §8.4.9] What does the slope of the capital market line represent?
+### 449. **[Single choice]** [CM-EIP §8.4.9] What does the slope of the capital market line represent?
 
 - a. The risk-free rate
 - b. The market price of risk for efficient portfolios
@@ -5928,7 +7208,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 370. **[Calculation]** [CM-EIP §8.4.9] A portfolio has a beta of 1.20, the risk-free rate is 2.5% and the expected market return is 14%. What is the expected return by CAPM?
+### 450. **[Calculation]** [CM-EIP §8.4.9] A portfolio has a beta of 1.20, the risk-free rate is 2.5% and the expected market return is 14%. What is the expected return by CAPM?
 
 - a. 19.3%
 - b. 11.5%
@@ -5944,7 +7224,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 371. **[Calculation]** [CM-EIP §8.4.9] Using the same portfolio, if the actual return is 17%, what is the alpha?
+### 451. **[Calculation]** [CM-EIP §8.4.9] Using the same portfolio, if the actual return is 17%, what is the alpha?
 
 - a. −0.7%
 - b. +1.0%
@@ -5960,7 +7240,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 372. **[Single choice]** [CM-EIP §8.4.9] What does a security lying above the security market line indicate?
+### 452. **[Single choice]** [CM-EIP §8.4.9] What does a security lying above the security market line indicate?
 
 - a. It is under-priced, providing above-average expected returns for its beta
 - b. It has zero systematic risk
@@ -5976,7 +7256,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 373. **[Single choice]** [CM-EIP §8.4.9] What does a steep security market line suggest about the market?
+### 453. **[Single choice]** [CM-EIP §8.4.9] What does a steep security market line suggest about the market?
 
 - a. The market is overvalued
 - b. The market may be excessively risk-averse and therefore cheap
@@ -5992,7 +7272,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 374. **[Single choice]** [CM-EIP §8.4.10] Who developed the Arbitrage Pricing Theory?
+### 454. **[Single choice]** [CM-EIP §8.4.10] Who developed the Arbitrage Pricing Theory?
 
 - a. Eugene Fama
 - b. William Sharpe
@@ -6008,7 +7288,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 375. **[Single choice]** [CM-EIP §8.4.10] Which of the following does the APT NOT assume, unlike the CAPM?
+### 455. **[Single choice]** [CM-EIP §8.4.10] Which of the following does the APT NOT assume, unlike the CAPM?
 
 - a. Markets are perfect
 - b. Investors have homogeneous beliefs
@@ -6024,7 +7304,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 376. **[Single choice]** [CM-EIP §8.4.10] Why is the rate of inflation not an APT risk factor, while unexpected inflation is?
+### 456. **[Single choice]** [CM-EIP §8.4.10] Why is the rate of inflation not an APT risk factor, while unexpected inflation is?
 
 - a. Because the rate of inflation is partially predictable, whereas unexpected inflation is unpredictable by the market as a whole
 - b. Because inflation only affects bonds
@@ -6040,7 +7320,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 377. **[Single choice]** [CM-EIP §8.4.10] How many systematic factors did Chen, Roll and Ross identify?
+### 457. **[Single choice]** [CM-EIP §8.4.10] How many systematic factors did Chen, Roll and Ross identify?
 
 - a. Three
 - b. Four
@@ -6056,7 +7336,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 378. **[Single choice]** [CM-EIP §8.5.1] What is the typical range of investment management fees quoted in the guide?
+### 458. **[Single choice]** [CM-EIP §8.5.1] What is the typical range of investment management fees quoted in the guide?
 
 - a. 3.0%–5.0%
 - b. 0.1%–0.5%
@@ -6072,7 +7352,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 379. **[Single choice]** [CM-EIP §8.5.1] What is the difference between advisory and discretionary portfolio management?
+### 459. **[Single choice]** [CM-EIP §8.5.1] What is the difference between advisory and discretionary portfolio management?
 
 - a. Advisory charges no fees
 - b. Discretionary requires client approval for each trade
@@ -6088,7 +7368,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 380. **[Single choice]** [CM-EIP §8.5.2] What is the first step in the portfolio management process for retail investors?
+### 460. **[Single choice]** [CM-EIP §8.5.2] What is the first step in the portfolio management process for retail investors?
 
 - a. Setting investment objectives
 - b. Monitoring market conditions
@@ -6104,7 +7384,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 381. **[Single choice]** [CM-EIP §8.5.2] Why should objectives, constraints and strategy be stated in a written document?
+### 461. **[Single choice]** [CM-EIP §8.5.2] Why should objectives, constraints and strategy be stated in a written document?
 
 - a. Because regulators require it
 - b. Because a well-drafted investment policy provides discipline, minimising whipsaw reactions to temporary price swings
@@ -6120,7 +7400,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 382. **[Single choice]** [CM-EIP §8.5.3] Who does the investment policy statement belong to?
+### 462. **[Single choice]** [CM-EIP §8.5.3] Who does the investment policy statement belong to?
 
 - a. The custodian
 - b. The portfolio manager
@@ -6136,7 +7416,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 383. **[Single choice]** [CM-EIP §8.5.4] In the life cycle approach, what is the appropriate risk posture in the early career stage?
+### 463. **[Single choice]** [CM-EIP §8.5.4] In the life cycle approach, what is the appropriate risk posture in the early career stage?
 
 - a. Only cash and money market funds
 - b. Balanced income and growth
@@ -6152,7 +7432,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 384. **[Single choice]** [CM-EIP §8.5.4] What characterises the late career stage of the life cycle approach?
+### 464. **[Single choice]** [CM-EIP §8.5.4] What characterises the late career stage of the life cycle approach?
 
 - a. Greater emphasis on income needs and capital preservation, with assets significantly exceeding liabilities
 - b. The longest investment horizon
@@ -6168,7 +7448,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 385. **[Single choice]** [CM-EIP §8.5.5] Which instruments should be used to meet an immediate liquidity need?
+### 465. **[Single choice]** [CM-EIP §8.5.5] Which instruments should be used to meet an immediate liquidity need?
 
 - a. Real estate and closely held business shares
 - b. High quality, short-term debt instruments such as Treasury bills and commercial paper
@@ -6184,7 +7464,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 386. **[Single choice]** [CM-EIP §8.5.5] Which investment constraint governs a client using CPF money?
+### 466. **[Single choice]** [CM-EIP §8.5.5] Which investment constraint governs a client using CPF money?
 
 - a. The SFA investor classification
 - b. No constraint applies
@@ -6200,7 +7480,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 387. **[Single choice]** [CM-EIP §8.5.6] According to Brinson, Hood and Beebower, what proportion of a portfolio's return comes from asset allocation?
+### 467. **[Single choice]** [CM-EIP §8.5.6] According to Brinson, Hood and Beebower, what proportion of a portfolio's return comes from asset allocation?
 
 - a. Less than 10%
 - b. About 50%
@@ -6216,7 +7496,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 388. **[Single choice]** [CM-EIP §8.5.6] What is strategic asset allocation?
+### 468. **[Single choice]** [CM-EIP §8.5.6] What is strategic asset allocation?
 
 - a. The long-run policy asset mix, normally expressed as percentages of total portfolio value
 - b. The selection of individual securities
@@ -6232,7 +7512,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 389. **[Single choice]** [CM-EIP §8.5.6] What is the most common valuation approach to tactical asset allocation?
+### 469. **[Single choice]** [CM-EIP §8.5.6] What is the most common valuation approach to tactical asset allocation?
 
 - a. The cyclical consideration approach
 - b. The risk premium or spread approach, also called the equity-bond yield gap
@@ -6248,7 +7528,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 390. **[Calculation]** [CM-EIP §8.6.1] A portfolio is worth $30 million at the start of the quarter and $35 million at the end, with no cash flows. What is the return?
+### 470. **[Calculation]** [CM-EIP §8.6.1] A portfolio is worth $30 million at the start of the quarter and $35 million at the end, with no cash flows. What is the return?
 
 - a. 20.0%
 - b. 14.3%
@@ -6264,7 +7544,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 391. **[Calculation]** [CM-EIP §8.6.1] A portfolio is worth $50 million at the start. The client deposits $5 million just before the end of the quarter and the end value is $53 million. What is the return?
+### 471. **[Calculation]** [CM-EIP §8.6.1] A portfolio is worth $50 million at the start. The client deposits $5 million just before the end of the quarter and the end value is $53 million. What is the return?
 
 - a. +6.0%
 - b. −3.6%
@@ -6280,7 +7560,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 392. **[Calculation]** [CM-EIP §8.6.1] Using the same figures, if the $5 million deposit was received at the beginning of the quarter, what is the return?
+### 472. **[Calculation]** [CM-EIP §8.6.1] Using the same figures, if the $5 million deposit was received at the beginning of the quarter, what is the return?
 
 - a. −3.6%
 - b. +6.0%
@@ -6296,7 +7576,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 393. **[Single choice]** [CM-EIP §8.6.1] Which return measure is equivalent to the internal rate of return?
+### 473. **[Single choice]** [CM-EIP §8.6.1] Which return measure is equivalent to the internal rate of return?
 
 - a. Time-weighted rate of return
 - b. Dollar-weighted rate of return
@@ -6312,7 +7592,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 394. **[Calculation]** [CM-EIP §8.6.1] A portfolio starts at $50 million, receives a $5 million deposit mid-quarter and ends at $53 million. The semi-quarterly IRR is −1.92%. What is the quarterly return?
+### 474. **[Calculation]** [CM-EIP §8.6.1] A portfolio starts at $50 million, receives a $5 million deposit mid-quarter and ends at $53 million. The semi-quarterly IRR is −1.92%. What is the quarterly return?
 
 - a. −1.92%
 - b. −3.84%
@@ -6328,7 +7608,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 395. **[Calculation]** [CM-EIP §8.6.1] A portfolio is worth $50m at the start, $49m just before a $5m deposit, $54m immediately after, and $53m at the end. What is the time-weighted return?
+### 475. **[Calculation]** [CM-EIP §8.6.1] A portfolio is worth $50m at the start, $49m just before a $5m deposit, $54m immediately after, and $53m at the end. What is the time-weighted return?
 
 - a. −3.81%
 - b. −3.8%
@@ -6344,7 +7624,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 396. **[Calculation]** [CM-EIP §8.6.1] A portfolio grows from $100 to $250 in five years. What is the compound annual growth rate?
+### 476. **[Calculation]** [CM-EIP §8.6.1] A portfolio grows from $100 to $250 in five years. What is the compound annual growth rate?
 
 - a. 15.0%
 - b. 20.1%
@@ -6360,7 +7640,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 397. **[Single choice]** [CM-EIP §8.6.1] Why is the dollar-weighted return inappropriate for evaluating a portfolio manager?
+### 477. **[Single choice]** [CM-EIP §8.6.1] Why is the dollar-weighted return inappropriate for evaluating a portfolio manager?
 
 - a. Because it ignores income
 - b. Because it cannot be annualised
@@ -6376,7 +7656,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 398. **[Calculation]** [CM-EIP §8.6.1] A portfolio starts a 30-day month at $10m, receives $100,000 on day 12 and $200,000 on day 18, and ends at $11m. What is the modified Dietz return?
+### 478. **[Calculation]** [CM-EIP §8.6.1] A portfolio starts a 30-day month at $10m, receives $100,000 on day 12 and $200,000 on day 18, and ends at $11m. What is the modified Dietz return?
 
 - a. 6.90%
 - b. 7.00%
@@ -6392,7 +7672,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 399. **[Single choice]** [CM-EIP §8.6.1] What is the main disadvantage of the modified Dietz method?
+### 479. **[Single choice]** [CM-EIP §8.6.1] What is the main disadvantage of the modified Dietz method?
 
 - a. It requires valuation at each cash flow date
 - b. It provides a less accurate estimate of the true TWR and can be affected by large cash flows or high volatility
@@ -6408,7 +7688,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 400. **[Single choice]** [CM-EIP §8.6.1] When were the revised Global Investment Performance Standards approved?
+### 480. **[Single choice]** [CM-EIP §8.6.1] When were the revised Global Investment Performance Standards approved?
 
 - a. 1 January 2000
 - b. 4 February 2010
@@ -6424,7 +7704,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 401. **[Single choice]** [CM-EIP §8.6.1] Under GIPS, how often must portfolios be valued?
+### 481. **[Single choice]** [CM-EIP §8.6.1] Under GIPS, how often must portfolios be valued?
 
 - a. Quarterly
 - b. Annually
@@ -6440,7 +7720,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 402. **[Calculation]** [CM-EIP §8.6.2] Portfolio A returns 10% with a standard deviation of 15%; the risk-free rate is 6%. What is the Sharpe ratio?
+### 482. **[Calculation]** [CM-EIP §8.6.2] Portfolio A returns 10% with a standard deviation of 15%; the risk-free rate is 6%. What is the Sharpe ratio?
 
 - a. 0.27
 - b. 0.50
@@ -6456,7 +7736,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 403. **[Calculation]** [CM-EIP §8.6.2] Portfolio B returns 16% with a standard deviation of 20%; the risk-free rate is 6%. What is the Sharpe ratio?
+### 483. **[Calculation]** [CM-EIP §8.6.2] Portfolio B returns 16% with a standard deviation of 20%; the risk-free rate is 6%. What is the Sharpe ratio?
 
 - a. 0.27
 - b. 0.50
@@ -6472,7 +7752,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 404. **[Calculation]** [CM-EIP §8.6.2] Portfolio A returns 14% with a beta of 0.9; the risk-free rate is 6%. What is the Treynor ratio?
+### 484. **[Calculation]** [CM-EIP §8.6.2] Portfolio A returns 14% with a beta of 0.9; the risk-free rate is 6%. What is the Treynor ratio?
 
 - a. 8.9%
 - b. 10.9%
@@ -6488,7 +7768,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 405. **[Single choice]** [CM-EIP §8.6.2] When do the Sharpe and Treynor measures give identical performance rankings?
+### 485. **[Single choice]** [CM-EIP §8.6.2] When do the Sharpe and Treynor measures give identical performance rankings?
 
 - a. When betas are all equal to 1
 - b. Never
@@ -6504,7 +7784,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 406. **[Single choice]** [CM-EIP §8.6.2] If a portfolio is inadequately diversified, how do its Treynor and Sharpe rankings compare?
+### 486. **[Single choice]** [CM-EIP §8.6.2] If a portfolio is inadequately diversified, how do its Treynor and Sharpe rankings compare?
 
 - a. Its Sharpe ranking is likely to be higher than its Treynor ranking
 - b. They will be identical
@@ -6520,7 +7800,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 407. **[Calculation]** [CM-EIP §8.6.2] A portfolio has a beta of 1.2, the risk-free rate is 3% and the market risk premium is 6%. The actual return is 9.5%. What is Jensen's alpha?
+### 487. **[Calculation]** [CM-EIP §8.6.2] A portfolio has a beta of 1.2, the risk-free rate is 3% and the market risk premium is 6%. The actual return is 9.5%. What is Jensen's alpha?
 
 - a. −0.7%
 - b. +0.7%
@@ -6536,7 +7816,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 408. **[Single choice]** [CM-EIP §8.6.2] What does the information ratio measure?
+### 488. **[Single choice]** [CM-EIP §8.6.2] What does the information ratio measure?
 
 - a. Excess return per unit of total risk
 - b. Alpha per unit of excess risk
@@ -6552,7 +7832,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 409. **[Single choice]** [CM-EIP §8.6.2] Why is the Sortino ratio particularly useful for hedge funds?
+### 489. **[Single choice]** [CM-EIP §8.6.2] Why is the Sortino ratio particularly useful for hedge funds?
 
 - a. Because it uses beta
 - b. Because hedge funds have no volatility
@@ -6568,7 +7848,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 410. **[Single choice]** [CM-EIP §8.6.3] What is a bogey portfolio?
+### 490. **[Single choice]** [CM-EIP §8.6.3] What is a bogey portfolio?
 
 - a. A portfolio with zero risk
 - b. The market portfolio
@@ -6584,7 +7864,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 411. **[Calculation]** [CM-EIP §8.6.3] A managed portfolio returns 5.55% and the bogey returns 4.10%. What is the excess return?
+### 491. **[Calculation]** [CM-EIP §8.6.3] A managed portfolio returns 5.55% and the bogey returns 4.10%. What is the excess return?
 
 - a. 1.45%
 - b. 1.10%
@@ -6600,7 +7880,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 412. **[Calculation]** [CM-EIP §8.6.3] The managed portfolio holds 70% equities against a benchmark weight of 60%, and the benchmark equity return is 6%. What is the asset allocation contribution from equities?
+### 492. **[Calculation]** [CM-EIP §8.6.3] The managed portfolio holds 70% equities against a benchmark weight of 60%, and the benchmark equity return is 6%. What is the asset allocation contribution from equities?
 
 - a. 0.10%
 - b. 0.60%
@@ -6616,7 +7896,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 413. **[Calculation]** [CM-EIP §8.6.3] The managed portfolio holds 70% equities with an actual return of 7.50% against a benchmark return of 6.00%. What is the selection contribution from equities?
+### 493. **[Calculation]** [CM-EIP §8.6.3] The managed portfolio holds 70% equities with an actual return of 7.50% against a benchmark return of 6.00%. What is the selection contribution from equities?
 
 - a. 1.50%
 - b. 0.35%
@@ -6632,7 +7912,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 414. **[Multiple response]** [CM-EIP §8.6.3] Which of the following are characteristics of a good benchmark? (Select all that apply)
+### 494. **[Multiple response]** [CM-EIP §8.6.3] Which of the following are characteristics of a good benchmark? (Select all that apply)
 
 - a. Unambiguous, with the asset class and composition clearly stated
 - b. Investable as a passively managed portfolio
@@ -6648,7 +7928,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 415. **[Single choice]** [CM-EIP §8.7] What is a retrocession in the context of fund sales?
+### 495. **[Single choice]** [CM-EIP §8.7] What is a retrocession in the context of fund sales?
 
 - a. A tax rebate
 - b. A discount on the offer price
@@ -6664,9 +7944,441 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
+### 496. **[Single choice]** [CM-EIP §8.2] A trainee makes three claims about what market prices reflect: (i) past price and volume data are fully reflected in the current price; (ii) all publicly available information is fully reflected in the current price; (iii) all information, public and private, is fully reflected in the current price. Which statement correctly matches each claim to the EMH form that asserts it?
+
+- a. (i) weak form; (ii) semi-strong form; (iii) strong form.
+- b. (i) semi-strong form; (ii) weak form; (iii) strong form.
+- c. (i) strong form; (ii) semi-strong form; (iii) weak form.
+- d. (i) weak form; (ii) strong form; (iii) semi-strong form.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. (i) weak form; (ii) semi-strong form; (iii) strong form.
+
+**Rationale:** The weak form says all past price information is reflected in the current price; the semi-strong form says all publicly available information is reflected; the strong form says all information, public or private, is reflected. The evidence supports the weak and semi-strong forms but not the strong form, which is why insider trading is regulated.
+
+</details>
+
+### 497. **[Single choice]** [CM-EIP §8.3.2] A fund manager holds cash equivalents and equities. Believing equities are about to do well, she shifts holdings from cash equivalents into equities; when she later expects equities to do poorly, she liquidates equity holdings back into cash. Which active strategy is she using?
+
+- a. Security selection — picking individual shares she believes are undervalued.
+- b. Sector rotation — shifting weights between sectors expected to outperform.
+- c. Market timing — actively shifting the asset allocation between cash and equities on her view of how equities will perform.
+- d. Passive buy-and-hold — holding an index portfolio with minimal trading.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Market timing — actively shifting the asset allocation between cash and equities on her view of how equities will perform.
+
+**Rationale:** Market timing involves active asset allocation: moving from cash equivalents into equities when equities are expected to do well, and liquidating equities when they are expected to do poorly. Security selection picks undervalued shares and sector rotation shifts sector weights; neither is a cash-versus-equities switch.
+
+</details>
+
+### 498. **[Single choice]** [CM-EIP §8.4.1] Two portfolios have the same volatility of 12%. Portfolio P is expected to return 7% a year and Portfolio Q is expected to return 9% a year. A third portfolio, R, is expected to return 9% a year at 15% volatility. Which statement is correct?
+
+- a. Portfolio P is on the efficient frontier because it has the lowest return.
+- b. Portfolio P lies below the efficient frontier: at the same 12% risk, Portfolio Q offers a higher return, and Portfolio R is also dominated by Q at the same return for less risk.
+- c. Portfolio R is on the efficient frontier because it carries the most risk.
+- d. All three portfolios are on the efficient frontier, because every combination of assets is optimal for some investor.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Portfolio P lies below the efficient frontier: at the same 12% risk, Portfolio Q offers a higher return, and Portfolio R is also dominated by Q at the same return for less risk.
+
+**Rationale:** The efficient frontier is the set of portfolios giving the highest return at a given level of risk. P is below it because Q gives more return (9% vs 7%) at the same 12% volatility; R is also dominated by Q, which gives the same 9% return at lower risk (12% vs 15%). Only combinations on the frontier are optimal.
+
+</details>
+
+### 499. **[Single choice]** [CM-EIP §8.4.2] A manager proposes adding a new asset to a portfolio. The asset offers a lower return per unit of risk than the existing portfolio and its returns are highly correlated with the portfolio's returns. She argues that any new asset improves diversification. Which statement is correct?
+
+- a. She is right: adding any asset automatically improves diversification.
+- b. She is right, because correlation does not matter as long as the asset is in a different industry.
+- c. She is wrong only about the return: a high correlation is enough on its own to improve diversification.
+- d. She is wrong: buying an asset with a lower return per unit of risk and high correlation with the existing portfolio is unlikely to improve diversification; identifying assets that can raise return per unit of risk needs a deliberate review of markets, sectors and companies.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. She is wrong: buying an asset with a lower return per unit of risk and high correlation with the existing portfolio is unlikely to improve diversification; identifying assets that can raise return per unit of risk needs a deliberate review of markets, sectors and companies.
+
+**Rationale:** Diversification across asset classes improves risk-adjusted return only if done deliberately, not ad hoc or blanket. An asset with a lower return per unit of risk and high correlation with the existing portfolio is unlikely to improve diversification; for efficient diversification, include securities whose returns are not highly correlated.
+
+</details>
+
+### 500. **[Single choice]** [CM-EIP §8.4.3] A portfolio holds 30 shares spread across many industries. The manager worries about two things: (i) a rise in interest rates, and (ii) a failed product launch at one of the holdings. Which statement is correct?
+
+- a. Both risks can be eliminated by adding more shares to the portfolio.
+- b. (i) is systematic risk: it affects all firms, cannot be eliminated by diversification, but can be partly or almost fully offset by hedging with options and futures; (ii) is non-systematic risk, which diversification can reduce and theoretically eliminate.
+- c. (i) is non-systematic risk and (ii) is systematic risk.
+- d. Both risks must be hedged with options and futures, because neither can be diversified away.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. (i) is systematic risk: it affects all firms, cannot be eliminated by diversification, but can be partly or almost fully offset by hedging with options and futures; (ii) is non-systematic risk, which diversification can reduce and theoretically eliminate.
+
+**Rationale:** Total risk = systematic risk + non-systematic risk. Systematic risk comes from economy-wide factors such as interest rates, cannot be diversified away, but can be hedged with options and futures; it is reflected in beta. Non-systematic risk is firm-specific (a failed product launch) and can be minimised by holding a broad spread of firms or industries.
+
+</details>
+
+### 501. **[Calculation]** [CM-EIP §8.4.4] The covariance between the returns of shares X and Y is 0.012. Share X has a standard deviation of 20% and share Y has a standard deviation of 15%. What is the correlation coefficient between X and Y, and what does it imply for diversification?
+
+- a. 0.40 — a moderate positive association, so combining X and Y gives some reduction in portfolio risk.
+- b. 0.04 — almost no linear relation, so combining X and Y eliminates portfolio risk altogether.
+- c. 0.80 — a strong positive association, so combining X and Y gives no reduction in portfolio risk.
+- d. 1.20 — a more-than-perfect positive association, so portfolio risk rises.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. 0.40 — a moderate positive association, so combining X and Y gives some reduction in portfolio risk.
+
+**Rationale:** Correlation ρ = Covariance / (σX × σY) = 0.012 / (0.20 × 0.15) = 0.012 / 0.03 = 0.40. A correlation of 0.40 is positive but well below 1, so combining the two shares gives some risk reduction (only ρ = 1 gives no reduction, and only ρ = −1 can eliminate risk). A correlation above 1 is impossible.
+
+</details>
+
+### 502. **[Calculation]** [CM-EIP §8.4.7] A two-security portfolio holds 50% in security P and 50% in security Q. P has an expected return of 14% and a standard deviation of 12%; Q has an expected return of 6% and a standard deviation of 16%. The correlation between P and Q is 0. What are the portfolio's expected return and risk?
+
+- a. Expected return 10% and risk 14% — risk is the weighted average of the two standard deviations.
+- b. Expected return 20% and risk 10%.
+- c. Expected return 10% and risk 10%.
+- d. Expected return 10% and risk 20% — risk is the square root of the sum of the two variances, ignoring the weights.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Expected return 10% and risk 10%.
+
+**Rationale:** Expected return is a weighted average: Rp = 0.5(14%) + 0.5(6%) = 7% + 3% = 10%. Portfolio risk is NOT a weighted average: σp = √(w1²σ1² + w2²σ2² + 2w1w2ρσ1σ2) = √(0.25 × 0.12² + 0.25 × 0.16² + 0) = √(0.0036 + 0.0064) = √0.01 = 10%. The weighted average of the standard deviations (14%) overstates risk when correlation is below 1.
+
+</details>
+
+### 503. **[Single choice]** [CM-EIP §8.4.8] A manager is considering adding shares from a new overseas market to a domestic portfolio. Which statement is correct?
+
+- a. International diversification always raises risk-adjusted return, and it removes foreign exchange risk automatically.
+- b. Share price movements in different countries are fairly uncorrelated, so international diversification can reduce portfolio risk; but it introduces foreign exchange risk, which can be hedged using forward exchange contracts, and adding the wrong securities or markets can lower risk-adjusted return.
+- c. Country returns are so highly correlated that international diversification offers no risk reduction at all.
+- d. Foreign exchange risk can only be removed by avoiding overseas markets entirely.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Share price movements in different countries are fairly uncorrelated, so international diversification can reduce portfolio risk; but it introduces foreign exchange risk, which can be hedged using forward exchange contracts, and adding the wrong securities or markets can lower risk-adjusted return.
+
+**Rationale:** International diversification can reduce risk because country returns are fairly uncorrelated, but it brings foreign exchange risk, which can be hedged with forward exchange contracts. It does not always raise risk-adjusted return: new markets should be added only if they can raise the portfolio's risk-adjusted return.
+
+</details>
+
+### 504. **[Single choice]** [CM-EIP §8.4.9] A security has a beta of zero. Which statement is correct?
+
+- a. It must be the risk-free asset, because only the risk-free asset has a beta of zero.
+- b. It carries no risk of any kind.
+- c. Its expected return must be higher than the market return, because a zero beta means it is uncorrelated with the market.
+- d. It should yield the risk-free rate, but it need not be risk-free: it can still carry unsystematic risk, since beta measures only systematic risk.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. It should yield the risk-free rate, but it need not be risk-free: it can still carry unsystematic risk, since beta measures only systematic risk.
+
+**Rationale:** A risk-free asset has a beta of zero, a return variance of zero and zero covariance with any risky asset — but the converse does not hold. An asset with a beta of zero can still have unsystematic risk; either way, under CAPM it should yield the risk-free rate, E(R) = Rf + 0 × (Rm − Rf) = Rf.
+
+</details>
+
+### 505. **[Calculation]** [CM-EIP §8.4.9] The risk-free rate is 4%, the expected market return is 12% and the standard deviation of market returns is 20%. (i) What is the expected return of an efficient portfolio with a standard deviation of 10%? (ii) Which line gives the equilibrium expected return of a single, poorly diversified share plotted against its beta?
+
+- a. (i) 8%; (ii) the security market line.
+- b. (i) 8%; (ii) the capital market line.
+- c. (i) 12%; (ii) the security market line.
+- d. (i) 6%; (ii) the capital market line.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. (i) 8%; (ii) the security market line.
+
+**Rationale:** (i) The capital market line: E(Rp) = Rf + [(E(Rm) − Rf)/σm] × σp = 4% + [(12% − 4%)/20%] × 10% = 4% + 0.40 × 10% = 4% + 4% = 8%. The slope, 0.40, is the market price of risk. (ii) The CML applies only to efficient portfolios and uses total risk (standard deviation); the security market line applies to all assets, including individual securities and inefficient portfolios, and uses systematic risk (beta).
+
+</details>
+
+### 506. **[Calculation]** [CM-EIP §8.4.9] A security has a beta of 1.5. The risk-free rate is 2% and the expected market return is 10%. The security's expected return is 11%. Where does it lie relative to the security market line, and what does that imply?
+
+- a. Above the SML, so it is undervalued (under-priced).
+- b. Below the SML, so it is overvalued (overpriced).
+- c. On the SML, so it is fairly priced.
+- d. Above the SML, so it is overvalued, because a beta above 1 always means overvaluation.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Below the SML, so it is overvalued (overpriced).
+
+**Rationale:** CAPM expected return = Rf + β(Rm − Rf) = 2% + 1.5 × (10% − 2%) = 2% + 12% = 14%. The security's expected return of 11% is below the 14% the SML predicts for its beta, so it lies below the SML and is overpriced: it offers a lower return than predicted for its risk. Selling pressure should push its price down and its expected return up towards the SML.
+
+</details>
+
+### 507. **[Single choice]** [CM-EIP §8.4.10] A manager wants to use Arbitrage Pricing Theory and is choosing risk factors. Which of the following could be an APT risk factor?
+
+- a. The rate of inflation, because it is a broad economic force.
+- b. A single firm's new product launch, because it moves that firm's share price.
+- c. An unanticipated change in the default-risk premium.
+- d. A single company's management reshuffle, because it affects expected returns.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. An unanticipated change in the default-risk premium.
+
+**Rationale:** APT factors must have a pervasive influence on share returns, influence expected return, and be unpredictable by the market as a whole. The four factors identified by Chen, Roll and Ross (1986) include unanticipated changes in the default-risk premium (alongside unanticipated inflation, industrial production and the term structure). The inflation rate itself is not a factor because it is partially predictable — unexpected inflation is. A product launch or a management reshuffle is firm-specific, not pervasive.
+
+</details>
+
+### 508. **[Single choice]** [CM-EIP §8.5.2] What is the correct order of the steps in the portfolio management process for retail investors?
+
+- a. Measuring performance → setting objectives → developing strategies → monitoring markets → reviewing and adjusting.
+- b. Developing strategies → setting objectives → measuring performance → monitoring markets → reviewing and adjusting.
+- c. Setting objectives → monitoring markets → measuring performance → developing strategies → reviewing and adjusting.
+- d. Setting investment objectives → developing and implementing strategies → monitoring market conditions → reviewing and adjusting the portfolio → measuring portfolio performance.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Setting investment objectives → developing and implementing strategies → monitoring market conditions → reviewing and adjusting the portfolio → measuring portfolio performance.
+
+**Rationale:** The process is dynamic, continuous and systematic: (1) setting investment objectives — defining an acceptable level of risk and a reasonable expected return; (2) developing and implementing strategies — guidelines for asset allocation; (3) monitoring market conditions and re-evaluating the investor's needs; (4) reviewing and adjusting the portfolio; (5) measuring portfolio performance against a benchmark.
+
+</details>
+
+### 509. **[Single choice]** [CM-EIP §8.5.3] A portfolio manager drafts an investment policy statement without meeting the client, treating it as the manager's own document. What is wrong with this?
+
+- a. The investment policy statement belongs to the client, not the manager, and the manager must spend time with the client defining investment goals and acceptable risk levels — return requirement and risk tolerance are usually established through an interview and discussion session and a risk profiling questionnaire.
+- b. Nothing is wrong: the statement belongs to the manager, who sets the policy alone.
+- c. The statement belongs to the regulator, so the manager should have filed it with MAS instead.
+- d. The statement should be based only on market forecasts, not on the client's goals.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. The investment policy statement belongs to the client, not the manager, and the manager must spend time with the client defining investment goals and acceptable risk levels — return requirement and risk tolerance are usually established through an interview and discussion session and a risk profiling questionnaire.
+
+**Rationale:** The IPS (investment mandate) belongs to the client, not the portfolio manager. The manager must spend sufficient time with the client to define investment goals and acceptable risk levels and to note constraints and preferences, typically through an interview and discussion session and a risk profiling questionnaire.
+
+</details>
+
+### 510. **[Single choice]** [CM-EIP §8.5.4] Which pair of items forms the investment objectives in an investment policy statement?
+
+- a. Liquidity requirements and time horizon.
+- b. Return requirement and risk tolerance.
+- c. Tax considerations and regulatory and legal constraints.
+- d. Strategic asset allocation ranges and the rebalancing policy.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Return requirement and risk tolerance.
+
+**Rationale:** The investment objectives are the return requirement and the risk tolerance. Liquidity, time horizon, tax and regulatory/legal matters are investment constraints, not objectives; asset allocation ranges and the rebalancing policy are part of the asset allocation section of the statement. In defining the objectives, emphasis is placed on the client's sensitivity to risk, often analysed through the life cycle approach.
+
+</details>
+
+### 511. **[Single choice]** [CM-EIP §8.5.3] Which of the following is NOT part of the contents of a typical investment policy statement?
+
+- a. Client description and circumstances.
+- b. Investment objectives — return requirement and risk tolerance.
+- c. Investment constraints and asset allocation, including strategic asset allocation ranges and a rebalancing policy.
+- d. The fund manager's own proprietary trading positions and personal bonus structure.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. The fund manager's own proprietary trading positions and personal bonus structure.
+
+**Rationale:** A typical IPS covers the client description and circumstances, the investment objectives (return requirement and risk tolerance), the investment constraints (liquidity, time horizon, tax, regulatory and legal, unique needs) and the asset allocation (strategic ranges, rebalancing policy, and often a policy portfolio — conservative, balanced or aggressive). The manager's own proprietary positions and pay are not IPS contents.
+
+</details>
+
+### 512. **[Single choice]** [CM-EIP §8.5.5] A client in a high income-tax bracket is choosing between a tax-exempt fixed income security and a comparable taxable bond. What should guide the choice?
+
+- a. Always choose the tax-exempt security, because high-bracket investors should never hold taxable bonds.
+- b. Always choose whichever security has the higher nominal yield, because tax is irrelevant to the comparison.
+- c. Compare the taxable equivalent return of the tax-exempt security with the return on the comparable taxable bond, and choose the tax-exempt security only if its taxable equivalent return exceeds the taxable bond's return.
+- d. Choose the security with the larger capital gain component, because capital gains are always tax-free.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Compare the taxable equivalent return of the tax-exempt security with the return on the comparable taxable bond, and choose the tax-exempt security only if its taxable equivalent return exceeds the taxable bond's return.
+
+**Rationale:** Tax is a portfolio constraint: the manager must consider the client's tax bracket, the different tax treatments of assets, and the different components of total return. Investors in high tax brackets should consider tax-exempt fixed income securities if the taxable equivalent return exceeds the return on comparable taxable bonds; equities with a large capital gain component may also be more attractive than high dividend-yielding shares for such investors.
+
+</details>
+
+### 513. **[Calculation]** [CM-EIP §8.5.6] A portfolio's strategic asset allocation ranges are equities 45–55%, bonds 35–45% and cash equivalents 5–15%. The current tactical mix is equities 50%, bonds 40% and cash 10%. The manager now expects bonds to outperform equities over the short run. Which new tactical mix best exploits that view while staying within the strategic ranges?
+
+- a. Equities 45%, bonds 45%, cash 10%.
+- b. Equities 60%, bonds 30%, cash 10%.
+- c. Equities 40%, bonds 50%, cash 10%.
+- d. Equities 45%, bonds 40%, cash 15%.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Equities 45%, bonds 45%, cash 10%.
+
+**Rationale:** Tactical asset allocation overweights or underweights asset classes over the short run in response to changing conditions, as long as the allocation stays within the strategic ranges. Overweighting bonds means raising bonds towards their 45% maximum and cutting equities towards their 45% minimum: 45% + 45% + 10% = 100%, all within range. B breaches the equities maximum (60% > 55%) and cuts bonds; C breaches both the equities minimum (40% < 45%) and the bonds maximum (50% > 45%); D stays in range but leaves bonds unchanged at 40%, so it does not exploit the view.
+
+</details>
+
+### 514. **[Calculation]** [CM-EIP §8.6.1] A portfolio is worth $40 million at the start of a quarter. The client deposits $10 million at the beginning of the quarter, and the portfolio is worth $55 million at the end of the quarter. What is the portfolio's return for the quarter?
+
+- a. 37.5% — the deposit is ignored entirely.
+- b. 10.0%.
+- c. 12.5% — the deposit is treated as if made at the end of the period.
+- d. 30.0% — the deposit is ignored in the numerator but added to the denominator.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. 10.0%.
+
+**Rationale:** A deposit at the beginning of the period is added to the beginning value: Rp = [VE − (VB + Deposits − Withdrawals)] / (VB + Deposits − Withdrawals) = [55 − (40 + 10)] / (40 + 10) = 5 / 50 = 10.0%. Treating the deposit as end-of-period gives (55 − 10 − 40) / 40 = 12.5%, and ignoring it gives (55 − 40) / 40 = 37.5% — both wrong for a beginning-of-period deposit.
+
+</details>
+
+### 515. **[Single choice]** [CM-EIP §8.6.1] A client deposits a large sum into her portfolio just before a market fall. For the year, her portfolio's dollar-weighted rate of return is −6% while its time-weighted rate of return is +3%. What best explains the difference?
+
+- a. The manager performed badly, as shown by the negative dollar-weighted return.
+- b. The time-weighted return is the one affected by the timing of cash flows.
+- c. The two measures must be equal over any full year, so one of them is wrong.
+- d. The dollar-weighted return is the internal rate of return, so it is affected by the size and timing of the client's cash flows — the large deposit just before the fall dragged it down — while the time-weighted return strips out cash-flow effects.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. The dollar-weighted return is the internal rate of return, so it is affected by the size and timing of the client's cash flows — the large deposit just before the fall dragged it down — while the time-weighted return strips out cash-flow effects.
+
+**Rationale:** The dollar-weighted return (DWR) equates the present value of all cash flows, including the ending value, with the beginning value — it is the IRR — and is strongly influenced by the size and timing of cash flows, over which the manager has no control. The time-weighted return links sub-period returns measured before each cash flow, so the deposit's timing does not affect it. The manager's stock performance (+3% TWR) was positive; the client's experience (−6% DWR) reflects when she added money.
+
+</details>
+
+### 516. **[Calculation]** [CM-EIP §8.6.1] A portfolio is worth $200,000 at the start of a quarter. Just before a $20,000 deposit in the middle of the quarter it is worth $210,000; immediately after the deposit it is worth $230,000. At the end of the quarter it is worth $241,500. What is the time-weighted rate of return for the quarter?
+
+- a. 10.25%.
+- b. 10.75% — the simple return on the starting value after allowing for the deposit.
+- c. 10.00% — the two sub-period returns added together.
+- d. 5.00% — the first-half return only.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. 10.25%.
+
+**Rationale:** The time-weighted return requires the portfolio value before each cash flow. First half: (210,000 − 200,000) / 200,000 = 5.00%. Second half: (241,500 − 230,000) / 230,000 = 11,500 / 230,000 = 5.00%. Linking the sub-period returns: [(1 + 0.05)(1 + 0.05)] − 1 = 1.1025 − 1 = 10.25%. Adding the sub-period returns (10.00%) is wrong — returns compound by linking, not adding.
+
+</details>
+
+### 517. **[Single choice]** [CM-EIP §8.6.1] Two questions are asked about a portfolio: (i) how skilful was the manager, and (ii) what return did the client actually experience, given when she added and withdrew money? Which return measures answer them?
+
+- a. (i) dollar-weighted return; (ii) time-weighted return.
+- b. (i) time-weighted return; (ii) time-weighted return — the dollar-weighted return is never used.
+- c. (i) time-weighted return; (ii) dollar-weighted return.
+- d. (i) dollar-weighted return; (ii) dollar-weighted return — the time-weighted return is never used.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. (i) time-weighted return; (ii) dollar-weighted return.
+
+**Rationale:** The dollar-weighted return is inappropriate for evaluating a portfolio manager because it is driven by the size and timing of cash flows, over which the manager has no control; the time-weighted return is the right measure of the manager's performance. Conversely, the dollar-weighted return — the IRR — is the measure of the client's actual experience, since it reflects when the client put money in and took money out.
+
+</details>
+
+### 518. **[Calculation]** [CM-EIP §8.6.1] A portfolio is worth $8,000,000 at the start of a 30-day month. The client makes a single cash inflow of $600,000 on day 12, and the portfolio is worth $9,000,000 at the end of the month. Using the Modified Dietz method, what is the portfolio's return for the month?
+
+- a. 5.00% — the cash flow is given no time weight.
+- b. 4.78%.
+- c. 4.65% — the full cash flow is added to the beginning value.
+- d. 12.50% — the cash flow is ignored entirely.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. 4.78%.
+
+**Rationale:** Modified Dietz: Rp = (VE − VB − CF) / (VB + WCF), where WCF = Σ CFi × (n − ti)/n. Weighted cash flow = 600,000 × (30 − 12)/30 = 600,000 × 18/30 = 360,000. Return = (9,000,000 − 8,000,000 − 600,000) / (8,000,000 + 360,000) = 400,000 / 8,360,000 = 4.78%. The method assumes a constant rate of return over the period, so no valuation is needed on the date of the cash flow; its disadvantage is that it is a less accurate estimate of the true time-weighted return.
+
+</details>
+
+### 519. **[Single choice]** [CM-EIP §8.6.1] A firm that has managed money for 12 years presents a five-year performance record computed using money-weighted (dollar-weighted) returns. Which Global Investment Performance Standards requirements does this breach?
+
+- a. Only the record-length requirement: the firm should show a 10-year record, but money-weighted returns are acceptable.
+- b. Only the return-method requirement: time-weighted returns are required, but a five-year record is acceptable for a 12-year-old firm.
+- c. Neither: GIPS allows money-weighted returns and a five-year record.
+- d. Both: GIPS requires time-weighted returns, and a firm more than 10 years old must present a 10-year record (otherwise the record since inception).
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Both: GIPS requires time-weighted returns, and a firm more than 10 years old must present a 10-year record (otherwise the record since inception).
+
+**Rationale:** GIPS — the single global standard approved by the CFA Institute Board of Governors on 4 February 2005 — requires total return, the use of the time-weighted return, valuation at least monthly with geometrically linked returns, and annual returns for all years, with a 10-year record where the firm is more than 10 years old. A 12-year-old firm showing five years of money-weighted returns breaches both requirements.
+
+</details>
+
+### 520. **[Calculation]** [CM-EIP §8.6.2] A portfolio returned 12% over the year with a standard deviation of 16%. The risk-free rate is 4%. What is the portfolio's Sharpe ratio?
+
+- a. 0.50.
+- b. 0.75 — the risk-free rate is not deducted from the return.
+- c. 2.00 — the excess return is divided into the standard deviation instead of by it.
+- d. 0.67 — the excess return is divided by the portfolio return instead of its standard deviation.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. 0.50.
+
+**Rationale:** Sharpe ratio = (Rp − Rf) / σp = (12% − 4%) / 16% = 8% / 16% = 0.50. It is the excess return per unit of total risk (standard deviation): the higher the Sharpe ratio, the better the performance.
+
+</details>
+
+### 521. **[Calculation]** [CM-EIP §8.6.2] A portfolio returned 13.5% over the year. Its beta is 1.5, the risk-free rate is 3% and the market return is 11%. What is the portfolio's Jensen's alpha, and which definition of risk does the Treynor ratio use?
+
+- a. Alpha +1.5%, and the Treynor ratio uses systematic risk.
+- b. Alpha −1.5%, and the Treynor ratio uses total risk.
+- c. Alpha −1.5%, and the Treynor ratio uses systematic risk.
+- d. Alpha +1.5%, and the Treynor ratio uses total risk.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Alpha −1.5%, and the Treynor ratio uses systematic risk.
+
+**Rationale:** CAPM-expected return = Rf + β(Rm − Rf) = 3% + 1.5 × (11% − 3%) = 3% + 12% = 15%. Jensen's alpha = actual − expected = 13.5% − 15% = −1.5%, so the portfolio underperformed on a risk-adjusted basis. The Treynor ratio = (Rp − Rf) / βp uses systematic risk (beta), whereas the Sharpe ratio uses total risk (standard deviation).
+
+</details>
+
+### 522. **[Calculation]** [CM-EIP §8.6.3] A managed portfolio holds 60% equities (actual return 8%) and 40% bonds (actual return 3%), giving a total return of 6.00%. Its bogey (benchmark) portfolio holds 50% equities (benchmark return 6%) and 50% bonds (benchmark return 2%), giving 4.00%. How much of the 2.00% excess return is attributable to the asset allocation decision?
+
+- a. 2.00% — the whole excess return is asset allocation.
+- b. 1.60% — that is the security selection contribution.
+- c. 0.40%.
+- d. 0.60% — that is only the equities leg of the asset allocation contribution.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. 0.40%.
+
+**Rationale:** Asset allocation compares the managed and bogey weights multiplied by the benchmark return: equities (0.60 − 0.50) × 6% = 0.60%; bonds (0.40 − 0.50) × 2% = −0.20%; total 0.60% − 0.20% = 0.40%. The remaining 1.60% is security selection — actual weights times excess returns: equities (8% − 6%) × 0.60 = 1.20% and bonds (3% − 2%) × 0.40 = 0.40%. Excess return 2.00% = allocation 0.40% + selection 1.60%. ---
+
+</details>
+
 ## Chapter 9 — Exchange Traded Funds (ETFs), Unit Trusts, Real Estate Investment Trusts (REITs) and Insurance
 
-### 416. **[Single choice]** [CM-EIP §9.1] What are the two key features of a Variable Capital Company?
+### 523. **[Single choice]** [CM-EIP §9.1] What are the two key features of a Variable Capital Company?
 
 - a. It can freely issue and redeem shares and pay dividends from capital, and can adopt an umbrella structure with sub-funds
 - b. It must be listed on an exchange and cannot have sub-funds
@@ -6682,7 +8394,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 417. **[Single choice]** [CM-EIP §9.2] How does an ETF differ from a typical mutual fund in terms of trading?
+### 524. **[Single choice]** [CM-EIP §9.2] How does an ETF differ from a typical mutual fund in terms of trading?
 
 - a. Both trade identically
 - b. ETF units can be bought and sold during trading hours like any listed security; mutual funds can only be bought or sold at the end of the day
@@ -6698,7 +8410,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 418. **[Calculation]** [CM-EIP §9.2] The SPDR STI ETF is priced at about 1/100th of the STI level. If the STI is at 1,700, what is the price of one unit?
+### 525. **[Calculation]** [CM-EIP §9.2] The SPDR STI ETF is priced at about 1/100th of the STI level. If the STI is at 1,700, what is the price of one unit?
 
 - a. $0.17
 - b. $1.70
@@ -6714,7 +8426,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 419. **[Single choice]** [CM-EIP §9.2] In what size can units of the STI ETF be created for or redeemed by participating dealers?
+### 526. **[Single choice]** [CM-EIP §9.2] In what size can units of the STI ETF be created for or redeemed by participating dealers?
 
 - a. 1,000,000 units
 - b. 1,000 units
@@ -6730,7 +8442,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 420. **[Single choice]** [CM-EIP §9.2] What happens when an ETF's traded price is above its net asset value?
+### 527. **[Single choice]** [CM-EIP §9.2] What happens when an ETF's traded price is above its net asset value?
 
 - a. An arbitrageur sells the ETF shares and buys the underlying portfolio of securities
 - b. An arbitrageur buys the ETF shares and sells the underlying portfolio
@@ -6746,7 +8458,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 421. **[Single choice]** [CM-EIP §9.2.1] What is representative sampling in a physical ETF?
+### 528. **[Single choice]** [CM-EIP §9.2.1] What is representative sampling in a physical ETF?
 
 - a. Holding all index constituents in exact proportions
 - b. Investing in a subset of the index comprising the more dominant stocks, used when constituents are not liquid
@@ -6762,7 +8474,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 422. **[Single choice]** [CM-EIP §9.2.1] What is the main advantage and disadvantage of synthetic replication?
+### 529. **[Single choice]** [CM-EIP §9.2.1] What is the main advantage and disadvantage of synthetic replication?
 
 - a. Advantage: physical ownership. Disadvantage: illiquidity
 - b. Advantage: lower cost. Disadvantage: higher tracking error
@@ -6778,7 +8490,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 423. **[Single choice]** [CM-EIP §9.2.2] What is cash equitisation?
+### 530. **[Single choice]** [CM-EIP §9.2.2] What is cash equitisation?
 
 - a. Hedging a portfolio with cash
 - b. Investing only in money market funds
@@ -6794,7 +8506,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 424. **[Single choice]** [CM-EIP §9.2.3] What collateral might an ETF receive for lending out shares?
+### 531. **[Single choice]** [CM-EIP §9.2.3] What collateral might an ETF receive for lending out shares?
 
 - a. Cash or other securities equivalent to about 105% of the stocks' value
 - b. A guarantee from the exchange
@@ -6810,7 +8522,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 425. **[Single choice]** [CM-EIP §9.2.4] How do ETF annual management fees compare with actively managed unit trusts?
+### 532. **[Single choice]** [CM-EIP §9.2.4] How do ETF annual management fees compare with actively managed unit trusts?
 
 - a. ETFs charge more
 - b. ETFs normally charge less than 1%, compared with 1–2% for actively managed unit trusts
@@ -6826,7 +8538,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 426. **[Single choice]** [CM-EIP §9.2.5] In which type of ETF is tracking error greater?
+### 533. **[Single choice]** [CM-EIP §9.2.5] In which type of ETF is tracking error greater?
 
 - a. Neither has tracking error
 - b. Synthetic ETFs
@@ -6842,7 +8554,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 427. **[Single choice]** [CM-EIP §9.2.5] Which tax risk applies to non-US investors holding US-established ETFs?
+### 534. **[Single choice]** [CM-EIP §9.2.5] Which tax risk applies to non-US investors holding US-established ETFs?
 
 - a. No tax applies
 - b. Capital gains tax
@@ -6858,7 +8570,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 428. **[Single choice]** [CM-EIP §9.2.6] How does a smart beta ETF differ from a standard ETF?
+### 535. **[Single choice]** [CM-EIP §9.2.6] How does a smart beta ETF differ from a standard ETF?
 
 - a. It selects and weights securities on positive performance criteria rather than market capitalisation
 - b. It only holds bonds
@@ -6874,7 +8586,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 429. **[Single choice]** [CM-EIP §9.2.7] Why is holding a long volatility ETF position over time described as potentially deadly?
+### 536. **[Single choice]** [CM-EIP §9.2.7] Why is holding a long volatility ETF position over time described as potentially deadly?
 
 - a. Because volatility always rises
 - b. Because volatility trends downward, and a 1–2% fall each day produces massive losses over time
@@ -6890,7 +8602,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 430. **[Single choice]** [CM-EIP §9.2.8] What leverage multiple do leveraged ETFs typically use?
+### 537. **[Single choice]** [CM-EIP §9.2.8] What leverage multiple do leveraged ETFs typically use?
 
 - a. 20x or more
 - b. 0.5x or 1x
@@ -6906,7 +8618,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 431. **[Single choice]** [CM-EIP §9.2.8] Why do issuers of leveraged ETFs often carry out reverse splits?
+### 538. **[Single choice]** [CM-EIP §9.2.8] Why do issuers of leveraged ETFs often carry out reverse splits?
 
 - a. To reduce the leverage
 - b. To change the index tracked
@@ -6922,7 +8634,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 432. **[Single choice]** [CM-EIP §9.3] What is a unit trust in the United States called?
+### 539. **[Single choice]** [CM-EIP §9.3] What is a unit trust in the United States called?
 
 - a. A mutual fund
 - b. An investment fund
@@ -6938,7 +8650,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 433. **[Single choice]** [CM-EIP §9.3.1] How many places of domicile can a fund have?
+### 540. **[Single choice]** [CM-EIP §9.3.1] How many places of domicile can a fund have?
 
 - a. Unlimited
 - b. One
@@ -6954,7 +8666,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 434. **[Single choice]** [CM-EIP §9.3.3] How is the price of a closed-end unit trust determined?
+### 541. **[Single choice]** [CM-EIP §9.3.3] How is the price of a closed-end unit trust determined?
 
 - a. By the MAS
 - b. By net asset value only
@@ -6970,7 +8682,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 435. **[Calculation]** [CM-EIP §9.3.3] A unit trust's investments are worth $10 million and there are 5 million units issued. What is the value of each unit?
+### 542. **[Calculation]** [CM-EIP §9.3.3] A unit trust's investments are worth $10 million and there are 5 million units issued. What is the value of each unit?
 
 - a. $0.50
 - b. $2.00
@@ -6986,7 +8698,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 436. **[Single choice]** [CM-EIP §9.3.4] Who holds a unit trust's cash, shares and other investment assets?
+### 543. **[Single choice]** [CM-EIP §9.3.4] Who holds a unit trust's cash, shares and other investment assets?
 
 - a. The distributor
 - b. The custodian bank's shareholders
@@ -7002,7 +8714,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 437. **[Single choice]** [CM-EIP §9.3.5] What is the typical initial investment outlay for a unit trust quoted in the guide?
+### 544. **[Single choice]** [CM-EIP §9.3.5] What is the typical initial investment outlay for a unit trust quoted in the guide?
 
 - a. $1,000 to $5,000
 - b. $10,000 to $50,000
@@ -7018,7 +8730,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 438. **[Single choice]** [CM-EIP §9.3.6] Which is a disadvantage of investing in unit trusts?
+### 545. **[Single choice]** [CM-EIP §9.3.6] Which is a disadvantage of investing in unit trusts?
 
 - a. No diversification
 - b. Sales charges on entry and management fees paid regardless of performance
@@ -7034,7 +8746,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 439. **[Single choice]** [CM-EIP §9.3.7] How do capital guaranteed funds differ from capital preservation funds?
+### 546. **[Single choice]** [CM-EIP §9.3.7] How do capital guaranteed funds differ from capital preservation funds?
 
 - a. Capital guaranteed funds cannot be sold
 - b. They are identical
@@ -7050,7 +8762,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 440. **[Single choice]** [CM-EIP §9.3.7] Which fund is described as the best-known example of a quantitative fund?
+### 547. **[Single choice]** [CM-EIP §9.3.7] Which fund is described as the best-known example of a quantitative fund?
 
 - a. Fidelity Magellan
 - b. Vanguard 500
@@ -7066,7 +8778,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 441. **[Single choice]** [CM-EIP §9.3.7] Why is the name hedge fund described as a misnomer?
+### 548. **[Single choice]** [CM-EIP §9.3.7] Why is the name hedge fund described as a misnomer?
 
 - a. Because hedge funds are not necessarily hedged and may take directional bets, being net long or short
 - b. Because hedge funds only invest in bonds
@@ -7082,7 +8794,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 442. **[Single choice]** [CM-EIP §9.3.8] Which of the following appears on a monthly fund fact sheet?
+### 549. **[Single choice]** [CM-EIP §9.3.8] Which of the following appears on a monthly fund fact sheet?
 
 - a. The trust deed
 - b. Top holdings, country allocation, sector allocation and risk statistics
@@ -7098,7 +8810,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 443. **[Single choice]** [CM-EIP §9.3.10] What is the typical range of a front-end load?
+### 550. **[Single choice]** [CM-EIP §9.3.10] What is the typical range of a front-end load?
 
 - a. 10% to 20% of NAV
 - b. 0.1% to 0.5% of NAV
@@ -7114,7 +8826,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 444. **[Single choice]** [CM-EIP §9.3.10] What is the typical range of a unit trust annual management fee?
+### 551. **[Single choice]** [CM-EIP §9.3.10] What is the typical range of a unit trust annual management fee?
 
 - a. 2.0% to 5.0% of NAV
 - b. 5.0% to 10.0% of NAV
@@ -7130,7 +8842,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 445. **[Single choice]** [CM-EIP §9.3.10] What is the purpose of a high watermark in a performance fee arrangement?
+### 552. **[Single choice]** [CM-EIP §9.3.10] What is the purpose of a high watermark in a performance fee arrangement?
 
 - a. To ensure the manager generates a certain level of profit before the bonus can be taken, so it does not unfairly benefit from a fund recovering after a fall
 - b. To set the minimum investment
@@ -7146,7 +8858,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 446. **[Single choice]** [CM-EIP §9.3.11] What benchmark might a fund with an absolute return target use?
+### 553. **[Single choice]** [CM-EIP §9.3.11] What benchmark might a fund with an absolute return target use?
 
 - a. A broad equity index
 - b. An interbank rate such as LIBOR plus 1%
@@ -7162,7 +8874,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 447. **[Calculation]** [CM-EIP §9.3.12] A fund has securities of $100m, other assets of $5m, liabilities including management fees of $3m, no leverage, and 10m units outstanding. What is the NAV per unit?
+### 554. **[Calculation]** [CM-EIP §9.3.12] A fund has securities of $100m, other assets of $5m, liabilities including management fees of $3m, no leverage, and 10m units outstanding. What is the NAV per unit?
 
 - a. $9.70
 - b. $10.00
@@ -7178,7 +8890,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 448. **[Single choice]** [CM-EIP §9.3.13] Which expenses are added when calculating the offer price of a unit trust?
+### 555. **[Single choice]** [CM-EIP §9.3.13] Which expenses are added when calculating the offer price of a unit trust?
 
 - a. Only the trustee fee
 - b. Only the audit fee
@@ -7194,7 +8906,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 449. **[Single choice]** [CM-EIP §9.3.14] What is the typical maximum single-security holding in many funds, and how high may some managers allow it to rise?
+### 556. **[Single choice]** [CM-EIP §9.3.14] What is the typical maximum single-security holding in many funds, and how high may some managers allow it to rise?
 
 - a. 5%, rising to 8–9%
 - b. 10%, rising to 20%
@@ -7210,7 +8922,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 450. **[Single choice]** [CM-EIP §9.3.17] Which unit trusts are the exception to the general rule that unit trusts suit medium to long-term investors?
+### 557. **[Single choice]** [CM-EIP §9.3.17] Which unit trusts are the exception to the general rule that unit trusts suit medium to long-term investors?
 
 - a. Money market funds
 - b. Leveraged ETFs and highly volatile commodity ETFs, which are meant more for traders
@@ -7226,7 +8938,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 451. **[Calculation]** [CM-EIP §9.3.17] A SGD 10,000 legal expense is billed to a fund. What proportion of the fund is it for an SGD 8 million fund and an SGD 1 million fund?
+### 558. **[Calculation]** [CM-EIP §9.3.17] A SGD 10,000 legal expense is billed to a fund. What proportion of the fund is it for an SGD 8 million fund and an SGD 1 million fund?
 
 - a. 0.0125% and 0.1%
 - b. 0.5% and 5%
@@ -7242,7 +8954,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 452. **[Single choice]** [CM-EIP §9.3.18] Why do retrocessions create a conflict of interest?
+### 559. **[Single choice]** [CM-EIP §9.3.18] Why do retrocessions create a conflict of interest?
 
 - a. Because they increase the fund's NAV
 - b. Because they are illegal everywhere
@@ -7258,7 +8970,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 453. **[Single choice]** [CM-EIP §9.4.1] What minimum proportion of a REIT must be invested in income-producing real estate?
+### 560. **[Single choice]** [CM-EIP §9.4.1] What minimum proportion of a REIT must be invested in income-producing real estate?
 
 - a. 45%
 - b. 75%
@@ -7274,7 +8986,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 454. **[Single choice]** [CM-EIP §9.4.1] How often must REIT properties be valued under the Code on CIS?
+### 561. **[Single choice]** [CM-EIP §9.4.1] How often must REIT properties be valued under the Code on CIS?
 
 - a. Once a year
 - b. Every five years
@@ -7290,7 +9002,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 455. **[Single choice]** [CM-EIP §9.4.2] What tax advantage do REITs have over direct property investment?
+### 562. **[Single choice]** [CM-EIP §9.4.2] What tax advantage do REITs have over direct property investment?
 
 - a. REITs pay no tax at all
 - b. REITs distributing at least 90% of taxable income enjoy favourable tax treatment, with no corresponding advantage for direct investment
@@ -7306,7 +9018,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 456. **[Single choice]** [CM-EIP §9.4.3] What is the single-tier leverage limit for Singapore REITs?
+### 563. **[Single choice]** [CM-EIP §9.4.3] What is the single-tier leverage limit for Singapore REITs?
 
 - a. 25%
 - b. 35%
@@ -7322,7 +9034,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 457. **[Single choice]** [CM-EIP §9.4.3] Why do REITs face refinancing risk?
+### 564. **[Single choice]** [CM-EIP §9.4.3] Why do REITs face refinancing risk?
 
 - a. Because their properties are illiquid
 - b. Because they have no tenants
@@ -7338,7 +9050,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 458. **[Single choice]** [CM-EIP §9.5.1] Is a business trust a separate legal entity?
+### 565. **[Single choice]** [CM-EIP §9.5.1] Is a business trust a separate legal entity?
 
 - a. No, unlike a company it is not a separate legal entity
 - b. Only if listed
@@ -7354,7 +9066,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 459. **[Single choice]** [CM-EIP §9.5.1] What is a trustee-manager in a Singapore business trust?
+### 566. **[Single choice]** [CM-EIP §9.5.1] What is a trustee-manager in a Singapore business trust?
 
 - a. Two separate entities
 - b. A single responsible entity vested with the roles of both trustee and manager of the trust assets
@@ -7370,7 +9082,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 460. **[Single choice]** [CM-EIP §9.5.2] Why is a business trust structure attractive to infrastructure providers?
+### 567. **[Single choice]** [CM-EIP §9.5.2] Why is a business trust structure attractive to infrastructure providers?
 
 - a. Because they must distribute 90% of income
 - b. Because they pay no tax
@@ -7386,7 +9098,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 461. **[Single choice]** [CM-EIP §9.5.4] How does the gearing limit of a business trust compare with a REIT?
+### 568. **[Single choice]** [CM-EIP §9.5.4] How does the gearing limit of a business trust compare with a REIT?
 
 - a. Business trusts are limited to 45%; REITs have no limit
 - b. Both have no limit
@@ -7402,7 +9114,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 462. **[Single choice]** [CM-EIP §9.5.4] What distribution requirement applies to a listed REIT compared with a business trust?
+### 569. **[Single choice]** [CM-EIP §9.5.4] What distribution requirement applies to a listed REIT compared with a business trust?
 
 - a. A REIT must distribute a minimum of 90% of annual income; a business trust has no mandatory minimum
 - b. A business trust must distribute 90%; a REIT has no minimum
@@ -7418,7 +9130,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 463. **[Single choice]** [CM-EIP §9.6] Why can a stapled security combining a REIT and a business trust not be marketed as a REIT?
+### 570. **[Single choice]** [CM-EIP §9.6] Why can a stapled security combining a REIT and a business trust not be marketed as a REIT?
 
 - a. Because it is unlisted
 - b. Because the issuer is bound by the regulations specific to each security, and such stapled securities cannot be marketed as REITs
@@ -7434,7 +9146,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 464. **[Single choice]** [CM-EIP §9.7] What does UCITS provide for funds?
+### 571. **[Single choice]** [CM-EIP §9.7] What does UCITS provide for funds?
 
 - a. A single currency
 - b. A tax exemption
@@ -7450,7 +9162,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 465. **[Single choice]** [CM-EIP §9.7] Since when has MAS allowed UCITS funds to be distributed and sold in Singapore?
+### 572. **[Single choice]** [CM-EIP §9.7] Since when has MAS allowed UCITS funds to be distributed and sold in Singapore?
 
 - a. 1998
 - b. 2002
@@ -7466,7 +9178,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 466. **[Single choice]** [CM-EIP §9.8] What is the main benefit of alternative investments?
+### 573. **[Single choice]** [CM-EIP §9.8] What is the main benefit of alternative investments?
 
 - a. They are risk-free
 - b. They are always liquid
@@ -7482,7 +9194,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 467. **[Single choice]** [CM-EIP §9.8] Do alternative investments provide a buffer during major financial crises?
+### 574. **[Single choice]** [CM-EIP §9.8] Do alternative investments provide a buffer during major financial crises?
 
 - a. Not necessarily, because they are also affected by a widespread massive sell-off of assets
 - b. Only hedge funds do
@@ -7498,7 +9210,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 468. **[Single choice]** [CM-EIP §9.8.2] What do hedge funds capture that conventional funds largely cannot?
+### 575. **[Single choice]** [CM-EIP §9.8.2] What do hedge funds capture that conventional funds largely cannot?
 
 - a. Beta only
 - b. Alpha, with the freedom to hedge away or reduce beta
@@ -7514,7 +9226,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 469. **[Single choice]** [CM-EIP §9.8.3] What is basis risk in a hedge fund context?
+### 576. **[Single choice]** [CM-EIP §9.8.3] What is basis risk in a hedge fund context?
 
 - a. The risk of currency movements
 - b. The risk that the fund closes
@@ -7530,7 +9242,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 470. **[Single choice]** [CM-EIP §9.8.3] What is a gate provision in a hedge fund?
+### 577. **[Single choice]** [CM-EIP §9.8.3] What is a gate provision in a hedge fund?
 
 - a. A minimum investment
 - b. A lock-up on new investors
@@ -7546,7 +9258,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 471. **[Single choice]** [CM-EIP §9.8.4] What is the rationale for convertible arbitrage?
+### 578. **[Single choice]** [CM-EIP §9.8.4] What is the rationale for convertible arbitrage?
 
 - a. Convertible securities are usually slower to reprice to fair value than the underlying stock, creating arbitrage opportunities
 - b. Convertibles pay no interest
@@ -7562,7 +9274,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 472. **[Single choice]** [CM-EIP §9.8.5] At what price range can distressed bonds trade, depending on the severity of the company's crisis?
+### 579. **[Single choice]** [CM-EIP §9.8.5] At what price range can distressed bonds trade, depending on the severity of the company's crisis?
 
 - a. 90–99% of par
 - b. 10–99% of par
@@ -7578,7 +9290,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 473. **[Single choice]** [CM-EIP §9.8.6] What do global macro strategies take?
+### 580. **[Single choice]** [CM-EIP §9.8.6] What do global macro strategies take?
 
 - a. Only positions in government bonds
 - b. Only long positions
@@ -7594,7 +9306,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 474. **[Single choice]** [CM-EIP §9.8.7] What do directional quantitative trading strategies mainly follow?
+### 581. **[Single choice]** [CM-EIP §9.8.7] What do directional quantitative trading strategies mainly follow?
 
 - a. Central bank announcements
 - b. Dividend announcements
@@ -7610,7 +9322,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 475. **[Single choice]** [CM-EIP §9.8.8] What happens to returns when a fund of hedge funds diversifies across strategies?
+### 582. **[Single choice]** [CM-EIP §9.8.8] What happens to returns when a fund of hedge funds diversifies across strategies?
 
 - a. They typically fall to the average return achieved by hedge funds
 - b. They become risk-free
@@ -7626,7 +9338,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 476. **[Single choice]** [CM-EIP §9.8.10] Which private equity stage provides seed and start-up capital in the early stages of a business?
+### 583. **[Single choice]** [CM-EIP §9.8.10] Which private equity stage provides seed and start-up capital in the early stages of a business?
 
 - a. Growth capital
 - b. Venture capital
@@ -7642,7 +9354,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 477. **[Single choice]** [CM-EIP §9.8.10] Which private equity stage invests in mature companies with stable cash flows and established products?
+### 584. **[Single choice]** [CM-EIP §9.8.10] Which private equity stage invests in mature companies with stable cash flows and established products?
 
 - a. Venture capital
 - b. Growth capital
@@ -7658,7 +9370,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 478. **[Single choice]** [CM-EIP §9.8.11] How long is the investment period of a private equity fund, and when does the harvest period typically begin?
+### 585. **[Single choice]** [CM-EIP §9.8.11] How long is the investment period of a private equity fund, and when does the harvest period typically begin?
 
 - a. 10 years; harvest from year 11
 - b. 2–3 years; harvest from year 4
@@ -7674,7 +9386,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 479. **[Single choice]** [CM-EIP §9.8.11] What internal rate of return is typically expected from private equity?
+### 586. **[Single choice]** [CM-EIP §9.8.11] What internal rate of return is typically expected from private equity?
 
 - a. 10–15%
 - b. 25–30%
@@ -7690,7 +9402,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 480. **[Single choice]** [CM-EIP §9.8.12] Why do agriculture commodity funds suffer long downward cycles?
+### 587. **[Single choice]** [CM-EIP §9.8.12] Why do agriculture commodity funds suffer long downward cycles?
 
 - a. Because demand always falls
 - b. Because successes in agricultural production supply often outstrip demand, causing overhanging supply
@@ -7706,7 +9418,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 481. **[Single choice]** [CM-EIP §9.8.12] What is the main concern when investing in real estate funds?
+### 588. **[Single choice]** [CM-EIP §9.8.12] What is the main concern when investing in real estate funds?
 
 - a. The fund manager's fees
 - b. The level of rental income
@@ -7722,7 +9434,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 482. **[Single choice]** [CM-EIP §9.9.1] When is the sum assured of a whole life insurance policy payable?
+### 589. **[Single choice]** [CM-EIP §9.9.1] When is the sum assured of a whole life insurance policy payable?
 
 - a. Only if the policy is surrendered
 - b. After 10 years
@@ -7738,7 +9450,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 483. **[Single choice]** [CM-EIP §9.9.2] When is the sum assured of an endowment policy payable?
+### 590. **[Single choice]** [CM-EIP §9.9.2] When is the sum assured of an endowment policy payable?
 
 - a. On the maturity date or on death, whichever is earlier
 - b. Only at maturity
@@ -7754,7 +9466,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 484. **[Single choice]** [CM-EIP §9.9.2] Why may the guaranteed cash value of an endowment policy be less than the sum of premiums paid?
+### 591. **[Single choice]** [CM-EIP §9.9.2] Why may the guaranteed cash value of an endowment policy be less than the sum of premiums paid?
 
 - a. Because of tax
 - b. Because part of the premiums pays for insurance protection while the rest is invested and subject to investment risk
@@ -7770,7 +9482,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 485. **[Single choice]** [CM-EIP §9.9.3] How are benefits linked to investment performance in a with-profits policy?
+### 592. **[Single choice]** [CM-EIP §9.9.3] How are benefits linked to investment performance in a with-profits policy?
 
 - a. Only through the stock market
 - b. Directly, through unit values
@@ -7786,7 +9498,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 486. **[Single choice]** [CM-EIP §9.9.3] How do investment-linked policies differ from with-profits policies?
+### 593. **[Single choice]** [CM-EIP §9.9.3] How do investment-linked policies differ from with-profits policies?
 
 - a. They guarantee a fixed return
 - b. They cannot be surrendered
@@ -7802,7 +9514,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 487. **[Single choice]** [CM-EIP §9.10.1] How is an immediate annuity purchased?
+### 594. **[Single choice]** [CM-EIP §9.10.1] How is an immediate annuity purchased?
 
 - a. With a lump sum, a single premium
 - b. With a combination of premiums and equity
@@ -7818,7 +9530,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 488. **[Single choice]** [CM-EIP §9.10.1] On what does the amount received from a deferred annuity depend?
+### 595. **[Single choice]** [CM-EIP §9.10.1] On what does the amount received from a deferred annuity depend?
 
 - a. Only on the contributions
 - b. On contributions, interest earned, the annuitant's gender and the annuitant's age when payments begin
@@ -7834,7 +9546,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 489. **[Calculation]** [CM-EIP §9.10.2] What is the present value of $1,000 paid every year for 5 years at a 3% discount rate?
+### 596. **[Calculation]** [CM-EIP §9.10.2] What is the present value of $1,000 paid every year for 5 years at a 3% discount rate?
 
 - a. $4,212.36
 - b. $5,309.14
@@ -7850,7 +9562,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 490. **[Calculation]** [CM-EIP §9.10.2] What is the future value of $1,000 paid every year for 8 years at 5%?
+### 597. **[Calculation]** [CM-EIP §9.10.2] What is the future value of $1,000 paid every year for 8 years at 5%?
 
 - a. $10,000.00
 - b. $8,142.00
@@ -7866,7 +9578,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 491. **[Single choice]** [CM-EIP §9.10.3] What risk does an annuity protect against, and how does it compare with life insurance?
+### 598. **[Single choice]** [CM-EIP §9.10.3] What risk does an annuity protect against, and how does it compare with life insurance?
 
 - a. Excessive longevity; the opposite of life insurance, which protects against premature death
 - b. Inflation; the same as life insurance
@@ -7882,7 +9594,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 492. **[Single choice]** [CM-EIP §9.11] What must a fund meet to be included under CPFIS?
+### 599. **[Single choice]** [CM-EIP §9.11] What must a fund meet to be included under CPFIS?
 
 - a. Only a minimum size
 - b. CPFIS admission criteria, including being in the top quartile of the global peer group and benchmarking total expense ratios to the CPFIS median
@@ -7898,7 +9610,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 493. **[Calculation]** [CM-EIP §9.11.1] An investor invests $60,000 at $5.00 per share, buying 12,000 units. Using dollar cost averaging over 12 months at an average price of $4.622, how many units are bought?
+### 600. **[Calculation]** [CM-EIP §9.11.1] An investor invests $60,000 at $5.00 per share, buying 12,000 units. Using dollar cost averaging over 12 months at an average price of $4.622, how many units are bought?
 
 - a. 11,500
 - b. 12,000
@@ -7914,7 +9626,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 494. **[Single choice]** [CM-EIP §9.11.1] What is the practical disadvantage of executing dollar cost averaging accurately?
+### 601. **[Single choice]** [CM-EIP §9.11.1] What is the practical disadvantage of executing dollar cost averaging accurately?
 
 - a. It incurs higher management fees
 - b. It cannot be used with unit trusts
@@ -7930,7 +9642,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 495. **[Single choice]** [CM-EIP §9.11.1] If an investor missed the best 25 days of the S&P 500 between 1970 and 2016, what happened to the annualised return?
+### 602. **[Single choice]** [CM-EIP §9.11.1] If an investor missed the best 25 days of the S&P 500 between 1970 and 2016, what happened to the annualised return?
 
 - a. It fell from 6.7% to 3.0%
 - b. It rose from 3.0% to 6.7%
@@ -7946,7 +9658,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 496. **[Single choice]** [CM-EIP §9.11.1] What proportion of active fund managers have been found to underperform the market each year?
+### 603. **[Single choice]** [CM-EIP §9.11.1] What proportion of active fund managers have been found to underperform the market each year?
 
 - a. 50–60%
 - b. 70–80%
@@ -7962,7 +9674,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 497. **[Single choice]** [CM-EIP §9.13.1] For taxation purposes, how is a Variable Capital Company treated?
+### 604. **[Single choice]** [CM-EIP §9.13.1] For taxation purposes, how is a Variable Capital Company treated?
 
 - a. As tax-exempt
 - b. As a partnership
@@ -7978,7 +9690,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 498. **[Single choice]** [CM-EIP §9.13.2] What are the two axes of the CPF Investment Risk Classification System?
+### 605. **[Single choice]** [CM-EIP §9.13.2] What are the two axes of the CPF Investment Risk Classification System?
 
 - a. Interest rate risk and currency risk
 - b. Market risk and operational risk
@@ -7994,7 +9706,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 499. **[Single choice]** [CM-EIP §9.13.2] Which unit trust would have higher focus risk?
+### 606. **[Single choice]** [CM-EIP §9.13.2] Which unit trust would have higher focus risk?
 
 - a. A Japan-only equity fund
 - b. A regional Asia fund
@@ -8010,9 +9722,249 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
+### 607. **[Single choice]** [CM-EIP §9.2] Priya wants a fund that simply follows the Straits Times Index, with no manager picking stocks or timing the market. She wants to be able to buy and sell it during trading hours, like a listed share. Which statement best describes the product she is looking for?
+
+- a. An actively managed fund whose manager selects stocks to beat the index.
+- b. An exchange-traded fund (ETF) — a passively managed fund designed to track the performance of a specific index or fixed basket of securities, involving no active management of securities, whose units trade during trading hours like any listed security.
+- c. A mutual fund that can only be bought or sold at the end of the day with the fund manager.
+- d. A fund that guarantees to deliver exactly the index return, with its market price always equal to its net asset value.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. An exchange-traded fund (ETF) — a passively managed fund designed to track the performance of a specific index or fixed basket of securities, involving no active management of securities, whose units trade during trading hours like any listed security.
+
+**Rationale:** ETFs are funds designed to track the performance of specific indices, or fixed baskets of stocks or debt securities, and differ from most open-end and closed-end funds because they involve no active management. ETF units can be bought and sold during trading hours like any listed security, unlike mutual funds, which can only be bought or sold at the end of the day with the fund manager. There is no guarantee of the index return: NAV per unit is determined at the daily close and represents fair value, but the market price can deviate from NAV because of investor sentiment affecting supply and demand.
+
+</details>
+
+### 608. **[Single choice]** [CM-EIP §9.2.2] Marcus runs a portfolio in which most of the money sits in a broad-market ETF that mimics a wide index, while smaller allocations go into higher-risk securities that offer potentially higher returns. Which ETF investment strategy is he using?
+
+- a. Cash equitisation — converting idle cash to equities through ETFs to minimise the cash drag on a portfolio.
+- b. Hedging — using ETFs to offset other risks in the portfolio.
+- c. A core-satellite allocation — a core mimicking a broad index, with satellites of higher-risk securities offering potentially higher return.
+- d. Short-term tactical trading only, with no long-term core holding.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. A core-satellite allocation — a core mimicking a broad index, with satellites of higher-risk securities offering potentially higher return.
+
+**Rationale:** The guide lists core-satellite allocations as an ETF strategy: a core mimicking a broad index, with satellites of higher-risk securities offering potentially higher return. Cash equitisation is converting cash to equities to minimise cash drag, and hedging is a separate listed strategy; neither describes a broad-index core plus higher-risk satellites.
+
+</details>
+
+### 609. **[Single choice]** [CM-EIP §9.2.4] Hui Min compares an ETF with an actively managed unit trust. Which pairing of an ETF advantage with an ETF risk is correct?
+
+- a. Advantage: annual management fees normally less than 1%, against 1–2% for actively managed unit trusts, with no initial charges or redemption fees, and holdings are transparent; risk: a synthetically replicated ETF carries counterparty risk because it uses swaps or derivatives.
+- b. Advantage: ETF units always trade exactly at net asset value, so there is no market risk.
+- c. Advantage: physical ETFs have smaller tracking error than synthetic ETFs; risk: synthetic ETFs carry no counterparty risk.
+- d. Advantage: ETF fees are normally 1–2%, higher than actively managed unit trusts, and holdings are disclosed only once a year.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Advantage: annual management fees normally less than 1%, against 1–2% for actively managed unit trusts, with no initial charges or redemption fees, and holdings are transparent; risk: a synthetically replicated ETF carries counterparty risk because it uses swaps or derivatives.
+
+**Rationale:** ETF advantages include low costs (annual management fees normally less than 1% against 1–2% for actively managed unit trusts, with no initial charges or redemption fees) and transparency (investors always know the basket of securities, whereas unit trusts usually disclose holdings only quarterly, semi-annually or annually). On risks, tracking error is greater in physical ETFs than in synthetic ETFs, because synthetic ETFs achieve more precise tracking using swaps and derivatives — but that brings counterparty risk, because the derivative counterparty might default.
+
+</details>
+
+### 610. **[Single choice]** [CM-EIP §9.3] Arjun invests in a fund that pools money from many different investors to be invested and managed by a fund manager. The cash and investments are registered in the name of, and held by, an independent trustee, and a trust deed sets out the aims, objectives, charges and basic rules of operation. What is this product?
+
+- a. A unit trust — a collective investment scheme that pools funds from different investors to be invested and managed by one or more fund managers under the care of an independent trustee.
+- b. A direct shareholding in a single listed company.
+- c. A limited partnership in which Arjun is a general partner managing the assets himself.
+- d. A bank fixed deposit held in Arjun's own name.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. A unit trust — a collective investment scheme that pools funds from different investors to be invested and managed by one or more fund managers under the care of an independent trustee.
+
+**Rationale:** A unit trust is a CIS that pools funds from different investors to be invested and managed by one or more fund managers under the care of an independent trustee. In Singapore the Code on CIS sets out best practice on management, operation and marketing that trustees and managers are expected to observe. The trustee holds the trust's cash, shares and other investment assets and safeguards investors, ensuring managers operate within the trust deed; the managers neither hold the investments nor issue or redeem units.
+
+</details>
+
+### 611. **[Single choice]** [CM-EIP §9.1] Fund P issues units continuously: investors buy new units and sell units back through the trustee, and the price is determined by net asset value. Fund Q has a fixed number of units, is traded on the exchange, and its price is determined by market demand and supply as well as fund performance. Which statement correctly distinguishes them?
+
+- a. Fund P is a closed-end investment trust and Fund Q is an open-end unit trust.
+- b. Fund P is an open-end unit trust and Fund Q is a closed-end investment trust / investment company — the company form can only pay dividends out of profits, with restrictions on return of capital, unlike a trust structure.
+- c. Both funds are open-end unit trusts, because both pool investors' money.
+- d. Both funds are closed-end investment trusts, because both are priced by the market.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Fund P is an open-end unit trust and Fund Q is a closed-end investment trust / investment company — the company form can only pay dividends out of profits, with restrictions on return of capital, unlike a trust structure.
+
+**Rationale:** Under §9.3.3, an open-end trust issues units continuously and its price is determined by NAV (fund performance net of management fees), while a closed-end fund has a fixed number of units and its price is determined by market demand and supply as well as fund performance. The closed-end company form is the investment-trust / investment-company structure (a Sicaf in Luxembourg terminology, for a closed-end investment company); §9.1 notes a company can only pay dividends out of profits and faces restrictions on return of capital, which is why the VCC structure was introduced. In Singapore most unit trusts are open-end and not listed, while closed-end funds do not issue fresh units.
+
+</details>
+
+### 612. **[Single choice]** [CM-EIP §9.3.5] Siti holds units in an income fund. Her risk appetite rises from low to moderate, so she wants to move into an equity fund without selling holdings company by company and starting again from scratch. Which advantage of investing in unit trusts does this illustrate?
+
+- a. Lower transaction costs from the manager trading large blocks.
+- b. Security, because assets are legally held by an independent trustee rather than the fund manager.
+- c. Small capital outlay, because an initial investment of $1,000 to $5,000 is affordable.
+- d. Flexibility — holders can switch between a "family of funds" within the same family, responding to changes in plans and markets, for example switching from an income fund to an equity fund if the plan changes from low to moderate risk.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Flexibility — holders can switch between a "family of funds" within the same family, responding to changes in plans and markets, for example switching from an income fund to an equity fund if the plan changes from low to moderate risk.
+
+**Rationale:** Flexibility is a stated advantage of unit trusts: holders can switch between a family of funds within the same family, responding to changes in plans and markets. The other options are genuine advantages too — security via the independent trustee, small outlay of $1,000–$5,000, and lower transaction costs from large-block trading — but they are not what Siti's move illustrates.
+
+</details>
+
+### 613. **[Single choice]** [CM-EIP §9.3.7] Elena wants to park cash for less than a year, earn competitive money market rates, have interest credited daily, and pay no sales or redemption charge (she accepts she will still pay a management fee). Which type of unit trust fund suits her?
+
+- a. A money market fund — it holds short-term (typically under one year) fixed income instruments such as bank certificates of deposit, commercial paper and Treasury bills; interest is earned and credited daily; investors normally pay no sales or redemption charge but do pay a management fee.
+- b. An equity fund, which invests in equity securities and may specialise in particular sectors or regions.
+- c. A capital guaranteed fund, which invests most capital in low-risk assets to preserve capital at maturity, with the balance in riskier assets for upside.
+- d. A hedge fund, which employs derivatives, short selling and arbitrage and focuses on absolute returns.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. A money market fund — it holds short-term (typically under one year) fixed income instruments such as bank certificates of deposit, commercial paper and Treasury bills; interest is earned and credited daily; investors normally pay no sales or redemption charge but do pay a management fee.
+
+**Rationale:** Money market funds hold short-term (typically under one year) fixed income instruments — bank certificates of deposit, commercial paper, Treasury bills. Because of the large denominations in direct dealing, these funds give access to competitive money market rates. Interest is earned and credited daily, and investors normally pay no sales or redemption charge but do pay a management fee. A capital guaranteed fund's guarantee usually applies only if held to maturity, and a hedge fund is an alternative-investment strategy, not a cash-parking vehicle.
+
+</details>
+
+### 614. **[Single choice]** [CM-EIP §9.3.11] Wei Jie evaluates two funds. Fund X returned 9% against its benchmark's 7%; Fund Y returned 10% against its benchmark's 12%. Both fact sheets show returns net of management fees, charted against the benchmark since inception with tables for the last 3 and 5 years. Which evaluation is correct?
+
+- a. Fund Y did better, because its absolute return of 10% is higher than Fund X's 9%.
+- b. The fund with the higher past return is guaranteed to do better in future, so past performance settles the choice.
+- c. Fund X did better — it beat its benchmark by 2 percentage points while Fund Y lagged its benchmark by 2 points; a fund should be judged on its return against its benchmark, checking that returns are shown net of management fees.
+- d. The funds should be compared on gross returns only, ignoring both fees and benchmarks.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Fund X did better — it beat its benchmark by 2 percentage points while Fund Y lagged its benchmark by 2 points; a fund should be judged on its return against its benchmark, checking that returns are shown net of management fees.
+
+**Rationale:** A unit trust is usually managed relative to a benchmark, so the investor can compare the fund's return against it: if the fund's return is higher than the benchmark, the manager has done well. Fund X beat its benchmark (9% vs 7%) while Fund Y lagged (10% vs 12%), so X did better despite the lower absolute return. Performance is typically charted against the benchmark since inception, with a table over the last 3 or 5 years, and the investor should check whether returns are shown net of management fees — most fact sheets indicate net returns. Past performance is no guarantee of future performance.
+
+</details>
+
+### 615. **[Single choice]** [CM-EIP §9.3.10] Nurul buys units in a load fund and sells them 30 days later. The fund charges her a fee on the sale. Which fee is this, and why does it apply?
+
+- a. A front-end load — a sales commission charged when units are bought, usually 1.5% to 5% of NAV.
+- b. A back-end load (realisation charge / redemption fee) — charged when holders sell; it may be waived if units have been held beyond a stipulated period (for example 60 days), and its purpose is to discourage selling right after buying, avoiding the transaction costs of frequent securities sales to meet redemptions. Nurul sold after only 30 days, so the waiver does not apply.
+- c. The annual management fee — typically 0.5% to 2.0% of NAV, accrued daily and debited directly from the trust's asset value.
+- d. A switching fee of about 1%, charged when switching between sub-funds under an umbrella structure.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. A back-end load (realisation charge / redemption fee) — charged when holders sell; it may be waived if units have been held beyond a stipulated period (for example 60 days), and its purpose is to discourage selling right after buying, avoiding the transaction costs of frequent securities sales to meet redemptions. Nurul sold after only 30 days, so the waiver does not apply.
+
+**Rationale:** Some funds impose a realisation charge or redemption fee — a back-end load — when holders sell, which may be waived if units have been held beyond a stipulated period (for example 60 days). Its purpose is to discourage selling right after buying, avoiding the transaction costs of frequent securities sales to meet redemptions. A front-end load is charged on purchase (usually 1.5% to 5% of NAV); the management fee is annual (0.5% to 2.0% of NAV, accrued daily); the switching fee of about 1% applies on switching between sub-funds, not on a sale.
+
+</details>
+
+### 616. **[Calculation]** [CM-EIP §9.3.12] A fund holds securities of $12,000,000 and other fund assets of $500,000. Its liabilities, including management fees, are $300,000, and it has debt used for leveraging of $200,000. There are 5,000,000 units outstanding. Purchase expenses are $0.04 per unit, cash held plus accrued income is $0.06 per unit, and the manager's initial charge is $0.10 per unit. What is the offer price per unit?
+
+- a. $2.40
+- b. $2.50
+- c. $2.60
+- d. $2.68
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. $2.60
+
+**Rationale:** Step 1 — NAV per unit. NAV = (Fund securities + Other fund assets − Liabilities including management fees − Debt used for leveraging) / Total fund units outstanding = ($12,000,000 + $500,000 − $300,000 − $200,000) / 5,000,000 = $12,000,000 / 5,000,000 = $2.40. Step 2 — offer price. The offer price is the price at which an investor can buy units: NAV per unit, plus expenses related to purchasing securities, plus cash held and accrued income, plus the manager's initial charge = $2.40 + $0.04 + $0.06 + $0.10 = $2.60. Option A ($2.40) is the NAV alone; option B ($2.50) omits the initial charge; option D ($2.68) wrongly adds the leverage debt instead of subtracting it, giving NAV of $2.48 before the same $0.20 of additions.
+
+</details>
+
+### 617. **[Single choice]** [CM-EIP §9.4.1] Fund P invests 80% of its assets in income-producing retail malls and offices, is listed on the SGX Mainboard, and operates as a passive vehicle collecting rent. Fund Q invests 60% in income-producing real estate and the rest in listed equities. Which statement is correct?
+
+- a. Both funds qualify as REITs, because both hold some income-producing real estate.
+- b. Neither fund qualifies as a REIT.
+- c. Only Fund Q qualifies as a REIT.
+- d. Only Fund P qualifies as a REIT — the Code on CIS requires a minimum of at least 75% of the fund to be invested in income-producing real estate.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Only Fund P qualifies as a REIT — the Code on CIS requires a minimum of at least 75% of the fund to be invested in income-producing real estate.
+
+**Rationale:** A REIT is a CIS pooling individual investors' funds to invest in real estate assets, governed by Appendix 6 — Property Funds in the Code on CIS. The Code requires a minimum of at least 75% of the fund to be invested in income-producing real estate. Fund P, at 80%, meets this; Fund Q, at 60%, does not. A simple way to understand a REIT is as a passive investment vehicle engaged in real estate investment for rent collection, and REITs are listed on the SGX Mainboard (unlisted property trusts, constituted the same way, are not publicly traded).
+
+</details>
+
+### 618. **[Single choice]** [CM-EIP §9.5.4] Vehicle R has a trustee and a manager who are separate and independent, and it makes passive investments in properties for rental income. Vehicle S has a single trustee-manager who both holds the assets and manages them, and it actively operates a port infrastructure business. Which statement correctly identifies them?
+
+- a. Vehicle R is a listed REIT and Vehicle S is a business trust.
+- b. Vehicle R is a business trust and Vehicle S is a listed REIT.
+- c. Both vehicles are listed REITs, because both pool investors' money.
+- d. Both vehicles are business trusts, because both are constituted by a trust deed.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Vehicle R is a listed REIT and Vehicle S is a business trust.
+
+**Rationale:** Both are constituted by a trust deed and unit holders have beneficial interests rather than individual legal ownership, but they differ in structure and objective: a listed REIT has a trustee and manager who are separate and independent and makes passive investments, while a business trust has a single responsible entity — the trustee-manager — and is permitted to actively engage in business operation. The same comparison table gives the further differences: a REIT must distribute a minimum of 90% of annual income and is subject to a 45% gearing limit under the Securities and Futures Act and the Code on CIS, while a business trust has no mandatory minimum distribution and no gearing limit under the Business Trusts Act 2004.
+
+</details>
+
+### 619. **[Single choice]** [CM-EIP §9.6] A hospitality group lists a stapled security that staples hotel-owning REIT units to units in the hotel-operating business trust. An investor buys the stapled security as a single instrument. Which statement is correct?
+
+- a. The issuer need only follow the REIT regulations, because the business trust component is incidental.
+- b. The issuer is bound by the regulations specific to each security being stapled: it must pay the minimum 90% of annual income to REIT unit holders to qualify for favourable tax treatment, but is free from paying dividends on the business trust component — and such a stapled security cannot be marketed as a REIT.
+- c. The stapled security can be marketed as a REIT, because its largest component is a REIT.
+- d. The investor can trade the REIT units and the business trust units separately on the exchange.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. The issuer is bound by the regulations specific to each security being stapled: it must pay the minimum 90% of annual income to REIT unit holders to qualify for favourable tax treatment, but is free from paying dividends on the business trust component — and such a stapled security cannot be marketed as a REIT.
+
+**Rationale:** A stapled security is created when an issuer lists two or more securities traded as a single instrument on the exchange, sharing the same investor — for example, several Singapore REITs in the hospitality sector stapled to a business trust. Stapled securities combine a passive income security with an active income security. The issuer is bound by the regulations specific to each security being stapled: if a REIT and a business trust are stapled, the issuer must pay the minimum 90% of annual income to REIT unit holders to qualify for favourable tax treatment, but is free from paying dividends on the business trust. Such stapled securities cannot be marketed as REITs.
+
+</details>
+
+### 620. **[Single choice]** [CM-EIP §9.8.2] A client wants two things: a fund that aims for positive returns regardless of market direction and may use short selling and leverage to do so, and a product that protects her against outliving her income in retirement. Which statement correctly describes the suitable products?
+
+- a. A hedge fund, which targets an index benchmark and cannot use leverage; and an annuity, which protects against premature death.
+- b. A conventional fund, which captures alpha only and targets absolute returns; and life insurance, which protects against living longer than expected.
+- c. A hedge fund, which targets absolute returns (unlike a conventional fund's index-based benchmark target), can use short selling or derivatives to reduce its beta sensitivity and can be leveraged significantly; and a life annuity, which protects against loss of income from excessive longevity — the opposite of life insurance, which protects against loss of income from premature death.
+- d. A hedge fund, which is necessarily hedged and therefore net market-neutral and more transparent than a conventional fund; and an annuity, which protects against premature death.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. A hedge fund, which targets absolute returns (unlike a conventional fund's index-based benchmark target), can use short selling or derivatives to reduce its beta sensitivity and can be leveraged significantly; and a life annuity, which protects against loss of income from excessive longevity — the opposite of life insurance, which protects against loss of income from premature death.
+
+**Rationale:** Hedge funds differ from conventional funds in the guide's comparison: they capture alpha (freedom to hedge away or reduce beta) versus alpha + beta, have absolute return targets versus index-based benchmark targets, can be leveraged significantly versus limited ability to use debt, and are less transparent with longer unwind times. The name is a misnomer — a hedge fund is not necessarily hedged and may take directional bets and be net long or short. On the second need, a life annuity protects against loss of income from excessive longevity, while life insurance protects against loss of income from premature death — exact opposites.
+
+</details>
+
+### 621. **[Single choice]** [CM-EIP §9.3.7] A fund manager runs a unit trust included under the CPF Investment Scheme (CPFIS). What must the manager do for the CPF Board?
+
+- a. Report vital information once a year to SGX.
+- b. Nothing — CPF members track the fund's performance themselves.
+- c. Report vital information monthly to MAS only.
+- d. Report vital information quarterly to the CPF Board, and a funds-tracking company is appointed to publish information on the performance and risks of CPFIS-included funds.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Report vital information quarterly to the CPF Board, and a funds-tracking company is appointed to publish information on the performance and risks of CPFIS-included funds.
+
+**Rationale:** Investors in Singapore can use CPF funds to invest in products under the CPF Investment Scheme. To protect CPF members, managers of CPF monies must report vital information quarterly to the CPF Board, and a funds-tracking company is appointed to publish information on performance and risks of CPFIS-included funds. For a fund to be included under CPFIS and eligible to take CPF monies it must also meet the CPFIS funds admission criteria, including being in the top quartile of the global peer group and benchmarking total expense ratios to the median of CPFIS funds in the respective risk class.
+
+</details>
+
 ## Chapter 10 — Warrants
 
-### 500. **[Single choice]** [CM-EIP §10.1.1] What is a warrant?
+### 622. **[Single choice]** [CM-EIP §10.1.1] What is a warrant?
 
 - a. An obligation to buy securities at a fixed price
 - b. A right, but not an obligation, to buy or sell a specified number of securities at a fixed price within a specified period
@@ -8028,7 +9980,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 501. **[Single choice]** [CM-EIP §10.1.1] Why are warrants issued by corporations as a sweetener?
+### 623. **[Single choice]** [CM-EIP §10.1.1] Why are warrants issued by corporations as a sweetener?
 
 - a. To avoid regulation
 - b. To increase the coupon rate
@@ -8044,7 +9996,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 502. **[Single choice]** [CM-EIP §10.1.1] How does exercising a warrant differ from exercising an equity call option?
+### 624. **[Single choice]** [CM-EIP §10.1.1] How does exercising a warrant differ from exercising an equity call option?
 
 - a. Both cause dilution
 - b. Neither causes dilution
@@ -8060,7 +10012,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 503. **[Single choice]** [CM-EIP §10.1.2] Which of the following is a difference between company warrants and structured warrants?
+### 625. **[Single choice]** [CM-EIP §10.1.2] Which of the following is a difference between company warrants and structured warrants?
 
 - a. Company warrants are call only; structured warrants can be calls or puts
 - b. Company warrants are cash-settled; structured warrants deliver shares
@@ -8076,7 +10028,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 504. **[Single choice]** [CM-EIP §10.1.2] In the structured warrant code CapitalaMBeCW181009, what does the "e" represent?
+### 626. **[Single choice]** [CM-EIP §10.1.2] In the structured warrant code CapitalaMBeCW181009, what does the "e" represent?
 
 - a. The issuer
 - b. The exercise style, European
@@ -8092,7 +10044,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 505. **[Single choice]** [CM-EIP §10.1.2] What is the typical maturity of a structured warrant compared with a company warrant?
+### 627. **[Single choice]** [CM-EIP §10.1.2] What is the typical maturity of a structured warrant compared with a company warrant?
 
 - a. Both 6–12 months
 - b. Both measured in years
@@ -8108,7 +10060,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 506. **[Single choice]** [CM-EIP §10.1.3] How is the exercise price typically set when warrants are issued?
+### 628. **[Single choice]** [CM-EIP §10.1.3] How is the exercise price typically set when warrants are issued?
 
 - a. Equal to the prevailing share price
 - b. At par value
@@ -8124,7 +10076,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 507. **[Single choice]** [CM-EIP §10.1.3] What does the conversion ratio of a warrant state?
+### 629. **[Single choice]** [CM-EIP §10.1.3] What does the conversion ratio of a warrant state?
 
 - a. The number of warrants required for the conversion to one share
 - b. The ratio of premium to intrinsic value
@@ -8140,7 +10092,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 508. **[Calculation]** [CM-EIP §10.2.1] A warrant has a share price of $0.48, an exercise price of $0.43 and a conversion ratio of 1. What is its intrinsic value?
+### 630. **[Calculation]** [CM-EIP §10.2.1] A warrant has a share price of $0.48, an exercise price of $0.43 and a conversion ratio of 1. What is its intrinsic value?
 
 - a. $0.00
 - b. $0.05
@@ -8156,7 +10108,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 509. **[Calculation]** [CM-EIP §10.2.2] A warrant trades at $0.030 with an exercise price of $0.430 and a conversion ratio of 1. What is the conversion price?
+### 631. **[Calculation]** [CM-EIP §10.2.2] A warrant trades at $0.030 with an exercise price of $0.430 and a conversion ratio of 1. What is the conversion price?
 
 - a. $0.40
 - b. $0.43
@@ -8172,7 +10124,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 510. **[Calculation]** [CM-EIP §10.2.3] A warrant trades at $0.030, the exercise price is $0.430 and the share price is $0.26. What is the warrant premium in percentage terms?
+### 632. **[Calculation]** [CM-EIP §10.2.3] A warrant trades at $0.030, the exercise price is $0.430 and the share price is $0.26. What is the warrant premium in percentage terms?
 
 - a. 16.54%
 - b. 76.92%
@@ -8188,7 +10140,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 511. **[Calculation]** [CM-EIP §10.2.3] A warrant trades at $0.080, the exercise price is $0.430 and the share price is $0.480. What is the warrant premium in percentage terms?
+### 633. **[Calculation]** [CM-EIP §10.2.3] A warrant trades at $0.080, the exercise price is $0.430 and the share price is $0.480. What is the warrant premium in percentage terms?
 
 - a. 30.00%
 - b. 76.92%
@@ -8204,7 +10156,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 512. **[Single choice]** [CM-EIP §10.2.3] In the DF Int'l example, the share price rose 85% while the warrant price rose 167%. What does this illustrate?
+### 634. **[Single choice]** [CM-EIP §10.2.3] In the DF Int'l example, the share price rose 85% while the warrant price rose 167%. What does this illustrate?
 
 - a. That the warrant was overpriced
 - b. That the conversion ratio changed
@@ -8220,7 +10172,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 513. **[Calculation]** [CM-EIP §10.2.4] A share price is $0.265 and the warrant price is $0.030 with a conversion ratio of 1. What is the gearing ratio?
+### 635. **[Calculation]** [CM-EIP §10.2.4] A share price is $0.265 and the warrant price is $0.030 with a conversion ratio of 1. What is the gearing ratio?
 
 - a. 8.8x
 - b. 0.11x
@@ -8236,7 +10188,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 514. **[Single choice]** [CM-EIP §10.2.5] For a warrant with a conversion ratio of 1, what is the maximum value?
+### 636. **[Single choice]** [CM-EIP §10.2.5] For a warrant with a conversion ratio of 1, what is the maximum value?
 
 - a. The intrinsic value
 - b. The underlying share price
@@ -8252,7 +10204,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 515. **[Single choice]** [CM-EIP §10.2.5] For a warrant with a conversion ratio of 1, what is the minimum value?
+### 637. **[Single choice]** [CM-EIP §10.2.5] For a warrant with a conversion ratio of 1, what is the minimum value?
 
 - a. The exercise price
 - b. Zero always
@@ -8268,7 +10220,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 516. **[Single choice]** [CM-EIP §10.2.5] Why does the premium of the warrant price over intrinsic value decrease as the share price rises well above the exercise price?
+### 638. **[Single choice]** [CM-EIP §10.2.5] Why does the premium of the warrant price over intrinsic value decrease as the share price rises well above the exercise price?
 
 - a. Because the warrant expires
 - b. Because the conversion ratio changes
@@ -8284,7 +10236,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 517. **[Single choice]** [CM-EIP §10.3] How does an increase in the remaining life of a warrant affect its price?
+### 639. **[Single choice]** [CM-EIP §10.3] How does an increase in the remaining life of a warrant affect its price?
 
 - a. It increases the price
 - b. It has no effect
@@ -8300,7 +10252,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 518. **[Single choice]** [CM-EIP §10.3] How does an increase in the exercise price affect a warrant's price?
+### 640. **[Single choice]** [CM-EIP §10.3] How does an increase in the exercise price affect a warrant's price?
 
 - a. It increases the price
 - b. It reduces the price
@@ -8316,7 +10268,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 519. **[Single choice]** [CM-EIP §10.3] Why does higher volatility of the underlying share increase a warrant's price?
+### 641. **[Single choice]** [CM-EIP §10.3] Why does higher volatility of the underlying share increase a warrant's price?
 
 - a. Because volatility extends the maturity
 - b. Because volatility increases the exercise price
@@ -8332,7 +10284,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 520. **[Single choice]** [CM-EIP §10.3] Why do dividend declarations reduce a call warrant's price?
+### 642. **[Single choice]** [CM-EIP §10.3] Why do dividend declarations reduce a call warrant's price?
 
 - a. Because dividends reduce volatility
 - b. Because dividends shorten the warrant's life
@@ -8348,7 +10300,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 521. **[Single choice]** [CM-EIP §10.3] Why do higher interest rates increase a call warrant's price?
+### 643. **[Single choice]** [CM-EIP §10.3] Why do higher interest rates increase a call warrant's price?
 
 - a. Because of interest savings from the lower capital needed to buy warrants compared with an equivalent long stock position
 - b. Because volatility rises
@@ -8364,7 +10316,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 522. **[Single choice]** [CM-EIP §10.3] Why is there a negative relation between the size of a warrant issue and the warrant price?
+### 644. **[Single choice]** [CM-EIP §10.3] Why is there a negative relation between the size of a warrant issue and the warrant price?
 
 - a. Because larger issues are less liquid
 - b. Because more warrants outstanding means larger potential earnings dilution if the warrants are deep in-the-money
@@ -8380,7 +10332,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 523. **[Single choice]** [CM-EIP §10.4] How are company warrants settled compared with structured warrants?
+### 645. **[Single choice]** [CM-EIP §10.4] How are company warrants settled compared with structured warrants?
 
 - a. Both deliver shares
 - b. Both are cash-settled
@@ -8396,9 +10348,89 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
+### 646. **[Single choice]** [CM-EIP §10.1.1] A company issues bonds with warrants attached as a sweetener. A client asks what the warrants are and how long they last compared with ordinary equity call options. Which answer is correct?
+
+- a. A warrant is a derivative giving the holder the right, but not the obligation, to buy or sell a specified number of securities at a fixed price within a specified time period; company warrants may be considered long-dated equity call options, typically with maturities of a few years, while call options expire within a few months.
+- b. A warrant is an obligation to buy the underlying shares at the fixed price, whether or not the holder wishes to.
+- c. A warrant expires within a few months like an equity call option, and warrant holders receive dividends on the underlying shares.
+- d. A warrant cannot be detached from the bond it was issued with and can never be traded separately.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. A warrant is a derivative giving the holder the right, but not the obligation, to buy or sell a specified number of securities at a fixed price within a specified time period; company warrants may be considered long-dated equity call options, typically with maturities of a few years, while call options expire within a few months.
+
+**Rationale:** A warrant is a derivative instrument giving the holder (buyer) the right, but not the obligation, to buy or sell a specified number of securities — usually the issuer's common share — at a fixed price (the exercise or strike price) within a specified time period. Company warrants may be considered long-dated equity call options: while call options expire within a few months, warrants typically have maturities of a few years. Warrants are generally issued as a sweetener attached to bonds or rights issues, letting the issuer obtain financing at a lower interest rate, and can be detached from the host security and traded separately. When warrants are exercised, new shares are issued, diluting earnings; warrant holders do not receive dividends unless they convert.
+
+</details>
+
+### 647. **[Calculation]** [CM-EIP §10.2.1] A warrant has an underlying share price of $5.20, an exercise price of $4.80, a conversion ratio of 2 warrants per share, and a warrant price of $0.35. What is the warrant premium, in percentage terms?
+
+- a. 3.85%
+- b. 5.77%
+- c. 6.25%
+- d. −0.96%
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. 5.77%
+
+**Rationale:** Step 1 — intrinsic value = (SP − EP) / n = ($5.20 − $4.80) / 2 = $0.40 / 2 = $0.20 per warrant; the warrant is in-the-money because the share price exceeds the exercise price. Step 2 — conversion price = n × WP + EP = 2 × $0.35 + $4.80 = $0.70 + $4.80 = $5.50, the total price to convert warrants into one share. Step 3 — warrant premium ($) = n × WP + EP − SP = $5.50 − $5.20 = $0.30. Step 4 — warrant premium (%) = $0.30 / $5.20 × 100 = 5.77%. (The warrant premium is the extra cost of the warrant route versus buying the share outright — it is not the option price.) Option A (3.85%) is the intrinsic value divided by the share price ($0.20 / $5.20); option C (6.25%) divides the premium by the exercise price instead of the share price ($0.30 / $4.80); option D (−0.96%) ignores the conversion ratio, using ($0.35 + $4.80 − $5.20) / $5.20.
+
+</details>
+
+### 648. **[Calculation]** [CM-EIP §10.2.4] A share trades at $6.00. A warrant on that share trades at $0.50, the conversion ratio is 2 warrants per share, and the exercise price is $5.00. What is the gearing ratio?
+
+- a. 12.0x
+- b. 0.17x
+- c. 5.0x
+- d. 6.0x
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. 6.0x
+
+**Rationale:** Gearing ratio = SP / (n × WP) = $6.00 / (2 × $0.50) = $6.00 / $1.00 = 6.0x. Gearing compares the price of the warrants needed to convert to one share relative to the share price, and gives investors the ability to participate in the underlying share's performance at a lower price. Option A (12.0x) ignores the conversion ratio ($6.00 / $0.50); option B (0.17x) inverts the ratio; option C (5.0x) wrongly uses the exercise price instead of the share price ($5.00 / (2 × $0.50)).
+
+</details>
+
+### 649. **[Single choice]** [CM-EIP §10.2.5] A warrant has a conversion ratio of 1. The underlying share price is $4.00 and the exercise price is $3.00. What are the warrant's minimum and maximum values in an arbitrage-free market?
+
+- a. Minimum $0, maximum $4.00.
+- b. Minimum $1.00, maximum $1.00.
+- c. Minimum $1.00, maximum $4.00.
+- d. Minimum $0, maximum $3.00.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. Minimum $1.00, maximum $4.00.
+
+**Rationale:** The minimum value is the intrinsic value: SP − EP if SP > EP, and 0 if SP ≤ EP. Here the share price ($4.00) exceeds the exercise price ($3.00), so the warrant is in-the-money and the minimum value is $4.00 − $3.00 = $1.00. The maximum value is the underlying share price, $4.00 — the maximum-price line sits at a 45-degree angle to the x-axis. Option A gives the minimum for an out-of-the-money warrant; option D mistakes the exercise price for the maximum value.
+
+</details>
+
+### 650. **[Single choice]** [CM-EIP §10.3] Which pair of changes would both tend to increase a call warrant's price (and hence its premium over intrinsic value)?
+
+- a. A higher exercise price and a larger warrant issue size.
+- b. Higher expected dividends on the underlying share and a shorter remaining life.
+- c. A higher exercise price and higher expected dividends.
+- d. A longer remaining life and higher price volatility of the underlying share.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. A longer remaining life and higher price volatility of the underlying share.
+
+**Rationale:** The guide's factor table for company warrants: remaining life ↑ → price ↑ (a longer life gives more chance for an out-of-the-money warrant to become attractive, and a warrant loses speculative value as life shortens); price volatility ↑ → price ↑ (warrants benefit from upside but limit downside). The other pairs both push the price down: exercise price ↑ → price ↓; issue size ↑ → price ↓ (larger potential earnings dilution); dividend expectations ↑ → price ↓ (holders receive no dividends, so call warrants "lose out"). For completeness, the remaining factors are: underlying share price ↑ → price ↑; leverage opportunities ↑ → price ↑; interest rates ↑ → call warrant price ↑ (interest saved on the smaller capital outlay). ---
+
+</details>
+
 ## Chapter 11 — Technical Analysis and Quantitative Analysis
 
-### 524. **[Single choice]** [CM-EIP §11.1.2] What does technical analysis study?
+### 651. **[Single choice]** [CM-EIP §11.1.2] What does technical analysis study?
 
 - a. The economy and industry structure
 - b. Financial statements
@@ -8414,7 +10446,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 525. **[Single choice]** [CM-EIP §11.1.2] What is the key difference between technical and fundamental analysts regarding irrational factors?
+### 652. **[Single choice]** [CM-EIP §11.1.2] What is the key difference between technical and fundamental analysts regarding irrational factors?
 
 - a. Technical analysts expect irrational factors to persist; fundamental analysts expect only a temporary effect
 - b. Fundamental analysts expect irrational factors to persist; technical analysts expect only a temporary effect
@@ -8430,7 +10462,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 526. **[Single choice]** [CM-EIP §11.1.2] Why do technical analysts believe prices exhibit trends that persist over long periods?
+### 653. **[Single choice]** [CM-EIP §11.1.2] Why do technical analysts believe prices exhibit trends that persist over long periods?
 
 - a. Because markets are perfectly efficient
 - b. Because new information is priced by the market over a period of time rather than at one point, so prices adjust gradually
@@ -8446,7 +10478,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 527. **[Single choice]** [CM-EIP §11.1.3] What presents the greatest challenge to technical analysis?
+### 654. **[Single choice]** [CM-EIP §11.1.3] What presents the greatest challenge to technical analysis?
 
 - a. Behavioural finance
 - b. Fundamental analysis
@@ -8462,7 +10494,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 528. **[Single choice]** [CM-EIP §11.1.3] Why might a popular technical trading rule eventually stop working?
+### 655. **[Single choice]** [CM-EIP §11.1.3] Why might a popular technical trading rule eventually stop working?
 
 - a. Because regulators ban it
 - b. Because charts are unavailable
@@ -8478,7 +10510,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 529. **[Single choice]** [CM-EIP §11.2.1] Why is a moving average more useful than the daily price for detecting trends?
+### 656. **[Single choice]** [CM-EIP §11.2.1] Why is a moving average more useful than the daily price for detecting trends?
 
 - a. Because it includes past prices, making it more stable and smoothing out erratic changes
 - b. Because it predicts the future exactly
@@ -8494,7 +10526,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 530. **[Single choice]** [CM-EIP §11.2.2] What does the advance-decline line measure?
+### 657. **[Single choice]** [CM-EIP §11.2.2] What does the advance-decline line measure?
 
 - a. The average price of all shares
 - b. On a cumulative daily basis, the net difference between the number of shares with price advances and those with price declines
@@ -8510,7 +10542,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 531. **[Single choice]** [CM-EIP §11.2.2] What does it mean if the index is rising while the advance-decline line is falling?
+### 658. **[Single choice]** [CM-EIP §11.2.2] What does it mean if the index is rising while the advance-decline line is falling?
 
 - a. Volume is increasing
 - b. The market is technically strong
@@ -8526,7 +10558,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 532. **[Single choice]** [CM-EIP §11.2.3] What are the most commonly used MACD parameters?
+### 659. **[Single choice]** [CM-EIP §11.2.3] What are the most commonly used MACD parameters?
 
 - a. 20, 50, 200
 - b. 14, 30, 7
@@ -8542,7 +10574,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 533. **[Single choice]** [CM-EIP §11.2.3] What signal is given when the MACD crosses and falls below the signal line?
+### 660. **[Single choice]** [CM-EIP §11.2.3] What signal is given when the MACD crosses and falls below the signal line?
 
 - a. A bearish signal indicating it may be time to sell
 - b. A neutral signal
@@ -8558,7 +10590,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 534. **[Single choice]** [CM-EIP §11.2.5] What moving average and multiplier are typically used to construct Bollinger Bands?
+### 661. **[Single choice]** [CM-EIP §11.2.5] What moving average and multiplier are typically used to construct Bollinger Bands?
 
 - a. A 50-day SMA with a multiplier of 1
 - b. A 20-day SMA with a multiplier of 2
@@ -8574,7 +10606,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 535. **[Single choice]** [CM-EIP §11.2.5] What does it mean when prices move close to the upper Bollinger Band?
+### 662. **[Single choice]** [CM-EIP §11.2.5] What does it mean when prices move close to the upper Bollinger Band?
 
 - a. Volatility has fallen to zero
 - b. The market is oversold
@@ -8590,7 +10622,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 536. **[Single choice]** [CM-EIP §11.3] What defines an uptrend?
+### 663. **[Single choice]** [CM-EIP §11.3] What defines an uptrend?
 
 - a. Current highs below previous highs and current lows below previous lows
 - b. Current highs above previous highs but current lows below previous lows
@@ -8606,7 +10638,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 537. **[Single choice]** [CM-EIP §11.3] What is a support level?
+### 664. **[Single choice]** [CM-EIP §11.3] What is a support level?
 
 - a. A price range where a substantial increase in demand is expected
 - b. The highest price ever reached
@@ -8622,7 +10654,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 538. **[Single choice]** [CM-EIP §11.3] What is the market overhang?
+### 665. **[Single choice]** [CM-EIP §11.3] What is the market overhang?
 
 - a. Excess demand at a support level
 - b. The supply created by sellers attracted by higher prices to take profits at a resistance level
@@ -8638,7 +10670,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 539. **[Single choice]** [CM-EIP §11.3] What is a breakout below a support level?
+### 666. **[Single choice]** [CM-EIP §11.3] What is a breakout below a support level?
 
 - a. A continuation of the uptrend
 - b. A bullish signal
@@ -8654,7 +10686,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 540. **[Single choice]** [CM-EIP §11.4] What does a price decline accompanied by heavy volume indicate?
+### 667. **[Single choice]** [CM-EIP §11.4] What does a price decline accompanied by heavy volume indicate?
 
 - a. A neutral signal
 - b. A buying opportunity
@@ -8670,7 +10702,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 541. **[Single choice]** [CM-EIP §11.4] What might a rally developing on contracting volume signal?
+### 668. **[Single choice]** [CM-EIP §11.4] What might a rally developing on contracting volume signal?
 
 - a. A possible trend reversal
 - b. Increased buying interest
@@ -8686,7 +10718,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 542. **[Single choice]** [CM-EIP §11.5.1] What are the three movements in the Dow Theory?
+### 669. **[Single choice]** [CM-EIP §11.5.1] What are the three movements in the Dow Theory?
 
 - a. Opening, intraday and closing
 - b. Primary, secondary and daily fluctuations
@@ -8702,7 +10734,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 543. **[Single choice]** [CM-EIP §11.5.1] What proportion of the previous advance does the secondary movement typically retrace?
+### 670. **[Single choice]** [CM-EIP §11.5.1] What proportion of the previous advance does the secondary movement typically retrace?
 
 - a. The full amount
 - b. One-tenth to one-quarter
@@ -8718,7 +10750,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 544. **[Single choice]** [CM-EIP §11.5.1] When is a new primary trend confirmed under the Dow Theory?
+### 671. **[Single choice]** [CM-EIP §11.5.1] When is a new primary trend confirmed under the Dow Theory?
 
 - a. When volume increases
 - b. When the RSI crosses 70
@@ -8734,7 +10766,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 545. **[Single choice]** [CM-EIP §11.5.1] Which of the following is a weakness of the Dow Theory?
+### 672. **[Single choice]** [CM-EIP §11.5.1] Which of the following is a weakness of the Dow Theory?
 
 - a. It is slow in identifying a major trend and may be whiplashed
 - b. It is too fast to signal
@@ -8750,7 +10782,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 546. **[Single choice]** [CM-EIP §11.5.2] How are trend changes identified using a moving average line?
+### 673. **[Single choice]** [CM-EIP §11.5.2] How are trend changes identified using a moving average line?
 
 - a. By a change in the direction of the moving average
 - b. By a crossover between the moving average and the index itself
@@ -8766,7 +10798,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 547. **[Single choice]** [CM-EIP §11.5.2] Which moving average is normally used to identify long-term trends?
+### 674. **[Single choice]** [CM-EIP §11.5.2] Which moving average is normally used to identify long-term trends?
 
 - a. The 30-day
 - b. The 50-day
@@ -8782,7 +10814,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 548. **[Single choice]** [CM-EIP §11.5.3] What does an RSI reading above 70 indicate?
+### 675. **[Single choice]** [CM-EIP §11.5.3] What does an RSI reading above 70 indicate?
 
 - a. A neutral market
 - b. A trend reversal has occurred
@@ -8798,7 +10830,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 549. **[Single choice]** [CM-EIP §11.5.3] When is the RSI less useful?
+### 676. **[Single choice]** [CM-EIP §11.5.3] When is the RSI less useful?
 
 - a. When trends are steady and consistent, such as constant demand for a growth stock keeping its RSI persistently high
 - b. In a falling market
@@ -8814,7 +10846,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 550. **[Single choice]** [CM-EIP §11.6] What is the difference between reversal and continuation patterns?
+### 677. **[Single choice]** [CM-EIP §11.6] What is the difference between reversal and continuation patterns?
 
 - a. Reversal patterns indicate a pause; continuation patterns indicate a reversal
 - b. Reversal patterns indicate an important reversal in trend; continuation patterns suggest the market is only taking a pause before the existing trend resumes
@@ -8830,7 +10862,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 551. **[Single choice]** [CM-EIP §11.6.1] By how much must the price close below the neckline for a head and shoulders breakout to be confirmed?
+### 678. **[Single choice]** [CM-EIP §11.6.1] By how much must the price close below the neckline for a head and shoulders breakout to be confirmed?
 
 - a. 10% of the share price
 - b. 1% of the share price
@@ -8846,7 +10878,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 552. **[Single choice]** [CM-EIP §11.6.1] What does an inverse head and shoulders pattern indicate?
+### 679. **[Single choice]** [CM-EIP §11.6.1] What does an inverse head and shoulders pattern indicate?
 
 - a. A continuation of a downtrend
 - b. No change in trend
@@ -8862,7 +10894,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 553. **[Single choice]** [CM-EIP §11.6.2] What is the main feature of a double top?
+### 680. **[Single choice]** [CM-EIP §11.6.2] What is the main feature of a double top?
 
 - a. The second top forms with distinctly lower volume than the first
 - b. Both tops form on equal volume
@@ -8878,7 +10910,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 554. **[Single choice]** [CM-EIP §11.6.2] How does volume behave in a double bottom formation?
+### 681. **[Single choice]** [CM-EIP §11.6.2] How does volume behave in a double bottom formation?
 
 - a. The first bottom is dull and the second is heavy
 - b. The first bottom is accompanied by heavy volume, the second is dull, and volume increases significantly on the breakout
@@ -8894,7 +10926,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 555. **[Single choice]** [CM-EIP §11.6.3] What is assumed during the formation of a consolidation rectangle?
+### 682. **[Single choice]** [CM-EIP §11.6.3] What is assumed during the formation of a consolidation rectangle?
 
 - a. That the price will break upwards
 - b. That the trend will reverse
@@ -8910,7 +10942,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 556. **[Single choice]** [CM-EIP §11.6.4] Which triangle is a bullish indicator?
+### 683. **[Single choice]** [CM-EIP §11.6.4] Which triangle is a bullish indicator?
 
 - a. Descending triangle
 - b. All triangles
@@ -8926,7 +10958,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 557. **[Single choice]** [CM-EIP §11.6.4] How many points of contact form a triangle?
+### 684. **[Single choice]** [CM-EIP §11.6.4] How many points of contact form a triangle?
 
 - a. Four
 - b. Five
@@ -8942,7 +10974,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 558. **[Single choice]** [CM-EIP §11.6.5] What is the difference between a flag and a pennant?
+### 685. **[Single choice]** [CM-EIP §11.6.5] What is the difference between a flag and a pennant?
 
 - a. A flag is formed by converging lines; a pennant by parallel lines
 - b. A flag is formed by parallel lines; a pennant by converging lines
@@ -8958,7 +10990,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 559. **[Single choice]** [CM-EIP §11.6.5] How long can a flag take to form?
+### 686. **[Single choice]** [CM-EIP §11.6.5] How long can a flag take to form?
 
 - a. One to two years
 - b. One day
@@ -8974,7 +11006,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 560. **[Single choice]** [CM-EIP §11.6.6] What does a rising wedge usually indicate?
+### 687. **[Single choice]** [CM-EIP §11.6.6] What does a rising wedge usually indicate?
 
 - a. A market bottom
 - b. A neutral market
@@ -8990,7 +11022,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 561. **[Single choice]** [CM-EIP §11.6.6] What does a falling wedge represent?
+### 688. **[Single choice]** [CM-EIP §11.6.6] What does a falling wedge represent?
 
 - a. A temporary interruption of a rising trend
 - b. A market peak
@@ -9006,7 +11038,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 562. **[Single choice]** [CM-EIP §11.6.7] Where does a breakaway gap appear?
+### 689. **[Single choice]** [CM-EIP §11.6.7] Where does a breakaway gap appear?
 
 - a. In the middle of a move
 - b. At the beginning of a move, when price breaks out of a price pattern
@@ -9022,7 +11054,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 563. **[Single choice]** [CM-EIP §11.6.7] What is an exhaustion gap?
+### 690. **[Single choice]** [CM-EIP §11.6.7] What is an exhaustion gap?
 
 - a. A gap caused by a dividend
 - b. The first gap in a series
@@ -9038,7 +11070,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 564. **[Single choice]** [CM-EIP §11.6.7] Should a trading strategy rely on a gap being filled?
+### 691. **[Single choice]** [CM-EIP §11.6.7] Should a trading strategy rely on a gap being filled?
 
 - a. Yes, within one week
 - b. Only for daily gaps
@@ -9054,7 +11086,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 565. **[Single choice]** [CM-EIP §11.7] What pattern does the Elliott Wave Theory describe?
+### 692. **[Single choice]** [CM-EIP §11.7] What pattern does the Elliott Wave Theory describe?
 
 - a. A 5-wave advance and a 3-wave retreat
 - b. A single continuous wave
@@ -9070,7 +11102,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 566. **[Single choice]** [CM-EIP §11.7] What is the Golden Ratio exhibited by Elliott Wave patterns?
+### 693. **[Single choice]** [CM-EIP §11.7] What is the Golden Ratio exhibited by Elliott Wave patterns?
 
 - a. 1.000
 - b. 1.618
@@ -9086,7 +11118,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 567. **[Single choice]** [CM-EIP §11.8] What does quantitative analysis involve?
+### 694. **[Single choice]** [CM-EIP §11.8] What does quantitative analysis involve?
 
 - a. Reading financial statements
 - b. The abstraction of market reality into relations incorporated into a financial model
@@ -9102,7 +11134,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 568. **[Single choice]** [CM-EIP §11.8] What do quants examine beyond the first order of price change?
+### 695. **[Single choice]** [CM-EIP §11.8] What do quants examine beyond the first order of price change?
 
 - a. Only the bid-offer spread
 - b. Only the delta
@@ -9118,7 +11150,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 569. **[Single choice]** [CM-EIP §11.8] Which hedge fund is cited as a cautionary example of quantitative analysis failing?
+### 696. **[Single choice]** [CM-EIP §11.8] Which hedge fund is cited as a cautionary example of quantitative analysis failing?
 
 - a. Bridgewater Associates
 - b. Renaissance Technologies
@@ -9134,9 +11166,137 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
+### 697. **[Single choice]** [CM-EIP §11.1.2] A client asks her adviser why a technical analyst is recommending a share whose latest earnings missed forecasts and whose balance sheet looks weak. The analyst replies that the share's price has been making higher highs and higher lows on rising volume, and that its fair value is beside the point. Which statement best reflects the technical analyst's position?
+
+- a. The analyst's position is consistent with technical analysis: prices are determined only by supply and demand — affected by rational and irrational factors — and technical analysts study past price and volume to detect shifts in that balance, not to judge fair value.
+- b. The analyst is wrong to ignore fair value, because technical analysis values a security by discounting its future cash flows.
+- c. The analyst's position is consistent with technical analysis only if the higher highs are confirmed by both the industrial and transportation averages.
+- d. The analyst is wrong, because technical analysis assumes prices adjust instantly to new information, so a trend cannot persist after an earnings miss.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. The analyst's position is consistent with technical analysis: prices are determined only by supply and demand — affected by rational and irrational factors — and technical analysts study past price and volume to detect shifts in that balance, not to judge fair value.
+
+**Rationale:** Technical analysis forecasts price fluctuations from historical market data (price and volume); it holds that market value is determined only by supply and demand, which are affected by rational and irrational factors (hopes, fears, moods, guesses), and that trends persist. It is not concerned with a security's fair value — that is fundamental analysis. (C describes Dow Theory confirmation, not the general philosophy; D states the EMH view, the opposite of the technical assumption that information is priced gradually.)
+
+</details>
+
+### 698. **[Single choice]** [CM-EIP §11.1.3] A breakout rule published in a popular trading newsletter worked well for two years, then stopped producing excess returns just as thousands of retail traders began using it. A colleague blames the random walk theory. Which explanation best fits the guide?
+
+- a. The rule stopped working because prices follow a random walk, so past prices can never predict future prices — the only challenge the guide recognises.
+- b. The rule stopped working because the Efficient Market Hypothesis proves that prices adjust slowly to new information, leaving no trend to exploit.
+- c. The rule stopped working because chart reading is objective, so every trader reached the same conclusion at the same moment.
+- d. The rule was negated by its own popularity: when many participants act on the same rule at the same time, some act first and prices move quicker than expected, so only the earliest benefit and competition eventually negates the rule's value.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. The rule was negated by its own popularity: when many participants act on the same rule at the same time, some act first and prices move quicker than expected, so only the earliest benefit and competition eventually negates the rule's value.
+
+**Rationale:** The guide gives three challenges: the Efficient Market Hypothesis (prices adjust rapidly to new information), random walk theory (price movements independent over time), and the self-defeating popularity of a rule — many acting at once move prices faster than expected, so only the earliest benefit. Chart reading is subjective, not objective (C is backwards), and the EMH says prices adjust rapidly, not slowly (D is backwards).
+
+</details>
+
+### 699. **[Single choice]** [CM-EIP §11.2.3] A trader watches a share whose MACD (12,26,9) has just crossed and fallen below its signal line, while the share price sits close to the upper Bollinger Band (a 20-day simple moving average ± two standard deviations). What is the best interpretation?
+
+- a. Bullish momentum is building and the share is oversold.
+- b. The MACD cross is bullish, but the Bollinger Band position shows the share is oversold.
+- c. The MACD cross below the signal line is a bearish signal, and a price near the upper band suggests the market is overbought — both point to a possible trend reversal or price correction.
+- d. The MACD cross is meaningless because MACD uses only two time parameters, and Bollinger Bands are plotted at one standard deviation from the moving average.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. The MACD cross below the signal line is a bearish signal, and a price near the upper band suggests the market is overbought — both point to a possible trend reversal or price correction.
+
+**Rationale:** When the MACD crosses and falls below the signal line it is a bearish signal (possibly time to sell); crossing and rising above is bullish. MACD (12,26,9) depends on three EMA time parameters. Bollinger Bands are plotted at two standard deviations above and below (typically) a 20-day SMA; the closer prices move to the upper band, the more overbought the market, and an overbought market may be primed for a reversal or correction.
+
+</details>
+
+### 700. **[Single choice]** [CM-EIP §11.3] A share has bounced off S$4.00 four times in three months and has stalled at S$5.00 three times, each time on heavy selling. This week it closes at S$5.20 on volume twice its daily average. What is the best interpretation?
+
+- a. S$4.00 is the resistance level and S$5.00 is the support level, and the close at S$5.20 is a bearish breakout.
+- b. The move to S$5.20 is a breakout below support and is bearish, because any move through a level reverses the primary trend.
+- c. Support and resistance levels cannot be identified until a trend channel breaks, so no conclusion can be drawn from the S$4.00 and S$5.00 levels.
+- d. S$4.00 is the support level, where a substantial increase in demand is expected, and S$5.00 is the resistance level, where sellers take profits — the market "overhang". A breakout above resistance is bullish.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. S$4.00 is the support level, where a substantial increase in demand is expected, and S$5.00 is the resistance level, where sellers take profits — the market "overhang". A breakout above resistance is bullish.
+
+**Rationale:** A support level is a price range where a substantial increase in demand is expected (buyers who missed the opportunity earlier find prices attractive); a resistance level is where buyers refuse to pay higher prices while sellers are attracted to take profits — the supply "overhang". A movement through and beyond either level is a breakout: above resistance is bullish, below support is bearish. Here the share broke above the S$5.00 resistance on heavy volume, a bullish breakout.
+
+</details>
+
+### 701. **[Single choice]** [CM-EIP §11.5.3] A growth share rises 8% in a week on volume three times its daily average. Its RSI reads 68, and it has spent most of the past six months with an RSI between 65 and 75 while trending steadily higher. A junior analyst recommends selling immediately because the RSI is nearly overbought. What is the best response?
+
+- a. Sell immediately: any RSI above 60 is an overbought sell signal.
+- b. Do not sell on the RSI alone: the RSI is less useful when trends are steady and consistent — constant demand can keep a growth stock's RSI persistently high, and that should not be read as a sell signal. The rise on heavy volume is bullish, and 68 is still below the 70 overbought threshold.
+- c. Buy more: an RSI of 68 is an oversold signal, and heavy volume confirms the buying opportunity.
+- d. Do nothing: the RSI is only useful for surprises and shocks, so a reading of 68 in a steady trend proves the share is fairly valued.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Do not sell on the RSI alone: the RSI is less useful when trends are steady and consistent — constant demand can keep a growth stock's RSI persistently high, and that should not be read as a sell signal. The rise on heavy volume is bullish, and 68 is still below the 70 overbought threshold.
+
+**Rationale:** The RSI ranges from 0 to 100; above 70 is overbought, below 30 oversold. But the RSI is less useful when trends are steady and consistent: where constant demand keeps a growth stock's RSI persistently high, the level should not be read as a sell signal — instead look to accumulate when the RSI is not as high. A price rise on heavy volume is bullish. (A contrarian buys at an RSI of 20–30 and takes profit at 70–80; 68 is neither.)
+
+</details>
+
+### 702. **[Single choice]** [CM-EIP §11.6.1] A share forms a head and shoulders pattern at a market peak. The left shoulder tops at S$11.00 on heavy volume, the head peaks at S$12.00 on high volume, and the right shoulder tops at S$11.20 on noticeably less volume. The neckline is at S$10.00. The share then closes at S$9.65. What is the position, and what is the implied target?
+
+- a. The breakout is not confirmed, because confirmation requires a close 3% below the head, not the neckline; no target can be measured.
+- b. The pattern is a continuation pattern, so the prevailing uptrend should be assumed to continue.
+- c. The breakout is confirmed — the close at S$9.65 is 3.5% below the S$10.00 neckline, more than the 3% required — and the potential decline equals the head-to-neckline distance of S$2.00 projected downward from the neckline, giving a target of S$8.00.
+- d. The breakout is confirmed, but the target is S$10.00, because the price returns to the neckline after a breakout.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. The breakout is confirmed — the close at S$9.65 is 3.5% below the S$10.00 neckline, more than the 3% required — and the potential decline equals the head-to-neckline distance of S$2.00 projected downward from the neckline, giving a target of S$8.00.
+
+**Rationale:** Head and shoulders is a reversal pattern at a market peak: left shoulder on heavy volume, head higher than the left shoulder on high volume, right shoulder on less volume failing to reach the head. A breakout is confirmed if the price closes below the neckline by 3% of the share price: S$10.00 × 3% = S$0.30, so a close below S$9.70 confirms it — S$9.65 is 3.5% below. The potential magnitude of decline is the distance between the head and the neckline (S$12.00 − S$10.00 = S$2.00) projected downward from the neckline: S$10.00 − S$2.00 = S$8.00.
+
+</details>
+
+### 703. **[Single choice]** [CM-EIP §11.7] A technical analyst applying Elliott Wave Theory notes that a share index has just completed a five-wave advance from its low. She expects the next phase to be a three-wave retreat, with turning points often occurring at Fibonacci support levels. Which statement is correct?
+
+- a. Elliott Wave Theory, proposed by R.N. Elliott in 1938, holds that prices move in cycles of a 5-wave advance and a 3-wave retreat, exhibiting the Golden Ratio of 1.618, with turning points often at Fibonacci levels such as 61.8.
+- b. Elliott Wave Theory holds that prices move in cycles of a 3-wave advance and a 5-wave retreat, exhibiting the Golden Ratio of 0.618.
+- c. The Fibonacci series runs 0, 1, 2, 3, 5, 8, 13, 21, …, and the ratio of consecutive numbers approaches 2.718.
+- d. Elliott Wave Theory predicts that after a five-wave advance the market enters a five-wave advance of the same degree, with no retreat.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. Elliott Wave Theory, proposed by R.N. Elliott in 1938, holds that prices move in cycles of a 5-wave advance and a 3-wave retreat, exhibiting the Golden Ratio of 1.618, with turning points often at Fibonacci levels such as 61.8.
+
+**Rationale:** In 1938 R.N. Elliott proposed that prices move in cycles of waves and sub-sets of waves exhibiting the Golden Ratio, 1.618: each cycle comprises a 5-wave advance and a 3-wave retreat, and turning points are often at Fibonacci support and resistance levels (61.8, 161.8, and so on). The Fibonacci series is 0, 1, 1, 2, 3, 5, 8, 13, 21, …, each number the sum of the two preceding numbers, and the ratio of consecutive numbers (e.g. 21 ÷ 13) approaches 1.618 — not 0.618 or 2.718.
+
+</details>
+
+### 704. **[Single choice]** [CM-EIP §11.8] A hedge fund markets a new strategy as "mathematically proven — our model cannot lose money, because it is built on elegant statistical relationships." A risk manager objects, citing a famous failure. Which objection best reflects the guide's treatment of quantitative analysis?
+
+- a. Quantitative analysis is only about first-order price changes (delta), so any model that also uses second- and third-order derivatives is not quantitative analysis.
+- b. Quantitative analysis abstracts market reality into a financial model to identify price anomalies and arbitrage possibilities, and quants decompose price changes into second- and third-order derivatives — but Long Term Capital Management, a fund relying extensively on quantitative analysis, incurred huge losses despite the elegance and apparent mathematical robustness of its strategies, so elegance is no guarantee.
+- c. Quantitative analysis is used only in risk management, never in the front office, so a front-office trading model cannot be quantitative.
+- d. Quantitative analysis has no critics, and high frequency trading is unregulated because it relies on physical transmission speeds.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Quantitative analysis abstracts market reality into a financial model to identify price anomalies and arbitrage possibilities, and quants decompose price changes into second- and third-order derivatives — but Long Term Capital Management, a fund relying extensively on quantitative analysis, incurred huge losses despite the elegance and apparent mathematical robustness of its strategies, so elegance is no guarantee.
+
+**Rationale:** Quantitative analysis abstracts market reality (the economy, financial markets and their environment) into relations in a financial model, to identify price anomalies and arbitrage possibilities and to increase the speed of access to market information. It uses statistics and calculus; while less sophisticated traders look only at price changes, quants decompose them and look at second- and third-order derivatives, not just the first order (delta). Long Term Capital Management is the guide's cautionary example: huge losses despite elegant, apparently robust mathematics. High frequency trading is under intense scrutiny from regulators, and quants work in both the front office and risk management. ---
+
+</details>
+
 ## Chapter 12 — Case Studies
 
-### 570. **[Single choice]** [CM-EIP §12.1] An entity has S$5 million worth of net assets. Is it an accredited investor?
+### 705. **[Single choice]** [CM-EIP §12.1] An entity has S$5 million worth of net assets. Is it an accredited investor?
 
 - a. No, because an entity needs net assets exceeding S$10 million
 - b. Yes, because any entity with over S$1 million qualifies
@@ -9152,7 +11312,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 571. **[Single choice]** [CM-EIP §12.1] Which return objective is likely to be unique to an individual investor rather than an institutional investor?
+### 706. **[Single choice]** [CM-EIP §12.1] Which return objective is likely to be unique to an individual investor rather than an institutional investor?
 
 - a. Potential for higher yields
 - b. Regular savings to fund children's education
@@ -9168,7 +11328,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 572. **[Single choice]** [CM-EIP §12.1] Which statement about the difference between accredited and retail investors is INCORRECT?
+### 707. **[Single choice]** [CM-EIP §12.1] Which statement about the difference between accredited and retail investors is INCORRECT?
 
 - a. A retail investor is likely to be more risk averse than an accredited investor
 - b. An accredited investor can withstand a higher level of monetary risk
@@ -9184,7 +11344,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 573. **[Calculation]** [CM-EIP §12.2] Returns are 12% with probability 0.3, 8% with probability 0.5 and −6% with probability 0.2. What is the expected return?
+### 708. **[Calculation]** [CM-EIP §12.2] Returns are 12% with probability 0.3, 8% with probability 0.5 and −6% with probability 0.2. What is the expected return?
 
 - a. 5.30%
 - b. 6.40%
@@ -9200,7 +11360,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 574. **[Calculation]** [CM-EIP §12.2] Using the same returns with an expected return of 6.40%, what is the coefficient of variation?
+### 709. **[Calculation]** [CM-EIP §12.2] Using the same returns with an expected return of 6.40%, what is the coefficient of variation?
 
 - a. 0.47
 - b. 0.68
@@ -9216,7 +11376,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 575. **[Calculation]** [CM-EIP §12.2] An investor sets aside $200,000 for 30 years at an expected return of 6.4% with 2% inflation. What is the future value in today's dollars?
+### 710. **[Calculation]** [CM-EIP §12.2] An investor sets aside $200,000 for 30 years at an expected return of 6.4% with 2% inflation. What is the future value in today's dollars?
 
 - a. $709,264.72
 - b. $1,610,176.77
@@ -9232,7 +11392,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 576. **[Single choice]** [CM-EIP §12.3] Which of the following suggests a potential economic downturn?
+### 711. **[Single choice]** [CM-EIP §12.3] Which of the following suggests a potential economic downturn?
 
 - a. Average duration of unemployment is increasing
 - b. The 10-year T-bond spread over the Fed Funds rate is increasing
@@ -9248,7 +11408,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 577. **[Single choice]** [CM-EIP §12.3] A slowdown in the Chinese economy occurs with rising interest rates. Which asset classes are likely to do well?
+### 712. **[Single choice]** [CM-EIP §12.3] A slowdown in the Chinese economy occurs with rising interest rates. Which asset classes are likely to do well?
 
 - a. Defensive stocks and investment grade bonds
 - b. Cyclical stocks and high-yield bonds
@@ -9264,7 +11424,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 578. **[Single choice]** [CM-EIP §12.3] Uninformed fund managers reduced positions out of fear because news spread that many were doing likewise, and the selling triggered computer-driven strategies. What is the root cause of the price fall?
+### 713. **[Single choice]** [CM-EIP §12.3] Uninformed fund managers reduced positions out of fear because news spread that many were doing likewise, and the selling triggered computer-driven strategies. What is the root cause of the price fall?
 
 - a. Algorithmic trading
 - b. Herd instinct
@@ -9280,7 +11440,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 579. **[Calculation]** [CM-EIP §12.4] An investor buys IDR 100 billion of bonds at SGD/IDR 10,076.68, earning 6% while paying 1.5% on an SGD loan. If the exchange rate stays flat, what is the annual gain?
+### 714. **[Calculation]** [CM-EIP §12.4] An investor buys IDR 100 billion of bonds at SGD/IDR 10,076.68, earning 6% while paying 1.5% on an SGD loan. If the exchange rate stays flat, what is the annual gain?
 
 - a. SGD 9,923,903.51
 - b. SGD 148,858.55
@@ -9296,7 +11456,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 580. **[Calculation]** [CM-EIP §12.4] Using the same carry trade, if the IDR weakens 10% against the SGD over the year, what is the total gain?
+### 715. **[Calculation]** [CM-EIP §12.4] Using the same carry trade, if the IDR weakens 10% against the SGD over the year, what is the total gain?
 
 - a. −SGD 942,771.98
 - b. SGD 605,357.18
@@ -9312,7 +11472,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 581. **[Calculation]** [CM-EIP §12.4] If SGD/USD is 0.7 and USD/IDR is 13,086.60, how does the carry trade gain compare with the flat-rate scenario?
+### 716. **[Calculation]** [CM-EIP §12.4] If SGD/USD is 0.7 and USD/IDR is 13,086.60, how does the carry trade gain compare with the flat-rate scenario?
 
 - a. Higher gain
 - b. Insufficient information
@@ -9328,7 +11488,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 582. **[Calculation]** [CM-EIP §12.5] A stock trades at USD 40 with next-year EPS of USD 1.08. What is the prospective P/E, and why is it high?
+### 717. **[Calculation]** [CM-EIP §12.5] A stock trades at USD 40 with next-year EPS of USD 1.08. What is the prospective P/E, and why is it high?
 
 - a. 37.04, because the market has overvalued the stock
 - b. 37.04, because the market is factoring in growth potential
@@ -9344,7 +11504,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 583. **[Calculation]** [CM-EIP §12.5] EPS is 1.12 in FY18A and 5.81 in FY23F. What is the 5-year compounded annualised EPS growth rate?
+### 718. **[Calculation]** [CM-EIP §12.5] EPS is 1.12 in FY18A and 5.81 in FY23F. What is the 5-year compounded annualised EPS growth rate?
 
 - a. 31.57%
 - b. 38.99%
@@ -9360,7 +11520,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 584. **[Calculation]** [CM-EIP §12.5] A stock has a prospective P/E of 37.04 and a 5-year EPS growth rate of 38.99%. What is the PEG ratio and the recommendation?
+### 719. **[Calculation]** [CM-EIP §12.5] A stock has a prospective P/E of 37.04 and a 5-year EPS growth rate of 38.99%. What is the PEG ratio and the recommendation?
 
 - a. 0.92, buy
 - b. 0.92, sell
@@ -9376,7 +11536,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 585. **[Single choice]** [CM-EIP §12.6] Free cash flows to a levered firm should be discounted using:
+### 720. **[Single choice]** [CM-EIP §12.6] Free cash flows to a levered firm should be discounted using:
 
 - a. The cost of ordinary equity only
 - b. The cost of preferred equity only
@@ -9392,7 +11552,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 586. **[Single choice]** [CM-EIP §12.6] Which of the following is NOT part of estimating free cash flows to the firm?
+### 721. **[Single choice]** [CM-EIP §12.6] Which of the following is NOT part of estimating free cash flows to the firm?
 
 - a. Analysing historical ratios to make interest expense projections
 - b. Interviewing company management on revenue growth potential
@@ -9408,7 +11568,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 587. **[Multiple response]** [CM-EIP §12.6] Enterprise value can be calculated using which of the following? (Select all that apply)
+### 722. **[Multiple response]** [CM-EIP §12.6] Enterprise value can be calculated using which of the following? (Select all that apply)
 
 - a. The sum of the present values of the FCFFs for the projection period plus the terminal value
 - b. The sum of the present values of the FCFFs for the projection period plus the present value of the terminal value
@@ -9424,7 +11584,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 588. **[Single choice]** [CM-EIP §12.7] A 10-year 4% bond has 6 years left and a YTM of 6.0%. Why is it priced below face value?
+### 723. **[Single choice]** [CM-EIP §12.7] A 10-year 4% bond has 6 years left and a YTM of 6.0%. Why is it priced below face value?
 
 - a. Because it is callable
 - b. Because its YTM is higher than its coupon rate
@@ -9440,7 +11600,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 589. **[Single choice]** [CM-EIP §12.7] An investor insists on holding a bond to maturity. What should he be most concerned with?
+### 724. **[Single choice]** [CM-EIP §12.7] An investor insists on holding a bond to maturity. What should he be most concerned with?
 
 - a. That interest rates are decreasing
 - b. The coupon rate of the bond
@@ -9456,7 +11616,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 590. **[Single choice]** [CM-EIP §12.7] Interest rates are expected to rise. Which bond price is likely to decrease the most in percentage terms?
+### 725. **[Single choice]** [CM-EIP §12.7] Interest rates are expected to rise. Which bond price is likely to decrease the most in percentage terms?
 
 - a. The 10-year 6% callable bond with 5 years left
 - b. The 8% bond with 4 years left
@@ -9472,7 +11632,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 591. **[Multiple response]** [CM-EIP §12.8] An investor does not believe superior returns can be achieved through fundamental analysis. Which forms of market efficiency must he necessarily believe in? (Select all that apply)
+### 726. **[Multiple response]** [CM-EIP §12.8] An investor does not believe superior returns can be achieved through fundamental analysis. Which forms of market efficiency must he necessarily believe in? (Select all that apply)
 
 - a. Weak form
 - b. Semi-weak form
@@ -9488,7 +11648,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 592. **[Calculation]** [CM-EIP §12.8] A share has a beta of 1.2 and a past return of 9.5%. The risk-free rate is 3% and the market risk premium is 6%. What is Jensen's alpha?
+### 727. **[Calculation]** [CM-EIP §12.8] A share has a beta of 1.2 and a past return of 9.5%. The risk-free rate is 3% and the market risk premium is 6%. What is Jensen's alpha?
 
 - a. −2.9%
 - b. −0.7%
@@ -9504,7 +11664,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 593. **[Single choice]** [CM-EIP §12.8] A retiree needs $100,000 from a $500,000 actively managed portfolio in three months, is willing to risk only $100,000 in full, and needs income for 20 years. Which allocation best fits?
+### 728. **[Single choice]** [CM-EIP §12.8] A retiree needs $100,000 from a $500,000 actively managed portfolio in three months, is willing to risk only $100,000 in full, and needs income for 20 years. Which allocation best fits?
 
 - a. 20% money market, 10% T-bills, 50% long-term government bonds, 20% developed equities
 - b. 20% money market, 10% T-bills, 10% long-term government bonds, 10% high yield, 50% developed equities
@@ -9520,7 +11680,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 594. **[Calculation]** [CM-EIP §12.9] A warrant has a share price of $2.50, an exercise price of $1.50 and a conversion ratio of 1. What is its intrinsic value?
+### 729. **[Calculation]** [CM-EIP §12.9] A warrant has a share price of $2.50, an exercise price of $1.50 and a conversion ratio of 1. What is its intrinsic value?
 
 - a. $0
 - b. $1
@@ -9536,7 +11696,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 595. **[Calculation]** [CM-EIP §12.9] A warrant trades at $1.30 with an exercise price of $1.50 and a conversion ratio of 1. If the share price rises to $4.00, what is the minimum percentage gain on the warrant?
+### 730. **[Calculation]** [CM-EIP §12.9] A warrant trades at $1.30 with an exercise price of $1.50 and a conversion ratio of 1. If the share price rises to $4.00, what is the minimum percentage gain on the warrant?
 
 - a. Impossible to determine
 - b. 92.31%
@@ -9552,7 +11712,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 596. **[Single choice]** [CM-EIP §12.9] An investor wants to sell USD 50,000 for SGD. Quote A is USD/SGD 1.2500–1.2550 and Quote B is USD/SGD 1.2475–1.2515. Which rate is best?
+### 731. **[Single choice]** [CM-EIP §12.9] An investor wants to sell USD 50,000 for SGD. Quote A is USD/SGD 1.2500–1.2550 and Quote B is USD/SGD 1.2475–1.2515. Which rate is best?
 
 - a. 1.2475
 - b. 1.2515
@@ -9568,7 +11728,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 597. **[Multiple response]** [CM-EIP §12.10] Which features are common to unit trusts, business trusts and REITs? (Select all that apply)
+### 732. **[Multiple response]** [CM-EIP §12.10] Which features are common to unit trusts, business trusts and REITs? (Select all that apply)
 
 - a. They are established under a trust deed
 - b. They are exchange-traded
@@ -9584,7 +11744,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 598. **[Multiple response]** [CM-EIP §12.10] What are the main differences between business trusts and REITs? (Select all that apply)
+### 733. **[Multiple response]** [CM-EIP §12.10] What are the main differences between business trusts and REITs? (Select all that apply)
 
 - a. The trustee and manager are separate in a REIT but not in a business trust
 - b. Business trusts do not face investment restrictions, unlike REITs
@@ -9600,7 +11760,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 599. **[Single choice]** [CM-EIP §12.10] An investor wants a steady stream of income rather than trading gains. Which scheme best suits him?
+### 734. **[Single choice]** [CM-EIP §12.10] An investor wants a steady stream of income rather than trading gains. Which scheme best suits him?
 
 - a. A closed-end fund investing for capital appreciation
 - b. A unit trust described as an aggressive fund
@@ -9616,9 +11776,233 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
+### 735. **[Single choice]** [CM-EIP §12 — Case Studies] Priya Nair earns S$280,000 a year. Her net personal assets are S$2.4 million, including her residence, which is valued at S$1.3 million. She has no other financial-asset test information available. Applying the investor-classification framework, which statement is correct?
+
+- a. She is an accredited investor because her income exceeds S$300,000 a year.
+- b. She is an accredited investor because, with her residence capped at S$1 million, her net personal assets for the test are S$2.1 million — above the S$2 million threshold.
+- c. She is not an accredited investor, because her residence is worth more than S$1 million and must be excluded entirely from net personal assets.
+- d. She is an accredited investor because her net personal assets of S$2.4 million exceed the S$10 million entity threshold.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. She is an accredited investor because, with her residence capped at S$1 million, her net personal assets for the test are S$2.1 million — above the S$2 million threshold.
+
+**Rationale:** An individual is an accredited investor if net personal assets exceed S$2 million (with the residence capped at S$1 million), or financial assets exceed S$1 million, or income is at least S$300,000 in the preceding 12 months. Priya's income of S$280,000 is below S$300,000 (A is wrong). Her residence counts only up to S$1 million, so her net personal assets for the test are S$2.4m − (S$1.3m − S$1.0m) = S$2.1m, above S$2 million. The S$10 million test is for entities, not individuals (D is wrong).
+
+</details>
+
+### 736. **[Calculation]** [CM-EIP §12 — Case Studies] Daniel Koh, aged 40, considers investing in a fund with the following annual returns under different economic states: | State of economy | Probability | Return | |---|---|---| | Boom | 0.2 | 14% | | Normal | 0.6 | 7% | | Recession | 0.2 | −4% | What is the coefficient of variation of this investment?
+
+- a. 0.78
+- b. 0.85
+- c. 0.93
+- d. 1.24
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. 0.93
+
+**Rationale:** Expected return E(R) = Σ p·r = 0.2(14%) + 0.6(7%) + 0.2(−4%) = 2.8% + 4.2% − 0.8% = 6.2%. Variance σ² = Σ p·(r − E(R))² = 0.2(14 − 6.2)² + 0.6(7 − 6.2)² + 0.2(−4 − 6.2)² = 0.2(60.84) + 0.6(0.64) + 0.2(104.04) = 12.168 + 0.384 + 20.808 = 33.36. Standard deviation σ = √33.36 = 5.78%. Coefficient of variation CV = σ / E(R) = 5.78% / 6.2% = 0.93.
+
+</details>
+
+### 737. **[Single choice]** [CM-EIP §12 — Case Studies] Strategists expect the European economy to slow over the next year while the European Central Bank keeps raising interest rates to fight inflation. Which asset classes are likely to do well in that phase?
+
+- a. Cyclical stocks and high-yield bonds.
+- b. Cash and leveraged real estate.
+- c. Growth stocks and precious metals.
+- d. Defensive stocks and investment grade bonds.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Defensive stocks and investment grade bonds.
+
+**Rationale:** A slowdown with rising interest rates is characteristic of the late bull to early bear phase of the business cycle, in which defensive stocks and investment grade bonds are likely to do well. Cyclical stocks perform worse than the market when things turn down and high-yield issuers may default (A is the worst combination); real estate is typically leveraged and risky when rates are rising (B); growth stocks are less likely to meet growth expectations and may see P/E multiple contraction (C).
+
+</details>
+
+### 738. **[Single choice]** [CM-EIP §12 — Case Studies] A mid-cap stock falls 18% in a week with no new company information. The fund managers who sold first explain that they sold because they could not bear the thought of further losses on a position already down 12% — they say the pain of another loss outweighed any hope of an equal gain. Other managers then sold after seeing the first sales, and computer-driven strategies amplified the move. What is the root cause of the price fall?
+
+- a. Algorithmic trading, because computer-driven strategies executed most of the selling volume.
+- b. Herd instinct, because the later managers followed the crowd.
+- c. Cognitive bias, because the managers anchored on the original purchase price.
+- d. Loss aversion, because the first sellers were driven by the fear of further losses outweighing the prospect of an equal gain — that fear provided the original impetus, while the following and the algorithms only amplified it.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Loss aversion, because the first sellers were driven by the fear of further losses outweighing the prospect of an equal gain — that fear provided the original impetus, while the following and the algorithms only amplified it.
+
+**Rationale:** Loss aversion is the root cause here: the first sellers acted because the pain of a further loss outweighed the hope of an equivalent gain, with no new information and no independent analysis of value. Herd instinct (following the later sellers) and algorithmic trading may exacerbate a fall, but neither provided the original impetus in this scenario. There is no evidence the managers formed their conclusions through a faulty reasoning shortcut such as anchoring, so cognitive bias is not the root cause.
+
+</details>
+
+### 739. **[Calculation]** [CM-EIP §12 — Case Studies] An investor is tempted by THB 50 million of Thai government bonds. THB 1-year government bonds pay 5%, while Singapore banks charge 2% for investment-related loans. SGD/THB stands at 25.00. Ignoring bond price changes, what is the total gain in SGD if the exchange rate stays flat over the year?
+
+- a. SGD 100,000
+- b. SGD 40,000
+- c. SGD 60,000
+- d. SGD 140,000
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. SGD 60,000
+
+**Rationale:** The THB 50m purchase is funded by an SGD-equivalent loan of 50,000,000 / 25.00 = SGD 2,000,000. Annual interest expense is 2% × SGD 2,000,000 = SGD 40,000. Interest income is THB 2.5 million (5% of THB 50m), worth SGD 100,000 at the unchanged rate of 25.00. The face value converts back unchanged at SGD 2,000,000. Total gain = SGD 100,000 − SGD 40,000 = +SGD 60,000 — the pure interest pick-up of (5% − 2%) × SGD 2,000,000. (A counts only the interest income and forgets the funding cost; D adds the funding cost instead of subtracting it.)
+
+</details>
+
+### 740. **[Calculation]** [CM-EIP §12 — Case Studies] An investor is tempted by THB 50 million of Thai government bonds. THB 1-year government bonds pay 5%, while Singapore banks charge 2% for investment-related loans. SGD/THB stands at 25.00. Ignoring bond price changes, what is the total gain in SGD if the baht weakens against the SGD by 8% over the year?
+
+- a. −SGD 108,000
+- b. −SGD 160,000
+- c. SGD 60,000
+- d. SGD 92,000
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. −SGD 108,000
+
+**Rationale:** The THB 50m purchase is funded by an SGD-equivalent loan of 50,000,000 / 25.00 = SGD 2,000,000. Annual interest expense is 2% × SGD 2,000,000 = SGD 40,000. Interest income is THB 2.5 million (5% of THB 50m). With the baht weakening 8%, the conversion rate is 25.00 / 0.92 = 27.1739. SGD-equivalent interest income is 2,500,000 / 27.1739 = SGD 92,000. The face value converts back at 27.1739: 50,000,000 / 27.1739 = SGD 1,840,000. Total gain = (1,840,000 − 2,000,000) + (92,000 − 40,000) = −SGD 160,000 + SGD 52,000 = −SGD 108,000. The carry trade is not profitable: the interest pick-up is overwhelmed by the currency depreciation. (For reference, with a flat rate the gain would be (5% − 2%) × SGD 2,000,000 = +SGD 60,000.)
+
+</details>
+
+### 741. **[Calculation]** [CM-EIP §12 — Case Studies] Using the same THB 50 million carry trade (THB bonds at 5%, SGD loan at 2%, starting SGD/THB 25.00), suppose that in a year SGD/USD is 0.70 and USD/THB is 40.00. Ignoring bond price changes, what is the total gain in SGD?
+
+- a. +SGD 60,000
+- b. −SGD 165,000
+- c. −SGD 108,000
+- d. +SGD 165,000
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. −SGD 165,000
+
+**Rationale:** The cross rate is SGD/THB = 0.70 × 40.00 = 28.00 — the baht has weakened from 25.00 to 28.00 per SGD. The THB 50m face value converts back at 28.00: 50,000,000 / 28.00 = SGD 1,785,714. Interest income of THB 2.5 million converts at 28.00: 2,500,000 / 28.00 = SGD 89,286. Total proceeds are SGD 1,875,000 against the loan repayment of SGD 2,000,000 plus interest of SGD 40,000 = SGD 2,040,000. Total gain = 1,875,000 − 2,040,000 = −SGD 165,000: the currency loss overwhelms the interest pick-up. (A is the flat-rate gain; C is the gain if the baht weakens 8% to 27.1739; D is the same figure with the sign reversed.)
+
+</details>
+
+### 742. **[Calculation]** [CM-EIP §12 — Case Studies] A client is recommended Halcyon Robotics, whose shares trade at $60.00. Its EPS was $2.00 five years ago and is forecast at $4.50 in five years' time. Next year's EPS is forecast at $1.50. What is the prospective PEG ratio, and what action does it suggest?
+
+- a. PEG 0.95 — slightly undervalued, consider buying.
+- b. PEG 1.50 — fairly valued, hold.
+- c. PEG 2.27 — overvalued after accounting for growth, do not buy.
+- d. PEG 40.00 — the P/E alone shows the share is overvalued.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. PEG 2.27 — overvalued after accounting for growth, do not buy.
+
+**Rationale:** Prospective P/E = price / next-year EPS = $60.00 / $1.50 = 40.00x. Five-year compounded annualised EPS growth = [(4.50 / 2.00)^(1/5) − 1] × 100% = [2.25^0.2 − 1] × 100% = 17.61%. Prospective PEG = 40.00 / 17.61 = 2.27. A PEG well above 1 means the share is overvalued even after accounting for its expected growth, so the client should not buy on this measure. A high P/E alone does not prove overvaluation — it must be checked against growth with the PEG; here the check confirms overvaluation.
+
+</details>
+
+### 743. **[Calculation]** [CM-EIP §12 — Case Studies] A research team estimates a company's free cash flows to the firm (FCFF) as $100 million in Year 1, $110 million in Year 2 and $121 million in Year 3, with a terminal value of $1,500 million at the end of Year 3. The firm's weighted average cost of capital is 10%. What is the enterprise value?
+
+- a. $1,400 million
+- b. $1,510 million
+- c. $1,650 million
+- d. $1,831 million
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. $1,400 million
+
+**Rationale:** Free cash flows to a levered firm are discounted at the WACC, because capital comes from all sources. Enterprise value = PV of the FCFFs in the projection period + PV of the terminal value. PV Year 1 = 100 / 1.10 = $90.91m. PV Year 2 = 110 / 1.10² = 110 / 1.21 = $90.91m. PV Year 3 = 121 / 1.10³ = 121 / 1.331 = $90.91m. PV of terminal value = 1,500 / 1.331 = $1,126.97m. Enterprise value = 90.91 + 90.91 + 90.91 + 1,126.97 = $1,399.70m ≈ $1,400 million. ($1,831m is the undiscounted sum 100 + 110 + 121 + 1,500 — the error of failing to discount.)
+
+</details>
+
+### 744. **[Single choice]** [CM-EIP §12 — Case Studies] A client holds three USD bonds and the market expects interest rates to rise over the next year: | Bond | Maturity left | Coupon | Yield to maturity | |---|---|---|---| | Alpine Telecom: 10-year bond | 8 years | 3% | 5.0% | | Beacon Foods: 10-year bond | 5 years | 5% | 5.0% | | Coral Shipping: 10-year bond | 3 years | 7% | 6.0% | Which bond's price is likely to decrease the most in percentage terms, and why?
+
+- a. Coral Shipping, because it has the highest coupon and the shortest maturity.
+- b. Alpine Telecom, because it has the longest maturity (8 years) and the lowest coupon (3%), making it the most sensitive to interest-rate changes.
+- c. Beacon Foods, because its yield equals its coupon so it trades at par.
+- d. Coral Shipping, because its yield is below its coupon so it trades at a discount.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. Alpine Telecom, because it has the longest maturity (8 years) and the lowest coupon (3%), making it the most sensitive to interest-rate changes.
+
+**Rationale:** With rates expected to rise, bond prices are likely to fall, and the longest-maturity, lowest-coupon bond is the most sensitive to rate changes — here Alpine Telecom (8 years, 3%). Beacon Foods trades at par (YTM = coupon, 5.0%). Coral Shipping trades at a premium, not a discount, because its YTM (6.0%) is below its coupon (7.0%); a bond trades at a discount only when its YTM is higher than its coupon. Alpine also trades at a discount (5.0% > 3%), but the question is about rate sensitivity, where maturity and coupon decide it.
+
+</details>
+
+### 745. **[Single choice]** [CM-EIP §12 — Case Studies] Mrs Amelia Tan, a retiree, has $400,000 of investable assets she wishes to have managed actively. She must gift $60,000 from this portfolio six months from now to a university bursary fund. She is prepared to risk $80,000 of the $400,000 in full, and she hopes to fund part of her highly predictable annual expenses from this portfolio for the next fifteen years. Which portfolio best aligns with her objectives? | Asset class | Portfolio A | Portfolio B | Portfolio C | Portfolio D | |---|---|---|---|---| | Money market funds | 15% | 5% | 15% | 15% | | Treasury bills | 10% | 10% | 10% | 0% | | Long-term government bonds | 20% | 25% | 30% | 65% | | High-yield bonds | 25% | 30% | 5% | 0% | | Developed-market equities | 30% | 30% | 40% | 20% |
+
+- a. Portfolio A
+- b. Portfolio B
+- c. Portfolio C
+- d. Portfolio D
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** D. Portfolio D
+
+**Rationale:** Mrs Tan needs $60,000, which is 15% of her $400,000 portfolio, as a gift shortly, so she should allocate that to money market funds, the most liquid asset class — Portfolio B fails this with only 5%. She is willing to risk only $80,000, i.e. 20% of the portfolio, so the combined allocation to high-yield bonds and equities should not exceed 20%: Portfolio A has 55% and Portfolio C has 45% in those two classes, both too risky. Portfolio D is correct: 15% money market funds for the gift, an equity allocation that respects her risk budget (20% in equities, 0% in high-yield bonds), and a sufficiently high allocation to long-term government bonds (65%) so the coupons can fund her annual expenses.
+
+</details>
+
+### 746. **[Calculation]** [CM-EIP §12 — Case Studies] Ms Grace Ho is looking at the structured warrants of Merlion Marine, whose shares trade at $3.20 and whose warrants trade at $0.90. The warrants have a conversion ratio of 2:1 and an exercise price of $2.00. She also sold some USD-denominated ADRs and will receive USD 80,000, which she wants to convert to SGD. She has two quotes: Quote A: USD/SGD 1.3400 – 1.3450; Quote B: USD/SGD 1.3380 – 1.3420. If the share price rises to $5.00, what is her minimum percentage gain on the warrants, and at which rate does she sell her USD?
+
+- a. 66.67% at 1.3450
+- b. 150.00% at 1.3400
+- c. 66.67% at 1.3400
+- d. 150.00% at 1.3450
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** C. 66.67% at 1.3400
+
+**Rationale:** The warrant is in-the-money: intrinsic value = (3.20 − 2.00) / 2 = $0.60. If the share rises to $5.00, the warrant's intrinsic value is (5.00 − 2.00) / 2 = $1.50. Because the minimum value of the warrant is its intrinsic value, the minimum percentage gain is 1.50 / 0.90 − 1 = 66.67%. (The future warrant price is unknown, but only the future minimum price is needed.) For the FX conversion, the quotes give SGD per one USD (the base currency); the first rate is the price at which the market maker buys USD and the second is the price at which it sells USD. Ms Ho wants to sell USD, so the first (bid) rate of each quote applies, and the highest of those is best: 1.3400 from Quote A.
+
+</details>
+
+### 747. **[Single choice]** [CM-EIP §12 — Case Studies] Mr Samuel Goh has investable funds and is deciding between a property investment and a collective investment scheme. He is more interested in a steady stream of income than in large trading gains. Which vehicle is most likely to suit his need?
+
+- a. A REIT that focuses on neighbourhood retail malls.
+- b. A unit trust described as an aggressive growth fund.
+- c. A business trust comprising investments in shipping assets.
+- d. A business trust, because business trusts must distribute at least 90% of their annual income.
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** A. A REIT that focuses on neighbourhood retail malls.
+
+**Rationale:** A REIT typically distributes at least 90% of its annual income, and the cash flows from neighbourhood retail malls are comparatively stable, so it is the best fit for a steady income objective. An aggressive growth unit trust generates returns mainly from capital gains, not steady income. Cash flows from shipping assets are highly sensitive to economic fluctuations, and there is no mandatory minimum distribution for business trusts — the 90% distribution requirement applies to REITs, not business trusts, so D states the rule backwards.
+
+</details>
+
+### 748. **[Calculation]** [CM-EIP §12 — Case Studies] Daniel Koh invests $150,000 for 25 years in a fund with an expected return of 6.2% a year. Average long-term inflation is 2% a year. Assuming the expected return is the average return for the next twenty-five years, what is the size of his investment in today's dollars when the period ends?
+
+- a. $246,091
+- b. $411,339
+- c. $674,845
+- d. $419,550
+
+<details>
+<summary>Show answer</summary>
+
+**Answer:** B. $411,339
+
+**Rationale:** The real rate of return is (1 + 0.062) / (1 + 0.02) − 1 = 1.062 / 1.02 − 1 = 0.0412 = 4.12%. Future value in real (today's) dollars = $150,000 × (1.062 / 1.02)^25 = $150,000 × (1.04118)^25 = $411,339. (The nominal future value, $150,000 × 1.062^25 = $674,845, is the value in future dollars, not today's dollars; it ignores inflation. Simply subtracting inflation, 6.2% − 2% = 4.2%, gives $419,550 — the wrong real rate, because the Fisher relation divides, it does not subtract.) ---
+
+</details>
+
 ## Appendix A — Review Questions
 
-### 600. **[Single choice]** [CM-EIP Appendix A] An investment manager discovers the discount rate used in an NPV calculation was underestimated. What happens when the error is corrected?
+### 749. **[Single choice]** [CM-EIP Appendix A] An investment manager discovers the discount rate used in an NPV calculation was underestimated. What happens when the error is corrected?
 
 - a. NPV falls and IRR is unchanged
 - b. Both NPV and IRR fall
@@ -9634,7 +12018,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 601. **[Single choice]** [CM-EIP Appendix A] A portfolio has an expected return of 6% and a standard deviation of 12%, with normally distributed returns. The probability of a loss exceeding 6% is 16%. How often should such a loss be expected?
+### 750. **[Single choice]** [CM-EIP Appendix A] A portfolio has an expected return of 6% and a standard deviation of 12%, with normally distributed returns. The probability of a loss exceeding 6% is 16%. How often should such a loss be expected?
 
 - a. Once every 5–6 years
 - b. Once every 6–7 years
@@ -9650,7 +12034,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 602. **[Multiple response]** [CM-EIP Appendix A] Which statements about value at risk are TRUE? (Select all that apply)
+### 751. **[Multiple response]** [CM-EIP Appendix A] Which statements about value at risk are TRUE? (Select all that apply)
 
 - a. It is not applicable to bonds, shares and currencies
 - b. It measures and quantifies the minimum possible loss over a specific time within a confidence level
@@ -9666,7 +12050,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 603. **[Multiple response]** [CM-EIP Appendix A] Which of the following are forms of operational risk? (Select all that apply)
+### 752. **[Multiple response]** [CM-EIP Appendix A] Which of the following are forms of operational risk? (Select all that apply)
 
 - a. A flash crash caused by a massive erroneous sell order
 - b. Poor system infrastructure leading to technical disruptions
@@ -9682,7 +12066,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 604. **[Single choice]** [CM-EIP Appendix A] Which of the following is a leading indicator?
+### 753. **[Single choice]** [CM-EIP Appendix A] Which of the following is a leading indicator?
 
 - a. The average prime rate charged by banks
 - b. Average duration of unemployment
@@ -9698,7 +12082,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 605. **[Single choice]** [CM-EIP Appendix A] Spot USD/SGD is 1.2520 and the 30-day forward points are −10. What is the 30-day forward rate?
+### 754. **[Single choice]** [CM-EIP Appendix A] Spot USD/SGD is 1.2520 and the 30-day forward points are −10. What is the 30-day forward rate?
 
 - a. 1.2530
 - b. 1.2520
@@ -9714,7 +12098,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 606. **[Single choice]** [CM-EIP Appendix A] A company has current assets of $500,000 and current liabilities of $250,000. What is its current ratio?
+### 755. **[Single choice]** [CM-EIP Appendix A] A company has current assets of $500,000 and current liabilities of $250,000. What is its current ratio?
 
 - a. 2.0
 - b. 1.5
@@ -9730,7 +12114,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 607. **[Single choice]** [CM-EIP Appendix A] Which index weighting scheme automatically adjusts for bonus and rights issues?
+### 756. **[Single choice]** [CM-EIP Appendix A] Which index weighting scheme automatically adjusts for bonus and rights issues?
 
 - a. Geometric average
 - b. Value-weighted
@@ -9746,7 +12130,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 608. **[Single choice]** [CM-EIP Appendix A] Which of the following is NOT covered by the Singapore Deposit Insurance Scheme?
+### 757. **[Single choice]** [CM-EIP Appendix A] Which of the following is NOT covered by the Singapore Deposit Insurance Scheme?
 
 - a. A Singapore dollar savings account
 - b. A Singapore dollar fixed deposit
@@ -9762,7 +12146,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 609. **[Single choice]** [CM-EIP Appendix A] Which factor reduces a company warrant's price?
+### 758. **[Single choice]** [CM-EIP Appendix A] Which factor reduces a company warrant's price?
 
 - a. An increase in the remaining life of the warrant
 - b. An increase in the underlying share price
@@ -9780,7 +12164,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 ## Appendix B — Formulae Sheet
 
-### 610. **[Single choice]** [CM-EIP Appendix B] Which formula gives the coefficient of variation?
+### 759. **[Single choice]** [CM-EIP Appendix B] Which formula gives the coefficient of variation?
 
 - a. Standard deviation of returns / Expected rate of return
 - b. Expected rate of return / Standard deviation of returns
@@ -9796,7 +12180,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 611. **[Single choice]** [CM-EIP Appendix B] Which formula gives the taxable equivalent yield?
+### 760. **[Single choice]** [CM-EIP Appendix B] Which formula gives the taxable equivalent yield?
 
 - a. Tax-exempt yield × (1 − marginal tax rate)
 - b. Tax-exempt yield / (1 − marginal tax rate)
@@ -9812,7 +12196,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 612. **[Single choice]** [CM-EIP Appendix B] Which formula gives the approximate yield-to-maturity?
+### 761. **[Single choice]** [CM-EIP Appendix B] Which formula gives the approximate yield-to-maturity?
 
 - a. Annual interest payment / current market price
 - b. Annual interest payment / par value
@@ -9828,7 +12212,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 613. **[Single choice]** [CM-EIP Appendix B] Which formula gives the Sortino ratio?
+### 762. **[Single choice]** [CM-EIP Appendix B] Which formula gives the Sortino ratio?
 
 - a. αp / σp
 - b. (Rp − Rf) / σp
@@ -9844,7 +12228,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 614. **[Single choice]** [CM-EIP Appendix B] Which formula gives the gearing ratio of a warrant?
+### 763. **[Single choice]** [CM-EIP Appendix B] Which formula gives the gearing ratio of a warrant?
 
 - a. SP / (nWP)
 - b. (SP − EP) / n
@@ -9862,7 +12246,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 ## Appendix C — Essential Readings
 
-### 615. **[Single choice]** [CM-EIP Appendix C] How many items are on the essential readings list?
+### 764. **[Single choice]** [CM-EIP Appendix C] How many items are on the essential readings list?
 
 - a. Five
 - b. Seven
@@ -9878,7 +12262,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 616. **[Single choice]** [CM-EIP Appendix C] Which listed text is the only one covering technical analysis?
+### 765. **[Single choice]** [CM-EIP Appendix C] Which listed text is the only one covering technical analysis?
 
 - a. Essentials of Investments
 - b. Analysis of Investments and Management of Portfolios
@@ -9896,7 +12280,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 ## Appendix D — Glossary
 
-### 617. **[Single choice]** [CM-EIP Appendix D] What is the definition of a basis point?
+### 766. **[Single choice]** [CM-EIP Appendix D] What is the definition of a basis point?
 
 - a. 1% or 0.01
 - b. 0.001% or 0.00001
@@ -9912,7 +12296,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 618. **[Single choice]** [CM-EIP Appendix D] What is the definition of a blue chip company?
+### 767. **[Single choice]** [CM-EIP Appendix D] What is the definition of a blue chip company?
 
 - a. A company known for quality, reliability and the ability to weather downturns and operate profitably in adverse conditions
 - b. A company listed on a secondary board
@@ -9928,7 +12312,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 619. **[Single choice]** [CM-EIP Appendix D] What is the definition of a call market?
+### 768. **[Single choice]** [CM-EIP Appendix D] What is the definition of a call market?
 
 - a. A market where trading is continuous
 - b. A market where trades can be arranged only when the market is called, usually once a day
@@ -9946,7 +12330,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 ## Exam method and final revision checklist
 
-### 620. **[Calculation]** [CM-EIP Exam method] The CM-EIP paper has 90 questions in 150 minutes. How many seconds per question does that allow, and how many correct answers are needed to pass at 70%?
+### 769. **[Calculation]** [CM-EIP Exam method] The CM-EIP paper has 90 questions in 150 minutes. How many seconds per question does that allow, and how many correct answers are needed to pass at 70%?
 
 - a. 100 seconds; 68 correct
 - b. 120 seconds; 70 correct
@@ -9962,7 +12346,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 621. **[Single choice]** [CM-EIP Exam method] Why should a candidate never leave a blank answer in the CM-EIP paper?
+### 770. **[Single choice]** [CM-EIP Exam method] Why should a candidate never leave a blank answer in the CM-EIP paper?
 
 - a. Because the system rejects incomplete papers
 - b. Because blanks are marked as wrong and also reduce the pass mark
@@ -9978,7 +12362,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 622. **[Single choice]** [CM-EIP Exam method] Which day-count convention applies to Singapore Government Securities in the CM-EIP examination?
+### 771. **[Single choice]** [CM-EIP Exam method] Which day-count convention applies to Singapore Government Securities in the CM-EIP examination?
 
 - a. 365 days
 - b. Actual/actual
@@ -9994,7 +12378,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 623. **[Single choice]** [CM-EIP Exam method] A candidate is told the formulae sheet is provided in the examination. What skill should the final revision therefore target?
+### 772. **[Single choice]** [CM-EIP Exam method] A candidate is told the formulae sheet is provided in the examination. What skill should the final revision therefore target?
 
 - a. Memorising every formula verbatim
 - b. Retrieval — being able to locate any formula within seconds
@@ -10010,7 +12394,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 624. **[Single choice]** [CM-EIP Exam method] A candidate carries over the 75% pass mark from FMRP or RES 12B. What is the error?
+### 773. **[Single choice]** [CM-EIP Exam method] A candidate carries over the 75% pass mark from FMRP or RES 12B. What is the error?
 
 - a. The CM-EIP pass mark is 80%
 - b. None — all three papers share a 75% pass mark
@@ -10026,7 +12410,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 625. **[Single choice]** [CM-EIP Exam method] How are the case studies weighted in the CM-EIP paper?
+### 774. **[Single choice]** [CM-EIP Exam method] How are the case studies weighted in the CM-EIP paper?
 
 - a. There are 6 case studies carrying 18 questions
 - b. There are no case studies
@@ -10042,7 +12426,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 626. **[Single choice]** [CM-EIP Exam method] A calculation question is consuming time and the candidate has two minutes invested. What is the recommended action?
+### 775. **[Single choice]** [CM-EIP Exam method] A calculation question is consuming time and the candidate has two minutes invested. What is the recommended action?
 
 - a. Mark it, move on, and return on a second pass
 - b. Guess immediately and move on
@@ -10058,7 +12442,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 627. **[Single choice]** [CM-EIP Exam method] What should a candidate note first when reading a case study?
+### 776. **[Single choice]** [CM-EIP Exam method] What should a candidate note first when reading a case study?
 
 - a. The names of the parties
 - b. The client's objective, horizon, risk tolerance and any constraint
@@ -10074,7 +12458,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 628. **[Single choice]** [CM-EIP Exam method] How should a multiple-response question be approached?
+### 777. **[Single choice]** [CM-EIP Exam method] How should a multiple-response question be approached?
 
 - a. Select all options if any one is clearly correct
 - b. Look for a pattern in the letter combinations
@@ -10090,7 +12474,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 629. **[Single choice]** [CM-EIP Exam method] Which pair of distinctions is described as deciding the most marks?
+### 778. **[Single choice]** [CM-EIP Exam method] Which pair of distinctions is described as deciding the most marks?
 
 - a. Primary versus secondary market, and dealer versus broker
 - b. Duration versus convexity, and CML versus SML

@@ -164,7 +164,31 @@ export const EXAMS = [
     guideDir: 'notes/cmeip/guide',
     stub: 'notes/cmeip/CMEIP.md',
     guideIntroTitle: 'Introduction and exam orientation',
-    expectedQuestions: 629,
+    expectedQuestions: 778,
+    // The learning-objective quiz: a fixed 149-question set, not a sample.
+    // `append-questions.mjs` groups extension questions by chapter and numbers
+    // them sequentially, so the LO questions — appended last in the extension
+    // array, in LO order — sit at the end of each chapter group: one
+    // contiguous range per chapter, in LO order. The ranges below are those
+    // bank numbers; `build-banks.mjs` resolves them to question ids. Re-derive
+    // them (e.g. from notes/cmeip/CMEIP_LO_QUIZ.md) if extension questions are
+    // ever inserted before them. Chapter 12 items are tagged
+    // 'CM-EIP §12 — Case Studies' (no dotted number) so they do not join the
+    // §12.x triples the mock exam's Section 2 draws whole.
+    loQuiz: [
+      { start: 29, end: 39 }, // Q1–Q11 (Ch 1)
+      { start: 81, end: 87 }, // Q12–Q18 (Ch 2)
+      { start: 131, end: 136 }, // Q19–Q24 (Ch 3)
+      { start: 179, end: 188 }, // Q25–Q34 (Ch 4)
+      { start: 229, end: 239 }, // Q35–Q45 (Ch 5)
+      { start: 307, end: 315 }, // Q46–Q54 (Ch 6)
+      { start: 397, end: 422 }, // Q55–Q80 (Ch 7)
+      { start: 496, end: 522 }, // Q81–Q107 (Ch 8)
+      { start: 607, end: 621 }, // Q108–Q122 (Ch 9)
+      { start: 646, end: 650 }, // Q123–Q127 (Ch 10)
+      { start: 697, end: 704 }, // Q128–Q135 (Ch 11)
+      { start: 735, end: 748 }, // Q136–Q149 (Ch 12)
+    ],
     realExam: {
       questions: 90,
       minutes: 150,
