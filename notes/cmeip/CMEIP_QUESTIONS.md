@@ -5065,7 +5065,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 ### 316. **[Single choice]** [CM-EIP §7.1] Why was keeping excessive cash from 2008 to 2017 non-optimal?
 
 - a. Because interest rates were high
-- b. Because cash was illegal to hold
+- b. Because cash earned a higher return than equities over the period
 - c. Because of opportunity costs and loss of purchasing power
 - d. Because deposit insurance was withdrawn
 
@@ -5706,7 +5706,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 - a. Because it believes the main investors who would buy its bonds know its business and history
 - b. Because unrated bonds pay lower yields
-- c. Because ratings are illegal in Asia
+- c. Because unrated bonds are exempt from disclosure requirements
 - d. Because rating agencies refuse to rate Asian companies
 
 <details>
@@ -6202,7 +6202,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 - a. Liquidity preference theory
 - b. Market segmentation theory
-- c. Purchasing power parity
+- c. Preferred habitat theory
 - d. Expectations theory
 
 <details>
@@ -6234,7 +6234,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 - a. Liquidity preference theory
 - b. Market segmentation theory
-- c. Quantity theory
+- c. Term premium theory
 - d. Expectations theory
 
 <details>
@@ -6829,7 +6829,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 - a. Because the history of insider trading suggests inside information does provide an advantage
 - b. Because technical analysis always works
 - c. Because prices never adjust
-- d. Because markets are perfectly efficient
+- d. Because insider trading is legal in most markets
 
 <details>
 <summary>Show answer</summary>
@@ -7005,7 +7005,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 - a. Risk is eliminated
 - b. Risk is reduced but not eliminated
 - c. There is no reduction in portfolio risk; it is the weighted average of the individual risks
-- d. Risk becomes zero
+- d. Risk falls to the level of the less risky security
 
 <details>
 <summary>Show answer</summary>
@@ -7386,7 +7386,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 ### 461. **[Single choice]** [CM-EIP §8.5.2] Why should objectives, constraints and strategy be stated in a written document?
 
-- a. Because regulators require it
+- a. Because it removes the need to review the portfolio regularly
 - b. Because a well-drafted investment policy provides discipline, minimising whipsaw reactions to temporary price swings
 - c. Because it reduces fees
 - d. Because it guarantees returns
@@ -8446,7 +8446,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 - a. An arbitrageur sells the ETF shares and buys the underlying portfolio of securities
 - b. An arbitrageur buys the ETF shares and sells the underlying portfolio
-- c. Nothing happens
+- c. The fund manager buys back ETF shares to close the gap
 - d. The ETF is delisted
 
 <details>
@@ -8511,7 +8511,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 - a. Cash or other securities equivalent to about 105% of the stocks' value
 - b. A guarantee from the exchange
 - c. A government bond at 50% of value
-- d. Nothing
+- d. A personal guarantee from the borrower
 
 <details>
 <summary>Show answer</summary>
@@ -8701,7 +8701,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 ### 543. **[Single choice]** [CM-EIP §9.3.4] Who holds a unit trust's cash, shares and other investment assets?
 
 - a. The distributor
-- b. The custodian bank's shareholders
+- b. The fund's auditors
 - c. The fund manager
 - d. The trustee
 
@@ -9517,7 +9517,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 ### 594. **[Single choice]** [CM-EIP §9.10.1] How is an immediate annuity purchased?
 
 - a. With a lump sum, a single premium
-- b. With a combination of premiums and equity
+- b. With a lump sum plus regular top-up premiums
 - c. It cannot be purchased directly
 - d. With periodic premiums only
 
@@ -10015,7 +10015,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 ### 625. **[Single choice]** [CM-EIP §10.1.2] Which of the following is a difference between company warrants and structured warrants?
 
 - a. Company warrants are call only; structured warrants can be calls or puts
-- b. Company warrants are cash-settled; structured warrants deliver shares
+- b. Company warrants are issued by the stock exchange; structured warrants are issued by listed companies
 - c. Company warrants have shorter maturities
 - d. Company warrants can be puts; structured warrants are calls only
 
@@ -10305,7 +10305,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 - a. Because of interest savings from the lower capital needed to buy warrants compared with an equivalent long stock position
 - b. Because volatility rises
 - c. Because dividends fall
-- d. Because the exercise price falls
+- d. Because higher interest rates increase the dividend yield on the underlying shares
 
 <details>
 <summary>Show answer</summary>
@@ -10464,7 +10464,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 ### 653. **[Single choice]** [CM-EIP §11.1.2] Why do technical analysts believe prices exhibit trends that persist over long periods?
 
-- a. Because markets are perfectly efficient
+- a. Because chart patterns repeat exactly at fixed intervals
 - b. Because new information is priced by the market over a period of time rather than at one point, so prices adjust gradually
 - c. Because all investors have the same information
 - d. Because prices are random
@@ -10545,7 +10545,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 ### 658. **[Single choice]** [CM-EIP §11.2.2] What does it mean if the index is rising while the advance-decline line is falling?
 
 - a. Volume is increasing
-- b. The market is technically strong
+- b. The advance-decline line confirms the index rally, signalling broad participation
 - c. Most shares are not participating in the rising market, indicating a market peak
 - d. The market is oversold
 
@@ -10578,7 +10578,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 - a. A bearish signal indicating it may be time to sell
 - b. A neutral signal
-- c. No signal
+- c. A signal that momentum has turned positive
 - d. A bullish signal
 
 <details>
@@ -10608,10 +10608,10 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 ### 662. **[Single choice]** [CM-EIP §11.2.5] What does it mean when prices move close to the upper Bollinger Band?
 
-- a. Volatility has fallen to zero
+- a. Volatility has fallen to a very low level
 - b. The market is oversold
 - c. The market is more overbought and may be primed for a trend reversal or price correction
-- d. The market is fairly valued
+- d. The market is primed for a strong upward breakout
 
 <details>
 <summary>Show answer</summary>
@@ -10675,7 +10675,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 - a. A continuation of the uptrend
 - b. A bullish signal
 - c. A bearish signal indicating a reversal of the uptrend
-- d. A neutral signal
+- d. A signal that support has held and prices will rebound
 
 <details>
 <summary>Show answer</summary>
@@ -10688,7 +10688,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 ### 667. **[Single choice]** [CM-EIP §11.4] What does a price decline accompanied by heavy volume indicate?
 
-- a. A neutral signal
+- a. A sign that selling pressure is exhausted and a rebound is due
 - b. A buying opportunity
 - c. A bullish signal
 - d. A very bearish signal reflecting a strong and widespread desire to sell
@@ -10816,7 +10816,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 ### 675. **[Single choice]** [CM-EIP §11.5.3] What does an RSI reading above 70 indicate?
 
-- a. A neutral market
+- a. A strong uptrend that is likely to continue
 - b. A trend reversal has occurred
 - c. An oversold condition
 - d. An overbought condition
@@ -10931,7 +10931,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 - a. That the price will break upwards
 - b. That the trend will reverse
 - c. That the prevailing trend will continue until proven otherwise
-- d. That volume will fall to zero
+- d. That volume will rise sharply while the rectangle forms
 
 <details>
 <summary>Show answer</summary>
@@ -11008,7 +11008,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 ### 687. **[Single choice]** [CM-EIP §11.6.6] What does a rising wedge usually indicate?
 
-- a. A market bottom
+- a. A bullish continuation pattern
 - b. A neutral market
 - c. A continuation of an uptrend
 - d. A bear market rally, with prices usually falling very sharply after completion
@@ -11684,7 +11684,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 - a. $0
 - b. $1
-- c. $1.50
+- c. $0.75
 - d. $2.50
 
 <details>
@@ -12071,14 +12071,14 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 - a. The average prime rate charged by banks
 - b. Average duration of unemployment
 - c. The 10-year T-bond spread over the Fed Funds rate
-- d. Nonfarm payroll employment
+- d. The unemployment rate
 
 <details>
 <summary>Show answer</summary>
 
 **Answer:** C. The 10-year T-bond spread over the Fed Funds rate
 
-**Rationale:** The 10-year spread is one of the ten Composite Leading Economic Index components. Average duration of unemployment and the average prime rate are lagging indicators; nonfarm payrolls are coincident.
+**Rationale:** The 10-year spread is one of the ten Composite Leading Economic Index components. Average duration of unemployment, the average prime rate and the unemployment rate are lagging indicators.
 
 </details>
 
@@ -12086,7 +12086,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 - a. 1.2530
 - b. 1.2520
-- c. 1.2500
+- c. 1.2490
 - d. 1.2510
 
 <details>
