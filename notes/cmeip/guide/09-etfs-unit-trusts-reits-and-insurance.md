@@ -322,7 +322,9 @@ For traditional funds with a **relative return** target, the benchmark is usuall
 
 For funds sold OTC, the fund's value is the **NAV**:
 
-$$\text{NAV} = \frac{\text{Fund securities} + \text{Other fund assets} - \text{Liabilities (including management fees)} - \text{Debt used for leveraging}}{\text{Total fund units outstanding}}$$
+$$
+\text{NAV} = \frac{\text{Fund securities} + \text{Other fund assets} - \text{Liabilities (including management fees)} - \text{Debt used for leveraging}}{\text{Total fund units outstanding}}
+$$
 
 For open-end funds the outstanding units change with issuances and redemptions. NAV rises and falls with the value of investments and should be reflected **net of management fees**.
 
@@ -710,23 +712,31 @@ Examples of **non-insurance annuities** include monthly payments on home mortgag
 
 **Present value of an annuity:**
 
-$$PV_{\text{annuity}} = C \times \left[ \frac{1 - (1+i)^{-n}}{i} \right]$$
+$$
+PV_{\text{annuity}} = C \times \left[ \frac{1 - (1+i)^{-n}}{i} \right]
+$$
 
 where $$C$$ is the cash flow per period, $$i$$ the interest rate and $$n$$ the number of payments.
 
 **Worked example.** **$1,000** paid every year for **5 years**, at an annual discount rate of **3%**:
 
-$$PV = 1{,}000 \times \left[ \frac{1 - (1.03)^{-5}}{0.03} \right] = \$4{,}579.71$$
+$$
+PV = 1{,}000 \times \left[ \frac{1 - (1.03)^{-5}}{0.03} \right] = \$4{,}579.71
+$$
 
 Calculator: **PMT = −1,000**, **N = 5**, **I/Y = 3**; compute PV.
 
 **Future value of an annuity:**
 
-$$FV_{\text{annuity}} = C \times \left[ \frac{(1+i)^n - 1}{i} \right]$$
+$$
+FV_{\text{annuity}} = C \times \left[ \frac{(1+i)^n - 1}{i} \right]
+$$
 
 **Worked example.** **$1,000** paid every year for **8 years**, at **5%**:
 
-$$FV = 1{,}000 \times \left[ \frac{(1.05)^8 - 1}{0.05} \right] = \$9{,}549.11$$
+$$
+FV = 1{,}000 \times \left[ \frac{(1.05)^8 - 1}{0.05} \right] = \$9{,}549.11
+$$
 
 Calculator: **PMT = −1,000**, **N = 8**, **I/Y = 5**; compute FV.
 

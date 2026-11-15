@@ -194,7 +194,9 @@ The signal is **stronger** if:
 
 The RSI is a **momentum indicator** measuring the degree of buying or selling interest in a security. Developed by **J. Welles Wilder**, it measures the **speed of change** of price movements.
 
-$$RSI = 100 - \left[ \frac{100}{1 + \dfrac{\text{Average of upward price change}}{\text{Average of downward price change}}} \right]$$
+$$
+RSI = 100 - \left[ \frac{100}{1 + \dfrac{\text{Average of upward price change}}{\text{Average of downward price change}}} \right]
+$$
 
 The index ranges from **zero to 100**. An RSI **above 70** is considered **overbought**; below **30** signals an **oversold** condition.
 

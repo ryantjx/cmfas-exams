@@ -86,7 +86,9 @@ Option (a) is correct: retail investors usually trade in small amounts and less 
 
 The expected return is the probability-weighted average of the returns across economic states:
 
-$$E(R) = 0.3(0.12) + 0.5(0.08) + 0.2(-0.06) = 0.0640 = 6.40\%$$
+$$
+E(R) = 0.3(0.12) + 0.5(0.08) + 0.2(-0.06) = 0.0640 = 6.40\%
+$$
 
 ### Question 2 — The coefficient of variation associated with this investment is:
 
@@ -99,11 +101,17 @@ $$E(R) = 0.3(0.12) + 0.5(0.08) + 0.2(-0.06) = 0.0640 = 6.40\%$$
 
 Variance is the probability-weighted average of the squared deviations from the mean:
 
-$$\sigma^2 = 0.3(0.12 - 0.064)^2 + 0.5(0.08 - 0.064)^2 + 0.2(-0.06 - 0.064)^2 = 0.004144$$
+$$
+\sigma^2 = 0.3(0.12 - 0.064)^2 + 0.5(0.08 - 0.064)^2 + 0.2(-0.06 - 0.064)^2 = 0.004144
+$$
 
-$$\sigma = \sqrt{0.004144} = 0.064374 = 6.4374\%$$
+$$
+\sigma = \sqrt{0.004144} = 0.064374 = 6.4374\%
+$$
 
-$$CV = \frac{0.064374}{0.064} = 1.01$$
+$$
+CV = \frac{0.064374}{0.064} = 1.01
+$$
 
 ### Question 3 — Assuming the expected return is the average return for the next thirty years, the size of Edna's nest egg when she turns 65, in today's dollars, is:
 
@@ -116,11 +124,15 @@ $$CV = \frac{0.064374}{0.064} = 1.01$$
 
 With expected inflation of 2%, the real rate of return is:
 
-$$\frac{1 + 0.064}{1 + 0.02} - 1 = 0.0431 = 4.31\%$$
+$$
+\frac{1 + 0.064}{1 + 0.02} - 1 = 0.0431 = 4.31\%
+$$
 
 Future value in real terms:
 
-$$200{,}000 \times (1.0431)^{30} = \$709{,}264.72$$
+$$
+200{,}000 \times (1.0431)^{30} = \$709{,}264.72
+$$
 
 ## 12.3 Key Drivers of Market Movement and Assets
 
@@ -176,11 +188,15 @@ The managers simply followed the crowd without exercising independent decision-m
 
 With a flat rate there is no currency gain or loss, so work in SGD. The IDR 100bn purchase is funded by an SGD-equivalent loan:
 
-$$\frac{100{,}000{,}000{,}000}{10{,}076.68} = \text{SGD } 9{,}923{,}903.51$$
+$$
+\frac{100{,}000{,}000{,}000}{10{,}076.68} = \text{SGD } 9{,}923{,}903.51
+$$
 
 The investor earns 6% on the bonds and pays 1.5% on the loan, so the annual gain is:
 
-$$(0.06 - 0.015) \times 9{,}923{,}903.51 = \text{SGD } 446{,}575.66$$
+$$
+(0.06 - 0.015) \times 9{,}923{,}903.51 = \text{SGD } 446{,}575.66
+$$
 
 ### Question 2 — What is the total gain if the IDR weakens against the SGD by 10% over the year?
 
@@ -193,23 +209,33 @@ $$(0.06 - 0.015) \times 9{,}923{,}903.51 = \text{SGD } 446{,}575.66$$
 
 The loan is **SGD 9,923,903.51**, so annual interest expense is:
 
-$$0.015 \times 9{,}923{,}903.51 = \text{SGD } 148{,}858.55$$
+$$
+0.015 \times 9{,}923{,}903.51 = \text{SGD } 148{,}858.55
+$$
 
 Interest income is **IDR 6 billion** (6% of IDR 100bn). With the IDR weakening 10%, the conversion rate is:
 
-$$\frac{10{,}076.68}{0.9} = 11{,}196.31$$
+$$
+\frac{10{,}076.68}{0.9} = 11{,}196.31
+$$
 
 SGD-equivalent interest income:
 
-$$\frac{6{,}000{,}000{,}000}{11{,}196.31} = \text{SGD } 535{,}890.84$$
+$$
+\frac{6{,}000{,}000{,}000}{11{,}196.31} = \text{SGD } 535{,}890.84
+$$
 
 The face value of the bonds converts back at 11,196.31:
 
-$$\frac{100{,}000{,}000{,}000}{11{,}196.31} = \text{SGD } 8{,}931{,}514.04$$
+$$
+\frac{100{,}000{,}000{,}000}{11{,}196.31} = \text{SGD } 8{,}931{,}514.04
+$$
 
 Total gain:
 
-$$(8{,}931{,}514.04 - 9{,}923{,}903.51) + (535{,}890.84 - 148{,}858.55) = -\text{SGD } 605{,}357.18$$
+$$
+(8{,}931{,}514.04 - 9{,}923{,}903.51) + (535{,}890.84 - 148{,}858.55) = -\text{SGD } 605{,}357.18
+$$
 
 The interest income exceeds the borrowing expense, but the unfavourable FX movement has depreciated both the investment and the income. **The carry trade is not profitable.**
 
@@ -224,7 +250,9 @@ The interest income exceeds the borrowing expense, but the unfavourable FX movem
 
 The SGD/IDR cross rate is:
 
-$$0.7 \times 13{,}086.60 = 9{,}160.62$$
+$$
+0.7 \times 13{,}086.60 = 9{,}160.62
+$$
 
 Since **9,160.62 is lower than 10,076.68**, the IDR has **appreciated** against the SGD. The IDR-denominated investment and income appreciate in value, so the gain is **higher** than the SGD 446,575.66 in Question 1.
 
@@ -250,7 +278,9 @@ Since **9,160.62 is lower than 10,076.68**, the IDR has **appreciated** against 
 
 **Answer: d.**
 
-$$\text{Prospective P/E} = \frac{40}{1.08} = 37.04x$$
+$$
+\text{Prospective P/E} = \frac{40}{1.08} = 37.04x
+$$
 
 P/E ratios can be high because of strong expected future growth, so the high prospective P/E is likely because investors are factoring in Mvidia's **high double-digit long-term growth potential**.
 
@@ -263,7 +293,9 @@ P/E ratios can be high because of strong expected future growth, so the high pro
 
 **Answer: b.**
 
-$$\text{5-year EPS growth} = \left[ \left( \frac{5.81}{1.12} \right)^{1/5} - 1 \right] \times 100\% = 38.99\%$$
+$$
+\text{5-year EPS growth} = \left[ \left( \frac{5.81}{1.12} \right)^{1/5} - 1 \right] \times 100\% = 38.99\%
+$$
 
 ### Question 3 — What recommendation would you give using Mvidia's prospective PEG ratio?
 
@@ -274,7 +306,9 @@ $$\text{5-year EPS growth} = \left[ \left( \frac{5.81}{1.12} \right)^{1/5} - 1 \
 
 **Answer: c.**
 
-$$\text{Prospective PEG} = \frac{37.04}{38.99} = 0.95$$
+$$
+\text{Prospective PEG} = \frac{37.04}{38.99} = 0.95
+$$
 
 Because the PEG is **less than 1**, Mvidia is **slightly undervalued** even after accounting for its strong expected growth, so Mr Quek can consider **buying** the stock.
 
@@ -398,11 +432,15 @@ Conducting fundamental analysis to identify a mispriced stock assumes all **publ
 
 Using CAPM, the required return is:
 
-$$0.03 + 1.2(0.06) = 10.2\%$$
+$$
+0.03 + 1.2(0.06) = 10.2\%
+$$
 
 With an actual return of 9.5%:
 
-$$\alpha = 9.5\% - 10.2\% = -0.7\%$$
+$$
+\alpha = 9.5\% - 10.2\% = -0.7\%
+$$
 
 ### Question 3 — Which portfolio best aligns with Mr Koh's objectives?
 
@@ -434,7 +472,9 @@ Portfolio D is correct: sufficient money market funds for the gift, an equity al
 
 The warrant is in-the-money, so:
 
-$$\text{Intrinsic value} = \frac{2.50 - 1.50}{1} = \$1$$
+$$
+\text{Intrinsic value} = \frac{2.50 - 1.50}{1} = \$1
+$$
 
 ### Question 2 — You expect Poseidon's share price to rise to $4.00. What is Ms Tan's minimum gain on the warrants in percentage terms if she buys today?
 
@@ -447,11 +487,15 @@ $$\text{Intrinsic value} = \frac{2.50 - 1.50}{1} = \$1$$
 
 If the share price rises to $4.00, the warrant's intrinsic value is:
 
-$$\frac{4.00 - 1.50}{1} = \$2.50$$
+$$
+\frac{4.00 - 1.50}{1} = \$2.50
+$$
 
 Because the conversion ratio is 1, the **minimum value** of the warrant is its intrinsic value of $2.50. The minimum percentage gain is:
 
-$$\frac{2.50}{1.30} - 1 = 92.31\%$$
+$$
+\frac{2.50}{1.30} - 1 = 92.31\%
+$$
 
 Option (d) is incorrect: although the future warrant price is unknown, only the future **minimum** price is needed to compute the minimum percentage gain.
 

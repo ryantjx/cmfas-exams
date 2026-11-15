@@ -232,7 +232,9 @@ The forward rate therefore depends on the movement of the spot rate of the pair 
 
 The interest differential is converted into **forward (or swap) points**, which are added to or subtracted from the spot rate:
 
-$$\text{Forward exchange rate} = \text{Spot rate} \pm \text{Forward points}$$
+$$
+\text{Forward exchange rate} = \text{Spot rate} \pm \text{Forward points}
+$$
 
 | Forward points | Term | Meaning |
 |---|---|---|
@@ -243,7 +245,9 @@ Generally, the currency of the country with the **higher** interest rate trades 
 
 ### 4.5.2 Calculating Forward Points
 
-$$\text{Forward Points} = \frac{S \times (R_c - R_b) \times n/360}{1 + (R_b \times n/360)}$$
+$$
+\text{Forward Points} = \frac{S \times (R_c - R_b) \times n/360}{1 + (R_b \times n/360)}
+$$
 
 where $$S$$ is the spot rate, $$R_c$$ is the annualised interest rate of the **counter** currency, $$R_b$$ is the annualised interest rate of the **base** currency, and $$n$$ is the number of days from the spot date to the forward date.
 
@@ -253,7 +257,9 @@ Forward points reflect **only** relative interest rates. They are **not** an ind
 
 **Worked example.** Spot USD/SGD = 1.2520, $$R_b = R_{USD} = 1.75\%$$ p.a., $$R_c = R_{SGD} = 0.75\%$$ p.a., $$n = 30$$ days.
 
-$$\text{Forward points} = \frac{1.2520 \times (0.0075 - 0.0175) \times 30/360}{1 + (0.0175 \times 30/360)} = \frac{-0.0010}{1.0015} = -\text{SGD } 0.0010$$
+$$
+\text{Forward points} = \frac{1.2520 \times (0.0075 - 0.0175) \times 30/360}{1 + (0.0175 \times 30/360)} = \frac{-0.0010}{1.0015} = -\text{SGD } 0.0010
+$$
 
 That is **−10 points**, so the 30-day USD/SGD forward is quoted at a **discount** of **USD/SGD 1.2510**. The USD has the higher interest rate, so it trades at a forward discount — consistent with the rule above.
 
@@ -261,13 +267,17 @@ That is **−10 points**, so the 30-day USD/SGD forward is quoted at a **discoun
 
 The **interest rate parity** theorem states that, except for small transaction costs, the forward premium or discount should equal the difference in national interest rates for securities of the same maturity. If the relationship is violated, arbitrageurs can make risk-free profits, and their actions force the forward and spot rates back into alignment.
 
-$$F = S \left[ \frac{1 + R_c \left( \frac{n}{360} \right)}{1 + R_b \left( \frac{n}{360} \right)} \right]$$
+$$
+F = S \left[ \frac{1 + R_c \left( \frac{n}{360} \right)}{1 + R_b \left( \frac{n}{360} \right)} \right]
+$$
 
 where $$F$$ is the forward rate, $$S$$ the spot rate, $$R_c$$ the annualised counter-currency rate, $$R_b$$ the annualised base-currency rate, and $$n$$ the number of days.
 
 **Worked example.** With $$R_{USD} = 0.06$$, $$R_{GBP} = 0.05$$ and GBP spot at USD 1.50, the 1-year forward is:
 
-$$F = 1.50 \times \frac{1.06}{1.05} = \text{USD } 1.5143 \text{ per GBP}$$
+$$
+F = 1.50 \times \frac{1.06}{1.05} = \text{USD } 1.5143 \text{ per GBP}
+$$
 
 **Covered interest arbitrage.** Suppose the forward price is quoted at **USD 1.5100** instead of 1.5143 — parity is violated. The arbitrage:
 
