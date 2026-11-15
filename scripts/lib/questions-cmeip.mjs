@@ -2428,10 +2428,10 @@ export const CMEIP = [
   // ============================================================ Chapter 8
   {
     c: '8', t: 'Single choice', s: 'CM-EIP §8.2',
-    q: 'What does the Efficient Market Hypothesis state?',
-    o: ['Prices are always above fair value', 'Security prices always fully reflect available information', 'Security prices never reflect available information', 'Only fundamental analysis can beat the market'],
+    q: 'What are the three forms of market efficiency described under the Efficient Market Hypothesis?',
+    o: ['Weak, semi-weak and strong', 'Weak, semi-strong and strong', 'Technical, fundamental and quantitative', 'Random, semi-random and efficient'],
     a: 'b',
-    r: 'The EMH states that an efficient market is one where security prices always fully reflect available information. The direct implication is that stocks always trade at their fair values and it is impossible to outperform the overall market consistently on a risk-adjusted basis.',
+    r: 'The EMH recognises three forms of market efficiency: weak, semi-strong and strong. Under the weak form, past price information is fully reflected in prices; under the semi-strong form, all publicly available information is reflected; under the strong form, all information, public or private, is reflected. "Semi-weak" is not a standard classification.',
   },
   {
     c: '8', t: 'Single choice', s: 'CM-EIP §8.2.1',
@@ -4179,10 +4179,10 @@ export const CMEIP = [
   },
   {
     c: '12', t: 'Calculation', s: 'CM-EIP §12.8',
-    q: 'A share has a beta of 1.2 and a past return of 9.5%. The risk-free rate is 3% and the market risk premium is 6%. What is Jensen\'s alpha?',
-    o: ['−2.9%', '−0.7%', '0.7%', '2.9%'],
-    a: 'b',
-    r: 'CAPM required return = 0.03 + 1.2(0.06) = 10.2%. Jensen\'s alpha = 9.5% − 10.2% = −0.7%.',
+    q: 'Suppose Castor & Pollux instead had a beta of 0.8, the risk-free rate were 4% and the market risk premium 5%, and the share returned 11%. What would Jensen\'s alpha be?',
+    o: ['−3.0%', '+7.0%', '+3.0%', '+2.0%'],
+    a: 'c',
+    r: 'CAPM required return = 4% + 0.8(5%) = 4% + 4% = 8%. Jensen\'s alpha = actual return − required return = 11% − 8% = +3.0%.',
   },
   {
     c: '12', t: 'Single choice', s: 'CM-EIP §12.8',

@@ -6776,19 +6776,19 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 ## Chapter 8 — Portfolio Management
 
-### 423. **[Single choice]** [CM-EIP §8.2] What does the Efficient Market Hypothesis state?
+### 423. **[Single choice]** [CM-EIP §8.2] What are the three forms of market efficiency described under the Efficient Market Hypothesis?
 
-- a. Prices are always above fair value
-- b. Security prices always fully reflect available information
-- c. Security prices never reflect available information
-- d. Only fundamental analysis can beat the market
+- a. Weak, semi-weak and strong
+- b. Weak, semi-strong and strong
+- c. Technical, fundamental and quantitative
+- d. Random, semi-random and efficient
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** B. Security prices always fully reflect available information
+**Answer:** B. Weak, semi-strong and strong
 
-**Rationale:** The EMH states that an efficient market is one where security prices always fully reflect available information. The direct implication is that stocks always trade at their fair values and it is impossible to outperform the overall market consistently on a risk-adjusted basis.
+**Rationale:** The EMH recognises three forms of market efficiency: weak, semi-strong and strong. Under the weak form, past price information is fully reflected in prices; under the semi-strong form, all publicly available information is reflected; under the strong form, all information, public or private, is reflected. "Semi-weak" is not a standard classification.
 
 </details>
 
@@ -11648,19 +11648,19 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 727. **[Calculation]** [CM-EIP §12.8] A share has a beta of 1.2 and a past return of 9.5%. The risk-free rate is 3% and the market risk premium is 6%. What is Jensen's alpha?
+### 727. **[Calculation]** [CM-EIP §12.8] Suppose Castor & Pollux instead had a beta of 0.8, the risk-free rate were 4% and the market risk premium 5%, and the share returned 11%. What would Jensen's alpha be?
 
-- a. −2.9%
-- b. −0.7%
-- c. 0.7%
-- d. 2.9%
+- a. −3.0%
+- b. +7.0%
+- c. +3.0%
+- d. +2.0%
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** B. −0.7%
+**Answer:** C. +3.0%
 
-**Rationale:** CAPM required return = 0.03 + 1.2(0.06) = 10.2%. Jensen's alpha = 9.5% − 10.2% = −0.7%.
+**Rationale:** CAPM required return = 4% + 0.8(5%) = 4% + 4% = 8%. Jensen's alpha = actual return − required return = 11% − 8% = +3.0%.
 
 </details>
 
