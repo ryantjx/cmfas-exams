@@ -420,6 +420,75 @@ export default function QuizRunner({
             <span style={{ width: `${progress}%` }} />
           </div>
 
+          <nav className="quiz-controls" aria-label="Question navigation">
+            <button
+              type="button"
+              className="quiz-button"
+              onClick={() => setCurrent((index) => Math.max(0, index - 1))}
+              disabled={current === 0}
+            >
+              ← Previous
+            </button>
+
+            {!isRevealed && question.isMulti && (
+              <button
+                type="button"
+                className="quiz-button quiz-button-primary"
+                onClick={() => setRevealed((previous) => ({ ...previous, [question.id]: true }))}
+                disabled={selected.length === 0}
+              >
+                Check answer
+              </button>
+            )}
+
+            <button
+              type="button"
+              className={`quiz-button quiz-flag${isFlagged || globalFlag ? ' is-on' : ''}`}
+              onClick={toggleFlag}
+              aria-pressed={isFlagged}
+              title={
+                globalFlag
+                  ? `Already reported — opens shared issue #${globalFlag.number}`
+                  : 'Flag for review — files a shared GitHub issue every visitor can see'
+              }
+            >
+              {isFlagged || globalFlag ? '★ Flagged' : '☆ Flag for review'}
+            </button>
+
+            <button
+              type="button"
+              className="quiz-button quiz-report"
+              onClick={reportQuestion}
+              title={
+                globalFlag
+                  ? `Already reported — opens shared issue #${globalFlag.number}`
+                  : 'Open a pre-filled GitHub issue. The repository owner resolves it there.'
+              }
+            >
+              {globalFlag ? `⚠ Reported — issue #${globalFlag.number}` : '⚠ Report question'}
+            </button>
+
+            {current < questions.length - 1 ? (
+              <button
+                type="button"
+                className="quiz-button quiz-button-primary"
+                onClick={() => setCurrent((index) => Math.min(questions.length - 1, index + 1))}
+                disabled={!isRevealed}
+              >
+                Next →
+              </button>
+            ) : (
+              <button
+                type="button"
+                className="quiz-button quiz-button-primary"
+                onClick={submit}
+                disabled={!isRevealed}
+              >
+                Finish
+              </button>
+            )}
+          </nav>
+
           {currentSection && isSectionStart && (
             <div className="quiz-section">
               <h2>
@@ -522,74 +591,7 @@ export default function QuizRunner({
             )}
           </article>
 
-          <nav className="quiz-controls" aria-label="Question navigation">
-            <button
-              type="button"
-              className="quiz-button"
-              onClick={() => setCurrent((index) => Math.max(0, index - 1))}
-              disabled={current === 0}
-            >
-              ← Previous
-            </button>
 
-            {!isRevealed && question.isMulti && (
-              <button
-                type="button"
-                className="quiz-button quiz-button-primary"
-                onClick={() => setRevealed((previous) => ({ ...previous, [question.id]: true }))}
-                disabled={selected.length === 0}
-              >
-                Check answer
-              </button>
-            )}
-
-            <button
-              type="button"
-              className={`quiz-button quiz-flag${isFlagged || globalFlag ? ' is-on' : ''}`}
-              onClick={toggleFlag}
-              aria-pressed={isFlagged}
-              title={
-                globalFlag
-                  ? `Already reported — opens shared issue #${globalFlag.number}`
-                  : 'Flag for review — files a shared GitHub issue every visitor can see'
-              }
-            >
-              {isFlagged || globalFlag ? '★ Flagged' : '☆ Flag for review'}
-            </button>
-
-            <button
-              type="button"
-              className="quiz-button quiz-report"
-              onClick={reportQuestion}
-              title={
-                globalFlag
-                  ? `Already reported — opens shared issue #${globalFlag.number}`
-                  : 'Open a pre-filled GitHub issue. The repository owner resolves it there.'
-              }
-            >
-              {globalFlag ? `⚠ Reported — issue #${globalFlag.number}` : '⚠ Report question'}
-            </button>
-
-            {current < questions.length - 1 ? (
-              <button
-                type="button"
-                className="quiz-button quiz-button-primary"
-                onClick={() => setCurrent((index) => Math.min(questions.length - 1, index + 1))}
-                disabled={!isRevealed}
-              >
-                Next →
-              </button>
-            ) : (
-              <button
-                type="button"
-                className="quiz-button quiz-button-primary"
-                onClick={submit}
-                disabled={!isRevealed}
-              >
-                Finish
-              </button>
-            )}
-          </nav>
 
           <p className="quiz-note">
             The answer and explanation appear as soon as you answer
