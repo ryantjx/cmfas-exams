@@ -208,7 +208,9 @@ Base value = index of **100**.
 | C | 5,000,000 | 10.50 | 52,500,000 |
 | | | **Total** | **67,000,000** |
 
-$$\text{New Index Value} = \frac{\text{Current Market Value}}{\text{Base Value}} \times \text{Beginning Index Value} = \frac{67{,}000{,}000}{64{,}000{,}000} \times 100 = 1.05 \times 100 = 105$$
+$$
+\text{New Index Value} = \frac{\text{Current Market Value}}{\text{Base Value}} \times \text{Beginning Index Value} = \frac{67{,}000{,}000}{64{,}000{,}000} \times 100 = 1.05 \times 100 = 105
+$$
 
 An advantage of the value-weighted index is that it **automatically adjusts** for bonus and rights issues and other capital changes, because those actions typically do not affect market capitalisation — a fall in price is offset by a rise in shares outstanding. A constituent's importance depends on its market value, so price changes in high-capitalisation shares move the index more than those in low-capitalisation shares.
 
@@ -232,7 +234,9 @@ In an un-weighted or equal-weighted index, all shares carry **equal weight** reg
 | B | 3.00 | 3.10 | 1.03 |
 | C | 10.00 | 10.50 | 1.05 |
 
-$$\text{Geometric Average} = (1.04 \times 1.03 \times 1.05)^{1/3} = 1.040$$
+$$
+\text{Geometric Average} = (1.04 \times 1.03 \times 1.05)^{1/3} = 1.040
+$$
 
 Index value (Day 2) = index value (Day 1) × 1.040.
 
@@ -303,7 +307,9 @@ FCFF is discounted at the WACC because the firm's value and future cash flows ar
 
 **a. Cost of equity.** The Capital Asset Pricing Model (CAPM) is applied:
 
-$$R = R_f + \beta (R_m - R_f)$$
+$$
+R = R_f + \beta (R_m - R_f)
+$$
 
 where $$R$$ is the cost of equity, $$R_f$$ the risk-free rate, $$R_m$$ the market return, $$R_m - R_f$$ the **equity market risk premium**, and $$\beta$$ the sensitivity of the stock price to the market.
 
@@ -336,7 +342,9 @@ The typical steps in computing firm and equity values:
 | Effective tax rate | **23%** (22.6% for the last nine months, 25% in 2016) |
 | Total capital | Debt + equity = 30.414 + 224.17 = **254.584** |
 
-$$\text{WACC} = (1 - 0.23)(0.014)\left(\frac{30.414}{254.584}\right) + (0.07)\left(\frac{224.17}{254.584}\right) = (0.0108 \times 0.1195) + (0.07 \times 0.8805) = 0.0629 = 6.29\%$$
+$$
+\text{WACC} = (1 - 0.23)(0.014)\left(\frac{30.414}{254.584}\right) + (0.07)\left(\frac{224.17}{254.584}\right) = (0.0108 \times 0.1195) + (0.07 \times 0.8805) = 0.0629 = 6.29\%
+$$
 
 That **6.29%** is the discount rate for all future cash flows. With the low-rate environment, P&G had locked in long-term debt priced very cheaply relative to its cost of equity.
 
@@ -350,11 +358,15 @@ Analysts also rely on historical ratios and relationships, reviewing past major 
 
 Discount the estimated FCFF and terminal value over the chosen period:
 
-$$\text{PV of Free Cash Flows} = \frac{E(FCFF_1)}{(1+\text{WACC})^1} + \frac{E(FCFF_2)}{(1+\text{WACC})^2} + \frac{E(FCFF_3)}{(1+\text{WACC})^3} + \dots + \frac{E(FCFF_{10}) + TV}{(1+\text{WACC})^{10}}$$
+$$
+\text{PV of Free Cash Flows} = \frac{E(FCFF_1)}{(1+\text{WACC})^1} + \frac{E(FCFF_2)}{(1+\text{WACC})^2} + \frac{E(FCFF_3)}{(1+\text{WACC})^3} + \dots + \frac{E(FCFF_{10}) + TV}{(1+\text{WACC})^{10}}
+$$
 
 The terminal value uses the estimated FCFF in year 11 divided by (WACC − $$g_c$$), where $$g_c$$ is the **terminal growth rate** at which FCFF are expected to grow indefinitely:
 
-$$\text{PV of Terminal Value} = \frac{\dfrac{E(FCFF_{11})}{\text{WACC} - g_c}}{(1+\text{WACC})^{10}}$$
+$$
+\text{PV of Terminal Value} = \frac{\dfrac{E(FCFF_{11})}{\text{WACC} - g_c}}{(1+\text{WACC})^{10}}
+$$
 
 **Worked illustration — P&G.** Cash flows from operating and investing activities in 2016 are the base. P&G's cash flows grew at an average of **1.5%** over 2006–2016 and about **3%** over the last five years. The analysis applies **2.5%** growth for 2017–2021, slowing to **2%** for 2022–2026, settling at a terminal growth rate of **1.5%** — consistent with the past pattern. WACC is **6.29%**. The resulting firm value is **USD260,391 million**.
 
@@ -399,7 +411,9 @@ In practice multiple ratios are used together for a more holistic assessment.
 
 The P/E ratio indicates how much investors are willing to pay for a dollar of earnings: current price per share divided by EPS.
 
-$$\text{P/E Ratio} = \frac{\text{Market Price Per Share}}{\text{Earnings Per Share (EPS)}}$$
+$$
+\text{P/E Ratio} = \frac{\text{Market Price Per Share}}{\text{Earnings Per Share (EPS)}}
+$$
 
 | Form | Definition |
 |---|---|
@@ -456,7 +470,9 @@ An investor pays just **USD12.1** for a dollar of FY2017 earnings from INTC, aga
 
 A criticism of P/E is that it ignores expected future growth: a low P/E may mean undervaluation **or** simply poorer expected growth, and a high P/E may mean overvaluation **or** stronger expected growth. Strictly, P/E ratios should only be compared between companies with similar expected growth. The **PEG ratio** addresses this: the P/E ratio divided by the expected annual earnings growth in per cent, measured by EPS.
 
-$$PEG = \frac{P/E}{\% \text{ Growth in EPS}}$$
+$$
+PEG = \frac{P/E}{\% \text{ Growth in EPS}}
+$$
 
 where the growth is typically the prospective EPS growth compounded over **3 years**; when growth potential lies further out, a **5-year** projected growth rate may be used.
 
@@ -470,7 +486,9 @@ A caution on projections: when markets are bullish and the economy strong, the a
 
 ### 6.8.3 Price-to-Book Value (P/BV) Ratio
 
-$$\text{P/BV Ratio} = \frac{\text{Market Price Per Share}}{\text{Book Value Per Share}}$$
+$$
+\text{P/BV Ratio} = \frac{\text{Market Price Per Share}}{\text{Book Value Per Share}}
+$$
 
 P/BV is best suited to companies whose value is tied directly to asset holdings. Book value matters more for **investment companies, banks, insurance companies and property companies**, because many of their assets are reflected in the books and can be liquidated.
 
@@ -498,7 +516,9 @@ In such cases book value is **understated**, so the true P/BV is **lower** than 
 
 **a. Price-to-sales.** A feasible comparison for companies generating very low, zero or negative earnings. It indicates the number of times the market is willing to pay for a firm's sales revenue per share.
 
-$$\text{P/Sales Ratio} = \frac{\text{Current Market Price Per Share}}{\text{Sales Per Share}}$$
+$$
+\text{P/Sales Ratio} = \frac{\text{Current Market Price Per Share}}{\text{Sales Per Share}}
+$$
 
 Sales per share is annual sales divided by ordinary shares outstanding. P/Sales is useful where sales are strong but earnings are lacking or negative — some high-tech and biotech companies generate sales but remain unprofitable. Proponents argue that consistent sales indicate a strong company and that sales are a fundamental requirement for earnings.
 
@@ -525,7 +545,9 @@ EV/CF is used because of concerns about earnings manipulation: cash flows are mu
 
 **Worked example — Fulton Corporation.** Market price **$18** per share, **1 billion** shares outstanding at 31 December 2018, **$10 million** of preference shares and **$400 million** of borrowings. No associates, minority interest or unfunded pension obligations. Cash generated from operations is **$2,210 million** and cash and cash equivalents at year end are **$8,000 million**.
 
-$$\text{EV/CF} = \frac{\text{Market Cap} + \text{Debt} + \text{Preferred Shares} - \text{Cash}}{\text{Cash Flow from Operations}} = \frac{(18 \times 1{,}000) + 400 + 10 - 8{,}000}{2{,}210} = \frac{10{,}410}{2{,}210} = 4.71$$
+$$
+\text{EV/CF} = \frac{\text{Market Cap} + \text{Debt} + \text{Preferred Shares} - \text{Cash}}{\text{Cash Flow from Operations}} = \frac{(18 \times 1{,}000) + 400 + 10 - 8{,}000}{2{,}210} = \frac{10{,}410}{2{,}210} = 4.71
+$$
 
 A **lower** EV/CF is desirable when comparing companies, because it implies more cash flow generated from the capital supplied.
 
@@ -550,7 +572,9 @@ EV/EBITDA is also called the **enterprise multiple** or EBITDA multiple and is a
 
 **b. Why enterprise value is preferred over price.** EV considers the impact of debt and other capital on total firm value, while price relates only to equity. Hence EV/EBITDA is preferred over P/E. EV/EBITDA became actively used in the **1980s** because P/E did not directly reflect the value of debt. Unlike P/E, EV/EBITDA **cannot be manipulated by changes in capital structure**, allowing fair comparison of companies with different capital structures.
 
-$$\text{EV/EBITDA} = \frac{\text{Market Cap} + \text{Debt} + \text{Preferred} + \text{Minorities} + \text{Pension} - \text{Associates} - \text{Cash \& Near Cash}}{\text{Earnings Before Interest, Taxes, Depreciation and Amortisation}}$$
+$$
+\text{EV/EBITDA} = \frac{\text{Market Cap} + \text{Debt} + \text{Preferred} + \text{Minorities} + \text{Pension} - \text{Associates} - \text{Cash \& Near Cash}}{\text{Earnings Before Interest, Taxes, Depreciation and Amortisation}}
+$$
 
 **c. Application.** Typically the current EV is used in the numerator and projected annual EBITDA for one to three years ahead in the denominator, asking: "what total capital, net of cash, is deployed to generate the cash earnings for a given year?" All else equal, a **lower** EV/EBITDA means less capital is deployed to generate cash earnings. Some companies will have perpetual EV/EBITDA discounts or premiums for the reasons in 6.8.1(b). EV/EBITDA appears in Bloomberg and most brokerage equity research.
 
@@ -572,7 +596,9 @@ $$\text{EV/EBITDA} = \frac{\text{Market Cap} + \text{Debt} + \text{Preferred} + 
 
 Dividend yield matters especially to income-oriented investors. Companies with stable, non-cyclical businesses paying a constant stream of healthy dividends have **downside support** for their share prices. Dividend yield is the income component of a share's return, stated as a percentage of the current price.
 
-$$\text{Dividend Yield} = \frac{\text{Dividend Per Share}}{\text{Market Price Per Share}} \times 100$$
+$$
+\text{Dividend Yield} = \frac{\text{Dividend Per Share}}{\text{Market Price Per Share}} \times 100
+$$
 
 **Worked example.** A share priced at **$2** with an annual gross dividend of **$0.10** per share has a dividend yield of **5%** (0.10 / 2.00 × 100).
 
@@ -744,19 +770,25 @@ The dividend discount model is used only occasionally, for companies with high d
 
 The intrinsic value of an asset can be estimated by the dividend discount approach, which determines the present value of a security. Under the DDM, the intrinsic value of a common share is the **present value of all future dividends**:
 
-$$P_0 = \frac{D_1}{(1+R)} + \frac{D_2}{(1+R)^2} + \frac{D_3}{(1+R)^3} + \dots + \frac{D_\infty}{(1+R)^\infty}$$
+$$
+P_0 = \frac{D_1}{(1+R)} + \frac{D_2}{(1+R)^2} + \frac{D_3}{(1+R)^3} + \dots + \frac{D_\infty}{(1+R)^\infty}
+$$
 
 where $$P_0$$ is the intrinsic or theoretical value of the share today, $$D_t$$ is the dividend expected at the end of period $$t$$, and $$R$$ is the required rate of return (discount rate) on the share.
 
 The difficulty with implementing this as a valuation model is that investors must forecast and discount an **infinite** stream of dividends — both insurmountable tasks. The model can be modified to account for a subsequent sale of the shares:
 
-$$P_0 = \frac{D_1}{(1+R)} + \frac{D_2}{(1+R)^2} + \dots + \frac{D_n}{(1+R)^n} + \frac{P_n}{(1+R)^n}$$
+$$
+P_0 = \frac{D_1}{(1+R)} + \frac{D_2}{(1+R)^2} + \dots + \frac{D_n}{(1+R)^n} + \frac{P_n}{(1+R)^n}
+$$
 
 where $$n$$ is the holding period and $$P_n$$ the expected selling price at the end of period $$n$$.
 
 **Worked example.** A 3-year holding period, dividends of **$1.00**, **$1.05** and **$1.10** at the end of each year, an expected selling price of **$10** at the end of year 3, and a **12%** required return:
 
-$$P_0 = \frac{1.00}{1.12} + \frac{1.05}{(1.12)^2} + \frac{1.10}{(1.12)^3} + \frac{10.00}{(1.12)^3} = 0.8929 + 0.8371 + 0.7830 + 7.1178 = \$9.63$$
+$$
+P_0 = \frac{1.00}{1.12} + \frac{1.05}{(1.12)^2} + \frac{1.10}{(1.12)^3} + \frac{10.00}{(1.12)^3} = 0.8929 + 0.8371 + 0.7830 + 7.1178 = \$9.63
+$$
 
 Compare the estimated value with the price to decide whether to buy.
 
@@ -764,11 +796,15 @@ Compare the estimated value with the price to decide whether to buy.
 
 When dividends grow at a constant rate $$g$$, the model generalises to:
 
-$$P_0 = \frac{D_0(1+g)}{(1+R)} + \frac{D_0(1+g)^2}{(1+R)^2} + \frac{D_0(1+g)^3}{(1+R)^3} + \dots + \frac{D_0(1+g)^\infty}{(1+R)^\infty}$$
+$$
+P_0 = \frac{D_0(1+g)}{(1+R)} + \frac{D_0(1+g)^2}{(1+R)^2} + \frac{D_0(1+g)^3}{(1+R)^3} + \dots + \frac{D_0(1+g)^\infty}{(1+R)^\infty}
+$$
 
 where $$D_0$$ is the current dividend and $$g$$ the constant growth rate. This simplifies to:
 
-$$P_0 = \frac{D_1}{R - g}$$
+$$
+P_0 = \frac{D_1}{R - g}
+$$
 
 where $$D_1$$ is the dividend expected at the end of period 1. The model suits the valuation of **very large, broadly diversified companies** and is often called the **Gordon model**, after Myron J. Gordon.
 
@@ -780,11 +816,15 @@ Three assumptions:
 
 Rearranging gives the required rate of return:
 
-$$R = \frac{D_1}{P_0} + g$$
+$$
+R = \frac{D_1}{P_0} + g
+$$
 
 **Worked example.** Alpine Limited pays dividends per share of **$0.20**, expected to grow at **5%** a year for the foreseeable future; investors require **12%** for investments of similar risk.
 
-$$P_0 = \frac{0.20 \times 1.05}{0.12 - 0.05} = \frac{0.21}{0.07} = \$3.00$$
+$$
+P_0 = \frac{0.20 \times 1.05}{0.12 - 0.05} = \frac{0.21}{0.07} = \$3.00
+$$
 
 The current dividend must be compounded for one period because the formula uses the dividend expected one period from now.
 
@@ -802,7 +842,9 @@ A **1%** change in either $$g$$ or $$R$$ produces a large difference in estimate
 
 A starting point is the company's **sustainable growth rate** — the maximum growth achievable while maintaining a constant debt-equity ratio and without external equity financing:
 
-$$g = \text{Retention Rate} \times \text{Return on Equity} = RR \times ROE$$
+$$
+g = \text{Retention Rate} \times \text{Return on Equity} = RR \times ROE
+$$
 
 A firm can raise sustainable growth by increasing its retention rate (reducing the payout ratio) and reinvesting at its historical ROE, or by maintaining the retention rate while raising ROE.
 
@@ -814,17 +856,23 @@ A firm can raise sustainable growth by increasing its retention rate (reducing t
 
 *Cost of equity by CAPM.* With $$R_f = 2.33\%$$ and $$\beta = 0.68$$:
 
-$$R_{P\&G} = 2.33 + 0.68(9.28 - 2.33) = 7.056\%$$
+$$
+R_{P\&G} = 2.33 + 0.68(9.28 - 2.33) = 7.056\%
+$$
 
 *Growth rate.* Average ROE for 2016 was net income / average shareholders' equity = 10,508 / 60,516.5 = **17.36%**. The payout ratio was DPS/EPS = 2.66/3.80 = **0.70**. So:
 
-$$g = 0.1736 \times (1 - 0.70) = 0.0521 = 5.21\%$$
+$$
+g = 0.1736 \times (1 - 0.70) = 0.0521 = 5.21\%
+$$
 
 As a consistency check, annual DPS growth over the last five years was $$(2.66/1.97)^{1/5} - 1 = 0.0619$$.
 
 *Applying the constant growth model.*
 
-$$P_0 = \frac{2.66 \times 1.0521}{0.07056 - 0.0521} = \frac{2.7986}{0.0185} = \$151.28$$
+$$
+P_0 = \frac{2.66 \times 1.0521}{0.07056 - 0.0521} = \frac{2.7986}{0.0185} = \$151.28
+$$
 
 That is almost **twice** P&G's price of **$87.65** at the close of 7 July 2017. The wide difference highlights the model's problem: the estimated value swings widely with small changes in $$R$$ and $$g$$. When $$R$$ equals $$g$$ the value goes to **infinity**, and the model is invalidated when the required return is less than the growth rate.
 
@@ -836,7 +884,9 @@ Multi-stage growth describes a situation where expected dividend growth must be 
 
 The two-stage model forecasts a growth rate for the near term, when dividends are more predictable, and assumes a long-term rate close to long-run GDP growth, possibly **1–2 percentage points** above it:
 
-$$P_0 = \sum_{t=1}^{n} \frac{D_0(1+g_1)^t}{(1+R)^t} + \frac{\dfrac{D_n(1+g_c)}{R - g_c}}{(1+R)^n}$$
+$$
+P_0 = \sum_{t=1}^{n} \frac{D_0(1+g_1)^t}{(1+R)^t} + \frac{\dfrac{D_n(1+g_c)}{R - g_c}}{(1+R)^n}
+$$
 
 where $$g_1$$ is the growth rate when dividends are more predictable, $$g_c$$ the constant growth rate when they are less predictable, $$n$$ the number of periods of supernormal or subnormal growth, and $$D_n$$ the dividend at the end of the abnormal growth period.
 
@@ -856,13 +906,19 @@ Projected dividends:
 
 The expected price at the end of year 5, when long-run growth of 3.5% begins:
 
-$$D_6 = 3.3950 \times 1.035 = 3.5138 \qquad P_5 = \frac{3.5138}{0.07 - 0.035} = 100.3943$$
+$$
+D_6 = 3.3950 \times 1.035 = 3.5138 \qquad P_5 = \frac{3.5138}{0.07 - 0.035} = 100.3943
+$$
 
 Summing the present values:
 
-$$P_0 = \frac{2.7930}{1.07} + \frac{2.9327}{1.07^2} + \frac{3.0793}{1.07^3} + \frac{3.2333}{1.07^4} + \frac{3.3950}{1.07^5} + \frac{100.3943}{1.07^5}$$
+$$
+P_0 = \frac{2.7930}{1.07} + \frac{2.9327}{1.07^2} + \frac{3.0793}{1.07^3} + \frac{3.2333}{1.07^4} + \frac{3.3950}{1.07^5} + \frac{100.3943}{1.07^5}
+$$
 
-$$= 2.6103 + 2.5615 + 2.5136 + 2.4667 + 2.4206 + 71.5797 = \$84.15$$
+$$
+= 2.6103 + 2.5615 + 2.5136 + 2.4667 + 2.4206 + 71.5797 = \$84.15
+$$
 
 This comes close to P&G's current price, so on this model P&G is slightly **overvalued**. The model still suffers the same sensitivity: using **3%** instead of 3.5% for long-run growth reduces the valuation by about **10%** to **$74.90**. Because about **85%** of the value (71.5797 / 84.15) comes from the terminal value, anything affecting the terminal value affects the model significantly.
 
@@ -876,7 +932,9 @@ This comes close to P&G's current price, so on this model P&G is slightly **over
 
 The owner of a preference share receives a fixed dividend for an infinite period. Because the dividend is a **perpetuity**, the share value is the stated annual dividend divided by the required rate of return:
 
-$$P_0 = \frac{\text{Dividend}}{\text{Discount Rate}}$$
+$$
+P_0 = \frac{\text{Dividend}}{\text{Discount Rate}}
+$$
 
 **Worked example.** A preference share with a **$100** par value pays **$7** a year. At a required return of **8%**, the intrinsic value is $7 / 0.08 = **$87.50**.
 

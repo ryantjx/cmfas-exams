@@ -239,13 +239,17 @@ For pricing, fixed income securities are classified as **discount** or **coupon*
 
 T-bills are quoted on a **bank discount basis**:
 
-$$Y_d = \frac{D}{F} \times \frac{360}{t}$$
+$$
+Y_d = \frac{D}{F} \times \frac{360}{t}
+$$
 
 where $$Y_d$$ is the annualised yield on a bank discount basis, $$D$$ is the dollar discount (face value minus price), $$F$$ is the face value, and $$t$$ is the number of days remaining to maturity.
 
 **Worked example.** A T-bill with **90 days** to maturity, face value **$100,000**, selling for **$98,000**:
 
-$$D = 100{,}000 - 98{,}000 = 2{,}000 \qquad Y_d = \frac{2{,}000}{100{,}000} \times \frac{360}{90} = 8.0\%$$
+$$
+D = 100{,}000 - 98{,}000 = 2{,}000 \qquad Y_d = \frac{2{,}000}{100{,}000} \times \frac{360}{90} = 8.0\%
+$$
 
 Although widely used, the bank discount yield is **not a meaningful measure of return** from holding a T-bill, because it is calculated on **face value** rather than the actual amount invested.
 
@@ -570,11 +574,15 @@ The value of a bond equals the **present value of its expected cash flows** — 
 
 For annual coupons:
 
-$$P = \frac{C_1}{1+k} + \frac{C_2}{(1+k)^2} + \frac{C_3}{(1+k)^3} + \dots + \frac{C_n}{(1+k)^n} + \frac{M}{(1+k)^n} = \sum_{t=1}^{n} \frac{C_t}{(1+k)^t} + \frac{M}{(1+k)^n}$$
+$$
+P = \frac{C_1}{1+k} + \frac{C_2}{(1+k)^2} + \frac{C_3}{(1+k)^3} + \dots + \frac{C_n}{(1+k)^n} + \frac{M}{(1+k)^n} = \sum_{t=1}^{n} \frac{C_t}{(1+k)^t} + \frac{M}{(1+k)^n}
+$$
 
 For semi-annual coupons:
 
-$$P = \sum_{t=1}^{2n} \frac{C_t}{(1 + k/2)^t} + \frac{M}{(1 + k/2)^{2n}}$$
+$$
+P = \sum_{t=1}^{2n} \frac{C_t}{(1 + k/2)^t} + \frac{M}{(1 + k/2)^{2n}}
+$$
 
 where $$P$$ is the present value today, $$C_t$$ the coupon payments for period $$t$$, $$M$$ the maturity value, $$n$$ the number of years to maturity, and $$k$$ the required market yield — the yield currently available for a similar security of this maturity.
 
@@ -584,13 +592,17 @@ The discount rate $$k$$ the investor wants is the **required rate of return**. T
 
 **a. Annual coupons.**
 
-$$\text{Price} = \frac{80}{1.06} + \frac{80}{1.06^2} + \frac{80}{1.06^3} + \dots + \frac{80}{1.06^{10}} + \frac{1{,}000}{1.06^{10}} = \$1{,}147.20$$
+$$
+\text{Price} = \frac{80}{1.06} + \frac{80}{1.06^2} + \frac{80}{1.06^3} + \dots + \frac{80}{1.06^{10}} + \frac{1{,}000}{1.06^{10}} = \$1{,}147.20
+$$
 
 Calculator inputs: **N = 10**, **PMT = 80**, **FV = 1,000**, **I/Y = 6**; compute PV.
 
 **b. Semi-annual coupons.**
 
-$$\text{Price} = \frac{40}{1.03} + \frac{40}{1.03^2} + \dots + \frac{40}{1.03^{20}} + \frac{1{,}000}{1.03^{20}} = \$1{,}148.77$$
+$$
+\text{Price} = \frac{40}{1.03} + \frac{40}{1.03^2} + \dots + \frac{40}{1.03^{20}} + \frac{1{,}000}{1.03^{20}} = \$1{,}148.77
+$$
 
 The number of periods is **doubled** and the discount rate **halved**.
 
@@ -598,11 +610,15 @@ The number of periods is **doubled** and the discount rate **halved**.
 
 A zero-coupon bond has only the maturity value as a cash flow, so its price is the present value of the maturity amount:
 
-$$P = \frac{M}{(1 + k/2)^{2n}}$$
+$$
+P = \frac{M}{(1 + k/2)^{2n}}
+$$
 
 **Worked example.** A zero-coupon bond maturing in **15 years** with par **$1,000**, at a required return of **9%**:
 
-$$P = \frac{1{,}000}{(1.045)^{30}} = \$267.00$$
+$$
+P = \frac{1{,}000}{(1.045)^{30}} = \$267.00
+$$
 
 Even without coupons, the semi-annual rate of **4.5%** and the half-year period are used, to stay consistent with semi-annual coupon bonds. Calculator inputs: **FV = 1,000**, **N = 30**, **I/Y = 4.5**; compute PV.
 
@@ -694,11 +710,15 @@ The most common measures quoted by bond dealers are **current yield** and **yiel
 
 The ratio of the interest payment to the current price:
 
-$$\text{Current Yield} = \frac{\text{Annual Interest Payment}}{\text{Bond Price}}$$
+$$
+\text{Current Yield} = \frac{\text{Annual Interest Payment}}{\text{Bond Price}}
+$$
 
 **Worked example.** A **10-year, 6%** coupon bond with par **$1,000** priced at **115%** (that is, $1,150):
 
-$$\text{Current Yield} = \frac{60}{1{,}150} = 5.22\%$$
+$$
+\text{Current Yield} = \frac{60}{1{,}150} = 5.22\%
+$$
 
 Current yield considers only the annual interest payment and **does not account for capital gain or loss**.
 
@@ -708,7 +728,9 @@ YTM is the rate of return earned if the bond is purchased at a given price and h
 
 **Worked example.** A price of **$1,148.80** for a **10-year** bond with par **$1,000** and coupon **8%**, paid semi-annually:
 
-$$1{,}148.80 = \frac{40}{1 + k/2} + \frac{40}{(1 + k/2)^2} + \dots + \frac{40}{(1 + k/2)^{20}} + \frac{1{,}000}{(1 + k/2)^{20}}$$
+$$
+1{,}148.80 = \frac{40}{1 + k/2} + \frac{40}{(1 + k/2)^2} + \dots + \frac{40}{(1 + k/2)^{20}} + \frac{1{,}000}{(1 + k/2)^{20}}
+$$
 
 Solved by trial and error, or with a calculator: **N = 20**, **PV = −1,148.80**, **PMT = 40**, **FV = 1,000**; compute I/Y = **3.00%** semi-annually.
 
@@ -716,23 +738,33 @@ Market convention annualises by **doubling** the semi-annual yield, giving **6%*
 
 The proper way to annualise is the effective annual yield:
 
-$$\text{Effective annual yield} = (1 + \text{semi-annual rate})^2 - 1 = (1.03)^2 - 1 = 6.09\%$$
+$$
+\text{Effective annual yield} = (1 + \text{semi-annual rate})^2 - 1 = (1.03)^2 - 1 = 6.09\%
+$$
 
 **Approximation formula.** Relates net annual effective cash flow to the average amount invested, assuming the price gradually converges to par:
 
-$$\text{Approximate YTM} = \frac{\text{Annual Interest Payment} \pm \text{Amortised Gain or Loss}}{(\text{Current Market Price} + \text{Par Value})/2}$$
+$$
+\text{Approximate YTM} = \frac{\text{Annual Interest Payment} \pm \text{Amortised Gain or Loss}}{(\text{Current Market Price} + \text{Par Value})/2}
+$$
 
 For the bond above, the amortised loss per year is (1,148.80 − 1,000)/10 = **$14.88**:
 
-$$\text{Approximate YTM} = \frac{80 - 14.88}{(1{,}148.80 + 1{,}000)/2} = \frac{65.12}{1{,}074.40} = 6.06\%$$
+$$
+\text{Approximate YTM} = \frac{80 - 14.88}{(1{,}148.80 + 1{,}000)/2} = \frac{65.12}{1{,}074.40} = 6.06\%
+$$
 
 **Zero-coupon YTM.** Substituting zero coupons into the present value model and solving for $$k$$:
 
-$$\frac{k}{2} = \left[ \frac{\text{Maturity Value}}{\text{Price}} \right]^{1/2n} - 1$$
+$$
+\frac{k}{2} = \left[ \frac{\text{Maturity Value}}{\text{Price}} \right]^{1/2n} - 1
+$$
 
 **Worked example.** A **15-year** zero-coupon bond with maturity value **$1,000** selling for **$300**:
 
-$$\frac{k}{2} = \left[ \frac{1{,}000}{300} \right]^{1/30} - 1 = 0.0409 = 4.1\%$$
+$$
+\frac{k}{2} = \left[ \frac{1{,}000}{300} \right]^{1/30} - 1 = 0.0409 = 4.1\%
+$$
 
 The number of periods is **30 semi-annual periods**, double the years. The **bond-equivalent yield is 8.2%**.
 
@@ -758,11 +790,15 @@ A **zero-coupon bond has no reinvestment risk** if held to maturity, because the
 
 Some bonds are tax-exempt, so their stated rate is lower than comparable taxable bonds. To compare, compute the TEY:
 
-$$\text{Taxable Equivalent Yield} = \frac{\text{Tax-Exempt Yield}}{1 - \text{Marginal Tax Rate}}$$
+$$
+\text{Taxable Equivalent Yield} = \frac{\text{Tax-Exempt Yield}}{1 - \text{Marginal Tax Rate}}
+$$
 
 **Worked example.** An investor in the **28%** marginal bracket holds a 5-year tax-exempt bond with a YTM of **7%**:
 
-$$\text{TEY} = \frac{0.07}{1 - 0.28} = 9.7\%$$
+$$
+\text{TEY} = \frac{0.07}{1 - 0.28} = 9.7\%
+$$
 
 ## 7.20 Term Structure of Interest Rates
 
@@ -816,11 +852,15 @@ A convertible is a "double" security: a **straight bond** plus a **call option**
 
 **a. Investment value.** The bond value, also called the **straight value**, is the value without the conversion feature, calculated from the cash flows as if there were no option. It requires the market yield on a comparable straight bond. With a comparable yield of **8%**:
 
-$$\text{Bond Value} = \sum_{t=1}^{20} \frac{C_t}{(1 + k/2)^t} + \frac{\text{Par Value}}{(1 + k/2)^{20}} = \$728.19$$
+$$
+\text{Bond Value} = \sum_{t=1}^{20} \frac{C_t}{(1 + k/2)^t} + \frac{\text{Par Value}}{(1 + k/2)^{20}} = \$728.19
+$$
 
 **b. Conversion value.** The total market value of the shares the bond can be exchanged for:
 
-$$\text{Conversion value} = \text{Conversion Ratio} \times \text{Market Share Price} = 40 \times 24 = \$960$$
+$$
+\text{Conversion value} = \text{Conversion Ratio} \times \text{Market Share Price} = 40 \times 24 = \$960
+$$
 
 **The minimum value of a convertible bond is the greater of its conversion value and its investment value.** With a conversion value of **$960** and an investment value of **$728**, the minimum value is **$960**.
 
@@ -828,17 +868,23 @@ If the bond sold below $960 — say at $728 — arbitrageurs would buy it, conve
 
 ### 7.21.2 Conversion Ratio and Conversion Price
 
-$$\text{Conversion Ratio} = \frac{\text{Par Value of CB}}{\text{Conversion Price}}$$
+$$
+\text{Conversion Ratio} = \frac{\text{Par Value of CB}}{\text{Conversion Price}}
+$$
 
 For Genesis the ratio is **40**, meaning a $1,000 par convertible exchanges for 40 ordinary shares.
 
-$$\text{Conversion Price} = \frac{\text{Par Value of CB}}{\text{Conversion Ratio}} = \frac{1{,}000}{40} = \$25$$
+$$
+\text{Conversion Price} = \frac{\text{Par Value of CB}}{\text{Conversion Ratio}} = \frac{1{,}000}{40} = \$25
+$$
 
 ### 7.21.3 Conversion Parity Price
 
 What the investor effectively pays per ordinary share if the convertible is purchased and converted:
 
-$$\text{Conversion Parity Price} = \frac{\text{Market Price of CB}}{\text{Conversion Ratio}} = \frac{1{,}100}{40} = \$27.50$$
+$$
+\text{Conversion Parity Price} = \frac{\text{Market Price of CB}}{\text{Conversion Ratio}} = \frac{1{,}100}{40} = \$27.50
+$$
 
 The conversion parity price can be considered a **share price breakeven point**. Any further increase in the share price beyond this point produces the same percentage increase in the convertible's value.
 
@@ -846,9 +892,13 @@ The conversion parity price can be considered a **share price breakeven point**.
 
 An investor buying the convertible instead of the share pays a premium of **$3.50** ($27.50 − $24), or **14.6%**, over the current share price. The conversion premium is the difference between the convertible's market price and its conversion value, expressed in absolute or percentage terms.
 
-$$\text{Conversion premium (\$)} = \text{Market Value of CB} - \text{Conversion Value} = 1{,}100 - 960 = \$140$$
+$$
+\text{Conversion premium (\$)} = \text{Market Value of CB} - \text{Conversion Value} = 1{,}100 - 960 = \$140
+$$
 
-$$\text{Conversion Premium (\%)} = \frac{\text{Market Value of CB} - \text{Conversion Value}}{\text{Conversion Value}} = \frac{140}{960} = 14.6\%$$
+$$
+\text{Conversion Premium (\%)} = \frac{\text{Market Value of CB} - \text{Conversion Value}}{\text{Conversion Value}} = \frac{140}{960} = 14.6\%
+$$
 
 Normally a convertible also trades at a premium to its **straight value**, because it embeds an option equivalent to a call on the share at a strike of **$25** (one $1,000 bond converts to 40 shares). The price differential between the convertible and its straight value is effectively the value of the **embedded call option**. The investor pays the higher price for the potential capital gain if the share appreciates, while downside risk is limited to the straight value.
 
@@ -856,7 +906,9 @@ Normally a convertible also trades at a premium to its **straight value**, becau
 
 Convertibles are often issued with a **current yield higher than the dividend yield** on the shares. Investors compare attractiveness by how quickly the conversion premium is recovered from the income advantage of holding the convertible.
 
-$$\text{Breakeven Time} = \frac{\text{Conversion Premium}}{\text{Bond Income} - \text{Dividend Income}}$$
+$$
+\text{Breakeven Time} = \frac{\text{Conversion Premium}}{\text{Bond Income} - \text{Dividend Income}}
+$$
 
 For Genesis, the conversion premium is **$140**.
 
@@ -873,7 +925,9 @@ Breakeven time ignores the time value of money, but is a useful indicator of rel
 
 The investment value is usually the **floor price** of a convertible. Downside risk is measured by comparing the market price with the investment value:
 
-$$\text{Premium Over Straight Value (\%)} = \frac{\text{Market Price of CB}}{\text{Investment Value}} - 1$$
+$$
+\text{Premium Over Straight Value (\%)} = \frac{\text{Market Price of CB}}{\text{Investment Value}} - 1
+$$
 
 For Genesis: $1,100 / $728 − 1 = **51%**.
 

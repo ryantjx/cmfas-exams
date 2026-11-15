@@ -79,7 +79,9 @@ The worked example throughout is **Duty Free International Limited (DF Int'l)**.
 
 When the share price is **greater** than the exercise price, the warrant is **in-the-money** and intrinsic value is the difference between the current share price and the exercise price:
 
-$$\text{Intrinsic Value} = \frac{SP - EP}{n}$$
+$$
+\text{Intrinsic Value} = \frac{SP - EP}{n}
+$$
 
 where $$SP$$ is the share price, $$EP$$ the exercise price, and $$n$$ the conversion ratio.
 
@@ -89,27 +91,37 @@ Since issuance, DF Int'l's share price has remained below the **$0.430** exercis
 
 **Worked example.** If the share price rises to **$0.48**, the warrant is in-the-money and intrinsic value is:
 
-$$\frac{0.480 - 0.430}{1} = \$0.05$$
+$$
+\frac{0.480 - 0.430}{1} = \$0.05
+$$
 
 ### 10.2.2 Conversion Price
 
 The **total price** the investor must pay to convert warrants into one underlying share:
 
-$$\text{Conversion price} = n \times WP + EP$$
+$$
+\text{Conversion price} = n \times WP + EP
+$$
 
 where $$WP$$ is the warrant price. With a warrant price of **$0.03**:
 
-$$\text{Conversion price} = 0.030 + 0.430 = \$0.46$$
+$$
+\text{Conversion price} = 0.030 + 0.430 = \$0.46
+$$
 
 ### 10.2.3 Warrant Price and Warrant Premium
 
 The **warrant premium** is the additional amount spent by purchasing warrants and paying the exercise price to convert to one share, as opposed to buying the share outright in the market. The term "premium" here does **not** carry the same meaning as in conventional options, where the premium is the option price.
 
-$$\text{Warrant premium (\$)} = n \times WP + EP - SP$$
+$$
+\text{Warrant premium (\$)} = n \times WP + EP - SP
+$$
 
 In percentage terms:
 
-$$\text{Warrant Premium (\%)} = \frac{n \times WP + EP - SP}{SP} \times 100$$
+$$
+\text{Warrant Premium (\%)} = \frac{n \times WP + EP - SP}{SP} \times 100
+$$
 
 **Worked example — two scenarios.**
 
@@ -127,7 +139,9 @@ $$\text{Warrant Premium (\%)} = \frac{n \times WP + EP - SP}{SP} \times 100$$
 
 The **gearing ratio** compares the price of warrants needed to convert to one share relative to the share price at a point in time. Gearing gives investors the ability to participate in the underlying share's performance at a **lower price**.
 
-$$\text{Gearing ratio} = \frac{SP}{n \times WP} = \frac{0.265}{0.030} = 8.8x \text{ (approximately)}$$
+$$
+\text{Gearing ratio} = \frac{SP}{n \times WP} = \frac{0.265}{0.030} = 8.8x \text{ (approximately)}
+$$
 
 ### 10.2.5 Minimum Value and Maximum Value
 
@@ -138,7 +152,9 @@ For a warrant with a conversion ratio of **1**:
 - The **maximum value** is the **underlying share price**. Most warrant prices do not trade at their maximum, and prices fall as warrants approach expiration.
 - The **minimum value** is the **intrinsic value**:
 
-$$\text{Minimum value} = SP - EP \text{ if } SP > EP; \qquad = 0 \text{ if } SP \le EP$$
+$$
+\text{Minimum value} = SP - EP \text{ if } SP > EP; \qquad = 0 \text{ if } SP \le EP
+$$
 
 In the DF Int'l example, with a share price of **$0.26** and exercise price of **$0.43**, the share price is below the exercise price and the warrant is **out-of-the-money**. If the share price rises to **$0.48**, the warrant is **in-the-money**. If the share price **equals** the exercise price, the warrant trades **at-the-money**.
 

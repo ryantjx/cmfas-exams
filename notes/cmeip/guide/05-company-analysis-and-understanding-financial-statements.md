@@ -550,7 +550,9 @@ SIA's gearing improved in FY2020/2021 principally because shareholders' equity (
 
 **a. Interest coverage.** The times-interest-earned ratio indicates how many times fixed interest charges are covered by earnings. A higher ratio of earnings to interest indicates lower financial risk.
 
-$$\text{Interest Coverage} = \frac{\text{EBIT}}{\text{Interest Expense}}$$
+$$
+\text{Interest Coverage} = \frac{\text{EBIT}}{\text{Interest Expense}}
+$$
 
 SIA's coverage ratios were negative in FY2020/2021 because of trading losses. A higher positive ratio is good (lower financial risk); a negative ratio indicates the opposite — the loss as a multiple of financing charges. **The size of a negative ratio is also determined by the absolute amount of interest charges.** A firm with a coverage ratio of **−1** does not necessarily have lower financial risk than one at **−3**: both are incurring trading losses, but the −1 firm has **higher financing charges** (the denominator), which is not a good thing even though both made the same trading loss.
 
@@ -558,7 +560,9 @@ All airlines in the comparison incurred net losses in 2020 and therefore show ne
 
 **b. Total fixed charge coverage.** Measures how well earnings cover total fixed financial charges, including fixed lease payments and preferred dividends paid out of after-tax earnings.
 
-$$\text{Fixed Charge Coverage} = \frac{\text{Earnings Before Interest, Taxes and Lease Payments}}{\text{Interest Expense} + \text{Lease Payments} + \dfrac{\text{Preferred Dividend}}{1 - \text{Tax Rate}}}$$
+$$
+\text{Fixed Charge Coverage} = \frac{\text{Earnings Before Interest, Taxes and Lease Payments}}{\text{Interest Expense} + \text{Lease Payments} + \dfrac{\text{Preferred Dividend}}{1 - \text{Tax Rate}}}
+$$
 
 ### 5.11.4 Operating Efficiency / Activity Ratios
 

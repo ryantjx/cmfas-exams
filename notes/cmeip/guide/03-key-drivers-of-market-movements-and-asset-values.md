@@ -75,7 +75,9 @@ Governments can also cut taxes, creating higher profits and disposable income, w
 
 Gross Domestic Product (GDP) is the most widely used measure of economic performance. It measures the market value of goods and services produced in the domestic economy during a specific period, usually one year. Four components are considered:
 
-$$GDP = C + I + G + NE$$
+$$
+GDP = C + I + G + NE
+$$
 
 where $$C$$ is consumption expenditure by individuals on goods and services, $$I$$ is private investment in capital goods (capital expenditure for replacing equipment and expanding the supply of capital assets), $$G$$ is government spending (both investment and consumption, including education, defence, capital investment, infrastructure and health services), and $$NE$$ is net exports — total exports less total imports, which may be positive or negative. When a country sells more to foreigners than it buys, net exports are positive.
 
@@ -142,7 +144,9 @@ When the economy overheats, the central bank raises required reserves, indirectl
 
 **d. Quantity theory of money.** When money supply increases, central banks fear that excess liquidity causes asset inflation. The quantity theory of money states a direct proportional relationship between the amount of money in the economy and the price of goods and services — too much money in the system causes inflation. Fisher's **equation of exchange**:
 
-$$M \times V = P \times Q$$
+$$
+M \times V = P \times Q
+$$
 
 where $$M$$ is the stock of money (currency outside banks plus demand deposits), $$V$$ is the velocity of money circulation (the number of times per period an average unit of money changes hands), $$P$$ is the general price level or a price index, and $$Q$$ is the number of transactions in an economy during a year.
 

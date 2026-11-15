@@ -70,23 +70,31 @@ Total return on a pre-tax basis has two components:
 - **Current income** — income received during the holding period, such as dividends from shares and interest from fixed income securities or fixed deposits.
 - **Capital gain or loss** — the change in price of the security.
 
-$$\text{Total Return} = \frac{\text{Income} + \text{Capital Gain or Loss}}{\text{Purchase Price}}$$
+$$
+\text{Total Return} = \frac{\text{Income} + \text{Capital Gain or Loss}}{\text{Purchase Price}}
+$$
 
 Because the capital gain or loss is the ending price minus the beginning price, the same relationship is written:
 
-$$\text{Total Return} = \frac{CF_t + (P_E - P_B)}{P_B}$$
+$$
+\text{Total Return} = \frac{CF_t + (P_E - P_B)}{P_B}
+$$
 
 where $$CF_t$$ is the sum of cash flows during measurement period $$t$$, $$P_E$$ is the price at the end of period $$t$$ (the sale price), and $$P_B$$ is the price at the beginning of period $$t$$ (the purchase price).
 
 **Worked example.** You buy 1,000 shares of XYZ at $5 each and receive a dividend per share of $0.20. You sell one year later at $6.
 
-$$\text{Total Return} = \frac{0.20 + (6 - 5)}{5} = 0.24 = 24\%$$
+$$
+\text{Total Return} = \frac{0.20 + (6 - 5)}{5} = 0.24 = 24\%
+$$
 
 ### 2.2.2 Expected Rate of Return
 
 The historical rate of return is known; the expected rate of return is the future rate, which may or may not be realised. A single figure such as "15%" is a **point estimate**. Because the future is uncertain, several returns are possible under different economic outlooks, and probabilities can be assigned to each.
 
-$$E(R) = \sum_{i=1}^{n} r_i p_i$$
+$$
+E(R) = \sum_{i=1}^{n} r_i p_i
+$$
 
 where $$E(R)$$ is the expected return on the security, $$r_i$$ is the $$i$$th possible return, $$p_i$$ is the probability of that return, and $$n$$ is the number of possible returns. The expected return is therefore the **probability-weighted average** of possible returns.
 
@@ -99,19 +107,25 @@ where $$E(R)$$ is the expected return on the security, $$r_i$$ is the $$i$$th po
 | Stable | 0.60 | 15% |
 | | **1.00** | |
 
-$$E(R) = (0.20 \times 0.25) + (0.20 \times -0.30) + (0.60 \times 0.15) = 0.05 - 0.06 + 0.09 = 0.08 = 8\%$$
+$$
+E(R) = (0.20 \times 0.25) + (0.20 \times -0.30) + (0.60 \times 0.15) = 0.05 - 0.06 + 0.09 = 0.08 = 8\%
+$$
 
 ### 2.2.3 Annualised Rate of Return
 
 Returns are often presented on an annualised basis. The annualised rate compounds the holding-period return to a one-year equivalent.
 
-$$\text{Annualised Rate of Return} = (1 + r_{\text{period}})^{12/m} - 1$$
+$$
+\text{Annualised Rate of Return} = (1 + r_{\text{period}})^{12/m} - 1
+$$
 
 where $$m$$ is the number of months in the holding period.
 
 **Worked example.** A product is expected to generate a maximum return of **2.5% over 3 months**.
 
-$$(1.025)^{12/3} - 1 = 1.10381 - 1 = 0.104 \approx 10.4\%$$
+$$
+(1.025)^{12/3} - 1 = 1.10381 - 1 = 0.104 \approx 10.4\%
+$$
 
 The compounding logic, step by step, on $1:
 
@@ -134,15 +148,21 @@ $$r_4 = (1.12)^{1/3} - 1 = 0.0385 = 3.85\%$$
 
 The real rate removes the effect of inflation, because asset prices rise with general inflation independently of the investment's performance.
 
-$$\text{Real Return} = \frac{1 + r_{\text{nominal}}}{1 + \text{inflation}} - 1$$
+$$
+\text{Real Return} = \frac{1 + r_{\text{nominal}}}{1 + \text{inflation}} - 1
+$$
 
 **Worked example.** With an annualised return of 10.4% and inflation of 2%:
 
-$$\frac{1.104}{1.02} - 1 = 0.08235 = 8.24\%$$
+$$
+\frac{1.104}{1.02} - 1 = 0.08235 = 8.24\%
+$$
 
 With **deflation** of 1% (asset values fell 1%), the same formula gives:
 
-$$\frac{1.104}{1 - 0.01} - 1 = 11.52\%$$
+$$
+\frac{1.104}{1 - 0.01} - 1 = 11.52\%
+$$
 
 Note the sign convention: inflation is added to 1 in the denominator, deflation is subtracted.
 
@@ -198,7 +218,9 @@ The internal rate of return (IRR) equates all cash outflows (investments) agains
 
 Evaluated at the end of year 3, with IRR denoted $$r$$:
 
-$$1(1+r)^3 + 2(1+r)^2 + 0(1+r) = 3.5$$
+$$
+1(1+r)^3 + 2(1+r)^2 + 0(1+r) = 3.5
+$$
 
 The first $1m compounds for 3 years, the second $2m for 2 years, and the $0 for 1 year.
 
@@ -230,7 +252,9 @@ The IRR is approximately **6.8%**. In a spreadsheet the calculation is `=IRR(cel
 
 Restating the cash flows:
 
-$$5(1+r)^3 - 3(1+r)^2 + 8(1+r) = 9.898$$
+$$
+5(1+r)^3 - 3(1+r)^2 + 8(1+r) = 9.898
+$$
 
 | Trial rate | Left-hand side |
 |---|---|
@@ -242,7 +266,9 @@ The IRR, and therefore the money-weighted return, is **−0.6%**.
 
 **(c) The annualised compounded (time-weighted) return.** The cumulative return is $$(1.02 \times 1.10 \times 0.96) - 1 = 0.0771 = 7.71\%$$. Annualising:
 
-$$(1 + R)^3 = 1.0771 \implies R = (1.0771)^{1/3} - 1 = 0.0251 = 2.51\%$$
+$$
+(1 + R)^3 = 1.0771 \implies R = (1.0771)^{1/3} - 1 = 0.0251 = 2.51\%
+$$
 
 The fund itself made 2.51% a year; the client lost 0.6% a year because of the timing of their own contributions and withdrawals. That gap is the whole point of the money-weighted versus time-weighted distinction.
 
@@ -254,9 +280,13 @@ Risk is the uncertainty of returns associated with an investment — in simple t
 
 Variance and standard deviation are the most widely used statistical measures of risk. They measure the **dispersion of returns from the average return**: the smaller the dispersion, the lower the risk.
 
-$$\sigma^2 = \sum p_i \left[ r_i - E(R) \right]^2$$
+$$
+\sigma^2 = \sum p_i \left[ r_i - E(R) \right]^2
+$$
 
-$$\sigma = \sqrt{\sum p_i \left[ r_i - E(R) \right]^2} = \sqrt{\sigma^2}$$
+$$
+\sigma = \sqrt{\sum p_i \left[ r_i - E(R) \right]^2} = \sqrt{\sigma^2}
+$$
 
 where $$\sigma^2$$ is the variance of returns and $$\sigma$$ is the standard deviation, the positive square root of the variance.
 
@@ -277,7 +307,9 @@ Variance $$\sigma^2 = 0.03760$$. Standard deviation $$\sigma = \sqrt{0.03760} = 
 
 The coefficient of variation (CV) measures the **risk per unit of expected return**, which lets investments with different returns and different standard deviations be compared.
 
-$$CV = \frac{\text{Standard Deviation of Returns}}{\text{Expected Rate of Return}}$$
+$$
+CV = \frac{\text{Standard Deviation of Returns}}{\text{Expected Rate of Return}}
+$$
 
 **Worked example.**
 
@@ -288,7 +320,9 @@ $$CV = \frac{\text{Standard Deviation of Returns}}{\text{Expected Rate of Return
 
 On standard deviation alone, B looks less attractive because its risk is higher. But B also has a higher expected return:
 
-$$CV_A = \frac{0.08}{0.05} = 1.60 \qquad CV_B = \frac{0.20}{0.15} = 1.33$$
+$$
+CV_A = \frac{0.08}{0.05} = 1.60 \qquad CV_B = \frac{0.20}{0.15} = 1.33
+$$
 
 On a risk-per-unit-of-return basis, **B is more attractive** — it has the lower coefficient of variation.
 
@@ -300,11 +334,15 @@ Assuming returns are normally distributed, the probability of observing a range 
 
 The return that deviates by exactly ±1 standard deviation from the expected return:
 
-$$X - E(r) = \pm 1\sigma \implies X = 0.06 \pm 0.12 = -0.06 \text{ or } 0.18$$
+$$
+X - E(r) = \pm 1\sigma \implies X = 0.06 \pm 0.12 = -0.06 \text{ or } 0.18
+$$
 
 The **Z-score** expresses how many standard deviations a return deviates from the expected return:
 
-$$Z = \frac{X - E(r)}{\sigma}$$
+$$
+Z = \frac{X - E(r)}{\sigma}
+$$
 
 For −6%: $$Z = (-0.06 - 0.06)/0.12 = -1$$. For +18%: $$Z = (0.18 - 0.06)/0.12 = +1$$.
 
@@ -321,7 +359,9 @@ The probability of a return between −6% and +18% is therefore $$0.84 - 0.16 = 
 
 **Probability of a loss.** The question "what is the likelihood of making a loss?" means the likelihood that the return $$X$$ is less than 0:
 
-$$Z = \frac{0 - 6\%}{12\%} = -0.5$$
+$$
+Z = \frac{0 - 6\%}{12\%} = -0.5
+$$
 
 For $$Z = -0.5$$ the table gives a **69% probability of a positive return** and therefore a **31% chance of a negative return**.
 
@@ -466,33 +506,45 @@ Money has time value: a dollar received in the future is worth **less** than a d
 
 A deposit of $10,000 for one year at 2.5% has principal $10,000, an interest period of 1 year, and a rate of 2.5%. For a Singapore dollar deposit the **day basis is 365 days**.
 
-$$\text{Simple Interest} = \frac{\text{Principal} \times \text{Interest Rate (in \%)} \times \text{Interest Period (in days)}}{36{,}500}$$
+$$
+\text{Simple Interest} = \frac{\text{Principal} \times \text{Interest Rate (in \%)} \times \text{Interest Period (in days)}}{36{,}500}
+$$
 
 The denominator depends on the currency's day basis: **Singapore dollar interest uses a 365-day basis; US dollar interest uses a 360-day basis.**
 
 **Worked example — simple interest.** A SGD 1 million deposit earning 8% for 91 days:
 
-$$\frac{1{,}000{,}000 \times 8 \times 91}{36{,}500} = \text{SGD } 19{,}945.21$$
+$$
+\frac{1{,}000{,}000 \times 8 \times 91}{36{,}500} = \text{SGD } 19{,}945.21
+$$
 
 **Worked example — compound interest.** The same deposit rolled over for another 91 days at 8%:
 
-$$\frac{1{,}019{,}945.21 \times 8 \times 91}{36{,}500} = \text{SGD } 20{,}343.02$$
+$$
+\frac{1{,}019{,}945.21 \times 8 \times 91}{36{,}500} = \text{SGD } 20{,}343.02
+$$
 
 Total interest is $$19{,}945.21 + 20{,}343.02 = \text{SGD } 40{,}288.23$$. The annualised compounded rate is:
 
-$$\frac{40{,}288.23}{1{,}000{,}000} \times \frac{36{,}500}{182} = 8.08\%$$
+$$
+\frac{40{,}288.23}{1{,}000{,}000} \times \frac{36{,}500}{182} = 8.08\%
+$$
 
 The second period earns interest on the first period's interest, which is why the annualised rate exceeds the nominal 8%.
 
 ### 2.5.2 Future Value
 
-$$FV_n = PV(1 + k)^n$$
+$$
+FV_n = PV(1 + k)^n
+$$
 
 where $$FV_n$$ is the future value at the end of $$n$$ years, $$PV$$ is the present value or original amount invested at the beginning of the first year, $$n$$ is the number of years of compounding, and $$k$$ is the annual interest rate.
 
 **Worked example.** $1,000 in an account paying 5% compounded annually for 10 years:
 
-$$FV_{10} = 1{,}000(1.05)^{10} = 1{,}000(1.62889) = \$1{,}628.89$$
+$$
+FV_{10} = 1{,}000(1.05)^{10} = 1{,}000(1.62889) = \$1{,}628.89
+$$
 
 ### 2.5.3 Time Value of Money in Negative Interest Rate Environment
 
@@ -516,35 +568,47 @@ Banks have generally not charged negative interest on depositor cash, because of
 
 The compounded annual growth rate (CAGR) is the effective annual rate earned on the initial cash flow.
 
-$$CAGR = \left[ \frac{FV}{PV} \right]^{1/n} - 1$$
+$$
+CAGR = \left[ \frac{FV}{PV} \right]^{1/n} - 1
+$$
 
 where $$FV$$ is the future value, $$PV$$ the present value, and $$n$$ the number of years.
 
 **Worked example.** With $$FV = \$1{,}628.89$$, $$PV = \$1{,}000$$ and $$n = 10$$:
 
-$$CAGR = \left[ \frac{1{,}628.89}{1{,}000} \right]^{1/10} - 1 = 0.05 = 5\%$$
+$$
+CAGR = \left[ \frac{1{,}628.89}{1{,}000} \right]^{1/10} - 1 = 0.05 = 5\%
+$$
 
 **Compounding more than once a year.** If $1,000 is invested for 5 years at 5% compounded semi-annually, the money is invested for **10 six-month periods** at **2.5%** each. Quarterly compounding gives **20 three-month periods** at **1.25%** each. The general formula is:
 
-$$FV_n = PV\left(1 + \frac{k}{m}\right)^{mn}$$
+$$
+FV_n = PV\left(1 + \frac{k}{m}\right)^{mn}
+$$
 
 where $$m$$ is the number of interest periods in the year.
 
 **Worked example — quarterly compounding.** $1,000 for 10 years at 5% compounded quarterly:
 
-$$FV_{10} = 1{,}000\left(1 + \frac{0.05}{4}\right)^{40} = 1{,}000(1.0125)^{40} = 1{,}000(1.64362) = \$1{,}643.62$$
+$$
+FV_{10} = 1{,}000\left(1 + \frac{0.05}{4}\right)^{40} = 1{,}000(1.0125)^{40} = 1{,}000(1.64362) = \$1{,}643.62
+$$
 
 ### 2.5.5 Present Value of a Single Cash Flow
 
 Discounting is the opposite of compounding: it finds the present value of a future sum, and is used to judge the attractiveness of investment projects.
 
-$$PV = \frac{FV_n}{(1 + k)^n}$$
+$$
+PV = \frac{FV_n}{(1 + k)^n}
+$$
 
 where $$PV$$ is the present value, $$FV_n$$ the future value at the end of $$n$$ years, $$n$$ the number of years to receipt, and $$k$$ the annual discount (or interest) rate.
 
 **Worked example.** At a 6% discount rate, the present value of $1,000 receivable in 5 years:
 
-$$PV = \frac{1{,}000}{(1.06)^5} = \frac{1{,}000}{1.3382} = \$747.27$$
+$$
+PV = \frac{1{,}000}{(1.06)^5} = \frac{1{,}000}{1.3382} = \$747.27
+$$
 
 **The discount rate.** The interest rate in present value calculations is the **discount rate**, interpreted as the return available on alternative similar investments. From the security holder's perspective it is an opportunity cost, and therefore also the return expected by holders of the securities. Because it is frequently used to adjust cash flows for risk, it is also called the **risk-adjusted discount rate**. The actual discount rate is at least the **risk-free government bond yield of the same maturity** as the intended holding period.
 

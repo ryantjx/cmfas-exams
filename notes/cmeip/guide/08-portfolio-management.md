@@ -186,7 +186,9 @@ The risk remaining after extensive diversification is **market risk** or **syste
 
 ### 8.4.3 Systematic and Non-systematic Risks
 
-$$\text{Total risk} = \text{Systematic risk} + \text{Non-systematic risk}$$
+$$
+\text{Total risk} = \text{Systematic risk} + \text{Non-systematic risk}
+$$
 
 **Systematic risk** (undiversifiable risk) results from factors affecting all firms, such as interest rate risk and inflation risk. It is caused by changes in the economic, political and sociological environment that affect the prices of all marketable securities, and **cannot be eliminated by diversification**.
 
@@ -233,13 +235,17 @@ There was nowhere for funds to hide in 2008 except **cash and government bonds**
 
 The expected return of a portfolio is a **weighted average** of the expected returns of its individual securities:
 
-$$R_p = \sum_{i=1}^{n} w_i r_i$$
+$$
+R_p = \sum_{i=1}^{n} w_i r_i
+$$
 
 where $$R_p$$ is the expected portfolio return, $$w_i$$ the portfolio weight for security $$i$$, $$r_i$$ the expected return on security $$i$$, $$n$$ the number of securities, and $$\sum w_i = 1.0$$.
 
 **Portfolio risk is NOT a weighted average** of the individual securities' risk. For two assets:
 
-$$\sigma_p = \sqrt{w_1^2 \sigma_1^2 + w_2^2 \sigma_2^2 + 2 w_1 w_2 \rho_{1,2} \sigma_1 \sigma_2}$$
+$$
+\sigma_p = \sqrt{w_1^2 \sigma_1^2 + w_2^2 \sigma_2^2 + 2 w_1 w_2 \rho_{1,2} \sigma_1 \sigma_2}
+$$
 
 where $$w_1$$ and $$w_2$$ are the portfolio weights, $$\sigma_1$$ and $$\sigma_2$$ the standard deviations, and $$\rho_{1,2}$$ the correlation coefficient.
 
@@ -252,9 +258,13 @@ where $$w_1$$ and $$w_2$$ are the portfolio weights, $$\sigma_1$$ and $$\sigma_2
 
 Correlation coefficient between A and B is **0.8**.
 
-$$\text{Expected return} = (0.4)(0.18) + (0.6)(0.09) = 0.072 + 0.054 = 12.6\%$$
+$$
+\text{Expected return} = (0.4)(0.18) + (0.6)(0.09) = 0.072 + 0.054 = 12.6\%
+$$
 
-$$\sigma_p = \sqrt{0.4^2 \times 0.2^2 + 0.6^2 \times 0.1^2 + 2(0.4)(0.6)(0.8)(0.2)(0.1)} = \sqrt{0.0064 + 0.0036 + 0.00768} = \sqrt{0.01768} = 0.1330 = 13.30\%$$
+$$
+\sigma_p = \sqrt{0.4^2 \times 0.2^2 + 0.6^2 \times 0.1^2 + 2(0.4)(0.6)(0.8)(0.2)(0.1)} = \sqrt{0.0064 + 0.0036 + 0.00768} = \sqrt{0.01768} = 0.1330 = 13.30\%
+$$
 
 **The effect of correlation:**
 
@@ -308,7 +318,9 @@ Two important relations follow:
 
 **b. The Capital Market Line.** The CML shows the risk-return trade-off for **efficient portfolios**. It is the efficient frontier formed from combinations of the market portfolio with the risk-free asset. In equilibrium all investors should hold a portfolio somewhere on the CML.
 
-$$E(R_p) = R_f + \frac{E(R_m) - R_f}{\sigma_m} \sigma_p$$
+$$
+E(R_p) = R_f + \frac{E(R_m) - R_f}{\sigma_m} \sigma_p
+$$
 
 where $$E(R_p)$$ is the expected return on any efficient portfolio P on the CML, $$R_f$$ the risk-free rate, $$E(R_m)$$ the expected return on the market portfolio, $$\sigma_m$$ the standard deviation of market returns, and $$\sigma_p$$ the standard deviation of portfolio P's returns. $$E(R_m) - R_f$$ is the **market risk premium**.
 
@@ -323,7 +335,9 @@ The relative systematic risk of a security or portfolio is the volatility of its
 
 A security with beta **1.5** has, on average, **1.5 times** as much systematic risk as the market. A risk-free asset has a beta of **zero**, but an asset with beta zero need not be risk-free — it can have unsystematic risk; either way both should yield the risk-free rate.
 
-$$E(R_i) = R_f + \beta_i (R_m - R_f)$$
+$$
+E(R_i) = R_f + \beta_i (R_m - R_f)
+$$
 
 where $$E(R_i)$$ is the expected return on security or portfolio $$i$$, $$R_f$$ the risk-free rate, $$R_m$$ the expected market return, $$\beta_i$$ the systematic risk relative to the market, and $$R_m - R_f$$ the market risk premium.
 
@@ -331,7 +345,9 @@ Securities with betas greater than 1 should have larger risk premiums than the m
 
 **Worked example.** Growth Portfolio A has a beta of **1.20**, the risk-free rate is **2.5%** and the expected market return is **14%**:
 
-$$E(r) = 2.5 + 1.2(14 - 2.5) = 16.3\%$$
+$$
+E(r) = 2.5 + 1.2(14 - 2.5) = 16.3\%
+$$
 
 **d. Generating positive alpha.** **Alpha** is the actual outperformance of the portfolio above what is predicted. If the actual return exceeds the predicted CAPM return, the manager is generating positive alpha — the ability to outperform the predicted CAPM return (or whatever model return is used as benchmark).
 
@@ -379,7 +395,9 @@ A factor model holds that underlying **risk factors** affect realised and expect
 
 Economic factors might include real economic growth, unexpected inflation, changes in interest rates and political uncertainties.
 
-$$R_i = E(R_i) + b_{i1}f_1 + b_{i2}f_2 + \dots + b_{in}f_n + e_i$$
+$$
+R_i = E(R_i) + b_{i1}f_1 + b_{i2}f_2 + \dots + b_{in}f_n + e_i
+$$
 
 where $$R_i$$ is the actual return on security $$i$$ in a period, $$E(R_i)$$ the expected return, $$f$$ the deviation of a systematic factor from its expected value, $$b_i$$ the sensitivity of security $$i$$'s returns to a factor, and $$e_i$$ a random error term unique to security $$i$$.
 
@@ -542,35 +560,49 @@ A proper measure of total return captures both the **income** and the **capital 
 
 **a. No deposits or withdrawals.**
 
-$$R_p = \frac{V_E - V_B}{V_B}$$
+$$
+R_p = \frac{V_E - V_B}{V_B}
+$$
 
 where $$V_E$$ is the end value and $$V_B$$ the beginning value.
 
 **Worked example.** A portfolio worth **$30 million** at the start of the quarter and **$35 million** at the end:
 
-$$R_p = \frac{35 - 30}{30} = 16.7\%$$
+$$
+R_p = \frac{35 - 30}{30} = 16.7\%
+$$
 
 **b. Deposits or withdrawals at the end of the period.** The deposit must be **deducted from the ending value** first.
 
-$$R_p = \frac{(V_E + \text{Withdrawals} - \text{Deposits}) - V_B}{V_B}$$
+$$
+R_p = \frac{(V_E + \text{Withdrawals} - \text{Deposits}) - V_B}{V_B}
+$$
 
 **Worked example.** A portfolio worth **$50 million** at the start; the client deposits **$5 million** just before the end of the quarter; the end value is **$53 million**:
 
-$$R_p = \frac{(53 - 5) - 50}{50} = -4.0\%$$
+$$
+R_p = \frac{(53 - 5) - 50}{50} = -4.0\%
+$$
 
 **c. Deposits or withdrawals at the beginning of the period.** Adjust the **beginning value**: increase it by a deposit, decrease it by a withdrawal.
 
-$$R_p = \frac{V_E - (V_B + \text{Deposits} - \text{Withdrawals})}{V_B + \text{Deposits} - \text{Withdrawals}}$$
+$$
+R_p = \frac{V_E - (V_B + \text{Deposits} - \text{Withdrawals})}{V_B + \text{Deposits} - \text{Withdrawals}}
+$$
 
 **Worked example.** If the $5 million deposit was received at the **beginning** of the quarter:
 
-$$R_p = \frac{53 - (50 + 5)}{50 + 5} = -3.6\%$$
+$$
+R_p = \frac{53 - (50 + 5)}{50 + 5} = -3.6\%
+$$
 
 **d. Dollar-weighted rate of return (DWR).** When cash flows occur **between** the beginning and end of the period, the DWR can be used. It is equivalent to the **internal rate of return**: it equates the present value of all cash flows, including the ending market value, with the beginning market value.
 
 **Worked example.** If the $5 million deposit was made in the **middle** of the quarter, solve for $$r$$:
 
-$$50 = \frac{-5}{(1+r)} + \frac{53}{(1+r)^2}$$
+$$
+50 = \frac{-5}{(1+r)} + \frac{53}{(1+r)^2}
+$$
 
 $$r = -1.92\%$$ (semi-quarterly return)
 
@@ -596,31 +628,43 @@ With frequent cash flows, many calculations may be needed to derive the TWR.
 
 **f. Annualising returns.** From quarterly returns:
 
-$$\text{Annual Return} = [(1 + r_1)(1 + r_2)(1 + r_3)(1 + r_4)] - 1$$
+$$
+\text{Annual Return} = [(1 + r_1)(1 + r_2)(1 + r_3)(1 + r_4)] - 1
+$$
 
 Over several years, the annualised geometric mean return — the **compound annual growth rate (CAGR)** — is used.
 
 **Worked example.** A portfolio grew from **$100 to $250 in 5 years**:
 
-$$250 = 100(1 + r)^5 \implies (1 + r)^5 = 2.5 \implies r = 20.1\%$$
+$$
+250 = 100(1 + r)^5 \implies (1 + r)^5 = 2.5 \implies r = 20.1\%
+$$
 
 **g. Dollar-weighted versus time-weighted return.** The two methods can produce different results, sometimes substantially. The **DWR is inappropriate for evaluating a portfolio manager**, because it is strongly influenced by the **size and timing of cash flows**, over which the manager has no control. The **TWR is more appropriate**, because the objective is to measure the manager's performance independent of the client's actions. Fund managers are evaluated using the TWR because they have little or no control over inflows and outflows.
 
 **h. Modified Dietz method.** A true TWR requires valuing the portfolio just before each cash flow. In practice cash flows often occur intra-month when valuations are unavailable. The Dietz method overcomes this by assuming a **constant rate of return** during the period. The original Dietz method assumes all cash flows occur at the **midpoint**; the **modified Dietz** method weights each cash flow by the amount of time it is held.
 
-$$R_p = \frac{V_E - V_B - CF}{V_B + WCF}$$
+$$
+R_p = \frac{V_E - V_B - CF}{V_B + WCF}
+$$
 
 where $$CF$$ is the net cash flow over the period and $$WCF$$ the weighted cash flow:
 
-$$WCF = \sum_i CF_i \frac{n - t_i}{n}$$
+$$
+WCF = \sum_i CF_i \frac{n - t_i}{n}
+$$
 
 where $$CF_i$$ is the cash flow on day $$t_i$$, $$t_i$$ the number of days from the beginning of the period until $$CF_i$$, and $$n$$ the number of days in the period. The numerator assumes the cash flow occurs at the **end of the day**; if assumed at the beginning, use $$(n - t_i + 1)$$.
 
 **Worked example.** A portfolio worth **$10 million** at the start of a month. Cash inflows of **$100,000 on day 12** and **$200,000 on day 18**. End-of-month value **$11 million**.
 
-$$WCF = 100{,}000 \times \frac{30 - 12}{30} + 200{,}000 \times \frac{30 - 18}{30} = 60{,}000 + 80{,}000 = 140{,}000$$
+$$
+WCF = 100{,}000 \times \frac{30 - 12}{30} + 200{,}000 \times \frac{30 - 18}{30} = 60{,}000 + 80{,}000 = 140{,}000
+$$
 
-$$R_p = \frac{11{,}000{,}000 - 10{,}000{,}000 - 300{,}000}{10{,}000{,}000 + 140{,}000} = 6.90\%$$
+$$
+R_p = \frac{11{,}000{,}000 - 10{,}000{,}000 - 300{,}000}{10{,}000{,}000 + 140{,}000} = 6.90\%
+$$
 
 **Advantage:** no portfolio valuation is needed on the date of each cash flow. **Disadvantage:** it is a **less accurate** estimate of the true TWR, and can be affected by cash flows, especially when they are large relative to the portfolio or occur during periods of high volatility.
 
@@ -643,7 +687,9 @@ Evaluating a manager on returns alone is inadequate without considering the risk
 
 **a. Sharpe ratio.** Developed by William Sharpe, it relates the portfolio's **excess return** (return above the risk-free rate, also called the risk premium) to the portfolio's **total risk**, measured by standard deviation.
 
-$$\text{Sharpe ratio} = \frac{R_p - R_f}{\sigma_p}$$
+$$
+\text{Sharpe ratio} = \frac{R_p - R_f}{\sigma_p}
+$$
 
 where $$R_p$$ is the average portfolio return, $$R_f$$ the risk-free rate, and $$\sigma_p$$ the standard deviation of portfolio returns.
 
@@ -661,7 +707,9 @@ Portfolio A has the lowest excess return per unit of total risk and underperform
 
 **b. Treynor ratio.** Relates the same average excess return to **systematic risk**, measured by the portfolio's beta.
 
-$$\text{Treynor ratio} = \frac{R_p - R_f}{\beta_p}$$
+$$
+\text{Treynor ratio} = \frac{R_p - R_f}{\beta_p}
+$$
 
 This is the excess return per unit of **systematic risk**. The Treynor measure implies systematic risk is the proper measure for evaluating performance. The question it answers: "How much return above the risk-free rate am I getting for the market sensitivity the portfolio exposes me to, as captured by β?"
 
@@ -681,23 +729,31 @@ The Sharpe measure therefore accounts for the extent of diversification during t
 
 **d. Jensen's alpha.** Based on CAPM, measuring risk-adjusted return as alpha. The Jensen measure uses CAPM to determine the expected return on a portfolio given the market's performance, the risk-free rate and the portfolio's beta:
 
-$$R_e = R_f + \beta_p (R_m - R_f)$$
+$$
+R_e = R_f + \beta_p (R_m - R_f)
+$$
 
 The portfolio's alpha is the difference between the actual return and the CAPM-expected return:
 
-$$\alpha_p = R_{\text{actual}} - R_{\text{predicted}} = R_{\text{actual}} - [R_f + \beta_p(R_m - R_f)]$$
+$$
+\alpha_p = R_{\text{actual}} - R_{\text{predicted}} = R_{\text{actual}} - [R_f + \beta_p(R_m - R_f)]
+$$
 
 A **positive alpha** reflects superior performance; a **negative alpha** inferior performance.
 
 **e. Information (appraisal) ratio.** Looks at the amount of excess return relative to the excess risk. When comparing two portfolios with positive alpha, it compares alpha per unit of excess risk. A higher information ratio suggests the manager generates more outperformance per unit of excess risk taken.
 
-$$\text{Information ratio} = \frac{\alpha_p}{\sigma_p}$$
+$$
+\text{Information ratio} = \frac{\alpha_p}{\sigma_p}
+$$
 
 The higher the information ratio, the better.
 
 **f. Sortino ratio.** The Sharpe ratio applies to portfolios whose returns are expected to be **normally distributed**, and includes both positive and negative deviation in the standard deviation. But when managers protect downside risk with derivatives, short securities and the market, and enjoy the effects of leverage on positive volatility, they can create **positively skewed** portfolios. It would be unfair to penalise a manager for high positive deviation and a positively skewed distribution. The Sortino ratio therefore focuses on **downside risk**, with the denominator being an average of **downside volatility** for the period. This is particularly useful for comparing **hedge funds**.
 
-$$\text{Sortino ratio} = \frac{R_p - R_f}{\sigma_{\text{negative}}}$$
+$$
+\text{Sortino ratio} = \frac{R_p - R_f}{\sigma_{\text{negative}}}
+$$
 
 The Sortino ratio calculates the return above the risk-free rate per unit of **negative volatility**.
 

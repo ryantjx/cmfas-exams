@@ -90,7 +90,11 @@ One- to three-line orientation: what the chapter governs and why it is tested.
 Write formulas as LaTeX, not inline code:
 
 - Inline maths uses `$$…$$` (e.g. `$$n$$`, `$$\beta$$`). Display maths also uses
-  `$$…$$`; put a blank line before and after so it renders as a centred block.
+  `$$…$$`, but it must be written multi-line — `$$` on its own line, the
+  formula on the following line(s), closing `$$` on its own line, with a blank
+  line before and after the block. A single-line `$$…$$` block is parsed as
+  inline maths and renders inside the paragraph (it wraps mid-formula and the
+  fraction bars collide with exponents) instead of as a centred display block.
 - **Single-dollar `$…$` math is disabled**, because the guides are full of
   currency amounts (`$1,305`, `S$200,000`) that must stay literal. Write money as
   plain text — escape a leading dollar in display maths as `\$` if needed.
