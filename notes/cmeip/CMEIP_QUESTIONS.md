@@ -26,7 +26,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 2. **[Calculation]** [CM-EIP §1.1.1] An individual has net personal assets of S$2.4 million, including a primary residence worth S$1.8 million with an outstanding mortgage of S$600,000. Does the individual meet the net personal assets test for accredited investor status?
+### 2. **[Calculation]** [CM-EIP §1.1.1] An individual has total personal assets of S$2.4 million, including a primary residence worth S$1.8 million with an outstanding mortgage of S$600,000. Does the individual meet the net personal assets test for accredited investor status?
 
 - a. Yes, because net personal assets exceed S$2 million
 - b. No, because the residence is capped at S$1 million
@@ -58,7 +58,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 4. **[Multiple response]** [CM-EIP §1.1.1] Which of the following are typical return objectives quoted for client profiling? (Select all that apply)
+### 4. **[Single choice]** [CM-EIP §1.1.1] Which of the following is NOT one of the typical return objective bands quoted for client profiling?
 
 - a. Preserve wealth and purchasing power at 2–4%
 - b. Income with some growth at 4–6%
@@ -68,7 +68,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 <details>
 <summary>Show answer</summary>
 
-**Answer:** A, B, C
+**Answer:** D. Guaranteed capital growth above 15%
 
 **Rationale:** The guide quotes four bands: 2–4% for preserving wealth and purchasing power, 4–6% for income with some growth, 6–8% for steady balanced growth and 8–12% for aggressive growth. No guaranteed return above 15% is offered.
 
@@ -250,19 +250,19 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 16. **[Multiple response]** [CM-EIP §1.3] Which of the following are participants in financial markets? (Select all that apply)
+### 16. **[Single choice]** [CM-EIP §1.3] Which of the following is NOT a participant in financial markets according to the guide?
 
 - a. Issuers
 - b. Intermediaries such as broker-dealers and market makers
 - c. Infrastructure providers such as clearing houses and central depositories
-- d. Regulators
+- d. Credit rating agencies
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** A, B, C, D
+**Answer:** D. Credit rating agencies
 
-**Rationale:** The guide lists investors, issuers, intermediaries, regulators, electronic exchanges, infrastructure providers and financial institutions as participants.
+**Rationale:** The guide lists investors, issuers, intermediaries, regulators, electronic exchanges, infrastructure providers and financial institutions as participants. Credit rating agencies are not among the listed participant types.
 
 </details>
 
@@ -1132,19 +1132,19 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 71. **[Multiple response]** [CM-EIP §2.4.2] Which of the following are elements of risk management described in the guide? (Select all that apply)
+### 71. **[Single choice]** [CM-EIP §2.4.2] Which of the following is NOT an element of risk management described in the guide?
 
 - a. Due diligence checks on fund managers
 - b. Timely research and risk management processes
 - c. Client profile and product suitability assessment
-- d. Process and system risk management
+- d. Guaranteeing investment returns
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** A, B, C, D
+**Answer:** D. Guaranteeing investment returns
 
-**Rationale:** Risk management involves due diligence, timely research and risk management processes, assessing client profile and product suitability, risk diversification, and process and system risk management.
+**Rationale:** Risk management involves due diligence, timely research and risk management processes, assessing client profile and product suitability, risk diversification, and process and system risk management. Guaranteeing investment returns is not one of the elements — risk management reduces and manages risk, it cannot guarantee returns.
 
 </details>
 
@@ -1232,7 +1232,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 - a. $792.09
 - b. $747.27
-- c. $747.26
+- c. $747.38
 - d. $1,338.23
 
 <details>
@@ -1240,7 +1240,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 **Answer:** B. $747.27
 
-**Rationale:** PV = FV / (1 + k)^n = 1,000 / (1.06)^5 = 1,000 / 1.33823 = $747.27.
+**Rationale:** PV = FV / (1 + k)^n = 1,000 / (1.06)^5 = 1,000 / 1.3382 = $747.27, the guide's worked value (the denominator is shown truncated to four decimal places).
 
 </details>
 
@@ -3286,7 +3286,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 - a. By issuing new shares
 - b. By paying high dividends
-- c. By overstating loan losses
+- c. By writing back provisions promptly when customers repay
 - d. By making large provisions in a downturn and being slow to reverse them when customers repay
 
 <details>
@@ -3511,7 +3511,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 - a. The firm with −3
 - b. The firm with −1, because it has higher financing charges
 - c. They are equal
-- d. It cannot be determined
+- d. Neither firm faces any financial risk
 
 <details>
 <summary>Show answer</summary>
@@ -3618,7 +3618,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 226. **[Multiple response]** [CM-EIP §5.11.6] Which of the following are signs of strong and high-quality financial statements? (Select all that apply)
+### 226. **[Single choice]** [CM-EIP §5.11.6] Which of the following is NOT a sign of strong and high-quality financial statements?
 
 - a. Limited or lower use of debt relative to the industry
 - b. Assets generally carried below market values
@@ -3628,7 +3628,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 <details>
 <summary>Show answer</summary>
 
-**Answer:** A, B, C
+**Answer:** D. Aggressive revenue recognition that reflects higher sales
 
 **Rationale:** Signs of quality include limited or lower use of debt, higher liquidity, assets carried below market values, a preference not to reflect intangible assets, funds set aside for replacement, conservative revenue recognition, absence of off-balance-sheet activities, discipline in core business, realistic bad-debt recognition and steady sustainable growth. Aggressive revenue recognition is the opposite of quality.
 
@@ -4103,7 +4103,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 ### 256. **[Calculation]** [CM-EIP §6.4.1] A value-weighted index has a base market value of 64,000,000 set at an index level of 100. The current market value is 67,000,000. What is the new index value?
 
 - a. 100
-- b. 104.69
+- b. 104.00
 - c. 105
 - d. 107
 
@@ -4152,7 +4152,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 - a. 1.060
 - b. 1.040
-- c. 1.0400
+- c. 1.045
 - d. 1.120
 
 <details>
@@ -4393,7 +4393,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 - a. 1.6
 - b. 0.63
 - c. 2.8
-- d. 1.59
+- d. 1.45
 
 <details>
 <summary>Show answer</summary>
@@ -5094,7 +5094,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 318. **[Multiple response]** [CM-EIP §7.2.1] Which of the following are NOT insured by the Singapore Deposit Insurance Scheme? (Select all that apply)
+### 318. **[Single choice]** [CM-EIP §7.2.1] Which of the following IS insured by the Singapore Deposit Insurance Scheme?
 
 - a. Foreign currency deposits
 - b. Structured deposits
@@ -5104,7 +5104,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 <details>
 <summary>Show answer</summary>
 
-**Answer:** A, B, C
+**Answer:** D. Singapore dollar savings accounts
 
 **Rationale:** The scheme is only valid for Singapore dollar-denominated deposits placed with a DI member. Foreign currency deposits, structured deposits and investment products such as unit trusts, shares and other securities are not insured.
 
@@ -5577,7 +5577,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 ### 348. **[Single choice]** [CM-EIP §7.9.4] Which bondholders have a claim subordinated to secured debt and after the main creditors?
 
 - a. Subordinated (junior) bondholders
-- b. Income bondholders
+- b. Senior unsecured bondholders
 - c. Debenture holders
 - d. Mortgage bondholders
 
@@ -5586,7 +5586,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 **Answer:** A. Subordinated (junior) bondholders
 
-**Rationale:** Subordinated (junior) bondholders have a claim on the income and assets of the issuer that is subordinated to secured debt and after the main creditors have made their claims. Income bonds are junior debt as the issuing firm can omit or delay interest if earnings are too low.
+**Rationale:** Subordinated (junior) bondholders have a claim on the income and assets of the issuer that is subordinated to secured debt and after the main creditors have made their claims.
 
 </details>
 
@@ -5718,7 +5718,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 357. **[Multiple response]** [CM-EIP §7.11.4] Which of the following can mitigate poor credit quality of a bond issue? (Select all that apply)
+### 357. **[Single choice]** [CM-EIP §7.11.4] Which of the following does NOT mitigate poor credit quality of a bond issue?
 
 - a. Creating a dedicated sinking fund
 - b. Offering specified assets as collateral
@@ -5728,7 +5728,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 <details>
 <summary>Show answer</summary>
 
-**Answer:** A, B, C
+**Answer:** D. Removing the trustee
 
 **Rationale:** Companies can improve credit quality by creating a dedicated sinking fund, offering specified assets as collateral or security, offering parental guarantees, working with a financial institution to repackage the bonds with higher-quality bonds, or obtaining credit insurance or credit default swaps.
 
@@ -5894,7 +5894,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 368. **[Calculation]** [CM-EIP §7.13.1] A zero-coupon bond matures in 15 years with par $1,000, at a required return of 9%. What is its price?
+### 368. **[Calculation]** [CM-EIP §7.13.1] A zero-coupon bond matures in 15 years with par $1,000, at a required return of 9% (priced on a semi-annual basis). What is its price?
 
 - a. $274.54
 - b. $1,000.00
@@ -6792,7 +6792,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 424. **[Single choice]** [CM-EIP §8.2.1] Under the weak form of the EMH, which technique cannot consistently produce excess returns?
+### 424. **[Single choice]** [CM-EIP §8.2.1] Under the weak form of the EMH, which analysis technique cannot consistently produce excess returns?
 
 - a. Portfolio diversification
 - b. Fundamental analysis
@@ -7092,7 +7092,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 **Answer:** D. 2.00%
 
-**Rationale:** With ρ = −1, σp = √(0.0064 + 0.0036 − 0.00768) = √0.00232 = 0.0482, but the weighted difference is |0.4(0.2) − 0.6(0.1)| = |0.08 − 0.06| = 0.02 = 2%. Portfolio risk falls from 14% at ρ = 1 to 2% at ρ = −1.
+**Rationale:** With ρ = −1, σp = √(0.0064 + 0.0036 − 0.0096) = √0.0004 = 0.02 = 2%, the same as the weighted difference |0.4(0.2) − 0.6(0.1)| = |0.08 − 0.06| = 0.02 = 2%. Portfolio risk falls from 14% at ρ = 1 to 2% at ρ = −1.
 
 </details>
 
@@ -7704,7 +7704,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 481. **[Single choice]** [CM-EIP §8.6.1] Under GIPS, how often must portfolios be valued?
+### 481. **[Single choice]** [CM-EIP §8.6.1] Under GIPS, how often must portfolios be valued, at a minimum?
 
 - a. Quarterly
 - b. Annually
@@ -7912,7 +7912,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 494. **[Multiple response]** [CM-EIP §8.6.3] Which of the following are characteristics of a good benchmark? (Select all that apply)
+### 494. **[Single choice]** [CM-EIP §8.6.3] Which of the following is NOT a characteristic of a good benchmark?
 
 - a. Unambiguous, with the asset class and composition clearly stated
 - b. Investable as a passively managed portfolio
@@ -7922,7 +7922,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 <details>
 <summary>Show answer</summary>
 
-**Answer:** A, B, C
+**Answer:** D. Chosen by the client without the manager's agreement
 
 **Rationale:** Useful benchmarks should be unambiguous, investable, measurable, consistent with the investment manager's investment philosophy, and bought in by the investment manager as an acceptable benchmark.
 
@@ -11568,19 +11568,19 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 722. **[Multiple response]** [CM-EIP §12.6] Enterprise value can be calculated using which of the following? (Select all that apply)
+### 722. **[Single choice]** [CM-EIP §12.6] Which of the following correctly calculates enterprise value?
 
 - a. The sum of the present values of the FCFFs for the projection period plus the terminal value
 - b. The sum of the present values of the FCFFs for the projection period plus the present value of the terminal value
 - c. The sum of the FCFFs for the projection period plus the present value of the terminal value
-- d. The sum of the estimated market values of debt, common stock and preferred stock
+- d. The sum of the estimated market values of debt and common stock only
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** B, D
+**Answer:** B. The sum of the present values of the FCFFs for the projection period plus the present value of the terminal value
 
-**Rationale:** Enterprise value can be calculated either as the worth today of the cash flows the firm generates, or as the value today of the claims on those cash flows. Options (a) and (c) fail to discount the terminal value and the FCFFs respectively.
+**Rationale:** Enterprise value can be calculated either as the worth today of the cash flows the firm generates, or as the value today of the claims on those cash flows. Options (a) and (c) fail to discount the terminal value and the FCFFs respectively, and option (d) omits preferred stock, which the claims approach includes.
 
 </details>
 
@@ -11632,7 +11632,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 726. **[Multiple response]** [CM-EIP §12.8] An investor does not believe superior returns can be achieved through fundamental analysis. Which forms of market efficiency must he necessarily believe in? (Select all that apply)
+### 726. **[Single choice]** [CM-EIP §12.8] An investor does not believe superior returns can be achieved through fundamental analysis. Which is the strongest form of market efficiency he must necessarily believe in?
 
 - a. Weak form
 - b. Semi-weak form
@@ -11642,7 +11642,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 <details>
 <summary>Show answer</summary>
 
-**Answer:** A, C
+**Answer:** C. Semi-strong form
 
 **Rationale:** Conducting fundamental analysis to identify a mispriced stock assumes all publicly available information is not already reflected in the price, so he must believe the market is semi-strong form efficient. Because publicly available information includes historical price and volume information, he must also believe it is weak form efficient. Semi-weak form is not a standard classification.
 
@@ -11728,7 +11728,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 732. **[Multiple response]** [CM-EIP §12.10] Which features are common to unit trusts, business trusts and REITs? (Select all that apply)
+### 732. **[Single choice]** [CM-EIP §12.10] Which of the following is NOT a feature common to unit trusts, business trusts and REITs?
 
 - a. They are established under a trust deed
 - b. They are exchange-traded
@@ -11738,25 +11738,25 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 <details>
 <summary>Show answer</summary>
 
-**Answer:** A, C, D
+**Answer:** B. They are exchange-traded
 
 **Rationale:** All three are established under a trust deed, allow diversification by pooling and investing funds, and have professionally managed assets. Option (b) is incorrect because while all REITs are listed, unit trusts are typically not listed and some business trusts are unlisted.
 
 </details>
 
-### 733. **[Multiple response]** [CM-EIP §12.10] What are the main differences between business trusts and REITs? (Select all that apply)
+### 733. **[Single choice]** [CM-EIP §12.10] What is a main difference between business trusts and REITs?
 
 - a. The trustee and manager are separate in a REIT but not in a business trust
-- b. Business trusts do not face investment restrictions, unlike REITs
+- b. Business trusts must distribute at least 90% of their income, unlike REITs
 - c. Business trusts are unlisted whereas REITs are listed
 - d. There is a 75% gearing limit on REITs but only a 45% limit on business trusts
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** A, B
+**Answer:** A. The trustee and manager are separate in a REIT but not in a business trust
 
-**Rationale:** A business trust is a single responsible entity organisation with a trustee-manager, unlike a REIT where trustee and manager are separate. Business trusts can actively engage in any business area whereas REITs must invest only in real estate for rental income. Most business trusts are listed, and there is no gearing limit for business trusts but a 45% limit for REITs.
+**Rationale:** A business trust is a single responsible entity organisation with a trustee-manager, unlike a REIT where trustee and manager are separate. Business trusts can actively engage in any business area whereas REITs must invest only in real estate for rental income. Most business trusts are listed, and there is no gearing limit for business trusts but a 45% limit for REITs. The 90% mandatory distribution applies to REITs, not business trusts, so option (b) is reversed.
 
 </details>
 
@@ -12034,23 +12034,23 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 751. **[Multiple response]** [CM-EIP Appendix A] Which statements about value at risk are TRUE? (Select all that apply)
+### 751. **[Single choice]** [CM-EIP Appendix A] Which statement about value at risk is TRUE?
 
 - a. It is not applicable to bonds, shares and currencies
 - b. It measures and quantifies the minimum possible loss over a specific time within a confidence level
-- c. It can be calculated by Monte Carlo simulation or the historical method
+- c. It can only be calculated by the variance-covariance method
 - d. It can be used when determinants of future returns differ from those of past returns
 
 <details>
 <summary>Show answer</summary>
 
-**Answer:** B, C
+**Answer:** B. It measures and quantifies the minimum possible loss over a specific time within a confidence level
 
 **Rationale:** VaR quantifies the loss at a stated confidence level and can be computed historically or by Monte Carlo simulation. It applies to bonds, shares and currencies, and its historical form assumes past determinants persist.
 
 </details>
 
-### 752. **[Multiple response]** [CM-EIP Appendix A] Which of the following are forms of operational risk? (Select all that apply)
+### 752. **[Single choice]** [CM-EIP Appendix A] Which of the following is NOT a form of operational risk?
 
 - a. A flash crash caused by a massive erroneous sell order
 - b. Poor system infrastructure leading to technical disruptions
@@ -12060,7 +12060,7 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 <details>
 <summary>Show answer</summary>
 
-**Answer:** A, B, C
+**Answer:** D. Inability to access funding due to a credit downgrade
 
 **Rationale:** Execution errors, system failures and human error are operational risks. Inability to access funding due to a credit downgrade is funding liquidity risk, not operational risk.
 
@@ -12474,11 +12474,11 @@ The bank is generated from `scripts/lib/questions-cmeip.mjs` by `scripts/append-
 
 </details>
 
-### 778. **[Single choice]** [CM-EIP Exam method] Which pair of distinctions is described as deciding the most marks?
+### 778. **[Single choice]** [CM-EIP Exam method] Which statement about the distinctions described as deciding the most marks is correct?
 
-- a. Primary versus secondary market, and dealer versus broker
-- b. Duration versus convexity, and CML versus SML
-- c. REIT versus business trust, and company versus structured warrant
+- a. Only the primary versus secondary market, and dealer versus broker, distinctions decide marks
+- b. Only the duration versus convexity, and CML versus SML, distinctions decide marks
+- c. Only the REIT versus business trust, and company versus structured warrant, distinctions decide marks
 - d. All of the ten listed distinctions are high value
 
 <details>
