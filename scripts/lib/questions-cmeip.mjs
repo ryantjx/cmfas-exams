@@ -1860,7 +1860,7 @@ export const CMEIP = [
   {
     c: '7', t: 'Single choice', s: 'CM-EIP §7.1',
     q: 'Why was keeping excessive cash from 2008 to 2017 non-optimal?',
-    o: ['Because interest rates were high', 'Because cash was illegal to hold', 'Because of opportunity costs and loss of purchasing power', 'Because deposit insurance was withdrawn'],
+    o: ['Because interest rates were high', 'Because cash earned a higher return than equities over the period', 'Because of opportunity costs and loss of purchasing power', 'Because deposit insurance was withdrawn'],
     a: 'c',
     r: 'Cash is often classified as a non-volatile, safe asset class. However, for that reason, cash pays the lowest return. Keeping excessive cash from 2008 to 2017 could be non-optimal because of the opportunity costs and loss of purchasing power.',
   },
@@ -2140,7 +2140,7 @@ export const CMEIP = [
   {
     c: '7', t: 'Single choice', s: 'CM-EIP §7.11.3',
     q: 'Why might an Asian company choose not to be rated?',
-    o: ['Because it believes the main investors who would buy its bonds know its business and history', 'Because unrated bonds pay lower yields', 'Because ratings are illegal in Asia', 'Because rating agencies refuse to rate Asian companies'],
+    o: ['Because it believes the main investors who would buy its bonds know its business and history', 'Because unrated bonds pay lower yields', 'Because unrated bonds are exempt from disclosure requirements', 'Because rating agencies refuse to rate Asian companies'],
     a: 'a',
     r: 'Some companies in Asia have chosen not to be rated by rating agencies. They do not see a need for it because they believe the main investors who would buy their bonds know their business and history. An unrated company may not necessarily be of poor credit.',
   },
@@ -2357,7 +2357,7 @@ export const CMEIP = [
   {
     c: '7', t: 'Single choice', s: 'CM-EIP §7.20.2',
     q: 'Which theory argues that the yield curve should always be upward sloping?',
-    o: ['Liquidity preference theory', 'Market segmentation theory', 'Purchasing power parity', 'Expectations theory'],
+    o: ['Liquidity preference theory', 'Market segmentation theory', 'Preferred habitat theory', 'Expectations theory'],
     a: 'a',
     r: 'The theory of liquidity preference argues that the shape of the yield curve should always be upward sloping and that any other shape would be a temporary aberration, because investors require a higher return to hold long-term securities.',
   },
@@ -2371,7 +2371,7 @@ export const CMEIP = [
   {
     c: '7', t: 'Single choice', s: 'CM-EIP §7.20.2',
     q: 'Which theory holds that each maturity\'s yield is determined solely by supply and demand in that segment?',
-    o: ['Liquidity preference theory', 'Market segmentation theory', 'Quantity theory', 'Expectations theory'],
+    o: ['Liquidity preference theory', 'Market segmentation theory', 'Term premium theory', 'Expectations theory'],
     a: 'b',
     r: 'The market segmentation theory presumes that investors have their own maturity preferences, which are dictated by the nature of their liabilities. The yield for each maturity is determined solely by the supply and demand in each segment.',
   },
@@ -2450,7 +2450,7 @@ export const CMEIP = [
   {
     c: '8', t: 'Single choice', s: 'CM-EIP §8.2.3',
     q: 'Why is the strong form of the EMH not supported by the evidence?',
-    o: ['Because the history of insider trading suggests inside information does provide an advantage', 'Because technical analysis always works', 'Because prices never adjust', 'Because markets are perfectly efficient'],
+    o: ['Because the history of insider trading suggests inside information does provide an advantage', 'Because technical analysis always works', 'Because prices never adjust', 'Because insider trading is legal in most markets'],
     a: 'a',
     r: 'The evidence suggests real-world financial markets are not strong form efficient. The history of insider trading in the US and numerous high-profile cases continue to suggest that having inside information does provide an information advantage to generate abnormal gains.',
   },
@@ -2527,7 +2527,7 @@ export const CMEIP = [
   {
     c: '8', t: 'Single choice', s: 'CM-EIP §8.4.4',
     q: 'What happens to portfolio risk when two securities with a correlation of +1 are combined?',
-    o: ['Risk is eliminated', 'Risk is reduced but not eliminated', 'There is no reduction in portfolio risk; it is the weighted average of the individual risks', 'Risk becomes zero'],
+    o: ['Risk is eliminated', 'Risk is reduced but not eliminated', 'There is no reduction in portfolio risk; it is the weighted average of the individual risks', 'Risk falls to the level of the less risky security'],
     a: 'c',
     r: 'Combining securities that are perfectly positively correlated with each other provides no reduction in portfolio risk. The risk of the resulting portfolio is simply a weighted average of the individual risks of the securities.',
   },
@@ -2695,7 +2695,7 @@ export const CMEIP = [
   {
     c: '8', t: 'Single choice', s: 'CM-EIP §8.5.2',
     q: 'Why should objectives, constraints and strategy be stated in a written document?',
-    o: ['Because regulators require it', 'Because a well-drafted investment policy provides discipline, minimising whipsaw reactions to temporary price swings', 'Because it reduces fees', 'Because it guarantees returns'],
+    o: ['Because it removes the need to review the portfolio regularly', 'Because a well-drafted investment policy provides discipline, minimising whipsaw reactions to temporary price swings', 'Because it reduces fees', 'Because it guarantees returns'],
     a: 'b',
     r: 'A well-drafted investment policy provides the discipline required for efficient management of the portfolio, minimising whipsaw reactions to temporary price swings or even protracted volatility.',
   },
@@ -2970,7 +2970,7 @@ export const CMEIP = [
   {
     c: '9', t: 'Single choice', s: 'CM-EIP §9.2',
     q: 'What happens when an ETF\'s traded price is above its net asset value?',
-    o: ['An arbitrageur sells the ETF shares and buys the underlying portfolio of securities', 'An arbitrageur buys the ETF shares and sells the underlying portfolio', 'Nothing happens', 'The ETF is delisted'],
+    o: ['An arbitrageur sells the ETF shares and buys the underlying portfolio of securities', 'An arbitrageur buys the ETF shares and sells the underlying portfolio', 'The fund manager buys back ETF shares to close the gap', 'The ETF is delisted'],
     a: 'a',
     r: 'When the traded price of an ETF is higher than its NAV, an arbitrageur will sell the ETF shares and buy the underlying portfolio of securities. If the traded price falls below the NAV, the arbitrageur will sell the underlying portfolio and buy the ETF shares.',
   },
@@ -2998,7 +2998,7 @@ export const CMEIP = [
   {
     c: '9', t: 'Single choice', s: 'CM-EIP §9.2.3',
     q: 'What collateral might an ETF receive for lending out shares?',
-    o: ['Cash or other securities equivalent to about 105% of the stocks\' value', 'A guarantee from the exchange', 'A government bond at 50% of value', 'Nothing'],
+    o: ['Cash or other securities equivalent to about 105% of the stocks\' value', 'A guarantee from the exchange', 'A government bond at 50% of value', 'A personal guarantee from the borrower'],
     a: 'a',
     r: 'An ETF can transfer the stocks to another investor over the lending period in exchange for collateral such as cash or other securities equivalent to, for example, 105% of the stocks\' value. If the borrower cannot fulfil its obligations, the ETF faces a loss equal to the value of the lent stocks.',
   },
@@ -3082,7 +3082,7 @@ export const CMEIP = [
   {
     c: '9', t: 'Single choice', s: 'CM-EIP §9.3.4',
     q: 'Who holds a unit trust\'s cash, shares and other investment assets?',
-    o: ['The distributor', 'The custodian bank\'s shareholders', 'The fund manager', 'The trustee'],
+    o: ['The distributor', 'The fund\'s auditors', 'The fund manager', 'The trustee'],
     a: 'd',
     r: 'The managers neither hold the investments nor issue or redeem units. This is done by the trustee, who holds the trust\'s cash, shares and other investment assets.',
   },
@@ -3439,7 +3439,7 @@ export const CMEIP = [
   {
     c: '9', t: 'Single choice', s: 'CM-EIP §9.10.1',
     q: 'How is an immediate annuity purchased?',
-    o: ['With a lump sum, a single premium', 'With a combination of premiums and equity', 'It cannot be purchased directly', 'With periodic premiums only'],
+    o: ['With a lump sum, a single premium', 'With a lump sum plus regular top-up premiums', 'It cannot be purchased directly', 'With periodic premiums only'],
     a: 'a',
     r: 'An immediate annuity is a contract where payments to the annuitant begin as soon as it is purchased. An immediate annuity is always purchased with a lump-sum, a single premium.',
   },
@@ -3553,7 +3553,7 @@ export const CMEIP = [
   {
     c: '10', t: 'Single choice', s: 'CM-EIP §10.1.2',
     q: 'Which of the following is a difference between company warrants and structured warrants?',
-    o: ['Company warrants are call only; structured warrants can be calls or puts', 'Company warrants are cash-settled; structured warrants deliver shares', 'Company warrants have shorter maturities', 'Company warrants can be puts; structured warrants are calls only'],
+    o: ['Company warrants are call only; structured warrants can be calls or puts', 'Company warrants are issued by the stock exchange; structured warrants are issued by listed companies', 'Company warrants have shorter maturities', 'Company warrants can be puts; structured warrants are calls only'],
     a: 'a',
     r: 'Company-issued warrants are one direction only, that is call warrants. Structured warrants can be both call and put warrants. Company warrants are settled with delivery of shares; structured warrants are cash-settled.',
   },
@@ -3679,7 +3679,7 @@ export const CMEIP = [
   {
     c: '10', t: 'Single choice', s: 'CM-EIP §10.3',
     q: 'Why do higher interest rates increase a call warrant\'s price?',
-    o: ['Because of interest savings from the lower capital needed to buy warrants compared with an equivalent long stock position', 'Because volatility rises', 'Because dividends fall', 'Because the exercise price falls'],
+    o: ['Because of interest savings from the lower capital needed to buy warrants compared with an equivalent long stock position', 'Because volatility rises', 'Because dividends fall', 'Because higher interest rates increase the dividend yield on the underlying shares'],
     a: 'a',
     r: 'The higher the interest rate, the higher the call warrant price due to interest savings from the lower capital needed to buy warrants compared to an equivalent long stock position. For completeness, the higher the interest rate, the lower the put warrant price.',
   },
@@ -3716,7 +3716,7 @@ export const CMEIP = [
   {
     c: '11', t: 'Single choice', s: 'CM-EIP §11.1.2',
     q: 'Why do technical analysts believe prices exhibit trends that persist over long periods?',
-    o: ['Because markets are perfectly efficient', 'Because new information is priced by the market over a period of time rather than at one point, so prices adjust gradually', 'Because all investors have the same information', 'Because prices are random'],
+    o: ['Because chart patterns repeat exactly at fixed intervals', 'Because new information is priced by the market over a period of time rather than at one point, so prices adjust gradually', 'Because all investors have the same information', 'Because prices are random'],
     a: 'b',
     r: 'Technical analysts believe that new information affecting supply and demand is priced by the market over a period of time rather than at one point in time, given that there are different sources of information or because some investors have earlier access. As the speed of adjustment is gradual, prices are expected to exhibit trends that persist over long periods.',
   },
@@ -3751,7 +3751,7 @@ export const CMEIP = [
   {
     c: '11', t: 'Single choice', s: 'CM-EIP §11.2.2',
     q: 'What does it mean if the index is rising while the advance-decline line is falling?',
-    o: ['Volume is increasing', 'The market is technically strong', 'Most shares are not participating in the rising market, indicating a market peak', 'The market is oversold'],
+    o: ['Volume is increasing', 'The advance-decline line confirms the index rally, signalling broad participation', 'Most shares are not participating in the rising market, indicating a market peak', 'The market is oversold'],
     a: 'c',
     r: 'In a rising market, any divergence between the index and A/D line is of concern because it means that most shares are not participating in the rising market, indicating a market peak. Conversely, if the A/D line is rising and the index is declining, it signals a reversal of the falling trend.',
   },
@@ -3765,7 +3765,7 @@ export const CMEIP = [
   {
     c: '11', t: 'Single choice', s: 'CM-EIP §11.2.3',
     q: 'What signal is given when the MACD crosses and falls below the signal line?',
-    o: ['A bearish signal indicating it may be time to sell', 'A neutral signal', 'No signal', 'A bullish signal'],
+    o: ['A bearish signal indicating it may be time to sell', 'A neutral signal', 'A signal that momentum has turned positive', 'A bullish signal'],
     a: 'a',
     r: 'When the MACD crosses and falls below the signal line, it is a bearish signal that indicates that it may be time to sell. Conversely, when the MACD crosses and rises above the signal line, the indicator gives a bullish signal.',
   },
@@ -3779,7 +3779,7 @@ export const CMEIP = [
   {
     c: '11', t: 'Single choice', s: 'CM-EIP §11.2.5',
     q: 'What does it mean when prices move close to the upper Bollinger Band?',
-    o: ['Volatility has fallen to zero', 'The market is oversold', 'The market is more overbought and may be primed for a trend reversal or price correction', 'The market is fairly valued'],
+    o: ['Volatility has fallen to a very low level', 'The market is oversold', 'The market is more overbought and may be primed for a trend reversal or price correction', 'The market is primed for a strong upward breakout'],
     a: 'c',
     r: 'Many traders believe the closer the prices move to the upper band, the more overbought the market, and the closer the prices move to the lower band, the more oversold the market. An overbought or oversold market may be primed for a trend reversal or price correction.',
   },
@@ -3807,14 +3807,14 @@ export const CMEIP = [
   {
     c: '11', t: 'Single choice', s: 'CM-EIP §11.3',
     q: 'What is a breakout below a support level?',
-    o: ['A continuation of the uptrend', 'A bullish signal', 'A bearish signal indicating a reversal of the uptrend', 'A neutral signal'],
+    o: ['A continuation of the uptrend', 'A bullish signal', 'A bearish signal indicating a reversal of the uptrend', 'A signal that support has held and prices will rebound'],
     a: 'c',
     r: 'A breakout above the resistance level is a bullish signal, whereas a breakout below the support level is a bearish signal. A penetration below a support line would be a sell signal as it indicates a reversal of the uptrend.',
   },
   {
     c: '11', t: 'Single choice', s: 'CM-EIP §11.4',
     q: 'What does a price decline accompanied by heavy volume indicate?',
-    o: ['A neutral signal', 'A buying opportunity', 'A bullish signal', 'A very bearish signal reflecting a strong and widespread desire to sell'],
+    o: ['A sign that selling pressure is exhausted and a rebound is due', 'A buying opportunity', 'A bullish signal', 'A very bearish signal reflecting a strong and widespread desire to sell'],
     a: 'd',
     r: 'A price decline with heavy volume is very bearish because it reflects a strong and widespread desire to sell the security.',
   },
@@ -3870,7 +3870,7 @@ export const CMEIP = [
   {
     c: '11', t: 'Single choice', s: 'CM-EIP §11.5.3',
     q: 'What does an RSI reading above 70 indicate?',
-    o: ['A neutral market', 'A trend reversal has occurred', 'An oversold condition', 'An overbought condition'],
+    o: ['A strong uptrend that is likely to continue', 'A trend reversal has occurred', 'An oversold condition', 'An overbought condition'],
     a: 'd',
     r: 'The index ranges from zero to 100, and an RSI above 70 is considered overbought. Conversely, an RSI below 30 would signal an oversold condition.',
   },
@@ -3919,7 +3919,7 @@ export const CMEIP = [
   {
     c: '11', t: 'Single choice', s: 'CM-EIP §11.6.3',
     q: 'What is assumed during the formation of a consolidation rectangle?',
-    o: ['That the price will break upwards', 'That the trend will reverse', 'That the prevailing trend will continue until proven otherwise', 'That volume will fall to zero'],
+    o: ['That the price will break upwards', 'That the trend will reverse', 'That the prevailing trend will continue until proven otherwise', 'That volume will rise sharply while the rectangle forms'],
     a: 'c',
     r: 'During the formation of the rectangle, it is difficult to predict which way the price will ultimately break. Therefore, it is assumed that the prevailing trend will continue until proven otherwise.',
   },
@@ -3954,7 +3954,7 @@ export const CMEIP = [
   {
     c: '11', t: 'Single choice', s: 'CM-EIP §11.6.6',
     q: 'What does a rising wedge usually indicate?',
-    o: ['A market bottom', 'A neutral market', 'A continuation of an uptrend', 'A bear market rally, with prices usually falling very sharply after completion'],
+    o: ['A bullish continuation pattern', 'A neutral market', 'A continuation of an uptrend', 'A bear market rally, with prices usually falling very sharply after completion'],
     a: 'd',
     r: 'In a rising wedge, both boundary lines slant upwards. A rising wedge usually develops on a falling price trend. Following its completion, prices usually fall very sharply, especially if volume is high. Rising wedges are characteristic of bear market rallies.',
   },
@@ -4194,7 +4194,7 @@ export const CMEIP = [
   {
     c: '12', t: 'Calculation', s: 'CM-EIP §12.9',
     q: 'A warrant has a share price of $2.50, an exercise price of $1.50 and a conversion ratio of 1. What is its intrinsic value?',
-    o: ['$0', '$1', '$1.50', '$2.50'],
+    o: ['$0', '$1', '$0.75', '$2.50'],
     a: 'b',
     r: 'Since the warrant is in-the-money, intrinsic value = (2.50 − 1.50)/1 = $1.',
   },
@@ -4266,14 +4266,14 @@ export const CMEIP = [
   {
     c: 'appendix-A', t: 'Single choice', s: 'CM-EIP Appendix A',
     q: 'Which of the following is a leading indicator?',
-    o: ['The average prime rate charged by banks', 'Average duration of unemployment', 'The 10-year T-bond spread over the Fed Funds rate', 'Nonfarm payroll employment'],
+    o: ['The average prime rate charged by banks', 'Average duration of unemployment', 'The 10-year T-bond spread over the Fed Funds rate', 'The unemployment rate'],
     a: 'c',
-    r: 'The 10-year spread is one of the ten Composite Leading Economic Index components. Average duration of unemployment and the average prime rate are lagging indicators; nonfarm payrolls are coincident.',
+    r: 'The 10-year spread is one of the ten Composite Leading Economic Index components. Average duration of unemployment, the average prime rate and the unemployment rate are lagging indicators.',
   },
   {
     c: 'appendix-A', t: 'Single choice', s: 'CM-EIP Appendix A',
     q: 'Spot USD/SGD is 1.2520 and the 30-day forward points are −10. What is the 30-day forward rate?',
-    o: ['1.2530', '1.2520', '1.2500', '1.2510'],
+    o: ['1.2530', '1.2520', '1.2490', '1.2510'],
     a: 'd',
     r: 'Negative forward points are subtracted: 1.2520 − 0.0010 = 1.2510, a forward discount.',
   },
