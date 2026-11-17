@@ -376,10 +376,12 @@ PDFs open in the browser; use your browser's download button to save a copy.
   // under "Study guide" in the sidebar.
   sidebarExams.push({
     label: exam.name,
+    collapsed: true,
     items: [
       { label: 'Overview', link: `/${exam.id}/overview/` },
       {
         label: 'Study guide',
+        collapsed: true,
         items: [
           // Labelled "Guide contents" rather than "Introduction" because FMRP's
           // chapter 1 is itself titled Introduction.
@@ -454,10 +456,15 @@ const sidebar = [
   { label: 'Study plan', link: '/study-plan/' },
   {
     label: 'Practice',
+    // Collapsed by default: Starlight still auto-expands the group holding the
+    // current page, so on the landing page every group stays shut and on a
+    // practice page only that exam's group opens.
+    collapsed: true,
     items: [
       { label: 'Start practising', link: '/practice/' },
       ...practiceExams.map((entry) => ({
         label: entry.name,
+        collapsed: true,
         items: [
           { label: 'Chapter quiz', link: `/practice/${entry.id}/?type=chapter` },
           { label: 'Random quiz', link: `/practice/${entry.id}/?type=random` },
